@@ -1,0 +1,66 @@
+name: Daily Solutions Update
+
+on:
+  schedule:
+    # Run every night at 00:01 UTC
+    - cron: '1 0 * * *'
+  workflow_dispatch: # Allow manual triggering
+
+jobs:
+  update-solutions:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          # Use a token that can push to protected branches if needed
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Install dependencies
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y jq curl
+
+      - name: Make add.sh executable
+        run: chmod +x add.sh
+
+      - name: Run add.sh script
+        run: ./add.sh
+
+      - name: Check for changes
+        id: check_changes
+        run: |
+          if git diff --quiet solutions.json; then
+            echo "changes=false" >> $GITHUB_OUTPUT
+            echo "No changes detected in solutions.json"
+          else
+            echo "changes=true" >> $GITHUB_OUTPUT
+            echo "Changes detected in solutions.json"
+          fi
+
+      - name: Configure Git
+        if: steps.check_changes.outputs.changes == 'true'
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+
+      - name: Commit and push changes
+        if: steps.check_changes.outputs.changes == 'true'
+        run: |
+          git add solutions.json
+          git commit -m "chore: update solutions.json with daily NYT Connections data $(date +%Y-%m-%d)"
+          git push
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Create summary
+        run: |
+          if [ "${{ steps.check_changes.outputs.changes }}" == "true" ]; then
+            echo "✅ Successfully updated solutions.json with new data" >> $GITHUB_STEP_SUMMARY
+          else
+            echo "ℹ️ No new data to update in solutions.json" >> $GITHUB_STEP_SUMMARY
+          fi
+          echo "🕐 Workflow completed at $(date)" >> $GITHUB_STEP_SUMMARY
