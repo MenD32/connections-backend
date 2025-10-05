@@ -28,7 +28,22 @@ jobs:
         run: chmod +x add.sh
 
       - name: Run add.sh script
-        run: ./add.sh
+        run: |
+          # Get today's date and date one month from now
+          TODAY=$(date +%Y-%m-%d)
+          ONE_MONTH_LATER=$(date -d "+30 days" +%Y-%m-%d)
+          
+          # Start from today
+          CURRENT_DATE=$TODAY
+          
+          # Loop through each day
+          while [[ "$CURRENT_DATE" <= "$ONE_MONTH_LATER" ]]; do
+            echo "Running script for date: $CURRENT_DATE"
+            ./add.sh "$CURRENT_DATE"
+            
+            # Move to next day
+            CURRENT_DATE=$(date -d "$CURRENT_DATE + 1 day" +%Y-%m-%d)
+          done
 
       - name: Check for changes
         id: check_changes
