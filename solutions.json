@@ -77905,5 +77905,2526 @@
         ]
       }
     ]
+  },
+  "2025-10-06": {
+    "status": "OK",
+    "id": 891,
+    "print_date": "2025-10-06",
+    "editor": "Wyna Liu",
+    "categories": [
+      {
+        "title": "PARTS OF A RECORD PLAYER SETUP",
+        "cards": [
+          {
+            "content": "AMP",
+            "position": 15
+          },
+          {
+            "content": "PREAMP",
+            "position": 9
+          },
+          {
+            "content": "SPEAKER",
+            "position": 12
+          },
+          {
+            "content": "TURNTABLE",
+            "position": 4
+          }
+        ]
+      },
+      {
+        "title": "KINDS OF COATS",
+        "cards": [
+          {
+            "content": "CAMEL",
+            "position": 6
+          },
+          {
+            "content": "DUFFLE",
+            "position": 11
+          },
+          {
+            "content": "PEA",
+            "position": 3
+          },
+          {
+            "content": "TRENCH",
+            "position": 5
+          }
+        ]
+      },
+      {
+        "title": "THINGS THAT COME ON SPOOLS",
+        "cards": [
+          {
+            "content": "FILM",
+            "position": 0
+          },
+          {
+            "content": "TAPE",
+            "position": 10
+          },
+          {
+            "content": "THREAD",
+            "position": 2
+          },
+          {
+            "content": "WIRE",
+            "position": 13
+          }
+        ]
+      },
+      {
+        "title": "STARTING WITH HOMOPHONES OF GREETINGS",
+        "cards": [
+          {
+            "content": "HAIKU",
+            "position": 7
+          },
+          {
+            "content": "HAYSTACK",
+            "position": 1
+          },
+          {
+            "content": "HELONIUM",
+            "position": 14
+          },
+          {
+            "content": "YEOMAN",
+            "position": 8
+          }
+        ]
+      }
+    ]
+  },
+  "2025-10-07": {
+    "status": "OK",
+    "id": 890,
+    "print_date": "2025-10-07",
+    "editor": "Wyna Liu",
+    "categories": [
+      {
+        "title": "GOSSIP",
+        "cards": [
+          {
+            "content": "BUZZ",
+            "position": 0
+          },
+          {
+            "content": "DIRT",
+            "position": 8
+          },
+          {
+            "content": "DISH",
+            "position": 14
+          },
+          {
+            "content": "TALK",
+            "position": 5
+          }
+        ]
+      },
+      {
+        "title": "SEEN AT A WEDDING",
+        "cards": [
+          {
+            "content": "ALTAR",
+            "position": 15
+          },
+          {
+            "content": "BOUQUET",
+            "position": 12
+          },
+          {
+            "content": "CAKE",
+            "position": 7
+          },
+          {
+            "content": "RING",
+            "position": 4
+          }
+        ]
+      },
+      {
+        "title": "TEAM",
+        "cards": [
+          {
+            "content": "BUNCH",
+            "position": 13
+          },
+          {
+            "content": "CREW",
+            "position": 1
+          },
+          {
+            "content": "GROUP",
+            "position": 9
+          },
+          {
+            "content": "PACK",
+            "position": 3
+          }
+        ]
+      },
+      {
+        "title": "MUSICALS PLUS STARTING LETTER",
+        "cards": [
+          {
+            "content": "BRENT",
+            "position": 10
+          },
+          {
+            "content": "CHAIR",
+            "position": 6
+          },
+          {
+            "content": "FANNIE",
+            "position": 2
+          },
+          {
+            "content": "SCATS",
+            "position": 11
+          }
+        ]
+      }
+    ]
+  },
+  "2025-10-08": {
+    "status": "OK",
+    "id": 888,
+    "print_date": "2025-10-08",
+    "editor": "Wyna Liu",
+    "categories": [
+      {
+        "title": "FINEST",
+        "cards": [
+          {
+            "content": "BEST",
+            "position": 4
+          },
+          {
+            "content": "CREAM",
+            "position": 0
+          },
+          {
+            "content": "ELITE",
+            "position": 13
+          },
+          {
+            "content": "SELECT",
+            "position": 10
+          }
+        ]
+      },
+      {
+        "title": "ROCK MUSIC SUBGENRES",
+        "cards": [
+          {
+            "content": "ALTERNATIVE",
+            "position": 1
+          },
+          {
+            "content": "ARENA",
+            "position": 11
+          },
+          {
+            "content": "CLASSIC",
+            "position": 12
+          },
+          {
+            "content": "GARAGE",
+            "position": 7
+          }
+        ]
+      },
+      {
+        "title": "PAINT FINISHES",
+        "cards": [
+          {
+            "content": "EGGSHELL",
+            "position": 5
+          },
+          {
+            "content": "GLOSS",
+            "position": 9
+          },
+          {
+            "content": "MATTE",
+            "position": 15
+          },
+          {
+            "content": "PEARL",
+            "position": 2
+          }
+        ]
+      },
+      {
+        "title": "KINDS OF BEDS",
+        "cards": [
+          {
+            "content": "FLOWER",
+            "position": 14
+          },
+          {
+            "content": "NAIL",
+            "position": 8
+          },
+          {
+            "content": "OYSTER",
+            "position": 6
+          },
+          {
+            "content": "RIVER",
+            "position": 3
+          }
+        ]
+      }
+    ]
+  },
+  "2025-10-09": {
+    "status": "OK",
+    "id": 889,
+    "print_date": "2025-10-09",
+    "editor": "Wyna Liu",
+    "categories": [
+      {
+        "title": "FANTASY",
+        "cards": [
+          {
+            "content": "INVENTION",
+            "position": 15
+          },
+          {
+            "content": "FANCY",
+            "position": 4
+          },
+          {
+            "content": "FICTION",
+            "position": 8
+          },
+          {
+            "content": "FIGMENT",
+            "position": 3
+          }
+        ]
+      },
+      {
+        "title": "KINDS OF ROCKS",
+        "cards": [
+          {
+            "content": "FLINT",
+            "position": 10
+          },
+          {
+            "content": "LIMESTONE",
+            "position": 0
+          },
+          {
+            "content": "MARBLE",
+            "position": 12
+          },
+          {
+            "content": "SLATE",
+            "position": 7
+          }
+        ]
+      },
+      {
+        "title": "NEWS ARTICLE FEATURES",
+        "cards": [
+          {
+            "content": "CAPTION",
+            "position": 11
+          },
+          {
+            "content": "DATELINE",
+            "position": 5
+          },
+          {
+            "content": "LEDE",
+            "position": 13
+          },
+          {
+            "content": "PHOTO",
+            "position": 2
+          }
+        ]
+      },
+      {
+        "title": "TITLE FIGURES IN CLASSIC VIDEO GAMES",
+        "cards": [
+          {
+            "content": "GORILLA",
+            "position": 1
+          },
+          {
+            "content": "HEDGEHOG",
+            "position": 14
+          },
+          {
+            "content": "PLUMBER",
+            "position": 6
+          },
+          {
+            "content": "PRINCESS",
+            "position": 9
+          }
+        ]
+      }
+    ]
+  },
+  "2025-10-10": {
+    "status": "OK",
+    "id": 892,
+    "print_date": "2025-10-10",
+    "editor": "Wyna Liu",
+    "categories": [
+      {
+        "title": "SIGNIFICANT",
+        "cards": [
+          {
+            "content": "BIG",
+            "position": 4
+          },
+          {
+            "content": "IMPORTANT",
+            "position": 14
+          },
+          {
+            "content": "MAJOR",
+            "position": 11
+          },
+          {
+            "content": "SERIOUS",
+            "position": 6
+          }
+        ]
+      },
+      {
+        "title": "ONE IN A SEPTET",
+        "cards": [
+          {
+            "content": "CONTINENT",
+            "position": 13
+          },
+          {
+            "content": "DEADLY SIN",
+            "position": 15
+          },
+          {
+            "content": "SISTER",
+            "position": 1
+          },
+          {
+            "content": "WONDER",
+            "position": 7
+          }
+        ]
+      },
+      {
+        "title": "TAROT CARDS, WITH \"THE\"",
+        "cards": [
+          {
+            "content": "DEVIL",
+            "position": 9
+          },
+          {
+            "content": "LOVERS",
+            "position": 2
+          },
+          {
+            "content": "MAGICIAN",
+            "position": 12
+          },
+          {
+            "content": "STAR",
+            "position": 5
+          }
+        ]
+      },
+      {
+        "title": "___ EYE",
+        "cards": [
+          {
+            "content": "EVIL",
+            "position": 10
+          },
+          {
+            "content": "MAGIC",
+            "position": 3
+          },
+          {
+            "content": "NAKED",
+            "position": 8
+          },
+          {
+            "content": "THIRD",
+            "position": 0
+          }
+        ]
+      }
+    ]
+  },
+  "2025-10-11": {
+    "status": "OK",
+    "id": 899,
+    "print_date": "2025-10-11",
+    "editor": "Wyna Liu",
+    "categories": [
+      {
+        "title": "EQUIPMENT",
+        "cards": [
+          {
+            "content": "GEAR",
+            "position": 11
+          },
+          {
+            "content": "KIT",
+            "position": 6
+          },
+          {
+            "content": "STUFF",
+            "position": 15
+          },
+          {
+            "content": "TACKLE",
+            "position": 2
+          }
+        ]
+      },
+      {
+        "title": "DRESS IN",
+        "cards": [
+          {
+            "content": "DON",
+            "position": 8
+          },
+          {
+            "content": "PUT ON",
+            "position": 14
+          },
+          {
+            "content": "SPORT",
+            "position": 1
+          },
+          {
+            "content": "WEAR",
+            "position": 10
+          }
+        ]
+      },
+      {
+        "title": "STREET SUFFIXES",
+        "cards": [
+          {
+            "content": "ALLEY",
+            "position": 0
+          },
+          {
+            "content": "COURT",
+            "position": 5
+          },
+          {
+            "content": "LANE",
+            "position": 3
+          },
+          {
+            "content": "WAY",
+            "position": 13
+          }
+        ]
+      },
+      {
+        "title": "NICKNAMES THAT HAVE OTHER MEANINGS",
+        "cards": [
+          {
+            "content": "BILL",
+            "position": 9
+          },
+          {
+            "content": "BOB",
+            "position": 7
+          },
+          {
+            "content": "PAT",
+            "position": 12
+          },
+          {
+            "content": "TOM",
+            "position": 4
+          }
+        ]
+      }
+    ]
+  },
+  "2025-10-12": {
+    "status": "OK",
+    "id": 894,
+    "print_date": "2025-10-12",
+    "editor": "Wyna Liu",
+    "categories": [
+      {
+        "title": "FOR ALL TIME",
+        "cards": [
+          {
+            "content": "ETERNAL",
+            "position": 15
+          },
+          {
+            "content": "EVERLASTING",
+            "position": 12
+          },
+          {
+            "content": "FOREVER",
+            "position": 4
+          },
+          {
+            "content": "PERMANENT",
+            "position": 10
+          }
+        ]
+      },
+      {
+        "title": "ESTABLISHES",
+        "cards": [
+          {
+            "content": "BEGINS",
+            "position": 0
+          },
+          {
+            "content": "INSTITUTES",
+            "position": 11
+          },
+          {
+            "content": "LAUNCHES",
+            "position": 14
+          },
+          {
+            "content": "PIONEERS",
+            "position": 9
+          }
+        ]
+      },
+      {
+        "title": "BIRDS",
+        "cards": [
+          {
+            "content": "KITE",
+            "position": 13
+          },
+          {
+            "content": "ROBIN",
+            "position": 6
+          },
+          {
+            "content": "SWALLOW",
+            "position": 8
+          },
+          {
+            "content": "SWIFT",
+            "position": 1
+          }
+        ]
+      },
+      {
+        "title": "HAPPY ___",
+        "cards": [
+          {
+            "content": "DAYS",
+            "position": 2
+          },
+          {
+            "content": "ENDING",
+            "position": 5
+          },
+          {
+            "content": "RETURNS",
+            "position": 3
+          },
+          {
+            "content": "TRAILS",
+            "position": 7
+          }
+        ]
+      }
+    ]
+  },
+  "2025-10-13": {
+    "status": "OK",
+    "id": 884,
+    "print_date": "2025-10-13",
+    "editor": "Wyna Liu",
+    "categories": [
+      {
+        "title": "METAPHORS FOR POTENTIALLY VOLATILE SITUATIONS",
+        "cards": [
+          {
+            "content": "CAN OF WORMS",
+            "position": 13
+          },
+          {
+            "content": "HORNET’S NEST",
+            "position": 6
+          },
+          {
+            "content": "MINEFIELD",
+            "position": 11
+          },
+          {
+            "content": "PANDORA’S BOX",
+            "position": 0
+          }
+        ]
+      },
+      {
+        "title": "BAR EVENTS",
+        "cards": [
+          {
+            "content": "HAPPY HOUR",
+            "position": 5
+          },
+          {
+            "content": "KARAOKE",
+            "position": 8
+          },
+          {
+            "content": "LIVE MUSIC",
+            "position": 2
+          },
+          {
+            "content": "TRIVIA NIGHT",
+            "position": 14
+          }
+        ]
+      },
+      {
+        "title": "WORDS AFTER A WELCOME DEPARTURE",
+        "cards": [
+          {
+            "content": "ABOUT TIME",
+            "position": 15
+          },
+          {
+            "content": "FINALLY",
+            "position": 12
+          },
+          {
+            "content": "GOOD RIDDANCE",
+            "position": 4
+          },
+          {
+            "content": "SAYONARA",
+            "position": 10
+          }
+        ]
+      },
+      {
+        "title": "ENDING WITH SYNONYMS FOR \"SWINDLE\"",
+        "cards": [
+          {
+            "content": "AMERICAN HUSTLE",
+            "position": 9
+          },
+          {
+            "content": "COMIC CON",
+            "position": 7
+          },
+          {
+            "content": "GOLDEN FLEECE",
+            "position": 3
+          },
+          {
+            "content": "LUCKY STIFF",
+            "position": 1
+          }
+        ]
+      }
+    ]
+  },
+  "2025-10-14": {
+    "status": "OK",
+    "id": 902,
+    "print_date": "2025-10-14",
+    "editor": "Wyna Liu",
+    "categories": [
+      {
+        "title": "CAPTIVATE",
+        "cards": [
+          {
+            "content": "ABSORB",
+            "position": 2
+          },
+          {
+            "content": "ENGAGE",
+            "position": 12
+          },
+          {
+            "content": "HOLD",
+            "position": 9
+          },
+          {
+            "content": "OCCUPY",
+            "position": 15
+          }
+        ]
+      },
+      {
+        "title": "SUMMARY",
+        "cards": [
+          {
+            "content": "BRIEF",
+            "position": 8
+          },
+          {
+            "content": "DIGEST",
+            "position": 3
+          },
+          {
+            "content": "OUTLINE",
+            "position": 14
+          },
+          {
+            "content": "REVIEW",
+            "position": 5
+          }
+        ]
+      },
+      {
+        "title": "HALT",
+        "cards": [
+          {
+            "content": "CHECK",
+            "position": 6
+          },
+          {
+            "content": "CURB",
+            "position": 13
+          },
+          {
+            "content": "STAUNCH",
+            "position": 10
+          },
+          {
+            "content": "STEM",
+            "position": 0
+          }
+        ]
+      },
+      {
+        "title": "ANIMALS MINUS STARTING LETTER",
+        "cards": [
+          {
+            "content": "ANTHER",
+            "position": 4
+          },
+          {
+            "content": "EASEL",
+            "position": 1
+          },
+          {
+            "content": "HARK",
+            "position": 7
+          },
+          {
+            "content": "LAMA",
+            "position": 11
+          }
+        ]
+      }
+    ]
+  },
+  "2025-10-15": {
+    "status": "OK",
+    "id": 898,
+    "print_date": "2025-10-15",
+    "editor": "Wyna Liu",
+    "categories": [
+      {
+        "title": "TYPES OF POOLS",
+        "cards": [
+          {
+            "content": "INFINITY",
+            "position": 12
+          },
+          {
+            "content": "KIDDIE",
+            "position": 6
+          },
+          {
+            "content": "KIDNEY",
+            "position": 0
+          },
+          {
+            "content": "OLYMPIC",
+            "position": 9
+          }
+        ]
+      },
+      {
+        "title": "IN THE NATO PHONETIC ALPHABET",
+        "cards": [
+          {
+            "content": "BRAVO",
+            "position": 13
+          },
+          {
+            "content": "DELTA",
+            "position": 15
+          },
+          {
+            "content": "GOLF",
+            "position": 1
+          },
+          {
+            "content": "LIMA",
+            "position": 7
+          }
+        ]
+      },
+      {
+        "title": "FORD MODELS",
+        "cards": [
+          {
+            "content": "BRONCO",
+            "position": 3
+          },
+          {
+            "content": "FIESTA",
+            "position": 11
+          },
+          {
+            "content": "MUSTANG",
+            "position": 14
+          },
+          {
+            "content": "PINTO",
+            "position": 4
+          }
+        ]
+      },
+      {
+        "title": "___ SEAL",
+        "cards": [
+          {
+            "content": "ELEPHANT",
+            "position": 10
+          },
+          {
+            "content": "GREAT",
+            "position": 2
+          },
+          {
+            "content": "NAVY",
+            "position": 8
+          },
+          {
+            "content": "VACUUM",
+            "position": 5
+          }
+        ]
+      }
+    ]
+  },
+  "2025-10-16": {
+    "status": "OK",
+    "id": 896,
+    "print_date": "2025-10-16",
+    "editor": "Wyna Liu",
+    "categories": [
+      {
+        "title": "FRUIT DESSERTS",
+        "cards": [
+          {
+            "content": "COBBLER",
+            "position": 15
+          },
+          {
+            "content": "CRISP",
+            "position": 10
+          },
+          {
+            "content": "CRUMBLE",
+            "position": 5
+          },
+          {
+            "content": "TART",
+            "position": 0
+          }
+        ]
+      },
+      {
+        "title": "CRABBY",
+        "cards": [
+          {
+            "content": "CROSS",
+            "position": 9
+          },
+          {
+            "content": "PRICKLY",
+            "position": 14
+          },
+          {
+            "content": "SORE",
+            "position": 12
+          },
+          {
+            "content": "SOUR",
+            "position": 2
+          }
+        ]
+      },
+      {
+        "title": "FISH",
+        "cards": [
+          {
+            "content": "CHAR",
+            "position": 11
+          },
+          {
+            "content": "FLUKE",
+            "position": 13
+          },
+          {
+            "content": "PIKE",
+            "position": 1
+          },
+          {
+            "content": "SKATE",
+            "position": 7
+          }
+        ]
+      },
+      {
+        "title": "BANANA ___",
+        "cards": [
+          {
+            "content": "BOAT",
+            "position": 6
+          },
+          {
+            "content": "BREAD",
+            "position": 3
+          },
+          {
+            "content": "SLUG",
+            "position": 8
+          },
+          {
+            "content": "SPLIT",
+            "position": 4
+          }
+        ]
+      }
+    ]
+  },
+  "2025-10-17": {
+    "status": "OK",
+    "id": 897,
+    "print_date": "2025-10-17",
+    "editor": "Wyna Liu",
+    "categories": [
+      {
+        "title": "USED DURING A PRESENTATION",
+        "cards": [
+          {
+            "content": "CLICKER",
+            "position": 2
+          },
+          {
+            "content": "LASER POINTER",
+            "position": 7
+          },
+          {
+            "content": "PROJECTOR",
+            "position": 14
+          },
+          {
+            "content": "SLIDES",
+            "position": 12
+          }
+        ]
+      },
+      {
+        "title": "ITEMS IN A SOUVENIR SHOP",
+        "cards": [
+          {
+            "content": "FIGURINE",
+            "position": 11
+          },
+          {
+            "content": "KEY RING",
+            "position": 8
+          },
+          {
+            "content": "MAGNET",
+            "position": 1
+          },
+          {
+            "content": "POSTCARD",
+            "position": 4
+          }
+        ]
+      },
+      {
+        "title": "FOLKTALE CHARACTERS",
+        "cards": [
+          {
+            "content": "CHICKEN LITTLE",
+            "position": 9
+          },
+          {
+            "content": "JACK",
+            "position": 3
+          },
+          {
+            "content": "THUMBELINA",
+            "position": 10
+          },
+          {
+            "content": "TOM THUMB",
+            "position": 0
+          }
+        ]
+      },
+      {
+        "title": "WEATHER TERMS",
+        "cards": [
+          {
+            "content": "BEAUFORT SCALE",
+            "position": 13
+          },
+          {
+            "content": "DEWPOINT",
+            "position": 15
+          },
+          {
+            "content": "HEAT INDEX",
+            "position": 5
+          },
+          {
+            "content": "WIND CHILL",
+            "position": 6
+          }
+        ]
+      }
+    ]
+  },
+  "2025-10-18": {
+    "status": "OK",
+    "id": 901,
+    "print_date": "2025-10-18",
+    "editor": "Wyna Liu",
+    "categories": [
+      {
+        "title": "GLIDE",
+        "cards": [
+          {
+            "content": "BREEZE",
+            "position": 11
+          },
+          {
+            "content": "COAST",
+            "position": 9
+          },
+          {
+            "content": "FLOAT",
+            "position": 14
+          },
+          {
+            "content": "SKATE",
+            "position": 3
+          }
+        ]
+      },
+      {
+        "title": "WORDS BEFORE \"BALL\" IN SPORTS",
+        "cards": [
+          {
+            "content": "DODGE",
+            "position": 8
+          },
+          {
+            "content": "HAND",
+            "position": 0
+          },
+          {
+            "content": "PICKLE",
+            "position": 6
+          },
+          {
+            "content": "RACQUET",
+            "position": 13
+          }
+        ]
+      },
+      {
+        "title": "PROLIFIC ACTORS",
+        "cards": [
+          {
+            "content": "BACON",
+            "position": 4
+          },
+          {
+            "content": "CAGE",
+            "position": 7
+          },
+          {
+            "content": "CRUISE",
+            "position": 12
+          },
+          {
+            "content": "FORD",
+            "position": 10
+          }
+        ]
+      },
+      {
+        "title": "HOMOPHONES OF SYNONYMS FOR \"VEND\"",
+        "cards": [
+          {
+            "content": "CELL",
+            "position": 5
+          },
+          {
+            "content": "HOCK",
+            "position": 1
+          },
+          {
+            "content": "PEDAL",
+            "position": 2
+          },
+          {
+            "content": "TRAYED",
+            "position": 15
+          }
+        ]
+      }
+    ]
+  },
+  "2025-10-19": {
+    "status": "OK",
+    "id": 900,
+    "print_date": "2025-10-19",
+    "editor": "Wyna Liu",
+    "categories": [
+      {
+        "title": "TOPPLE",
+        "cards": [
+          {
+            "content": "FALL",
+            "position": 1
+          },
+          {
+            "content": "SPILL",
+            "position": 7
+          },
+          {
+            "content": "TUMBLE",
+            "position": 10
+          },
+          {
+            "content": "WIPEOUT",
+            "position": 15
+          }
+        ]
+      },
+      {
+        "title": "PARTS OF A BOOK",
+        "cards": [
+          {
+            "content": "COVER",
+            "position": 3
+          },
+          {
+            "content": "JACKET",
+            "position": 9
+          },
+          {
+            "content": "LEAVES",
+            "position": 2
+          },
+          {
+            "content": "SPINE",
+            "position": 12
+          }
+        ]
+      },
+      {
+        "title": "LOSE IT, WITH \"OUT\"",
+        "cards": [
+          {
+            "content": "BUG",
+            "position": 4
+          },
+          {
+            "content": "FLIP",
+            "position": 11
+          },
+          {
+            "content": "FREAK",
+            "position": 14
+          },
+          {
+            "content": "WIG",
+            "position": 6
+          }
+        ]
+      },
+      {
+        "title": "CHOCOLATE BARS PLUS A LETTER",
+        "cards": [
+          {
+            "content": "CRUNCHY",
+            "position": 0
+          },
+          {
+            "content": "DOVER",
+            "position": 13
+          },
+          {
+            "content": "MARSH",
+            "position": 5
+          },
+          {
+            "content": "SKORT",
+            "position": 8
+          }
+        ]
+      }
+    ]
+  },
+  "2025-10-20": {
+    "status": "OK",
+    "id": 909,
+    "print_date": "2025-10-20",
+    "editor": "Wyna Liu",
+    "categories": [
+      {
+        "title": "AFFLICTION",
+        "cards": [
+          {
+            "content": "BUGBEAR",
+            "position": 10
+          },
+          {
+            "content": "COMPLEX",
+            "position": 4
+          },
+          {
+            "content": "DEMON",
+            "position": 2
+          },
+          {
+            "content": "HANG-UP",
+            "position": 13
+          }
+        ]
+      },
+      {
+        "title": "REPRESENTED BY CONSTELLATIONS",
+        "cards": [
+          {
+            "content": "BIG BEAR",
+            "position": 9
+          },
+          {
+            "content": "CENTAUR",
+            "position": 7
+          },
+          {
+            "content": "HUNTER",
+            "position": 3
+          },
+          {
+            "content": "LYRE",
+            "position": 14
+          }
+        ]
+      },
+      {
+        "title": "PERIODIC TABLE SYMBOLS",
+        "cards": [
+          {
+            "content": "AS",
+            "position": 5
+          },
+          {
+            "content": "BE",
+            "position": 8
+          },
+          {
+            "content": "I",
+            "position": 12
+          },
+          {
+            "content": "K",
+            "position": 0
+          }
+        ]
+      },
+      {
+        "title": "___CORN",
+        "cards": [
+          {
+            "content": "A",
+            "position": 6
+          },
+          {
+            "content": "CAPRI",
+            "position": 15
+          },
+          {
+            "content": "POP",
+            "position": 1
+          },
+          {
+            "content": "UNI",
+            "position": 11
+          }
+        ]
+      }
+    ]
+  },
+  "2025-10-21": {
+    "status": "OK",
+    "id": 903,
+    "print_date": "2025-10-21",
+    "editor": "Wyna Liu",
+    "categories": [
+      {
+        "title": "PLAYING CARDS",
+        "cards": [
+          {
+            "content": "ACES",
+            "position": 13
+          },
+          {
+            "content": "JACKS",
+            "position": 11
+          },
+          {
+            "content": "KINGS",
+            "position": 10
+          },
+          {
+            "content": "QUEENS",
+            "position": 4
+          }
+        ]
+      },
+      {
+        "title": "TAKES ON",
+        "cards": [
+          {
+            "content": "ADDRESSES",
+            "position": 6
+          },
+          {
+            "content": "DOES",
+            "position": 1
+          },
+          {
+            "content": "HANDLES",
+            "position": 9
+          },
+          {
+            "content": "TACKLES",
+            "position": 14
+          }
+        ]
+      },
+      {
+        "title": "N.B.A. TEAMS",
+        "cards": [
+          {
+            "content": "BUCKS",
+            "position": 0
+          },
+          {
+            "content": "BULLS",
+            "position": 2
+          },
+          {
+            "content": "HORNETS",
+            "position": 5
+          },
+          {
+            "content": "SPURS",
+            "position": 12
+          }
+        ]
+      },
+      {
+        "title": "THINGS YOU CAN CONTROL WITH REMOTES",
+        "cards": [
+          {
+            "content": "DRONES",
+            "position": 3
+          },
+          {
+            "content": "GARAGE DOORS",
+            "position": 8
+          },
+          {
+            "content": "TELEVISIONS",
+            "position": 7
+          },
+          {
+            "content": "WIIS",
+            "position": 15
+          }
+        ]
+      }
+    ]
+  },
+  "2025-10-22": {
+    "status": "OK",
+    "id": 907,
+    "print_date": "2025-10-22",
+    "editor": "Wyna Liu",
+    "categories": [
+      {
+        "title": "UTILITIES",
+        "cards": [
+          {
+            "content": "ELECTRIC",
+            "position": 10
+          },
+          {
+            "content": "GAS",
+            "position": 8
+          },
+          {
+            "content": "TELEPHONE",
+            "position": 12
+          },
+          {
+            "content": "WATER",
+            "position": 7
+          }
+        ]
+      },
+      {
+        "title": "ADAPT TO FIT ONE'S NEEDS",
+        "cards": [
+          {
+            "content": "FASHION",
+            "position": 0
+          },
+          {
+            "content": "MOLD",
+            "position": 11
+          },
+          {
+            "content": "SHAPE",
+            "position": 3
+          },
+          {
+            "content": "TAILOR",
+            "position": 5
+          }
+        ]
+      },
+      {
+        "title": "KINDS OF ANTS",
+        "cards": [
+          {
+            "content": "ARMY",
+            "position": 15
+          },
+          {
+            "content": "CARPENTER",
+            "position": 9
+          },
+          {
+            "content": "FIRE",
+            "position": 6
+          },
+          {
+            "content": "PHARAOH",
+            "position": 4
+          }
+        ]
+      },
+      {
+        "title": "COPY___",
+        "cards": [
+          {
+            "content": "CAT",
+            "position": 13
+          },
+          {
+            "content": "PASTA",
+            "position": 2
+          },
+          {
+            "content": "RIGHT",
+            "position": 14
+          },
+          {
+            "content": "WRITER",
+            "position": 1
+          }
+        ]
+      }
+    ]
+  },
+  "2025-10-23": {
+    "status": "OK",
+    "id": 908,
+    "print_date": "2025-10-23",
+    "editor": "Wyna Liu",
+    "categories": [
+      {
+        "title": "PEACHY",
+        "cards": [
+          {
+            "content": "DANDY",
+            "position": 15
+          },
+          {
+            "content": "DUCKY",
+            "position": 7
+          },
+          {
+            "content": "FINE",
+            "position": 1
+          },
+          {
+            "content": "SWELL",
+            "position": 10
+          }
+        ]
+      },
+      {
+        "title": "WINNINGS",
+        "cards": [
+          {
+            "content": "KITTY",
+            "position": 5
+          },
+          {
+            "content": "POT",
+            "position": 13
+          },
+          {
+            "content": "PRIZE",
+            "position": 2
+          },
+          {
+            "content": "PURSE",
+            "position": 11
+          }
+        ]
+      },
+      {
+        "title": "PIECES OF OLYMPIC SPORTS EQUIPMENT",
+        "cards": [
+          {
+            "content": "BALL",
+            "position": 6
+          },
+          {
+            "content": "BIRDIE",
+            "position": 8
+          },
+          {
+            "content": "PUCK",
+            "position": 14
+          },
+          {
+            "content": "STONE",
+            "position": 4
+          }
+        ]
+      },
+      {
+        "title": "___ BAG",
+        "cards": [
+          {
+            "content": "DOGGY",
+            "position": 0
+          },
+          {
+            "content": "GO",
+            "position": 9
+          },
+          {
+            "content": "MIXED",
+            "position": 12
+          },
+          {
+            "content": "SWAG",
+            "position": 3
+          }
+        ]
+      }
+    ]
+  },
+  "2025-10-24": {
+    "status": "OK",
+    "id": 904,
+    "print_date": "2025-10-24",
+    "editor": "Wyna Liu",
+    "categories": [
+      {
+        "title": "BEST YEARS",
+        "cards": [
+          {
+            "content": "HEYDAY",
+            "position": 9
+          },
+          {
+            "content": "PINNACLE",
+            "position": 15
+          },
+          {
+            "content": "PRIME",
+            "position": 4
+          },
+          {
+            "content": "ZENITH",
+            "position": 12
+          }
+        ]
+      },
+      {
+        "title": "THINGS YOU CAN DO TO TEXT",
+        "cards": [
+          {
+            "content": "BOLD",
+            "position": 6
+          },
+          {
+            "content": "HIGHLIGHT",
+            "position": 1
+          },
+          {
+            "content": "STRIKETHROUGH",
+            "position": 14
+          },
+          {
+            "content": "UNDERLINE",
+            "position": 11
+          }
+        ]
+      },
+      {
+        "title": "THINGS KNOWN FOR BEING COLORFUL THINGS",
+        "cards": [
+          {
+            "content": "KALEIDOSCOPE",
+            "position": 10
+          },
+          {
+            "content": "PEACOCK",
+            "position": 7
+          },
+          {
+            "content": "RAINBOW",
+            "position": 2
+          },
+          {
+            "content": "SUNSET",
+            "position": 5
+          }
+        ]
+      },
+      {
+        "title": "ENDING IN ACCESSORIES",
+        "cards": [
+          {
+            "content": "BAYWATCH",
+            "position": 0
+          },
+          {
+            "content": "COOTIE",
+            "position": 8
+          },
+          {
+            "content": "HERRING",
+            "position": 3
+          },
+          {
+            "content": "KINGPIN",
+            "position": 13
+          }
+        ]
+      }
+    ]
+  },
+  "2025-10-25": {
+    "status": "OK",
+    "id": 906,
+    "print_date": "2025-10-25",
+    "editor": "Wyna Liu",
+    "categories": [
+      {
+        "title": "SWINDLE",
+        "cards": [
+          {
+            "content": "FLEECE",
+            "position": 5
+          },
+          {
+            "content": "HOSE",
+            "position": 10
+          },
+          {
+            "content": "HUSTLE",
+            "position": 12
+          },
+          {
+            "content": "SHAFT",
+            "position": 3
+          }
+        ]
+      },
+      {
+        "title": "DIGITAL WATCH FEATURES",
+        "cards": [
+          {
+            "content": "ALARM",
+            "position": 6
+          },
+          {
+            "content": "DATE",
+            "position": 0
+          },
+          {
+            "content": "LIGHT",
+            "position": 2
+          },
+          {
+            "content": "STOPWATCH",
+            "position": 13
+          }
+        ]
+      },
+      {
+        "title": "CONFER",
+        "cards": [
+          {
+            "content": "ACCORD",
+            "position": 14
+          },
+          {
+            "content": "AWARD",
+            "position": 11
+          },
+          {
+            "content": "GRANT",
+            "position": 8
+          },
+          {
+            "content": "VEST",
+            "position": 1
+          }
+        ]
+      },
+      {
+        "title": "BEST ACTOR-WINNING BIOPICS",
+        "cards": [
+          {
+            "content": "CAPOTE",
+            "position": 15
+          },
+          {
+            "content": "LINCOLN",
+            "position": 7
+          },
+          {
+            "content": "MILK",
+            "position": 9
+          },
+          {
+            "content": "RAY",
+            "position": 4
+          }
+        ]
+      }
+    ]
+  },
+  "2025-10-26": {
+    "status": "OK",
+    "id": 910,
+    "print_date": "2025-10-26",
+    "editor": "Wyna Liu",
+    "categories": [
+      {
+        "title": "KINDS OF INSTRUMENTS",
+        "cards": [
+          {
+            "content": "BRASS",
+            "position": 1
+          },
+          {
+            "content": "PERCUSSION",
+            "position": 14
+          },
+          {
+            "content": "STRING",
+            "position": 8
+          },
+          {
+            "content": "WIND",
+            "position": 7
+          }
+        ]
+      },
+      {
+        "title": "WORDS IN A FAMOUS MUHAMMAD ALI QUOTE",
+        "cards": [
+          {
+            "content": "BEE",
+            "position": 3
+          },
+          {
+            "content": "BUTTERFLY",
+            "position": 10
+          },
+          {
+            "content": "FLOAT",
+            "position": 5
+          },
+          {
+            "content": "STING",
+            "position": 12
+          }
+        ]
+      },
+      {
+        "title": "KINDS OF CONTESTS",
+        "cards": [
+          {
+            "content": "BEAUTY",
+            "position": 2
+          },
+          {
+            "content": "POPULARITY",
+            "position": 15
+          },
+          {
+            "content": "STARING",
+            "position": 4
+          },
+          {
+            "content": "TALENT",
+            "position": 9
+          }
+        ]
+      },
+      {
+        "title": "WORDS WITH DIMINUTIVE SUFFIXES",
+        "cards": [
+          {
+            "content": "DOGGY",
+            "position": 13
+          },
+          {
+            "content": "DROPLET",
+            "position": 6
+          },
+          {
+            "content": "KITCHENETTE",
+            "position": 11
+          },
+          {
+            "content": "STARLING",
+            "position": 0
+          }
+        ]
+      }
+    ]
+  },
+  "2025-10-27": {
+    "status": "ERROR",
+    "errors": [
+      "Not Found"
+    ],
+    "results": []
+  },
+  "2025-10-28": {
+    "status": "OK",
+    "id": 914,
+    "print_date": "2025-10-28",
+    "editor": "Wyna Liu",
+    "categories": [
+      {
+        "title": "BANALITY",
+        "cards": [
+          {
+            "content": "CHESTNUT",
+            "position": 1
+          },
+          {
+            "content": "CLICHÉ",
+            "position": 11
+          },
+          {
+            "content": "PLATITUDE",
+            "position": 14
+          },
+          {
+            "content": "TROPE",
+            "position": 6
+          }
+        ]
+      },
+      {
+        "title": "IN THE KNOW",
+        "cards": [
+          {
+            "content": "AWARE",
+            "position": 12
+          },
+          {
+            "content": "HIP",
+            "position": 3
+          },
+          {
+            "content": "SAVVY",
+            "position": 15
+          },
+          {
+            "content": "WISE",
+            "position": 9
+          }
+        ]
+      },
+      {
+        "title": "REMOTE CONTROL BUTTONS",
+        "cards": [
+          {
+            "content": "BACK",
+            "position": 7
+          },
+          {
+            "content": "HOME",
+            "position": 2
+          },
+          {
+            "content": "MENU",
+            "position": 10
+          },
+          {
+            "content": "SELECT",
+            "position": 4
+          }
+        ]
+      },
+      {
+        "title": "ONE-NAMED SINGER PLUS STARTING LETTER",
+        "cards": [
+          {
+            "content": "GUSHER",
+            "position": 5
+          },
+          {
+            "content": "KENYA",
+            "position": 8
+          },
+          {
+            "content": "OCHER",
+            "position": 13
+          },
+          {
+            "content": "PELVIS",
+            "position": 0
+          }
+        ]
+      }
+    ]
+  },
+  "2025-10-29": {
+    "status": "OK",
+    "id": 912,
+    "print_date": "2025-10-29",
+    "editor": "Wyna Liu",
+    "categories": [
+      {
+        "title": "FORTITUDE",
+        "cards": [
+          {
+            "content": "BACKBONE",
+            "position": 1
+          },
+          {
+            "content": "COURAGE",
+            "position": 13
+          },
+          {
+            "content": "HEART",
+            "position": 11
+          },
+          {
+            "content": "SPIRIT",
+            "position": 7
+          }
+        ]
+      },
+      {
+        "title": "CHANNEL",
+        "cards": [
+          {
+            "content": "MEDIUM",
+            "position": 5
+          },
+          {
+            "content": "OUTLET",
+            "position": 8
+          },
+          {
+            "content": "PLATFORM",
+            "position": 2
+          },
+          {
+            "content": "VENUE",
+            "position": 14
+          }
+        ]
+      },
+      {
+        "title": "WORDS STARTING WITH THE “SAY” SOUND",
+        "cards": [
+          {
+            "content": "SACRUM",
+            "position": 6
+          },
+          {
+            "content": "SEITAN",
+            "position": 9
+          },
+          {
+            "content": "SEYCHELLES",
+            "position": 15
+          },
+          {
+            "content": "SÉANCE",
+            "position": 3
+          }
+        ]
+      },
+      {
+        "title": "THINGS FEATURING LETTERS A TO Z",
+        "cards": [
+          {
+            "content": "ABECEDARIUM",
+            "position": 10
+          },
+          {
+            "content": "COMPUTER KEYBOARD",
+            "position": 12
+          },
+          {
+            "content": "OUIJA BOARD",
+            "position": 0
+          },
+          {
+            "content": "SCRABBLE",
+            "position": 4
+          }
+        ]
+      }
+    ]
+  },
+  "2025-10-30": {
+    "status": "OK",
+    "id": 893,
+    "print_date": "2025-10-30",
+    "editor": "Wyna Liu",
+    "categories": [
+      {
+        "title": "TERMS OF ENDEARMENT",
+        "cards": [
+          {
+            "content": "ANGEL",
+            "position": 5
+          },
+          {
+            "content": "LOVE",
+            "position": 13
+          },
+          {
+            "content": "PUMPKIN",
+            "position": 0
+          },
+          {
+            "content": "SUGAR",
+            "position": 10
+          }
+        ]
+      },
+      {
+        "title": "FICTION GENRES",
+        "cards": [
+          {
+            "content": "FANTASY",
+            "position": 8
+          },
+          {
+            "content": "HORROR",
+            "position": 1
+          },
+          {
+            "content": "MYSTERY",
+            "position": 3
+          },
+          {
+            "content": "ROMANCE",
+            "position": 6
+          }
+        ]
+      },
+      {
+        "title": "COLLECTIVE NOUNS FOR BIRDS",
+        "cards": [
+          {
+            "content": "CHARM",
+            "position": 7
+          },
+          {
+            "content": "GAGGLE",
+            "position": 14
+          },
+          {
+            "content": "MURDER",
+            "position": 2
+          },
+          {
+            "content": "PARLIAMENT",
+            "position": 11
+          }
+        ]
+      },
+      {
+        "title": "PEOPLE WHOSE FIRST NAMES ARE U.S. CITIES",
+        "cards": [
+          {
+            "content": "BLOOM",
+            "position": 9
+          },
+          {
+            "content": "BUTLER",
+            "position": 4
+          },
+          {
+            "content": "GUTHRIE",
+            "position": 15
+          },
+          {
+            "content": "LEVY",
+            "position": 12
+          }
+        ]
+      }
+    ]
+  },
+  "2025-10-31": {
+    "status": "OK",
+    "id": 895,
+    "print_date": "2025-10-31",
+    "editor": "Wyna Liu",
+    "categories": [
+      {
+        "title": "GOLDILOCKS",
+        "cards": [
+          {
+            "position": 8,
+            "image_url": "https://games-assets.storage.googleapis.com/images/connections/img-895-1757706910364.svg",
+            "image_alt_text": "CHAIR"
+          },
+          {
+            "position": 5,
+            "image_url": "https://games-assets.storage.googleapis.com/images/connections/img-895-1757706874238.svg",
+            "image_alt_text": "BEAR"
+          },
+          {
+            "position": 13,
+            "image_url": "https://games-assets.storage.googleapis.com/images/connections/img-895-1757707251392.svg",
+            "image_alt_text": "PORRIDGE"
+          },
+          {
+            "position": 3,
+            "image_url": "https://games-assets.storage.googleapis.com/images/connections/img-895-1757705840981.svg",
+            "image_alt_text": "BED"
+          }
+        ]
+      },
+      {
+        "title": "CINDERELLA",
+        "cards": [
+          {
+            "position": 15,
+            "image_url": "https://games-assets.storage.googleapis.com/images/connections/img-895-1757707281139.svg",
+            "image_alt_text": "WAND"
+          },
+          {
+            "position": 1,
+            "image_url": "https://games-assets.storage.googleapis.com/images/connections/img-895-1757706798830.svg",
+            "image_alt_text": "PUMPKIN"
+          },
+          {
+            "position": 6,
+            "image_url": "https://games-assets.storage.googleapis.com/images/connections/img-895-1757705860939.svg",
+            "image_alt_text": "MOUSE"
+          },
+          {
+            "position": 10,
+            "image_url": "https://games-assets.storage.googleapis.com/images/connections/img-895-1757707309688.svg",
+            "image_alt_text": "SLIPPER"
+          }
+        ]
+      },
+      {
+        "title": "POPEYE",
+        "cards": [
+          {
+            "position": 12,
+            "image_url": "https://games-assets.storage.googleapis.com/images/connections/img-895-1757707234261.svg",
+            "image_alt_text": "PIPE"
+          },
+          {
+            "position": 4,
+            "image_url": "https://games-assets.storage.googleapis.com/images/connections/img-895-1757706858499.svg",
+            "image_alt_text": "ANCHOR"
+          },
+          {
+            "position": 14,
+            "image_url": "https://games-assets.storage.googleapis.com/images/connections/img-895-1757707269194.svg",
+            "image_alt_text": "SPINACH"
+          },
+          {
+            "position": 11,
+            "image_url": "https://games-assets.storage.googleapis.com/images/connections/img-895-1757705893678.svg",
+            "image_alt_text": "CAP"
+          }
+        ]
+      },
+      {
+        "title": "MS. PAC-MAN",
+        "cards": [
+          {
+            "position": 0,
+            "image_url": "https://games-assets.storage.googleapis.com/images/connections/img-895-1757706782308.svg",
+            "image_alt_text": "GHOST"
+          },
+          {
+            "position": 9,
+            "image_url": "https://games-assets.storage.googleapis.com/images/connections/img-895-1758821529822.svg",
+            "image_alt_text": "PELLETS"
+          },
+          {
+            "position": 2,
+            "image_url": "https://games-assets.storage.googleapis.com/images/connections/img-895-1757706839069.svg",
+            "image_alt_text": "BOW"
+          },
+          {
+            "position": 7,
+            "image_url": "https://games-assets.storage.googleapis.com/images/connections/img-895-1757706896339.svg",
+            "image_alt_text": "CHERRIES"
+          }
+        ]
+      }
+    ]
+  },
+  "2025-11-01": {
+    "status": "OK",
+    "id": 905,
+    "print_date": "2025-11-01",
+    "editor": "Wyna Liu",
+    "categories": [
+      {
+        "title": "TAKE TO COURT",
+        "cards": [
+          {
+            "content": "CHARGE",
+            "position": 11
+          },
+          {
+            "content": "FILE",
+            "position": 6
+          },
+          {
+            "content": "INDICT",
+            "position": 12
+          },
+          {
+            "content": "SUE",
+            "position": 9
+          }
+        ]
+      },
+      {
+        "title": "BLACK",
+        "cards": [
+          {
+            "content": "INKY",
+            "position": 4
+          },
+          {
+            "content": "JET",
+            "position": 3
+          },
+          {
+            "content": "PITCH",
+            "position": 14
+          },
+          {
+            "content": "RAVEN",
+            "position": 0
+          }
+        ]
+      },
+      {
+        "title": "SECOND IN A FAMOUS REAL-LIFE DUO",
+        "cards": [
+          {
+            "content": "CHER",
+            "position": 15
+          },
+          {
+            "content": "CLYDE",
+            "position": 7
+          },
+          {
+            "content": "HARDY",
+            "position": 8
+          },
+          {
+            "content": "TELLER",
+            "position": 10
+          }
+        ]
+      },
+      {
+        "title": "RODENTS WHO ARE FIRST IN A CARTOON DUO",
+        "cards": [
+          {
+            "content": "CHIP",
+            "position": 2
+          },
+          {
+            "content": "ITCHY",
+            "position": 13
+          },
+          {
+            "content": "PINKY",
+            "position": 1
+          },
+          {
+            "content": "ROCKY",
+            "position": 5
+          }
+        ]
+      }
+    ]
+  },
+  "2025-11-02": {
+    "status": "ERROR",
+    "errors": [
+      "Not Found"
+    ],
+    "results": []
+  },
+  "2025-11-03": {
+    "status": "OK",
+    "id": 911,
+    "print_date": "2025-11-03",
+    "editor": "Wyna Liu",
+    "categories": [
+      {
+        "title": "SMALL-TIME",
+        "cards": [
+          {
+            "content": "MICKEY MOUSE",
+            "position": 0
+          },
+          {
+            "content": "RINKY-DINK",
+            "position": 6
+          },
+          {
+            "content": "TRIVIAL",
+            "position": 9
+          },
+          {
+            "content": "TWO-BIT",
+            "position": 14
+          }
+        ]
+      },
+      {
+        "title": "THINGS THAT ARE PINK",
+        "cards": [
+          {
+            "content": "BARBIE DREAMHOUSE",
+            "position": 3
+          },
+          {
+            "content": "CALAMINE LOTION",
+            "position": 11
+          },
+          {
+            "content": "CHERRY BLOSSOM",
+            "position": 8
+          },
+          {
+            "content": "FLAMINGO",
+            "position": 13
+          }
+        ]
+      },
+      {
+        "title": "THINGS YOU CAN SCRATCH",
+        "cards": [
+          {
+            "content": "BUG BITE",
+            "position": 1
+          },
+          {
+            "content": "LOTTERY TICKET",
+            "position": 4
+          },
+          {
+            "content": "VINYL RECORD",
+            "position": 12
+          },
+          {
+            "content": "YOUR HEAD",
+            "position": 15
+          }
+        ]
+      },
+      {
+        "title": "STARTING WITH OPTIMISTIC WORDS",
+        "cards": [
+          {
+            "content": "GLAD-HAND",
+            "position": 5
+          },
+          {
+            "content": "HAPPY MEAL",
+            "position": 2
+          },
+          {
+            "content": "MERRY-GO-ROUND",
+            "position": 7
+          },
+          {
+            "content": "SUNNY-SIDE UP",
+            "position": 10
+          }
+        ]
+      }
+    ]
+  },
+  "2025-11-04": {
+    "status": "ERROR",
+    "errors": [
+      "Not Found"
+    ],
+    "results": []
   }
 }
