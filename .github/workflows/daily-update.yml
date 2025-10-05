@@ -33,16 +33,22 @@ jobs:
           TODAY=$(date +%Y-%m-%d)
           ONE_MONTH_LATER=$(date -d "+30 days" +%Y-%m-%d)
           
+          # Convert dates to seconds for comparison
+          TODAY_SECONDS=$(date -d "$TODAY" +%s)
+          ONE_MONTH_LATER_SECONDS=$(date -d "$ONE_MONTH_LATER" +%s)
+          
           # Start from today
           CURRENT_DATE=$TODAY
+          CURRENT_SECONDS=$TODAY_SECONDS
           
           # Loop through each day
-          while [[ "$CURRENT_DATE" <= "$ONE_MONTH_LATER" ]]; do
+          while [ $CURRENT_SECONDS -le $ONE_MONTH_LATER_SECONDS ]; do
             echo "Running script for date: $CURRENT_DATE"
             ./add.sh "$CURRENT_DATE"
             
             # Move to next day
-            CURRENT_DATE=$(date -d "$CURRENT_DATE + 1 day" +%Y-%m-%d)
+            CURRENT_SECONDS=$((CURRENT_SECONDS + 86400)) # Add 24 hours in seconds
+            CURRENT_DATE=$(date -d "@$CURRENT_SECONDS" +%Y-%m-%d)
           done
 
       - name: Check for changes
