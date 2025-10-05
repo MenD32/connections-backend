@@ -44,7 +44,7 @@ jobs:
           # Loop through each day
           while [ $CURRENT_SECONDS -le $ONE_MONTH_LATER_SECONDS ]; do
             echo "Running script for date: $CURRENT_DATE"
-            ./add.sh "$CURRENT_DATE"
+            ./add.sh -d "$CURRENT_DATE"
             
             # Move to next day
             CURRENT_SECONDS=$((CURRENT_SECONDS + 86400)) # Add 24 hours in seconds
