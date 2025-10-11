@@ -79839,11 +79839,96 @@
     ]
   },
   "2025-10-27": {
-    "status": "ERROR",
-    "errors": [
-      "Not Found"
-    ],
-    "results": []
+    "status": "OK",
+    "id": 920,
+    "print_date": "2025-10-27",
+    "editor": "Wyna Liu",
+    "categories": [
+      {
+        "title": "EMANATE",
+        "cards": [
+          {
+            "content": "BRANCH",
+            "position": 3
+          },
+          {
+            "content": "FAN",
+            "position": 5
+          },
+          {
+            "content": "RADIATE",
+            "position": 12
+          },
+          {
+            "content": "SPREAD",
+            "position": 11
+          }
+        ]
+      },
+      {
+        "title": "NOTWITHSTANDING",
+        "cards": [
+          {
+            "content": "BUT",
+            "position": 9
+          },
+          {
+            "content": "EXCEPT",
+            "position": 15
+          },
+          {
+            "content": "ONLY",
+            "position": 0
+          },
+          {
+            "content": "YET",
+            "position": 6
+          }
+        ]
+      },
+      {
+        "title": "COCKTAIL GARNISHES",
+        "cards": [
+          {
+            "content": "CHERRY",
+            "position": 10
+          },
+          {
+            "content": "MINT",
+            "position": 13
+          },
+          {
+            "content": "OLIVE",
+            "position": 2
+          },
+          {
+            "content": "TWIST",
+            "position": 7
+          }
+        ]
+      },
+      {
+        "title": "___ FOUR",
+        "cards": [
+          {
+            "content": "CONNECT",
+            "position": 1
+          },
+          {
+            "content": "FAB",
+            "position": 4
+          },
+          {
+            "content": "FANTASTIC",
+            "position": 8
+          },
+          {
+            "content": "PETIT",
+            "position": 14
+          }
+        ]
+      }
+    ]
   },
   "2025-10-28": {
     "status": "OK",
@@ -80322,11 +80407,96 @@
     ]
   },
   "2025-11-02": {
-    "status": "ERROR",
-    "errors": [
-      "Not Found"
-    ],
-    "results": []
+    "status": "OK",
+    "id": 923,
+    "print_date": "2025-11-02",
+    "editor": "Wyna Liu",
+    "categories": [
+      {
+        "title": "GOODS TO BE TRANSPORTED",
+        "cards": [
+          {
+            "content": "CARGO",
+            "position": 3
+          },
+          {
+            "content": "FREIGHT",
+            "position": 15
+          },
+          {
+            "content": "HAUL",
+            "position": 12
+          },
+          {
+            "content": "LOAD",
+            "position": 5
+          }
+        ]
+      },
+      {
+        "title": "LIGHT BROWN SHADES",
+        "cards": [
+          {
+            "content": "CAMEL",
+            "position": 11
+          },
+          {
+            "content": "FAWN",
+            "position": 14
+          },
+          {
+            "content": "KHAKI",
+            "position": 4
+          },
+          {
+            "content": "TAN",
+            "position": 9
+          }
+        ]
+      },
+      {
+        "title": "SHOW SIGNS OF PHYSICAL EXERTION",
+        "cards": [
+          {
+            "content": "CRAMP",
+            "position": 2
+          },
+          {
+            "content": "PANT",
+            "position": 7
+          },
+          {
+            "content": "REDDEN",
+            "position": 10
+          },
+          {
+            "content": "SWEAT",
+            "position": 6
+          }
+        ]
+      },
+      {
+        "title": "STARTS OF ZODIAC SIGNS",
+        "cards": [
+          {
+            "content": "AQUA",
+            "position": 1
+          },
+          {
+            "content": "CAPRI",
+            "position": 0
+          },
+          {
+            "content": "GEM",
+            "position": 8
+          },
+          {
+            "content": "SAG",
+            "position": 13
+          }
+        ]
+      }
+    ]
   },
   "2025-11-03": {
     "status": "OK",
@@ -80421,18 +80591,188 @@
     ]
   },
   "2025-11-04": {
-    "status": "ERROR",
-    "errors": [
-      "Not Found"
-    ],
-    "results": []
+    "status": "OK",
+    "id": 917,
+    "print_date": "2025-11-04",
+    "editor": "Wyna Liu",
+    "categories": [
+      {
+        "title": "STEER",
+        "cards": [
+          {
+            "content": "DIRECT",
+            "position": 10
+          },
+          {
+            "content": "DRIVE",
+            "position": 9
+          },
+          {
+            "content": "GUIDE",
+            "position": 15
+          },
+          {
+            "content": "PILOT",
+            "position": 2
+          }
+        ]
+      },
+      {
+        "title": "THIN LAYER",
+        "cards": [
+          {
+            "content": "COAT",
+            "position": 13
+          },
+          {
+            "content": "FILM",
+            "position": 11
+          },
+          {
+            "content": "LEAF",
+            "position": 3
+          },
+          {
+            "content": "SHEET",
+            "position": 4
+          }
+        ]
+      },
+      {
+        "title": "FILE EXTENSIONS",
+        "cards": [
+          {
+            "content": "DOC",
+            "position": 0
+          },
+          {
+            "content": "MID",
+            "position": 5
+          },
+          {
+            "content": "TIFF",
+            "position": 12
+          },
+          {
+            "content": "ZIP",
+            "position": 8
+          }
+        ]
+      },
+      {
+        "title": "___ GUITAR",
+        "cards": [
+          {
+            "content": "AIR",
+            "position": 1
+          },
+          {
+            "content": "ELECTRIC",
+            "position": 6
+          },
+          {
+            "content": "RHYTHM",
+            "position": 14
+          },
+          {
+            "content": "SLIDE",
+            "position": 7
+          }
+        ]
+      }
+    ]
   },
   "2025-11-05": {
-    "status": "ERROR",
-    "errors": [
-      "Not Found"
-    ],
-    "results": []
+    "status": "OK",
+    "id": 922,
+    "print_date": "2025-11-05",
+    "editor": "Wyna Liu",
+    "categories": [
+      {
+        "title": "MAKE A HASH OF",
+        "cards": [
+          {
+            "content": "BLOW",
+            "position": 11
+          },
+          {
+            "content": "BOTCH",
+            "position": 14
+          },
+          {
+            "content": "BUTCHER",
+            "position": 2
+          },
+          {
+            "content": "SPOIL",
+            "position": 12
+          }
+        ]
+      },
+      {
+        "title": "WEAPONS IN THE GAME CLUE",
+        "cards": [
+          {
+            "content": "CANDLESTICK",
+            "position": 6
+          },
+          {
+            "content": "KNIFE",
+            "position": 5
+          },
+          {
+            "content": "ROPE",
+            "position": 15
+          },
+          {
+            "content": "WRENCH",
+            "position": 13
+          }
+        ]
+      },
+      {
+        "title": "ICONIC SOUL SINGERS",
+        "cards": [
+          {
+            "content": "BAKER",
+            "position": 3
+          },
+          {
+            "content": "FRANKLIN",
+            "position": 8
+          },
+          {
+            "content": "FLACK",
+            "position": 4
+          },
+          {
+            "content": "KNIGHT",
+            "position": 0
+          }
+        ]
+      },
+      {
+        "title": "RAIN___",
+        "cards": [
+          {
+            "content": "BOW",
+            "position": 10
+          },
+          {
+            "content": "COAT",
+            "position": 1
+          },
+          {
+            "content": "FOREST",
+            "position": 9
+          },
+          {
+            "content": "MAKER",
+            "position": 7
+          }
+        ]
+      }
+    ]
   },
   "2025-11-06": {
     "status": "ERROR",
@@ -80442,18 +80782,188 @@
     "results": []
   },
   "2025-11-07": {
-    "status": "ERROR",
-    "errors": [
-      "Not Found"
-    ],
-    "results": []
+    "status": "OK",
+    "id": 918,
+    "print_date": "2025-11-07",
+    "editor": "Wyna Liu",
+    "categories": [
+      {
+        "title": "TEXTILE PATTERNS",
+        "cards": [
+          {
+            "content": "ANIMAL PRINT",
+            "position": 6
+          },
+          {
+            "content": "HERRINGBONE",
+            "position": 14
+          },
+          {
+            "content": "HOUNDSTOOTH",
+            "position": 11
+          },
+          {
+            "content": "POLKA DOT",
+            "position": 7
+          }
+        ]
+      },
+      {
+        "title": "GREEN CONDIMENTS",
+        "cards": [
+          {
+            "content": "CHIMICHURRI",
+            "position": 13
+          },
+          {
+            "content": "PESTO",
+            "position": 10
+          },
+          {
+            "content": "RELISH",
+            "position": 5
+          },
+          {
+            "content": "SALSA VERDE",
+            "position": 2
+          }
+        ]
+      },
+      {
+        "title": "THINGS WITH HOLES IN THE MIDDLE",
+        "cards": [
+          {
+            "content": "BAGEL",
+            "position": 3
+          },
+          {
+            "content": "HULA HOOP",
+            "position": 0
+          },
+          {
+            "content": "INNER TUBE",
+            "position": 12
+          },
+          {
+            "content": "WASHER",
+            "position": 8
+          }
+        ]
+      },
+      {
+        "title": "THINGS THAT ARE PURPLE",
+        "cards": [
+          {
+            "content": "BARNEY THE DINOSAUR",
+            "position": 9
+          },
+          {
+            "content": "EGGPLANT",
+            "position": 1
+          },
+          {
+            "content": "PEOPLE EATER",
+            "position": 15
+          },
+          {
+            "content": "SWING STATE",
+            "position": 4
+          }
+        ]
+      }
+    ]
   },
   "2025-11-08": {
-    "status": "ERROR",
-    "errors": [
-      "Not Found"
-    ],
-    "results": []
+    "status": "OK",
+    "id": 919,
+    "print_date": "2025-11-08",
+    "editor": "Wyna Liu",
+    "categories": [
+      {
+        "title": "BLOCK, AS AN OPENING",
+        "cards": [
+          {
+            "content": "CLOSE",
+            "position": 14
+          },
+          {
+            "content": "PLUG",
+            "position": 9
+          },
+          {
+            "content": "SEAL",
+            "position": 4
+          },
+          {
+            "content": "STOP",
+            "position": 2
+          }
+        ]
+      },
+      {
+        "title": "PUT FORWARD, AS AN ANNOUNCEMENT",
+        "cards": [
+          {
+            "content": "DELIVER",
+            "position": 6
+          },
+          {
+            "content": "GIVE",
+            "position": 12
+          },
+          {
+            "content": "PRESENT",
+            "position": 7
+          },
+          {
+            "content": "PRONOUNCE",
+            "position": 15
+          }
+        ]
+      },
+      {
+        "title": "KINDS OF LANGUAGE",
+        "cards": [
+          {
+            "content": "BODY",
+            "position": 5
+          },
+          {
+            "content": "PROGRAMMING",
+            "position": 10
+          },
+          {
+            "content": "SIGN",
+            "position": 0
+          },
+          {
+            "content": "SPOKEN",
+            "position": 13
+          }
+        ]
+      },
+      {
+        "title": "WORDS AFTER \"I\"",
+        "cards": [
+          {
+            "content": "BEAM",
+            "position": 8
+          },
+          {
+            "content": "CHING",
+            "position": 11
+          },
+          {
+            "content": "ROBOT",
+            "position": 3
+          },
+          {
+            "content": "SPY",
+            "position": 1
+          }
+        ]
+      }
+    ]
   },
   "2025-11-09": {
     "status": "OK",
@@ -80546,5 +81056,12 @@
         ]
       }
     ]
+  },
+  "2025-11-10": {
+    "status": "ERROR",
+    "errors": [
+      "Not Found"
+    ],
+    "results": []
   }
 }
