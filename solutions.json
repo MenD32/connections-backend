@@ -80775,11 +80775,96 @@
     ]
   },
   "2025-11-06": {
-    "status": "ERROR",
-    "errors": [
-      "Not Found"
-    ],
-    "results": []
+    "status": "OK",
+    "id": 929,
+    "print_date": "2025-11-06",
+    "editor": "Wyna Liu",
+    "categories": [
+      {
+        "title": "COST",
+        "cards": [
+          {
+            "content": "AMOUNT",
+            "position": 15
+          },
+          {
+            "content": "FIGURE",
+            "position": 2
+          },
+          {
+            "content": "PRICE",
+            "position": 5
+          },
+          {
+            "content": "VALUE",
+            "position": 8
+          }
+        ]
+      },
+      {
+        "title": "WAYS TO UNLOCK A DEVICE",
+        "cards": [
+          {
+            "content": "FACE",
+            "position": 1
+          },
+          {
+            "content": "FINGERPRINT",
+            "position": 10
+          },
+          {
+            "content": "PASSWORD",
+            "position": 13
+          },
+          {
+            "content": "PIN",
+            "position": 4
+          }
+        ]
+      },
+      {
+        "title": "PARTS OF A SHIP",
+        "cards": [
+          {
+            "content": "AFT",
+            "position": 12
+          },
+          {
+            "content": "DECK",
+            "position": 11
+          },
+          {
+            "content": "FORE",
+            "position": 0
+          },
+          {
+            "content": "MAST",
+            "position": 6
+          }
+        ]
+      },
+      {
+        "title": "FEATURES OF A CARTOON CUPID",
+        "cards": [
+          {
+            "content": "ARROW",
+            "position": 3
+          },
+          {
+            "content": "BOW",
+            "position": 9
+          },
+          {
+            "content": "DIAPER",
+            "position": 7
+          },
+          {
+            "content": "WINGS",
+            "position": 14
+          }
+        ]
+      }
+    ]
   },
   "2025-11-07": {
     "status": "OK",
@@ -81065,18 +81150,188 @@
     "results": []
   },
   "2025-11-11": {
-    "status": "ERROR",
-    "errors": [
-      "Not Found"
-    ],
-    "results": []
+    "status": "OK",
+    "id": 927,
+    "print_date": "2025-11-11",
+    "editor": "Wyna Liu",
+    "categories": [
+      {
+        "title": "MAKEUP",
+        "cards": [
+          {
+            "content": "BLUSH",
+            "position": 13
+          },
+          {
+            "content": "FOUNDATION",
+            "position": 1
+          },
+          {
+            "content": "HIGHLIGHTER",
+            "position": 8
+          },
+          {
+            "content": "POWDER",
+            "position": 10
+          }
+        ]
+      },
+      {
+        "title": "OBJECT USED FOR SUPPORT",
+        "cards": [
+          {
+            "content": "BASE",
+            "position": 4
+          },
+          {
+            "content": "HOLDER",
+            "position": 15
+          },
+          {
+            "content": "REST",
+            "position": 5
+          },
+          {
+            "content": "STAND",
+            "position": 2
+          }
+        ]
+      },
+      {
+        "title": "BREADTH",
+        "cards": [
+          {
+            "content": "EXTENT",
+            "position": 14
+          },
+          {
+            "content": "RANGE",
+            "position": 6
+          },
+          {
+            "content": "SCALE",
+            "position": 3
+          },
+          {
+            "content": "SCOPE",
+            "position": 11
+          }
+        ]
+      },
+      {
+        "title": "ICONS ON AN IPHONE",
+        "cards": [
+          {
+            "content": "COMPASS",
+            "position": 7
+          },
+          {
+            "content": "ENVELOPE",
+            "position": 9
+          },
+          {
+            "content": "MUSIC NOTES",
+            "position": 0
+          },
+          {
+            "content": "SPEECH BUBBLE",
+            "position": 12
+          }
+        ]
+      }
+    ]
   },
   "2025-11-12": {
-    "status": "ERROR",
-    "errors": [
-      "Not Found"
-    ],
-    "results": []
+    "status": "OK",
+    "id": 928,
+    "print_date": "2025-11-12",
+    "editor": "Wyna Liu",
+    "categories": [
+      {
+        "title": "SPORTS",
+        "cards": [
+          {
+            "content": "GOLF",
+            "position": 14
+          },
+          {
+            "content": "JUDO",
+            "position": 6
+          },
+          {
+            "content": "POLO",
+            "position": 1
+          },
+          {
+            "content": "SUMO",
+            "position": 11
+          }
+        ]
+      },
+      {
+        "title": "DOOFUS",
+        "cards": [
+          {
+            "content": "BOZO",
+            "position": 8
+          },
+          {
+            "content": "DODO",
+            "position": 3
+          },
+          {
+            "content": "DOPE",
+            "position": 13
+          },
+          {
+            "content": "YO-YO",
+            "position": 10
+          }
+        ]
+      },
+      {
+        "title": "ACRONYMS",
+        "cards": [
+          {
+            "content": "BOGO",
+            "position": 7
+          },
+          {
+            "content": "FOMO",
+            "position": 5
+          },
+          {
+            "content": "GOAT",
+            "position": 15
+          },
+          {
+            "content": "YOLO",
+            "position": 0
+          }
+        ]
+      },
+      {
+        "title": "SPANISH WORDS",
+        "cards": [
+          {
+            "content": "COMO",
+            "position": 4
+          },
+          {
+            "content": "LOCO",
+            "position": 2
+          },
+          {
+            "content": "POCO",
+            "position": 12
+          },
+          {
+            "content": "ROJO",
+            "position": 9
+          }
+        ]
+      }
+    ]
   },
   "2025-11-13": {
     "status": "ERROR",
@@ -81086,11 +81341,96 @@
     "results": []
   },
   "2025-11-14": {
-    "status": "ERROR",
-    "errors": [
-      "Not Found"
-    ],
-    "results": []
+    "status": "OK",
+    "id": 930,
+    "print_date": "2025-11-14",
+    "editor": "Wyna Liu",
+    "categories": [
+      {
+        "title": "EVALUATE",
+        "cards": [
+          {
+            "content": "GRADE",
+            "position": 9
+          },
+          {
+            "content": "JUDGE",
+            "position": 5
+          },
+          {
+            "content": "RATE",
+            "position": 3
+          },
+          {
+            "content": "REVIEW",
+            "position": 15
+          }
+        ]
+      },
+      {
+        "title": "ACTION FILM SUBGENRES",
+        "cards": [
+          {
+            "content": "BUDDY",
+            "position": 0
+          },
+          {
+            "content": "DISASTER",
+            "position": 6
+          },
+          {
+            "content": "MARTIAL ARTS",
+            "position": 12
+          },
+          {
+            "content": "SUPERHERO",
+            "position": 10
+          }
+        ]
+      },
+      {
+        "title": "RADIO TUNING OPTIONS",
+        "cards": [
+          {
+            "content": "BAND",
+            "position": 7
+          },
+          {
+            "content": "CHANNEL",
+            "position": 13
+          },
+          {
+            "content": "FREQUENCY",
+            "position": 1
+          },
+          {
+            "content": "STATION",
+            "position": 11
+          }
+        ]
+      },
+      {
+        "title": "CLASSIC '90S ACTION FILMS",
+        "cards": [
+          {
+            "content": "ARMAGEDDON",
+            "position": 8
+          },
+          {
+            "content": "HARD BOILED",
+            "position": 14
+          },
+          {
+            "content": "HEAT",
+            "position": 2
+          },
+          {
+            "content": "SPEED",
+            "position": 4
+          }
+        ]
+      }
+    ]
   },
   "2025-11-15": {
     "status": "ERROR",
@@ -81105,5 +81445,97 @@
       "Not Found"
     ],
     "results": []
+  },
+  "2025-11-17": {
+    "status": "OK",
+    "id": 916,
+    "print_date": "2025-11-17",
+    "editor": "Wyna Liu",
+    "categories": [
+      {
+        "title": "\"YOU BET\"",
+        "cards": [
+          {
+            "content": "ABSOLUTELY",
+            "position": 9
+          },
+          {
+            "content": "OKEY-DOKE",
+            "position": 6
+          },
+          {
+            "content": "OF COURSE",
+            "position": 15
+          },
+          {
+            "content": "SURE THING",
+            "position": 3
+          }
+        ]
+      },
+      {
+        "title": "FORBIDDEN",
+        "cards": [
+          {
+            "content": "OFF-LIMITS",
+            "position": 12
+          },
+          {
+            "content": "PROSCRIBED",
+            "position": 7
+          },
+          {
+            "content": "TABOO",
+            "position": 0
+          },
+          {
+            "content": "VERBOTEN",
+            "position": 10
+          }
+        ]
+      },
+      {
+        "title": "BASKETBALL SHOTS",
+        "cards": [
+          {
+            "content": "ALLEY-OOP",
+            "position": 8
+          },
+          {
+            "content": "FADEAWAY",
+            "position": 11
+          },
+          {
+            "content": "FINGER ROLL",
+            "position": 14
+          },
+          {
+            "content": "SLAM DUNK",
+            "position": 1
+          }
+        ]
+      },
+      {
+        "title": "STARTING WITH SYNONYMS FOR \"SCRAM!\"",
+        "cards": [
+          {
+            "content": "GO-GETTER",
+            "position": 2
+          },
+          {
+            "content": "LEAVENING",
+            "position": 13
+          },
+          {
+            "content": "SCATTERGORIES",
+            "position": 5
+          },
+          {
+            "content": "SHOO-IN",
+            "position": 4
+          }
+        ]
+      }
+    ]
   }
 }
