@@ -71,7 +71,7 @@ def parse_date_string(date_str: str) -> date:
             detail="Invalid date format. Expected YYYY-MM-DD"
         )
 
-@app.get("/v1/connections/{date}", response_model=ConnectionsGame)
+@app.get("/api/v1/connections/{date}", response_model=ConnectionsGame)
 async def get_connections_game(date: str):
     """
     Get NYTimes Connections game data for a specific date
