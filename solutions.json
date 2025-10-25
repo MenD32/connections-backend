@@ -81143,11 +81143,96 @@
     ]
   },
   "2025-11-10": {
-    "status": "ERROR",
-    "errors": [
-      "Not Found"
-    ],
-    "results": []
+    "status": "OK",
+    "id": 937,
+    "print_date": "2025-11-10",
+    "editor": "Wyna Liu",
+    "categories": [
+      {
+        "title": "PERCUSSION INSTRUMENTS",
+        "cards": [
+          {
+            "content": "BELL",
+            "position": 8
+          },
+          {
+            "content": "DRUM",
+            "position": 10
+          },
+          {
+            "content": "RATTLE",
+            "position": 14
+          },
+          {
+            "content": "TRIANGLE",
+            "position": 7
+          }
+        ]
+      },
+      {
+        "title": "SATISFY, AS DEBTS",
+        "cards": [
+          {
+            "content": "CLEAR",
+            "position": 1
+          },
+          {
+            "content": "PAY",
+            "position": 11
+          },
+          {
+            "content": "SETTLE",
+            "position": 13
+          },
+          {
+            "content": "SQUARE",
+            "position": 3
+          }
+        ]
+      },
+      {
+        "title": "WORDS IN A FAMOUS QUOTE BY CAESAR",
+        "cards": [
+          {
+            "content": "CAME",
+            "position": 9
+          },
+          {
+            "content": "CONQUERED",
+            "position": 15
+          },
+          {
+            "content": "I",
+            "position": 6
+          },
+          {
+            "content": "SAW",
+            "position": 4
+          }
+        ]
+      },
+      {
+        "title": "LATIN PREPOSITIONS",
+        "cards": [
+          {
+            "content": "AD",
+            "position": 5
+          },
+          {
+            "content": "CUM",
+            "position": 12
+          },
+          {
+            "content": "PRO",
+            "position": 2
+          },
+          {
+            "content": "SINE",
+            "position": 0
+          }
+        ]
+      }
+    ]
   },
   "2025-11-11": {
     "status": "OK",
@@ -81334,11 +81419,96 @@
     ]
   },
   "2025-11-13": {
-    "status": "ERROR",
-    "errors": [
-      "Not Found"
-    ],
-    "results": []
+    "status": "OK",
+    "id": 936,
+    "print_date": "2025-11-13",
+    "editor": "Wyna Liu",
+    "categories": [
+      {
+        "title": "ATTIRE",
+        "cards": [
+          {
+            "content": "DUDS",
+            "position": 15
+          },
+          {
+            "content": "FIT",
+            "position": 8
+          },
+          {
+            "content": "GETUP",
+            "position": 13
+          },
+          {
+            "content": "THREADS",
+            "position": 7
+          }
+        ]
+      },
+      {
+        "title": "FOAMY THINGS",
+        "cards": [
+          {
+            "content": "BEER",
+            "position": 11
+          },
+          {
+            "content": "FIRE EXTINGUISHER",
+            "position": 0
+          },
+          {
+            "content": "SEA",
+            "position": 14
+          },
+          {
+            "content": "SHAVING CREAM",
+            "position": 12
+          }
+        ]
+      },
+      {
+        "title": "THINGS THAT USE FILTERS",
+        "cards": [
+          {
+            "content": "AIR PURIFIER",
+            "position": 1
+          },
+          {
+            "content": "CIGARETTE",
+            "position": 4
+          },
+          {
+            "content": "COFFEE MAKER",
+            "position": 10
+          },
+          {
+            "content": "INSTAGRAM",
+            "position": 3
+          }
+        ]
+      },
+      {
+        "title": "___ OFFICE",
+        "cards": [
+          {
+            "content": "BOX",
+            "position": 5
+          },
+          {
+            "content": "MICROSOFT",
+            "position": 2
+          },
+          {
+            "content": "OVAL",
+            "position": 6
+          },
+          {
+            "content": "POST",
+            "position": 9
+          }
+        ]
+      }
+    ]
   },
   "2025-11-14": {
     "status": "OK",
@@ -81433,18 +81603,188 @@
     ]
   },
   "2025-11-15": {
-    "status": "ERROR",
-    "errors": [
-      "Not Found"
-    ],
-    "results": []
+    "status": "OK",
+    "id": 935,
+    "print_date": "2025-11-15",
+    "editor": "Wyna Liu",
+    "categories": [
+      {
+        "title": "ENHANCE THE TASTE OF",
+        "cards": [
+          {
+            "content": "FLAVOR",
+            "position": 11
+          },
+          {
+            "content": "SALT",
+            "position": 8
+          },
+          {
+            "content": "SEASON",
+            "position": 1
+          },
+          {
+            "content": "SPICE",
+            "position": 15
+          }
+        ]
+      },
+      {
+        "title": "PUNCTUATION MARKS",
+        "cards": [
+          {
+            "content": "COLON",
+            "position": 13
+          },
+          {
+            "content": "DASH",
+            "position": 10
+          },
+          {
+            "content": "PERIOD",
+            "position": 3
+          },
+          {
+            "content": "SLASH",
+            "position": 5
+          }
+        ]
+      },
+      {
+        "title": "KINDS OF ACTORS",
+        "cards": [
+          {
+            "content": "CHARACTER",
+            "position": 12
+          },
+          {
+            "content": "FILM",
+            "position": 2
+          },
+          {
+            "content": "METHOD",
+            "position": 7
+          },
+          {
+            "content": "STAGE",
+            "position": 4
+          }
+        ]
+      },
+      {
+        "title": "___ ZONE",
+        "cards": [
+          {
+            "content": "BUFFER",
+            "position": 14
+          },
+          {
+            "content": "COMFORT",
+            "position": 9
+          },
+          {
+            "content": "TIME",
+            "position": 6
+          },
+          {
+            "content": "TWILIGHT",
+            "position": 0
+          }
+        ]
+      }
+    ]
   },
   "2025-11-16": {
-    "status": "ERROR",
-    "errors": [
-      "Not Found"
-    ],
-    "results": []
+    "status": "OK",
+    "id": 933,
+    "print_date": "2025-11-16",
+    "editor": "Wyna Liu",
+    "categories": [
+      {
+        "title": "STYLE",
+        "cards": [
+          {
+            "content": "APPROACH",
+            "position": 9
+          },
+          {
+            "content": "METHOD",
+            "position": 15
+          },
+          {
+            "content": "PHILOSOPHY",
+            "position": 12
+          },
+          {
+            "content": "SCHOOL",
+            "position": 6
+          }
+        ]
+      },
+      {
+        "title": "RUN-OF-THE-MILL",
+        "cards": [
+          {
+            "content": "BANAL",
+            "position": 10
+          },
+          {
+            "content": "EVERYDAY",
+            "position": 5
+          },
+          {
+            "content": "HUMDRUM",
+            "position": 13
+          },
+          {
+            "content": "PEDESTRIAN",
+            "position": 0
+          }
+        ]
+      },
+      {
+        "title": "STRIPEY THINGS",
+        "cards": [
+          {
+            "content": "BARCODE",
+            "position": 1
+          },
+          {
+            "content": "IBM LOGO",
+            "position": 14
+          },
+          {
+            "content": "RUGBY SHIRT",
+            "position": 8
+          },
+          {
+            "content": "ZEBRA",
+            "position": 4
+          }
+        ]
+      },
+      {
+        "title": "WORDS ON MONOPOLY SQUARES",
+        "cards": [
+          {
+            "content": "AVENUE",
+            "position": 7
+          },
+          {
+            "content": "PARKING",
+            "position": 11
+          },
+          {
+            "content": "RAILROAD",
+            "position": 3
+          },
+          {
+            "content": "TAX",
+            "position": 2
+          }
+        ]
+      }
+    ]
   },
   "2025-11-17": {
     "status": "OK",
@@ -81539,18 +81879,188 @@
     ]
   },
   "2025-11-18": {
-    "status": "ERROR",
-    "errors": [
-      "Not Found"
-    ],
-    "results": []
+    "status": "OK",
+    "id": 934,
+    "print_date": "2025-11-18",
+    "editor": "Wyna Liu",
+    "categories": [
+      {
+        "title": "COMEDIAN",
+        "cards": [
+          {
+            "content": "CLOWN",
+            "position": 9
+          },
+          {
+            "content": "JOKER",
+            "position": 3
+          },
+          {
+            "content": "LAUGH",
+            "position": 15
+          },
+          {
+            "content": "RIOT",
+            "position": 6
+          }
+        ]
+      },
+      {
+        "title": "KINDS OF TOMATOES",
+        "cards": [
+          {
+            "content": "CHERRY",
+            "position": 14
+          },
+          {
+            "content": "GRAPE",
+            "position": 2
+          },
+          {
+            "content": "PLUM",
+            "position": 11
+          },
+          {
+            "content": "ROMA",
+            "position": 4
+          }
+        ]
+      },
+      {
+        "title": "BEST ACTRESS OSCAR WINNERS",
+        "cards": [
+          {
+            "content": "BERRY",
+            "position": 5
+          },
+          {
+            "content": "MADISON",
+            "position": 12
+          },
+          {
+            "content": "STONE",
+            "position": 0
+          },
+          {
+            "content": "SWANK",
+            "position": 10
+          }
+        ]
+      },
+      {
+        "title": "ENDING IN SYNONYMS FOR “LOCATION”",
+        "cards": [
+          {
+            "content": "COMMONPLACE",
+            "position": 8
+          },
+          {
+            "content": "NEEDLEPOINT",
+            "position": 7
+          },
+          {
+            "content": "PARASITE",
+            "position": 1
+          },
+          {
+            "content": "SUNSPOT",
+            "position": 13
+          }
+        ]
+      }
+    ]
   },
   "2025-11-19": {
-    "status": "ERROR",
-    "errors": [
-      "Not Found"
-    ],
-    "results": []
+    "status": "OK",
+    "id": 939,
+    "print_date": "2025-11-19",
+    "editor": "Wyna Liu",
+    "categories": [
+      {
+        "title": "STOCKY",
+        "cards": [
+          {
+            "content": "HUSKY",
+            "position": 8
+          },
+          {
+            "content": "SOLID",
+            "position": 7
+          },
+          {
+            "content": "SQUAT",
+            "position": 0
+          },
+          {
+            "content": "THICK",
+            "position": 13
+          }
+        ]
+      },
+      {
+        "title": "WALK THROUGH",
+        "cards": [
+          {
+            "content": "DIRECT",
+            "position": 10
+          },
+          {
+            "content": "GUIDE",
+            "position": 12
+          },
+          {
+            "content": "LEAD",
+            "position": 5
+          },
+          {
+            "content": "SHEPHERD",
+            "position": 1
+          }
+        ]
+      },
+      {
+        "title": "SECOND WORDS IN POE STORIES, AFTER \"THE\"",
+        "cards": [
+          {
+            "content": "CASK",
+            "position": 9
+          },
+          {
+            "content": "FALL",
+            "position": 3
+          },
+          {
+            "content": "PIT",
+            "position": 2
+          },
+          {
+            "content": "MASQUE",
+            "position": 14
+          }
+        ]
+      },
+      {
+        "title": "ORGAN PLUS A LETTER",
+        "cards": [
+          {
+            "content": "COLONY",
+            "position": 11
+          },
+          {
+            "content": "HEARTH",
+            "position": 15
+          },
+          {
+            "content": "LUNGE",
+            "position": 4
+          },
+          {
+            "content": "SKINK",
+            "position": 6
+          }
+        ]
+      }
+    ]
   },
   "2025-11-20": {
     "status": "ERROR",
@@ -81664,5 +82174,97 @@
       "Not Found"
     ],
     "results": []
+  },
+  "2025-11-24": {
+    "status": "OK",
+    "id": 924,
+    "print_date": "2025-11-24",
+    "editor": "Wyna Liu",
+    "categories": [
+      {
+        "title": "SMALL KITCHEN APPLIANCES",
+        "cards": [
+          {
+            "content": "BLENDER",
+            "position": 15
+          },
+          {
+            "content": "MICROWAVE",
+            "position": 3
+          },
+          {
+            "content": "RICE COOKER",
+            "position": 13
+          },
+          {
+            "content": "TOASTER",
+            "position": 8
+          }
+        ]
+      },
+      {
+        "title": "FEATURES OF A CAR'S CENTER CONSOLE",
+        "cards": [
+          {
+            "content": "AIR CONDITIONER",
+            "position": 1
+          },
+          {
+            "content": "CUP HOLDER",
+            "position": 9
+          },
+          {
+            "content": "RADIO",
+            "position": 6
+          },
+          {
+            "content": "SHIFTER",
+            "position": 14
+          }
+        ]
+      },
+      {
+        "title": "SEEN WHILE GOING THROUGH AIRPORT SECURITY",
+        "cards": [
+          {
+            "content": "BIN",
+            "position": 2
+          },
+          {
+            "content": "CARRY-ON",
+            "position": 11
+          },
+          {
+            "content": "METAL DETECTOR",
+            "position": 12
+          },
+          {
+            "content": "X-RAY",
+            "position": 5
+          }
+        ]
+      },
+      {
+        "title": "ENDING IN COLORS",
+        "cards": [
+          {
+            "content": "INFRARED",
+            "position": 0
+          },
+          {
+            "content": "MARIGOLD",
+            "position": 10
+          },
+          {
+            "content": "STINGRAY",
+            "position": 4
+          },
+          {
+            "content": "ULTRAVIOLET",
+            "position": 7
+          }
+        ]
+      }
+    ]
   }
 }
