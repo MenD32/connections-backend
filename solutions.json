@@ -81215,12 +81215,8 @@
         "title": "LATIN PREPOSITIONS",
         "cards": [
           {
-            "content": "AD",
+            "content": "AB",
             "position": 5
-          },
-          {
-            "content": "CUM",
-            "position": 12
           },
           {
             "content": "PRO",
@@ -81229,6 +81225,10 @@
           {
             "content": "SINE",
             "position": 0
+          },
+          {
+            "content": "SUB",
+            "position": 12
           }
         ]
       }
@@ -81701,7 +81701,7 @@
     "editor": "Wyna Liu",
     "categories": [
       {
-        "title": "STYLE",
+        "title": "TECHNIQUE",
         "cards": [
           {
             "content": "APPROACH",
@@ -81743,7 +81743,7 @@
         ]
       },
       {
-        "title": "STRIPEY THINGS",
+        "title": "STRIPY THINGS",
         "cards": [
           {
             "content": "BARCODE",
@@ -81885,7 +81885,7 @@
     "editor": "Wyna Liu",
     "categories": [
       {
-        "title": "COMEDIAN",
+        "title": "FUNNY PERSON",
         "cards": [
           {
             "content": "CLOWN",
@@ -81948,7 +81948,7 @@
         ]
       },
       {
-        "title": "ENDING IN SYNONYMS FOR “LOCATION”",
+        "title": "ENDING IN SYNONYMS FOR \"LOCATION\"",
         "cards": [
           {
             "content": "COMMONPLACE",
@@ -81998,7 +81998,7 @@
         ]
       },
       {
-        "title": "WALK THROUGH",
+        "title": "STEER",
         "cards": [
           {
             "content": "DIRECT",
@@ -82459,6 +82459,13 @@
     ]
   },
   "2025-11-28": {
+    "status": "ERROR",
+    "errors": [
+      "Not Found"
+    ],
+    "results": []
+  },
+  "2025-11-29": {
     "status": "ERROR",
     "errors": [
       "Not Found"
