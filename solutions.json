@@ -82063,11 +82063,96 @@
     ]
   },
   "2025-11-20": {
-    "status": "ERROR",
-    "errors": [
-      "Not Found"
-    ],
-    "results": []
+    "status": "OK",
+    "id": 947,
+    "print_date": "2025-11-20",
+    "editor": "Wyna Liu",
+    "categories": [
+      {
+        "title": "ADHERE",
+        "cards": [
+          {
+            "content": "FIX",
+            "position": 15
+          },
+          {
+            "content": "PASTE",
+            "position": 7
+          },
+          {
+            "content": "PLASTER",
+            "position": 10
+          },
+          {
+            "content": "STICK",
+            "position": 12
+          }
+        ]
+      },
+      {
+        "title": "GRAZE",
+        "cards": [
+          {
+            "content": "BRUSH",
+            "position": 6
+          },
+          {
+            "content": "KISS",
+            "position": 1
+          },
+          {
+            "content": "SKIM",
+            "position": 9
+          },
+          {
+            "content": "STROKE",
+            "position": 13
+          }
+        ]
+      },
+      {
+        "title": "PARTS OF A TOOTH",
+        "cards": [
+          {
+            "content": "CROWN",
+            "position": 4
+          },
+          {
+            "content": "ENAMEL",
+            "position": 2
+          },
+          {
+            "content": "PULP",
+            "position": 11
+          },
+          {
+            "content": "ROOT",
+            "position": 14
+          }
+        ]
+      },
+      {
+        "title": "WORDS THAT SOUND LIKE TWO LETTERS",
+        "cards": [
+          {
+            "content": "ANY",
+            "position": 8
+          },
+          {
+            "content": "ARTY",
+            "position": 0
+          },
+          {
+            "content": "DECAY",
+            "position": 5
+          },
+          {
+            "content": "ESSAY",
+            "position": 3
+          }
+        ]
+      }
+    ]
   },
   "2025-11-21": {
     "status": "OK",
@@ -82169,11 +82254,96 @@
     "results": []
   },
   "2025-11-23": {
-    "status": "ERROR",
-    "errors": [
-      "Not Found"
-    ],
-    "results": []
+    "status": "OK",
+    "id": 946,
+    "print_date": "2025-11-23",
+    "editor": "Wyna Liu",
+    "categories": [
+      {
+        "title": "LENIENT",
+        "cards": [
+          {
+            "content": "EASY",
+            "position": 6
+          },
+          {
+            "content": "LAX",
+            "position": 4
+          },
+          {
+            "content": "LOOSE",
+            "position": 11
+          },
+          {
+            "content": "SLACK",
+            "position": 13
+          }
+        ]
+      },
+      {
+        "title": "ANIMAL HOMES",
+        "cards": [
+          {
+            "content": "BURROW",
+            "position": 15
+          },
+          {
+            "content": "DEN",
+            "position": 8
+          },
+          {
+            "content": "LODGE",
+            "position": 5
+          },
+          {
+            "content": "WARREN",
+            "position": 2
+          }
+        ]
+      },
+      {
+        "title": "OLIVER STONE MOVIES",
+        "cards": [
+          {
+            "content": "JFK",
+            "position": 0
+          },
+          {
+            "content": "NIXON",
+            "position": 10
+          },
+          {
+            "content": "PLATOON",
+            "position": 14
+          },
+          {
+            "content": "WALL STREET",
+            "position": 3
+          }
+        ]
+      },
+      {
+        "title": "SECOND WORDS IN ABBA HITS",
+        "cards": [
+          {
+            "content": "GIMME",
+            "position": 12
+          },
+          {
+            "content": "MIA",
+            "position": 7
+          },
+          {
+            "content": "QUEEN",
+            "position": 1
+          },
+          {
+            "content": "TROUPER",
+            "position": 9
+          }
+        ]
+      }
+    ]
   },
   "2025-11-24": {
     "status": "OK",
@@ -82360,11 +82530,96 @@
     ]
   },
   "2025-11-26": {
-    "status": "ERROR",
-    "errors": [
-      "Not Found"
-    ],
-    "results": []
+    "status": "OK",
+    "id": 945,
+    "print_date": "2025-11-26",
+    "editor": "Wyna Liu",
+    "categories": [
+      {
+        "title": "VERBS EXPRESSING POSSIBILITY",
+        "cards": [
+          {
+            "content": "CAN",
+            "position": 10
+          },
+          {
+            "content": "COULD",
+            "position": 12
+          },
+          {
+            "content": "MAY",
+            "position": 7
+          },
+          {
+            "content": "MIGHT",
+            "position": 15
+          }
+        ]
+      },
+      {
+        "title": "WOMEN’S NICKNAMES",
+        "cards": [
+          {
+            "content": "DEB",
+            "position": 9
+          },
+          {
+            "content": "JAN",
+            "position": 0
+          },
+          {
+            "content": "KAT",
+            "position": 5
+          },
+          {
+            "content": "SUE",
+            "position": 14
+          }
+        ]
+      },
+      {
+        "title": "FINANCIAL ABBREVIATIONS",
+        "cards": [
+          {
+            "content": "APR",
+            "position": 4
+          },
+          {
+            "content": "CFO",
+            "position": 13
+          },
+          {
+            "content": "IRA",
+            "position": 2
+          },
+          {
+            "content": "SEC",
+            "position": 1
+          }
+        ]
+      },
+      {
+        "title": "BACKWARDS ANIMALS",
+        "cards": [
+          {
+            "content": "FLOW",
+            "position": 8
+          },
+          {
+            "content": "GOD",
+            "position": 6
+          },
+          {
+            "content": "MAR",
+            "position": 3
+          },
+          {
+            "content": "TAB",
+            "position": 11
+          }
+        ]
+      }
+    ]
   },
   "2025-11-27": {
     "status": "OK",
@@ -82559,6 +82814,98 @@
           {
             "content": "WHISTLEBLEW",
             "position": 12
+          }
+        ]
+      }
+    ]
+  },
+  "2025-12-01": {
+    "status": "OK",
+    "id": 926,
+    "print_date": "2025-12-01",
+    "editor": "Wyna Liu",
+    "categories": [
+      {
+        "title": "COMPLETE TURN",
+        "cards": [
+          {
+            "content": "CIRCUIT",
+            "position": 15
+          },
+          {
+            "content": "LAP",
+            "position": 9
+          },
+          {
+            "content": "ORBIT",
+            "position": 2
+          },
+          {
+            "content": "REVOLUTION",
+            "position": 4
+          }
+        ]
+      },
+      {
+        "title": "CIRCULAR THINGS",
+        "cards": [
+          {
+            "content": "FULL MOON",
+            "position": 0
+          },
+          {
+            "content": "LP",
+            "position": 10
+          },
+          {
+            "content": "PIZZA PIE",
+            "position": 3
+          },
+          {
+            "content": "PUPIL",
+            "position": 6
+          }
+        ]
+      },
+      {
+        "title": "KAFKA WORKS, WITH \"THE\"",
+        "cards": [
+          {
+            "content": "CASTLE",
+            "position": 11
+          },
+          {
+            "content": "JUDGMENT",
+            "position": 14
+          },
+          {
+            "content": "METAMORPHOSIS",
+            "position": 5
+          },
+          {
+            "content": "TRIAL",
+            "position": 12
+          }
+        ]
+      },
+      {
+        "title": "STARTING WITH LETTER HOMOPHONES",
+        "cards": [
+          {
+            "content": "EYE CONTACT",
+            "position": 1
+          },
+          {
+            "content": "PEA SOUP",
+            "position": 8
+          },
+          {
+            "content": "SEA CHANGE",
+            "position": 7
+          },
+          {
+            "content": "TEA LEAVES",
+            "position": 13
           }
         ]
       }
