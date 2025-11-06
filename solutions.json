@@ -82323,7 +82323,7 @@
         ]
       },
       {
-        "title": "SECOND WORDS IN ABBA HITS",
+        "title": "SECOND WORDS IN TITLES OF ABBA HITS",
         "cards": [
           {
             "content": "GIMME",
@@ -83018,6 +83018,13 @@
     "results": []
   },
   "2025-12-05": {
+    "status": "ERROR",
+    "errors": [
+      "Not Found"
+    ],
+    "results": []
+  },
+  "2025-12-06": {
     "status": "ERROR",
     "errors": [
       "Not Found"
