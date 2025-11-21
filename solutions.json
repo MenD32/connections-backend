@@ -82939,7 +82939,7 @@
         ]
       },
       {
-        "title": "SEEN AT",
+        "title": "PARK STAPLES",
         "cards": [
           {
             "content": "BENCH",
@@ -84233,5 +84233,12 @@
         ]
       }
     ]
+  },
+  "2025-12-21": {
+    "status": "ERROR",
+    "errors": [
+      "Not Found"
+    ],
+    "results": []
   }
 }
