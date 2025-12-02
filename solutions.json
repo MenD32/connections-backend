@@ -84271,18 +84271,188 @@
     ]
   },
   "2025-12-14": {
-    "status": "ERROR",
-    "errors": [
-      "Not Found"
-    ],
-    "results": []
+    "status": "OK",
+    "id": 975,
+    "print_date": "2025-12-14",
+    "editor": "Wyna Liu",
+    "categories": [
+      {
+        "title": "LAY IT ON THICK",
+        "cards": [
+          {
+            "content": "FAWN",
+            "position": 7
+          },
+          {
+            "content": "FLATTER",
+            "position": 15
+          },
+          {
+            "content": "GUSH",
+            "position": 8
+          },
+          {
+            "content": "PRAISE",
+            "position": 12
+          }
+        ]
+      },
+      {
+        "title": "HANS CHRISTIAN ANDERSON FIGURES",
+        "cards": [
+          {
+            "content": "DUCKLING",
+            "position": 0
+          },
+          {
+            "content": "EMPEROR",
+            "position": 6
+          },
+          {
+            "content": "MERMAID",
+            "position": 9
+          },
+          {
+            "content": "PRINCESS",
+            "position": 3
+          }
+        ]
+      },
+      {
+        "title": "SILENT \"L\"",
+        "cards": [
+          {
+            "content": "CALF",
+            "position": 4
+          },
+          {
+            "content": "CHALK",
+            "position": 10
+          },
+          {
+            "content": "COLONEL",
+            "position": 1
+          },
+          {
+            "content": "WOULD",
+            "position": 13
+          }
+        ]
+      },
+      {
+        "title": "FICTIONAL PIGS",
+        "cards": [
+          {
+            "content": "BABE",
+            "position": 14
+          },
+          {
+            "content": "NAPOLEON",
+            "position": 2
+          },
+          {
+            "content": "PIGLET",
+            "position": 5
+          },
+          {
+            "content": "PORKY",
+            "position": 11
+          }
+        ]
+      }
+    ]
   },
   "2025-12-15": {
-    "status": "ERROR",
-    "errors": [
-      "Not Found"
-    ],
-    "results": []
+    "status": "OK",
+    "id": 974,
+    "print_date": "2025-12-15",
+    "editor": "Wyna Liu",
+    "categories": [
+      {
+        "title": "TOURNAMENT ROUNDS",
+        "cards": [
+          {
+            "content": "FINAL",
+            "position": 10
+          },
+          {
+            "content": "QUALIFIER",
+            "position": 13
+          },
+          {
+            "content": "QUARTER",
+            "position": 2
+          },
+          {
+            "content": "SEMI",
+            "position": 4
+          }
+        ]
+      },
+      {
+        "title": "ENORMOUS",
+        "cards": [
+          {
+            "content": "BUMPER",
+            "position": 6
+          },
+          {
+            "content": "GIANT",
+            "position": 9
+          },
+          {
+            "content": "MONSTER",
+            "position": 1
+          },
+          {
+            "content": "TITANIC",
+            "position": 12
+          }
+        ]
+      },
+      {
+        "title": "DISREPUTABLE ESTABLISHMENT",
+        "cards": [
+          {
+            "content": "DIVE",
+            "position": 14
+          },
+          {
+            "content": "DUMP",
+            "position": 7
+          },
+          {
+            "content": "HOLE",
+            "position": 11
+          },
+          {
+            "content": "JOINT",
+            "position": 8
+          }
+        ]
+      },
+      {
+        "title": "WHAT \"C\" MIGHT MEAN",
+        "cards": [
+          {
+            "content": "CELSIUS",
+            "position": 5
+          },
+          {
+            "content": "COLD",
+            "position": 15
+          },
+          {
+            "content": "ONE HUNDRED",
+            "position": 3
+          },
+          {
+            "content": "SEE",
+            "position": 0
+          }
+        ]
+      }
+    ]
   },
   "2025-12-16": {
     "status": "OK",
@@ -84745,11 +84915,96 @@
     ]
   },
   "2025-12-21": {
-    "status": "ERROR",
-    "errors": [
-      "Not Found"
-    ],
-    "results": []
+    "status": "OK",
+    "id": 976,
+    "print_date": "2025-12-21",
+    "editor": "Wyna Liu",
+    "categories": [
+      {
+        "title": "FEATURES OF A TEAPOT",
+        "cards": [
+          {
+            "content": "HANDLE",
+            "position": 11
+          },
+          {
+            "content": "LID",
+            "position": 1
+          },
+          {
+            "content": "SPOUT",
+            "position": 8
+          },
+          {
+            "content": "STRAINER",
+            "position": 14
+          }
+        ]
+      },
+      {
+        "title": "LIBRARY SECTIONS",
+        "cards": [
+          {
+            "content": "CIRCULATION",
+            "position": 5
+          },
+          {
+            "content": "PERIODICALS",
+            "position": 12
+          },
+          {
+            "content": "REFERENCE",
+            "position": 10
+          },
+          {
+            "content": "STACKS",
+            "position": 7
+          }
+        ]
+      },
+      {
+        "title": "ARISE",
+        "cards": [
+          {
+            "content": "EMERGE",
+            "position": 15
+          },
+          {
+            "content": "FLOW",
+            "position": 3
+          },
+          {
+            "content": "ISSUE",
+            "position": 6
+          },
+          {
+            "content": "RESULT",
+            "position": 13
+          }
+        ]
+      },
+      {
+        "title": "___DROP",
+        "cards": [
+          {
+            "content": "AIR",
+            "position": 2
+          },
+          {
+            "content": "EAVES",
+            "position": 4
+          },
+          {
+            "content": "GUM",
+            "position": 9
+          },
+          {
+            "content": "RAIN",
+            "position": 0
+          }
+        ]
+      }
+    ]
   },
   "2025-12-22": {
     "status": "OK",
@@ -84844,11 +85099,96 @@
     ]
   },
   "2025-12-23": {
-    "status": "ERROR",
-    "errors": [
-      "Not Found"
-    ],
-    "results": []
+    "status": "OK",
+    "id": 973,
+    "print_date": "2025-12-23",
+    "editor": "Wyna Liu",
+    "categories": [
+      {
+        "title": "VULNERABILITY",
+        "cards": [
+          {
+            "content": "ACHILLES’ HEEL",
+            "position": 6
+          },
+          {
+            "content": "DOWNFALL",
+            "position": 12
+          },
+          {
+            "content": "KRYPTONITE",
+            "position": 3
+          },
+          {
+            "content": "SOFT SPOT",
+            "position": 9
+          }
+        ]
+      },
+      {
+        "title": "FREUDIAN CONCEPTS",
+        "cards": [
+          {
+            "content": "FIXATION",
+            "position": 5
+          },
+          {
+            "content": "OEDIPUS COMPLEX",
+            "position": 8
+          },
+          {
+            "content": "SUPEREGO",
+            "position": 15
+          },
+          {
+            "content": "UNCONSCIOUS",
+            "position": 2
+          }
+        ]
+      },
+      {
+        "title": "CHARACTERS IN CAPES",
+        "cards": [
+          {
+            "content": "DARTH VADER",
+            "position": 13
+          },
+          {
+            "content": "DRACULA",
+            "position": 0
+          },
+          {
+            "content": "LITTLE RED RIDING HOOD",
+            "position": 10
+          },
+          {
+            "content": "SUPERMAN",
+            "position": 7
+          }
+        ]
+      },
+      {
+        "title": "STARTING WITH SLANG FOR SAUSAGE",
+        "cards": [
+          {
+            "content": "BRATZ",
+            "position": 14
+          },
+          {
+            "content": "DOGMA",
+            "position": 1
+          },
+          {
+            "content": "FRANKENSTEIN",
+            "position": 4
+          },
+          {
+            "content": "LINKLATER",
+            "position": 11
+          }
+        ]
+      }
+    ]
   },
   "2025-12-24": {
     "status": "OK",
@@ -85134,11 +85474,96 @@
     ]
   },
   "2025-12-28": {
-    "status": "ERROR",
-    "errors": [
-      "Not Found"
-    ],
-    "results": []
+    "status": "OK",
+    "id": 972,
+    "print_date": "2025-12-28",
+    "editor": "Wyna Liu",
+    "categories": [
+      {
+        "title": "CONTAINERS FOR SHIPPING",
+        "cards": [
+          {
+            "content": "BOX",
+            "position": 4
+          },
+          {
+            "content": "ENVELOPE",
+            "position": 7
+          },
+          {
+            "content": "MAILER",
+            "position": 15
+          },
+          {
+            "content": "TUBE",
+            "position": 10
+          }
+        ]
+      },
+      {
+        "title": "UNMOVING",
+        "cards": [
+          {
+            "content": "CONSTANT",
+            "position": 13
+          },
+          {
+            "content": "STATIC",
+            "position": 11
+          },
+          {
+            "content": "STATIONARY",
+            "position": 5
+          },
+          {
+            "content": "STILL",
+            "position": 2
+          }
+        ]
+      },
+      {
+        "title": "MECHANICAL WATCH PARTS",
+        "cards": [
+          {
+            "content": "GEAR",
+            "position": 6
+          },
+          {
+            "content": "PAWL",
+            "position": 12
+          },
+          {
+            "content": "RATCHET",
+            "position": 9
+          },
+          {
+            "content": "SPRING",
+            "position": 1
+          }
+        ]
+      },
+      {
+        "title": "DOGS WITH FIRST LETTER CHANGED",
+        "cards": [
+          {
+            "content": "DUSKY",
+            "position": 0
+          },
+          {
+            "content": "NOODLE",
+            "position": 8
+          },
+          {
+            "content": "PERRIER",
+            "position": 3
+          },
+          {
+            "content": "SOXER",
+            "position": 14
+          }
+        ]
+      }
+    ]
   },
   "2025-12-29": {
     "status": "OK",
@@ -85240,6 +85665,13 @@
     "results": []
   },
   "2025-12-31": {
+    "status": "ERROR",
+    "errors": [
+      "Not Found"
+    ],
+    "results": []
+  },
+  "2026-01-01": {
     "status": "ERROR",
     "errors": [
       "Not Found"
