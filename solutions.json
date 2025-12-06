@@ -85283,11 +85283,96 @@
     ]
   },
   "2025-12-25": {
-    "status": "ERROR",
-    "errors": [
-      "Not Found"
-    ],
-    "results": []
+    "status": "OK",
+    "id": 988,
+    "print_date": "2025-12-25",
+    "editor": "Wyna Liu",
+    "categories": [
+      {
+        "title": "ORNATE, AS PROSE",
+        "cards": [
+          {
+            "content": "EXCESSIVE",
+            "position": 12
+          },
+          {
+            "content": "FLOWERY",
+            "position": 6
+          },
+          {
+            "content": "MELODRAMATIC",
+            "position": 15
+          },
+          {
+            "content": "PURPLE",
+            "position": 3
+          }
+        ]
+      },
+      {
+        "title": "CREATE",
+        "cards": [
+          {
+            "content": "COIN",
+            "position": 9
+          },
+          {
+            "content": "HATCH",
+            "position": 11
+          },
+          {
+            "content": "FASHION",
+            "position": 13
+          },
+          {
+            "content": "MAKE UP",
+            "position": 2
+          }
+        ]
+      },
+      {
+        "title": "THINGS WITH STEMS",
+        "cards": [
+          {
+            "content": "CHERRY",
+            "position": 10
+          },
+          {
+            "content": "FLOWER",
+            "position": 7
+          },
+          {
+            "content": "MUSICAL NOTE",
+            "position": 1
+          },
+          {
+            "content": "WINE GLASS",
+            "position": 4
+          }
+        ]
+      },
+      {
+        "title": "COMPRISED OF SOLFEGE (DO-RE-MI)",
+        "cards": [
+          {
+            "content": "LAREDO",
+            "position": 0
+          },
+          {
+            "content": "MIRE",
+            "position": 14
+          },
+          {
+            "content": "RETIRE",
+            "position": 8
+          },
+          {
+            "content": "SOLTI",
+            "position": 5
+          }
+        ]
+      }
+    ]
   },
   "2025-12-26": {
     "status": "OK",
@@ -85658,25 +85743,280 @@
     ]
   },
   "2025-12-30": {
-    "status": "ERROR",
-    "errors": [
-      "Not Found"
-    ],
-    "results": []
+    "status": "OK",
+    "id": 994,
+    "print_date": "2025-12-30",
+    "editor": "Wyna Liu",
+    "categories": [
+      {
+        "title": "INTENTION",
+        "cards": [
+          {
+            "content": "AIM",
+            "position": 12
+          },
+          {
+            "content": "GOAL",
+            "position": 3
+          },
+          {
+            "content": "OBJECT",
+            "position": 9
+          },
+          {
+            "content": "POINT",
+            "position": 7
+          }
+        ]
+      },
+      {
+        "title": "MEASURING DEVICES",
+        "cards": [
+          {
+            "content": "CLOCK",
+            "position": 5
+          },
+          {
+            "content": "COMPASS",
+            "position": 2
+          },
+          {
+            "content": "RULER",
+            "position": 13
+          },
+          {
+            "content": "SCALE",
+            "position": 10
+          }
+        ]
+      },
+      {
+        "title": "PARTS OF A FLIGHT",
+        "cards": [
+          {
+            "content": "CLIMB",
+            "position": 8
+          },
+          {
+            "content": "TAKEOFF",
+            "position": 15
+          },
+          {
+            "content": "TAXI",
+            "position": 0
+          },
+          {
+            "content": "TOUCHDOWN",
+            "position": 4
+          }
+        ]
+      },
+      {
+        "title": "BIKE ACCESSORIES",
+        "cards": [
+          {
+            "content": "BASKET",
+            "position": 6
+          },
+          {
+            "content": "BELL",
+            "position": 1
+          },
+          {
+            "content": "RACK",
+            "position": 11
+          },
+          {
+            "content": "REFLECTOR",
+            "position": 14
+          }
+        ]
+      }
+    ]
   },
   "2025-12-31": {
-    "status": "ERROR",
-    "errors": [
-      "Not Found"
-    ],
-    "results": []
+    "status": "OK",
+    "id": 991,
+    "print_date": "2025-12-31",
+    "editor": "Wyna Liu",
+    "categories": [
+      {
+        "title": "HAPPY NEW YEAR!",
+        "cards": [
+          {
+            "content": "BALL DROP",
+            "position": 15
+          },
+          {
+            "content": "CHAMPAGNE FLUTE",
+            "position": 1
+          },
+          {
+            "content": "FIREWORKS",
+            "position": 8
+          },
+          {
+            "content": "NOISEMAKER",
+            "position": 5
+          }
+        ]
+      },
+      {
+        "title": "PLACES WHERE THINGS DISAPPEAR",
+        "cards": [
+          {
+            "content": "BERMUDA TRIANGLE",
+            "position": 4
+          },
+          {
+            "content": "BLACK HOLE",
+            "position": 12
+          },
+          {
+            "content": "COUCH CUSHIONS",
+            "position": 9
+          },
+          {
+            "content": "DRYER",
+            "position": 7
+          }
+        ]
+      },
+      {
+        "title": "ASSOCIATED WITH PHILADELPHIA",
+        "cards": [
+          {
+            "content": "BROTHERLY LOVE",
+            "position": 14
+          },
+          {
+            "content": "CHEESESTEAK",
+            "position": 11
+          },
+          {
+            "content": "LIBERTY BELL",
+            "position": 6
+          },
+          {
+            "content": "ROCKY",
+            "position": 2
+          }
+        ]
+      },
+      {
+        "title": "STARTING WITH BODIES OF WATER",
+        "cards": [
+          {
+            "content": "BAY LEAF",
+            "position": 13
+          },
+          {
+            "content": "CHANNEL SURF",
+            "position": 10
+          },
+          {
+            "content": "SEA BASS",
+            "position": 3
+          },
+          {
+            "content": "SOUND BARRIER",
+            "position": 0
+          }
+        ]
+      }
+    ]
   },
   "2026-01-01": {
-    "status": "ERROR",
-    "errors": [
-      "Not Found"
-    ],
-    "results": []
+    "status": "OK",
+    "id": 989,
+    "print_date": "2026-01-01",
+    "editor": "Wyna Liu",
+    "categories": [
+      {
+        "title": "BIT OF MAGIC",
+        "cards": [
+          {
+            "content": "CHARM",
+            "position": 12
+          },
+          {
+            "content": "CURSE",
+            "position": 4
+          },
+          {
+            "content": "HEX",
+            "position": 15
+          },
+          {
+            "content": "SPELL",
+            "position": 10
+          }
+        ]
+      },
+      {
+        "title": "REMOVE THE COVERING FROM",
+        "cards": [
+          {
+            "content": "PEEL",
+            "position": 14
+          },
+          {
+            "content": "SHELL",
+            "position": 11
+          },
+          {
+            "content": "SHUCK",
+            "position": 0
+          },
+          {
+            "content": "SKIN",
+            "position": 5
+          }
+        ]
+      },
+      {
+        "title": "\"ENTHUSIAST\" EQUIVALENT",
+        "cards": [
+          {
+            "content": "BUFF",
+            "position": 13
+          },
+          {
+            "content": "HEAD",
+            "position": 2
+          },
+          {
+            "content": "HOUND",
+            "position": 8
+          },
+          {
+            "content": "RAT",
+            "position": 3
+          }
+        ]
+      },
+      {
+        "title": "BUTTER___",
+        "cards": [
+          {
+            "content": "FINGERS",
+            "position": 9
+          },
+          {
+            "content": "FLY",
+            "position": 7
+          },
+          {
+            "content": "NUT",
+            "position": 6
+          },
+          {
+            "content": "SCOTCH",
+            "position": 1
+          }
+        ]
+      }
+    ]
   },
   "2026-01-02": {
     "status": "OK",
@@ -85771,11 +86111,96 @@
     ]
   },
   "2026-01-03": {
-    "status": "ERROR",
-    "errors": [
-      "Not Found"
-    ],
-    "results": []
+    "status": "OK",
+    "id": 993,
+    "print_date": "2026-01-03",
+    "editor": "Wyna Liu",
+    "categories": [
+      {
+        "title": "ARMY RANKS",
+        "cards": [
+          {
+            "content": "CAPTAIN",
+            "position": 15
+          },
+          {
+            "content": "GENERAL",
+            "position": 0
+          },
+          {
+            "content": "MAJOR",
+            "position": 10
+          },
+          {
+            "content": "PRIVATE",
+            "position": 8
+          }
+        ]
+      },
+      {
+        "title": "LEGWEAR IN THE SINGULAR",
+        "cards": [
+          {
+            "content": "JEAN",
+            "position": 9
+          },
+          {
+            "content": "JOGGER",
+            "position": 13
+          },
+          {
+            "content": "OVERALL",
+            "position": 4
+          },
+          {
+            "content": "SLACK",
+            "position": 3
+          }
+        ]
+      },
+      {
+        "title": "RIHANNA #1 HITS",
+        "cards": [
+          {
+            "content": "DIAMONDS",
+            "position": 11
+          },
+          {
+            "content": "SOS",
+            "position": 14
+          },
+          {
+            "content": "UMBRELLA",
+            "position": 6
+          },
+          {
+            "content": "WORK",
+            "position": 5
+          }
+        ]
+      },
+      {
+        "title": "WET ___",
+        "cards": [
+          {
+            "content": "BAR",
+            "position": 1
+          },
+          {
+            "content": "BLANKET",
+            "position": 2
+          },
+          {
+            "content": "NURSE",
+            "position": 7
+          },
+          {
+            "content": "WILLY",
+            "position": 12
+          }
+        ]
+      }
+    ]
   },
   "2026-01-04": {
     "status": "OK",
@@ -85868,5 +86293,12 @@
         ]
       }
     ]
+  },
+  "2026-01-05": {
+    "status": "ERROR",
+    "errors": [
+      "Not Found"
+    ],
+    "results": []
   }
 }
