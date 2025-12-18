@@ -85007,96 +85007,11 @@
     ]
   },
   "2025-12-22": {
-    "status": "OK",
-    "id": 951,
-    "print_date": "2025-12-22",
-    "editor": "Wyna Liu",
-    "categories": [
-      {
-        "title": "INFLUX",
-        "cards": [
-          {
-            "content": "RASH",
-            "position": 6
-          },
-          {
-            "content": "RUSH",
-            "position": 0
-          },
-          {
-            "content": "SURGE",
-            "position": 15
-          },
-          {
-            "content": "WAVE",
-            "position": 8
-          }
-        ]
-      },
-      {
-        "title": "SUBSEQUENT",
-        "cards": [
-          {
-            "content": "COMING",
-            "position": 7
-          },
-          {
-            "content": "FOLLOWING",
-            "position": 13
-          },
-          {
-            "content": "FUTURE",
-            "position": 10
-          },
-          {
-            "content": "LATER",
-            "position": 3
-          }
-        ]
-      },
-      {
-        "title": "KINDS OF CARDS",
-        "cards": [
-          {
-            "content": "BUSINESS",
-            "position": 9
-          },
-          {
-            "content": "GREETING",
-            "position": 4
-          },
-          {
-            "content": "MEMBERSHIP",
-            "position": 14
-          },
-          {
-            "content": "PLAYING",
-            "position": 2
-          }
-        ]
-      },
-      {
-        "title": "COLORS MINUS LAST LETTER",
-        "cards": [
-          {
-            "content": "BROW",
-            "position": 11
-          },
-          {
-            "content": "CYA",
-            "position": 5
-          },
-          {
-            "content": "PIN",
-            "position": 1
-          },
-          {
-            "content": "WHIT",
-            "position": 12
-          }
-        ]
-      }
-    ]
+    "status": "ERROR",
+    "errors": [
+      "Not Found"
+    ],
+    "results": []
   },
   "2025-12-23": {
     "status": "OK",
@@ -86322,7 +86237,7 @@
         ]
       },
       {
-        "title": "EXTREMITY",
+        "title": "FURTHEST POINT",
         "cards": [
           {
             "content": "END",
@@ -86364,7 +86279,7 @@
         ]
       },
       {
-        "title": "WHAT “V” MIGHT MEAN",
+        "title": "WHAT \"V\" MIGHT MEAN",
         "cards": [
           {
             "content": "FIVE",
@@ -86393,27 +86308,6 @@
     "editor": "Wyna Liu",
     "categories": [
       {
-        "title": "RESONANT",
-        "cards": [
-          {
-            "content": "CLEAR",
-            "position": 4
-          },
-          {
-            "content": "DEEP",
-            "position": 11
-          },
-          {
-            "content": "FULL",
-            "position": 13
-          },
-          {
-            "content": "RICH",
-            "position": 8
-          }
-        ]
-      },
-      {
         "title": "APARTMENT",
         "cards": [
           {
@@ -86431,6 +86325,27 @@
           {
             "content": "QUARTERS",
             "position": 2
+          }
+        ]
+      },
+      {
+        "title": "SONOROUS",
+        "cards": [
+          {
+            "content": "CLEAR",
+            "position": 4
+          },
+          {
+            "content": "DEEP",
+            "position": 11
+          },
+          {
+            "content": "FULL",
+            "position": 13
+          },
+          {
+            "content": "RICH",
+            "position": 8
           }
         ]
       },
@@ -86548,7 +86463,7 @@
         ]
       },
       {
-        "title": "THINGS PRESSED IN A PRESS",
+        "title": "PRESSED USING A PRESS",
         "cards": [
           {
             "content": "CIDER",
@@ -86598,7 +86513,7 @@
         ]
       },
       {
-        "title": "INFRACTIONS",
+        "title": "BREAK THE RULES",
         "cards": [
           {
             "content": "JAYWALK",
@@ -86761,27 +86676,6 @@
     "editor": "Wyna Liu",
     "categories": [
       {
-        "title": "SOFTWARE ENVIRONMENTS",
-        "cards": [
-          {
-            "content": "APP",
-            "position": 7
-          },
-          {
-            "content": "DESKTOP",
-            "position": 10
-          },
-          {
-            "content": "MOBILE",
-            "position": 15
-          },
-          {
-            "content": "WEB",
-            "position": 5
-          }
-        ]
-      },
-      {
         "title": "HOLLOW CYLINDERS",
         "cards": [
           {
@@ -86799,6 +86693,27 @@
           {
             "content": "TUBE",
             "position": 4
+          }
+        ]
+      },
+      {
+        "title": "SOFTWARE PLATFORMS",
+        "cards": [
+          {
+            "content": "APP",
+            "position": 7
+          },
+          {
+            "content": "DESKTOP",
+            "position": 10
+          },
+          {
+            "content": "MOBILE",
+            "position": 15
+          },
+          {
+            "content": "WEB",
+            "position": 5
           }
         ]
       },
@@ -87137,6 +87052,13 @@
     "results": []
   },
   "2026-01-16": {
+    "status": "ERROR",
+    "errors": [
+      "Not Found"
+    ],
+    "results": []
+  },
+  "2026-01-17": {
     "status": "ERROR",
     "errors": [
       "Not Found"
