@@ -87123,38 +87123,555 @@
     ]
   },
   "2026-01-14": {
-    "status": "ERROR",
-    "errors": [
-      "Not Found"
-    ],
-    "results": []
+    "status": "OK",
+    "id": 1011,
+    "print_date": "2026-01-14",
+    "editor": "Wyna Liu",
+    "categories": [
+      {
+        "title": "RECEIVER OF GOODS OR SERVICES",
+        "cards": [
+          {
+            "content": "ACCOUNT",
+            "position": 11
+          },
+          {
+            "content": "CLIENT",
+            "position": 6
+          },
+          {
+            "content": "CONSUMER",
+            "position": 15
+          },
+          {
+            "content": "USER",
+            "position": 12
+          }
+        ]
+      },
+      {
+        "title": "FIXED",
+        "cards": [
+          {
+            "content": "FAST",
+            "position": 8
+          },
+          {
+            "content": "FIRM",
+            "position": 4
+          },
+          {
+            "content": "SECURE",
+            "position": 10
+          },
+          {
+            "content": "TIGHT",
+            "position": 14
+          }
+        ]
+      },
+      {
+        "title": "STARTING WITH WEATHER CONDITIONS",
+        "cards": [
+          {
+            "content": "FROSTY",
+            "position": 0
+          },
+          {
+            "content": "MISTLETOE",
+            "position": 7
+          },
+          {
+            "content": "RAINMAKER",
+            "position": 3
+          },
+          {
+            "content": "SNOWMAN",
+            "position": 1
+          }
+        ]
+      },
+      {
+        "title": "SILENT ___",
+        "cards": [
+          {
+            "content": "AUCTION",
+            "position": 2
+          },
+          {
+            "content": "MOVIE",
+            "position": 5
+          },
+          {
+            "content": "PARTNER",
+            "position": 9
+          },
+          {
+            "content": "TREATMENT",
+            "position": 13
+          }
+        ]
+      }
+    ]
   },
   "2026-01-15": {
-    "status": "ERROR",
-    "errors": [
-      "Not Found"
-    ],
-    "results": []
+    "status": "OK",
+    "id": 1006,
+    "print_date": "2026-01-15",
+    "editor": "Wyna Liu",
+    "categories": [
+      {
+        "title": "FEATURED IN GOLDILOCKS AND THE THREE BEARS",
+        "cards": [
+          {
+            "content": "BEAR",
+            "position": 3
+          },
+          {
+            "content": "BED",
+            "position": 10
+          },
+          {
+            "content": "GOLDILOCKS",
+            "position": 5
+          },
+          {
+            "content": "PORRIDGE",
+            "position": 15
+          }
+        ]
+      },
+      {
+        "title": "MAKEUP",
+        "cards": [
+          {
+            "content": "BRONZER",
+            "position": 14
+          },
+          {
+            "content": "FOUNDATION",
+            "position": 12
+          },
+          {
+            "content": "LINER",
+            "position": 11
+          },
+          {
+            "content": "STAIN",
+            "position": 6
+          }
+        ]
+      },
+      {
+        "title": "ENDING WITH DRINKING VESSELS",
+        "cards": [
+          {
+            "content": "FIBERGLASS",
+            "position": 8
+          },
+          {
+            "content": "SILVERSTEIN",
+            "position": 1
+          },
+          {
+            "content": "SMUG",
+            "position": 9
+          },
+          {
+            "content": "STUMBLER",
+            "position": 13
+          }
+        ]
+      },
+      {
+        "title": "HOMOPHONES OF SYNONYMS FOR “BRUTAL”",
+        "cards": [
+          {
+            "content": "GOREY",
+            "position": 0
+          },
+          {
+            "content": "GRIMM",
+            "position": 4
+          },
+          {
+            "content": "GRIZZLY",
+            "position": 2
+          },
+          {
+            "content": "SCARRY",
+            "position": 7
+          }
+        ]
+      }
+    ]
   },
   "2026-01-16": {
-    "status": "ERROR",
-    "errors": [
-      "Not Found"
-    ],
-    "results": []
+    "status": "OK",
+    "id": 1005,
+    "print_date": "2026-01-16",
+    "editor": "Wyna Liu",
+    "categories": [
+      {
+        "title": "COMPONENTS OF KID’S BEDTIME ROUTINE",
+        "cards": [
+          {
+            "content": "BATH",
+            "position": 2
+          },
+          {
+            "content": "BRUSHING",
+            "position": 10
+          },
+          {
+            "content": "PAJAMAS",
+            "position": 7
+          },
+          {
+            "content": "STORY",
+            "position": 13
+          }
+        ]
+      },
+      {
+        "title": "KINDS OF HATS",
+        "cards": [
+          {
+            "content": "DERBY",
+            "position": 12
+          },
+          {
+            "content": "FEDORA",
+            "position": 15
+          },
+          {
+            "content": "PANAMA",
+            "position": 0
+          },
+          {
+            "content": "PORKPIE",
+            "position": 9
+          }
+        ]
+      },
+      {
+        "title": "MUSICAL ACTS WITH “A” AS THE ONLY VOWEL",
+        "cards": [
+          {
+            "content": "ALABAMA",
+            "position": 1
+          },
+          {
+            "content": "BANANARAMA",
+            "position": 5
+          },
+          {
+            "content": "KANSAS",
+            "position": 11
+          },
+          {
+            "content": "SANTANA",
+            "position": 4
+          }
+        ]
+      },
+      {
+        "title": "GRAND ___",
+        "cards": [
+          {
+            "content": "BAHAMA",
+            "position": 3
+          },
+          {
+            "content": "CANYON",
+            "position": 14
+          },
+          {
+            "content": "SLAM",
+            "position": 6
+          },
+          {
+            "content": "PIANO",
+            "position": 8
+          }
+        ]
+      }
+    ]
   },
   "2026-01-17": {
-    "status": "ERROR",
-    "errors": [
-      "Not Found"
-    ],
-    "results": []
+    "status": "OK",
+    "id": 1009,
+    "print_date": "2026-01-17",
+    "editor": "Wyna Liu",
+    "categories": [
+      {
+        "title": "APPLY A LAYER TO",
+        "cards": [
+          {
+            "content": "BLANKET",
+            "position": 3
+          },
+          {
+            "content": "COAT",
+            "position": 7
+          },
+          {
+            "content": "COVER",
+            "position": 9
+          },
+          {
+            "content": "PLASTER",
+            "position": 0
+          }
+        ]
+      },
+      {
+        "title": "THROW",
+        "cards": [
+          {
+            "content": "CAST",
+            "position": 10
+          },
+          {
+            "content": "HURL",
+            "position": 13
+          },
+          {
+            "content": "PELT",
+            "position": 4
+          },
+          {
+            "content": "SLING",
+            "position": 1
+          }
+        ]
+      },
+      {
+        "title": "ANAGRAMS",
+        "cards": [
+          {
+            "content": "INKS",
+            "position": 11
+          },
+          {
+            "content": "KINS",
+            "position": 14
+          },
+          {
+            "content": "SINK",
+            "position": 5
+          },
+          {
+            "content": "SKIN",
+            "position": 8
+          }
+        ]
+      },
+      {
+        "title": "FIRST WORDS OF KID’S GAMES",
+        "cards": [
+          {
+            "content": "CAPTURE",
+            "position": 15
+          },
+          {
+            "content": "HIDE",
+            "position": 2
+          },
+          {
+            "content": "RED",
+            "position": 6
+          },
+          {
+            "content": "SIMON",
+            "position": 12
+          }
+        ]
+      }
+    ]
   },
   "2026-01-18": {
-    "status": "ERROR",
-    "errors": [
-      "Not Found"
-    ],
-    "results": []
+    "status": "OK",
+    "id": 1012,
+    "print_date": "2026-01-18",
+    "editor": "Wyna Liu",
+    "categories": [
+      {
+        "title": "FEATURES OF A DUCK",
+        "cards": [
+          {
+            "content": "BILL",
+            "position": 6
+          },
+          {
+            "content": "FEATHERS",
+            "position": 15
+          },
+          {
+            "content": "WEBBING",
+            "position": 12
+          },
+          {
+            "content": "WINGS",
+            "position": 9
+          }
+        ]
+      },
+      {
+        "title": "DESTROY",
+        "cards": [
+          {
+            "content": "BREAK",
+            "position": 11
+          },
+          {
+            "content": "DAMAGE",
+            "position": 4
+          },
+          {
+            "content": "TOTAL",
+            "position": 3
+          },
+          {
+            "content": "WRECK",
+            "position": 13
+          }
+        ]
+      },
+      {
+        "title": "FOUND ON A BOOK JACKET",
+        "cards": [
+          {
+            "content": "AUTHOR",
+            "position": 8
+          },
+          {
+            "content": "QUOTE",
+            "position": 0
+          },
+          {
+            "content": "SYNOPSIS",
+            "position": 14
+          },
+          {
+            "content": "TITLE",
+            "position": 5
+          }
+        ]
+      },
+      {
+        "title": "CLASSIC HOLLYWOOD ACTORS",
+        "cards": [
+          {
+            "content": "COOPER",
+            "position": 10
+          },
+          {
+            "content": "GRANT",
+            "position": 7
+          },
+          {
+            "content": "PECK",
+            "position": 1
+          },
+          {
+            "content": "PRICE",
+            "position": 2
+          }
+        ]
+      }
+    ]
+  },
+  "2026-01-19": {
+    "status": "OK",
+    "id": 1008,
+    "print_date": "2026-01-19",
+    "editor": "Wyna Liu",
+    "categories": [
+      {
+        "title": "INEXPERIENCED",
+        "cards": [
+          {
+            "content": "FRESH",
+            "position": 8
+          },
+          {
+            "content": "GREEN",
+            "position": 5
+          },
+          {
+            "content": "NEW",
+            "position": 15
+          },
+          {
+            "content": "RAW",
+            "position": 12
+          }
+        ]
+      },
+      {
+        "title": "🤑",
+        "cards": [
+          {
+            "content": "BUNDLE",
+            "position": 10
+          },
+          {
+            "content": "FORTUNE",
+            "position": 13
+          },
+          {
+            "content": "MINT",
+            "position": 1
+          },
+          {
+            "content": "PILE",
+            "position": 7
+          }
+        ]
+      },
+      {
+        "title": "MEASURED BY SI UNITS",
+        "cards": [
+          {
+            "content": "CURRENT",
+            "position": 9
+          },
+          {
+            "content": "LENGTH",
+            "position": 14
+          },
+          {
+            "content": "MASS",
+            "position": 6
+          },
+          {
+            "content": "TIME",
+            "position": 3
+          }
+        ]
+      },
+      {
+        "title": "WORDS AFTER “QUICK”",
+        "cards": [
+          {
+            "content": "BUCK",
+            "position": 4
+          },
+          {
+            "content": "SAND",
+            "position": 11
+          },
+          {
+            "content": "SILVER",
+            "position": 0
+          },
+          {
+            "content": "STUDY",
+            "position": 2
+          }
+        ]
+      }
+    ]
   }
 }
