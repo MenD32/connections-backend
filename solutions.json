@@ -87284,7 +87284,7 @@
         ]
       },
       {
-        "title": "HOMOPHONES OF SYNONYMS FOR “BRUTAL”",
+        "title": "HOMOPHONES OF WORDS MEANING “BRUTAL”",
         "cards": [
           {
             "content": "GOREY",
@@ -87853,6 +87853,98 @@
           {
             "content": "PATRON",
             "position": 6
+          }
+        ]
+      }
+    ]
+  },
+  "2026-01-22": {
+    "status": "OK",
+    "id": 992,
+    "print_date": "2026-01-22",
+    "editor": "Wyna Liu",
+    "categories": [
+      {
+        "title": "WELL-DEFINED, AS AN IMAGE",
+        "cards": [
+          {
+            "content": "CLEAR",
+            "position": 9
+          },
+          {
+            "content": "CRISP",
+            "position": 6
+          },
+          {
+            "content": "DISTINCT",
+            "position": 14
+          },
+          {
+            "content": "SHARP",
+            "position": 3
+          }
+        ]
+      },
+      {
+        "title": "FRUIT DESSERTS",
+        "cards": [
+          {
+            "content": "COBBLER",
+            "position": 10
+          },
+          {
+            "content": "CRUMBLE",
+            "position": 12
+          },
+          {
+            "content": "STRUDEL",
+            "position": 15
+          },
+          {
+            "content": "TURNOVER",
+            "position": 4
+          }
+        ]
+      },
+      {
+        "title": "BUNGLE",
+        "cards": [
+          {
+            "content": "FLUFF",
+            "position": 13
+          },
+          {
+            "content": "FUMBLE",
+            "position": 1
+          },
+          {
+            "content": "MISS",
+            "position": 7
+          },
+          {
+            "content": "TRIP",
+            "position": 11
+          }
+        ]
+      },
+      {
+        "title": "MAGAZINES PLUS A LETTER",
+        "cards": [
+          {
+            "content": "ELLEN",
+            "position": 5
+          },
+          {
+            "content": "SPINY",
+            "position": 2
+          },
+          {
+            "content": "TIMER",
+            "position": 0
+          },
+          {
+            "content": "USE",
+            "position": 8
           }
         ]
       }
