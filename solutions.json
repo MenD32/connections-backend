@@ -87129,27 +87129,6 @@
     "editor": "Wyna Liu",
     "categories": [
       {
-        "title": "RECEIVER OF GOODS OR SERVICES",
-        "cards": [
-          {
-            "content": "ACCOUNT",
-            "position": 11
-          },
-          {
-            "content": "CLIENT",
-            "position": 6
-          },
-          {
-            "content": "CONSUMER",
-            "position": 15
-          },
-          {
-            "content": "USER",
-            "position": 12
-          }
-        ]
-      },
-      {
         "title": "FIXED",
         "cards": [
           {
@@ -87167,6 +87146,27 @@
           {
             "content": "TIGHT",
             "position": 14
+          }
+        ]
+      },
+      {
+        "title": "RECEIVER OF GOODS OR SERVICES",
+        "cards": [
+          {
+            "content": "ACCOUNT",
+            "position": 11
+          },
+          {
+            "content": "CLIENT",
+            "position": 6
+          },
+          {
+            "content": "CONSUMER",
+            "position": 15
+          },
+          {
+            "content": "USER",
+            "position": 12
           }
         ]
       },
@@ -87215,96 +87215,11 @@
     ]
   },
   "2026-01-15": {
-    "status": "OK",
-    "id": 1006,
-    "print_date": "2026-01-15",
-    "editor": "Wyna Liu",
-    "categories": [
-      {
-        "title": "FEATURED IN GOLDILOCKS AND THE THREE BEARS",
-        "cards": [
-          {
-            "content": "BEAR",
-            "position": 3
-          },
-          {
-            "content": "BED",
-            "position": 10
-          },
-          {
-            "content": "GOLDILOCKS",
-            "position": 5
-          },
-          {
-            "content": "PORRIDGE",
-            "position": 15
-          }
-        ]
-      },
-      {
-        "title": "MAKEUP",
-        "cards": [
-          {
-            "content": "BRONZER",
-            "position": 14
-          },
-          {
-            "content": "FOUNDATION",
-            "position": 12
-          },
-          {
-            "content": "LINER",
-            "position": 11
-          },
-          {
-            "content": "STAIN",
-            "position": 6
-          }
-        ]
-      },
-      {
-        "title": "ENDING WITH DRINKING VESSELS",
-        "cards": [
-          {
-            "content": "FIBERGLASS",
-            "position": 8
-          },
-          {
-            "content": "SILVERSTEIN",
-            "position": 1
-          },
-          {
-            "content": "SMUG",
-            "position": 9
-          },
-          {
-            "content": "STUMBLER",
-            "position": 13
-          }
-        ]
-      },
-      {
-        "title": "HOMOPHONES OF WORDS MEANING “BRUTAL”",
-        "cards": [
-          {
-            "content": "GOREY",
-            "position": 0
-          },
-          {
-            "content": "GRIMM",
-            "position": 4
-          },
-          {
-            "content": "GRIZZLY",
-            "position": 2
-          },
-          {
-            "content": "SCARRY",
-            "position": 7
-          }
-        ]
-      }
-    ]
+    "status": "ERROR",
+    "errors": [
+      "Not Found"
+    ],
+    "results": []
   },
   "2026-01-16": {
     "status": "OK",
@@ -87312,27 +87227,6 @@
     "print_date": "2026-01-16",
     "editor": "Wyna Liu",
     "categories": [
-      {
-        "title": "COMPONENTS OF KID’S BEDTIME ROUTINE",
-        "cards": [
-          {
-            "content": "BATH",
-            "position": 2
-          },
-          {
-            "content": "BRUSHING",
-            "position": 10
-          },
-          {
-            "content": "PAJAMAS",
-            "position": 7
-          },
-          {
-            "content": "STORY",
-            "position": 13
-          }
-        ]
-      },
       {
         "title": "KINDS OF HATS",
         "cards": [
@@ -87355,7 +87249,28 @@
         ]
       },
       {
-        "title": "MUSICAL ACTS WITH “A” AS THE ONLY VOWEL",
+        "title": "COMPONENTS OF A KID’S BEDTIME ROUTINE",
+        "cards": [
+          {
+            "content": "BATH",
+            "position": 2
+          },
+          {
+            "content": "BRUSHING",
+            "position": 10
+          },
+          {
+            "content": "PAJAMAS",
+            "position": 7
+          },
+          {
+            "content": "STORY",
+            "position": 13
+          }
+        ]
+      },
+      {
+        "title": "MUSICAL ACTS WITH \"A\" AS THE ONLY VOWEL",
         "cards": [
           {
             "content": "ALABAMA",
@@ -87405,7 +87320,7 @@
     "editor": "Wyna Liu",
     "categories": [
       {
-        "title": "APPLY A LAYER TO",
+        "title": "SPREAD OVER",
         "cards": [
           {
             "content": "BLANKET",
@@ -87468,7 +87383,7 @@
         ]
       },
       {
-        "title": "FIRST WORDS OF KID’S GAMES",
+        "title": "FIRST WORDS OF KIDS' GAMES",
         "cards": [
           {
             "content": "CAPTURE",
@@ -87592,20 +87507,20 @@
         "title": "INEXPERIENCED",
         "cards": [
           {
+            "content": "BUDDING",
+            "position": 5
+          },
+          {
             "content": "FRESH",
             "position": 8
           },
           {
-            "content": "GREEN",
-            "position": 5
+            "content": "NAIVE",
+            "position": 12
           },
           {
             "content": "NEW",
             "position": 15
-          },
-          {
-            "content": "RAW",
-            "position": 12
           }
         ]
       },
@@ -87614,7 +87529,7 @@
         "cards": [
           {
             "content": "BUNDLE",
-            "position": 10
+            "position": 7
           },
           {
             "content": "FORTUNE",
@@ -87625,8 +87540,8 @@
             "position": 1
           },
           {
-            "content": "PILE",
-            "position": 7
+            "content": "WAD",
+            "position": 10
           }
         ]
       },
@@ -87652,10 +87567,10 @@
         ]
       },
       {
-        "title": "WORDS AFTER “QUICK”",
+        "title": "WORDS AFTER \"QUICK\"",
         "cards": [
           {
-            "content": "BUCK",
+            "content": "FIX",
             "position": 4
           },
           {
@@ -87688,16 +87603,16 @@
             "position": 5
           },
           {
-            "content": "THREAD",
-            "position": 10
-          },
-          {
             "content": "TWIST",
             "position": 7
           },
           {
             "content": "WEAVE",
             "position": 14
+          },
+          {
+            "content": "WIND",
+            "position": 10
           }
         ]
       },
@@ -87744,7 +87659,7 @@
         ]
       },
       {
-        "title": "STARTING WITH SYNONYMS FOR “HANKER FOR”",
+        "title": "STARTING WITH SYNONYMS FOR \"HANKER FOR\"",
         "cards": [
           {
             "content": "CRAVEN",
@@ -87957,6 +87872,27 @@
     "editor": "Wyna Liu",
     "categories": [
       {
+        "title": "FACIAL FEATURES",
+        "cards": [
+          {
+            "content": "CHEEK",
+            "position": 5
+          },
+          {
+            "content": "EYE",
+            "position": 8
+          },
+          {
+            "content": "LIP",
+            "position": 3
+          },
+          {
+            "content": "TEMPLE",
+            "position": 1
+          }
+        ]
+      },
+      {
         "title": "KINDS OF PARKING",
         "cards": [
           {
@@ -87999,28 +87935,7 @@
         ]
       },
       {
-        "title": "EYEGLASSES PARTS",
-        "cards": [
-          {
-            "content": "BRIDGE",
-            "position": 3
-          },
-          {
-            "content": "FRAME",
-            "position": 5
-          },
-          {
-            "content": "LENS",
-            "position": 8
-          },
-          {
-            "content": "TEMPLE",
-            "position": 1
-          }
-        ]
-      },
-      {
-        "title": "WORDS BEFORE “LIGHT”",
+        "title": "WORDS BEFORE \"LIGHT\"",
         "cards": [
           {
             "content": "FLOOD",
@@ -88041,5 +87956,12 @@
         ]
       }
     ]
+  },
+  "2026-01-24": {
+    "status": "ERROR",
+    "errors": [
+      "Not Found"
+    ],
+    "results": []
   }
 }
