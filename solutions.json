@@ -87215,11 +87215,96 @@
     ]
   },
   "2026-01-15": {
-    "status": "ERROR",
-    "errors": [
-      "Not Found"
-    ],
-    "results": []
+    "status": "OK",
+    "id": 1004,
+    "print_date": "2026-01-15",
+    "editor": "Wyna Liu",
+    "categories": [
+      {
+        "title": "GARDENING TOOLS",
+        "cards": [
+          {
+            "content": "HOSE",
+            "position": 8
+          },
+          {
+            "content": "RAKE",
+            "position": 13
+          },
+          {
+            "content": "SHOVEL",
+            "position": 7
+          },
+          {
+            "content": "SPADE",
+            "position": 10
+          }
+        ]
+      },
+      {
+        "title": "UNMOVING",
+        "cards": [
+          {
+            "content": "FROZEN",
+            "position": 12
+          },
+          {
+            "content": "STATIC",
+            "position": 1
+          },
+          {
+            "content": "STATIONARY",
+            "position": 9
+          },
+          {
+            "content": "STILL",
+            "position": 15
+          }
+        ]
+      },
+      {
+        "title": "THINGS THAT COME IN FLAKES",
+        "cards": [
+          {
+            "content": "CEREAL",
+            "position": 0
+          },
+          {
+            "content": "DANDRUFF",
+            "position": 14
+          },
+          {
+            "content": "SALT",
+            "position": 5
+          },
+          {
+            "content": "SNOW",
+            "position": 3
+          }
+        ]
+      },
+      {
+        "title": "WORDS FORMED BY TWO MEN’S NAMES",
+        "cards": [
+          {
+            "content": "JACKAL",
+            "position": 11
+          },
+          {
+            "content": "LEVITATE",
+            "position": 4
+          },
+          {
+            "content": "MELTED",
+            "position": 2
+          },
+          {
+            "content": "PATRON",
+            "position": 6
+          }
+        ]
+      }
+    ]
   },
   "2026-01-16": {
     "status": "OK",
@@ -87683,91 +87768,91 @@
   },
   "2026-01-21": {
     "status": "OK",
-    "id": 1004,
+    "id": 1014,
     "print_date": "2026-01-21",
     "editor": "Wyna Liu",
     "categories": [
       {
-        "title": "GARDENING TOOLS",
+        "title": "ITEMS TO RECYCLE",
         "cards": [
           {
-            "content": "HOSE",
-            "position": 8
+            "content": "BOTTLE",
+            "position": 6
           },
           {
-            "content": "RAKE",
-            "position": 13
-          },
-          {
-            "content": "SHOVEL",
-            "position": 7
-          },
-          {
-            "content": "SPADE",
-            "position": 10
-          }
-        ]
-      },
-      {
-        "title": "UNMOVING",
-        "cards": [
-          {
-            "content": "FROZEN",
-            "position": 12
-          },
-          {
-            "content": "STATIC",
-            "position": 1
-          },
-          {
-            "content": "STATIONARY",
+            "content": "CAN",
             "position": 9
           },
           {
-            "content": "STILL",
-            "position": 15
-          }
-        ]
-      },
-      {
-        "title": "THINGS THAT COME IN FLAKES",
-        "cards": [
-          {
-            "content": "CEREAL",
-            "position": 0
-          },
-          {
-            "content": "DANDRUFF",
+            "content": "CARDBOARD BOX",
             "position": 14
           },
           {
-            "content": "SALT",
-            "position": 5
-          },
-          {
-            "content": "SNOW",
+            "content": "NEWSPAPER",
             "position": 3
           }
         ]
       },
       {
-        "title": "WORDS FORMED BY TWO MEN’S NAMES",
+        "title": "BEDDING",
         "cards": [
           {
-            "content": "JACKAL",
-            "position": 11
+            "content": "BLANKET",
+            "position": 8
           },
           {
-            "content": "LEVITATE",
-            "position": 4
+            "content": "SHAM",
+            "position": 12
           },
           {
-            "content": "MELTED",
+            "content": "SHEET",
+            "position": 15
+          },
+          {
+            "content": "THROW",
+            "position": 0
+          }
+        ]
+      },
+      {
+        "title": "PLAGIARIZE",
+        "cards": [
+          {
+            "content": "COPY",
             "position": 2
           },
           {
-            "content": "PATRON",
-            "position": 6
+            "content": "CRIB",
+            "position": 1
+          },
+          {
+            "content": "LIFT",
+            "position": 10
+          },
+          {
+            "content": "PIRATE",
+            "position": 4
+          }
+        ]
+      },
+      {
+        "title": "BATMAN'S \"BAT\" THINGS",
+        "cards": [
+          {
+            "content": "CAVE",
+            "position": 5
+          },
+          {
+            "content": "MOBILE",
+            "position": 7
+          },
+          {
+            "content": "SIGNAL",
+            "position": 11
+          },
+          {
+            "content": "SUIT",
+            "position": 13
           }
         ]
       }
@@ -87958,11 +88043,96 @@
     ]
   },
   "2026-01-24": {
-    "status": "ERROR",
-    "errors": [
-      "Not Found"
-    ],
-    "results": []
+    "status": "OK",
+    "id": 1018,
+    "print_date": "2026-01-24",
+    "editor": "Wyna Liu",
+    "categories": [
+      {
+        "title": "GEAR FOR A BOXER",
+        "cards": [
+          {
+            "content": "GLOVES",
+            "position": 9
+          },
+          {
+            "content": "MOUTHGUARD",
+            "position": 11
+          },
+          {
+            "content": "ROBE",
+            "position": 0
+          },
+          {
+            "content": "SHORTS",
+            "position": 13
+          }
+        ]
+      },
+      {
+        "title": "CHAMPIONSHIP",
+        "cards": [
+          {
+            "content": "AWARD",
+            "position": 15
+          },
+          {
+            "content": "CROWN",
+            "position": 2
+          },
+          {
+            "content": "CUP",
+            "position": 7
+          },
+          {
+            "content": "TITLE",
+            "position": 12
+          }
+        ]
+      },
+      {
+        "title": "KINDS OF NECKLINES",
+        "cards": [
+          {
+            "content": "BOAT",
+            "position": 6
+          },
+          {
+            "content": "KEYHOLE",
+            "position": 3
+          },
+          {
+            "content": "SCOOP",
+            "position": 5
+          },
+          {
+            "content": "SWEETHEART",
+            "position": 10
+          }
+        ]
+      },
+      {
+        "title": "SNOW ___",
+        "cards": [
+          {
+            "content": "CONE",
+            "position": 1
+          },
+          {
+            "content": "GLOBE",
+            "position": 8
+          },
+          {
+            "content": "LEOPARD",
+            "position": 14
+          },
+          {
+            "content": "PEA",
+            "position": 4
+          }
+        ]
+      }
+    ]
   },
   "2026-01-25": {
     "status": "ERROR",
@@ -88064,11 +88234,96 @@
     ]
   },
   "2026-01-27": {
-    "status": "ERROR",
-    "errors": [
-      "Not Found"
-    ],
-    "results": []
+    "status": "OK",
+    "id": 1019,
+    "print_date": "2026-01-27",
+    "editor": "Wyna Liu",
+    "categories": [
+      {
+        "title": "QUITE THE LAUGH",
+        "cards": [
+          {
+            "content": "CARD",
+            "position": 2
+          },
+          {
+            "content": "CHARACTER",
+            "position": 7
+          },
+          {
+            "content": "CUTUP",
+            "position": 15
+          },
+          {
+            "content": "JOKER",
+            "position": 4
+          }
+        ]
+      },
+      {
+        "title": "NHL TEAM MEMBER",
+        "cards": [
+          {
+            "content": "DEVIL",
+            "position": 9
+          },
+          {
+            "content": "FLYER",
+            "position": 11
+          },
+          {
+            "content": "PENGUIN",
+            "position": 6
+          },
+          {
+            "content": "RANGER",
+            "position": 12
+          }
+        ]
+      },
+      {
+        "title": "FIRST WORDS OF ROBIN HOOD CHARACTER NAMES",
+        "cards": [
+          {
+            "content": "FRIAR",
+            "position": 1
+          },
+          {
+            "content": "MAID",
+            "position": 13
+          },
+          {
+            "content": "ROBIN",
+            "position": 3
+          },
+          {
+            "content": "SHERIFF",
+            "position": 8
+          }
+        ]
+      },
+      {
+        "title": "STARTING WITH BASEBALL GEAR",
+        "cards": [
+          {
+            "content": "BALLROOM",
+            "position": 14
+          },
+          {
+            "content": "BASELINE",
+            "position": 5
+          },
+          {
+            "content": "BATMOBILE",
+            "position": 0
+          },
+          {
+            "content": "CAPSTONE",
+            "position": 10
+          }
+        ]
+      }
+    ]
   },
   "2026-01-28": {
     "status": "ERROR",
@@ -88184,6 +88439,98 @@
     "results": []
   },
   "2026-02-01": {
+    "status": "OK",
+    "id": 1015,
+    "print_date": "2026-02-01",
+    "editor": "Wyna Liu",
+    "categories": [
+      {
+        "title": "PUBLICIZE",
+        "cards": [
+          {
+            "content": "BOOST",
+            "position": 6
+          },
+          {
+            "content": "HYPE",
+            "position": 10
+          },
+          {
+            "content": "PITCH",
+            "position": 1
+          },
+          {
+            "content": "PLUG",
+            "position": 8
+          }
+        ]
+      },
+      {
+        "title": "KINDS OF SHOES",
+        "cards": [
+          {
+            "content": "CLOG",
+            "position": 4
+          },
+          {
+            "content": "FLAT",
+            "position": 2
+          },
+          {
+            "content": "MULE",
+            "position": 15
+          },
+          {
+            "content": "WEDGE",
+            "position": 9
+          }
+        ]
+      },
+      {
+        "title": "ANTHEM",
+        "cards": [
+          {
+            "content": "BANGER",
+            "position": 13
+          },
+          {
+            "content": "BOP",
+            "position": 11
+          },
+          {
+            "content": "HEATER",
+            "position": 3
+          },
+          {
+            "content": "JAM",
+            "position": 5
+          }
+        ]
+      },
+      {
+        "title": "MUSICAL INSTRUMENTS PLUS STARTING LETTER",
+        "cards": [
+          {
+            "content": "GLUTE",
+            "position": 7
+          },
+          {
+            "content": "MORGAN",
+            "position": 14
+          },
+          {
+            "content": "SHARP",
+            "position": 0
+          },
+          {
+            "content": "THORN",
+            "position": 12
+          }
+        ]
+      }
+    ]
+  },
+  "2026-02-02": {
     "status": "ERROR",
     "errors": [
       "Not Found"
