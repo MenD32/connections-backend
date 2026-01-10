@@ -88135,11 +88135,96 @@
     ]
   },
   "2026-01-25": {
-    "status": "ERROR",
-    "errors": [
-      "Not Found"
-    ],
-    "results": []
+    "status": "OK",
+    "id": 1024,
+    "print_date": "2026-01-25",
+    "editor": "Wyna Liu",
+    "categories": [
+      {
+        "title": "ACT AS A BACKUP",
+        "cards": [
+          {
+            "content": "COVER",
+            "position": 5
+          },
+          {
+            "content": "FILL IN",
+            "position": 10
+          },
+          {
+            "content": "SUB",
+            "position": 0
+          },
+          {
+            "content": "TEMP",
+            "position": 14
+          }
+        ]
+      },
+      {
+        "title": "PC KEYBOARD KEYS",
+        "cards": [
+          {
+            "content": "ALT",
+            "position": 13
+          },
+          {
+            "content": "ENTER",
+            "position": 8
+          },
+          {
+            "content": "MENU",
+            "position": 6
+          },
+          {
+            "content": "WINDOWS",
+            "position": 11
+          }
+        ]
+      },
+      {
+        "title": "PASTA SHAPES",
+        "cards": [
+          {
+            "content": "BOWTIE",
+            "position": 9
+          },
+          {
+            "content": "RIBBON",
+            "position": 1
+          },
+          {
+            "content": "SHELL",
+            "position": 4
+          },
+          {
+            "content": "TUBE",
+            "position": 7
+          }
+        ]
+      },
+      {
+        "title": "SUFFIXES",
+        "cards": [
+          {
+            "content": "ATE",
+            "position": 15
+          },
+          {
+            "content": "DOM",
+            "position": 12
+          },
+          {
+            "content": "HOOD",
+            "position": 2
+          },
+          {
+            "content": "SHIP",
+            "position": 3
+          }
+        ]
+      }
+    ]
   },
   "2026-01-26": {
     "status": "OK",
@@ -88326,11 +88411,96 @@
     ]
   },
   "2026-01-28": {
-    "status": "ERROR",
-    "errors": [
-      "Not Found"
-    ],
-    "results": []
+    "status": "OK",
+    "id": 1026,
+    "print_date": "2026-01-28",
+    "editor": "Wyna Liu",
+    "categories": [
+      {
+        "title": "CLEANING SUPPLIES",
+        "cards": [
+          {
+            "content": "BUCKET",
+            "position": 9
+          },
+          {
+            "content": "GLOVES",
+            "position": 7
+          },
+          {
+            "content": "RAG",
+            "position": 5
+          },
+          {
+            "content": "SOAP",
+            "position": 12
+          }
+        ]
+      },
+      {
+        "title": "IMITATION",
+        "cards": [
+          {
+            "content": "DUMMY",
+            "position": 13
+          },
+          {
+            "content": "MOCK",
+            "position": 2
+          },
+          {
+            "content": "PRETEND",
+            "position": 10
+          },
+          {
+            "content": "SHAM",
+            "position": 8
+          }
+        ]
+      },
+      {
+        "title": "COMPONENTS OF A RECORD PLAYER",
+        "cards": [
+          {
+            "content": "MOTOR",
+            "position": 1
+          },
+          {
+            "content": "NEEDLE",
+            "position": 6
+          },
+          {
+            "content": "PLATTER",
+            "position": 4
+          },
+          {
+            "content": "TONE-ARM",
+            "position": 14
+          }
+        ]
+      },
+      {
+        "title": "SPARE ___",
+        "cards": [
+          {
+            "content": "ME",
+            "position": 15
+          },
+          {
+            "content": "RIB",
+            "position": 0
+          },
+          {
+            "content": "TIME",
+            "position": 11
+          },
+          {
+            "content": "TIRE",
+            "position": 3
+          }
+        ]
+      }
+    ]
   },
   "2026-01-29": {
     "status": "OK",
@@ -88425,18 +88595,188 @@
     ]
   },
   "2026-01-30": {
-    "status": "ERROR",
-    "errors": [
-      "Not Found"
-    ],
-    "results": []
+    "status": "OK",
+    "id": 1021,
+    "print_date": "2026-01-30",
+    "editor": "Wyna Liu",
+    "categories": [
+      {
+        "title": "GROOMING ITEMS",
+        "cards": [
+          {
+            "content": "COMB",
+            "position": 5
+          },
+          {
+            "content": "COMPACT",
+            "position": 3
+          },
+          {
+            "content": "LOTION",
+            "position": 10
+          },
+          {
+            "content": "TWEEZERS",
+            "position": 15
+          }
+        ]
+      },
+      {
+        "title": "REGION",
+        "cards": [
+          {
+            "content": "AREA",
+            "position": 2
+          },
+          {
+            "content": "CLUSTER",
+            "position": 13
+          },
+          {
+            "content": "PATCH",
+            "position": 8
+          },
+          {
+            "content": "POCKET",
+            "position": 4
+          }
+        ]
+      },
+      {
+        "title": "THINGS WITH ADHESIVE SURFACES",
+        "cards": [
+          {
+            "content": "BAND-AID",
+            "position": 9
+          },
+          {
+            "content": "LINT ROLLER",
+            "position": 11
+          },
+          {
+            "content": "STICKER",
+            "position": 7
+          },
+          {
+            "content": "TAPE",
+            "position": 1
+          }
+        ]
+      },
+      {
+        "title": "___ HAND",
+        "cards": [
+          {
+            "content": "HELPING",
+            "position": 14
+          },
+          {
+            "content": "MINUTE",
+            "position": 0
+          },
+          {
+            "content": "POKER",
+            "position": 6
+          },
+          {
+            "content": "UPPER",
+            "position": 12
+          }
+        ]
+      }
+    ]
   },
   "2026-01-31": {
-    "status": "ERROR",
-    "errors": [
-      "Not Found"
-    ],
-    "results": []
+    "status": "OK",
+    "id": 1023,
+    "print_date": "2026-01-31",
+    "editor": "Wyna Liu",
+    "categories": [
+      {
+        "title": "KINDS OF PARTIES",
+        "cards": [
+          {
+            "content": "BALL",
+            "position": 3
+          },
+          {
+            "content": "MIXER",
+            "position": 7
+          },
+          {
+            "content": "RECEPTION",
+            "position": 10
+          },
+          {
+            "content": "SHOWER",
+            "position": 4
+          }
+        ]
+      },
+      {
+        "title": "WAYS TO APPLY PAINT",
+        "cards": [
+          {
+            "content": "BRUSH",
+            "position": 6
+          },
+          {
+            "content": "PALETTE KNIFE",
+            "position": 15
+          },
+          {
+            "content": "ROLLER",
+            "position": 2
+          },
+          {
+            "content": "SPRAY CAN",
+            "position": 9
+          }
+        ]
+      },
+      {
+        "title": "Y-SHAPED THINGS",
+        "cards": [
+          {
+            "content": "SLINGSHOT",
+            "position": 8
+          },
+          {
+            "content": "STETHOSCOPE",
+            "position": 5
+          },
+          {
+            "content": "TUNING FORK",
+            "position": 13
+          },
+          {
+            "content": "WISHBONE",
+            "position": 1
+          }
+        ]
+      },
+      {
+        "title": "WHAT \"SHIFT\" MIGHT REFER TO",
+        "cards": [
+          {
+            "content": "COMPUTER KEY",
+            "position": 11
+          },
+          {
+            "content": "DRESS",
+            "position": 0
+          },
+          {
+            "content": "FLUCTUATION",
+            "position": 12
+          },
+          {
+            "content": "WORK PERIOD",
+            "position": 14
+          }
+        ]
+      }
+    ]
   },
   "2026-02-01": {
     "status": "OK",
@@ -88531,18 +88871,188 @@
     ]
   },
   "2026-02-02": {
-    "status": "ERROR",
-    "errors": [
-      "Not Found"
-    ],
-    "results": []
+    "status": "OK",
+    "id": 1022,
+    "print_date": "2026-02-02",
+    "editor": "Wyna Liu",
+    "categories": [
+      {
+        "title": "DURATION",
+        "cards": [
+          {
+            "content": "INTERVAL",
+            "position": 13
+          },
+          {
+            "content": "PERIOD",
+            "position": 1
+          },
+          {
+            "content": "SPAN",
+            "position": 4
+          },
+          {
+            "content": "STRETCH",
+            "position": 9
+          }
+        ]
+      },
+      {
+        "title": "CREDENTIALS FOR ENTRY",
+        "cards": [
+          {
+            "content": "LANYARD",
+            "position": 8
+          },
+          {
+            "content": "PASS",
+            "position": 6
+          },
+          {
+            "content": "STAMP",
+            "position": 3
+          },
+          {
+            "content": "WRISTBAND",
+            "position": 14
+          }
+        ]
+      },
+      {
+        "title": "MODERN CRIME SERIES PROTAGONISTS",
+        "cards": [
+          {
+            "content": "BOSCH",
+            "position": 15
+          },
+          {
+            "content": "CROSS",
+            "position": 2
+          },
+          {
+            "content": "REACHER",
+            "position": 10
+          },
+          {
+            "content": "RYAN",
+            "position": 7
+          }
+        ]
+      },
+      {
+        "title": "TREES PLUS A LETTER",
+        "cards": [
+          {
+            "content": "FAIR",
+            "position": 12
+          },
+          {
+            "content": "MARPLE",
+            "position": 11
+          },
+          {
+            "content": "POPULAR",
+            "position": 0
+          },
+          {
+            "content": "PSALM",
+            "position": 5
+          }
+        ]
+      }
+    ]
   },
   "2026-02-03": {
-    "status": "ERROR",
-    "errors": [
-      "Not Found"
-    ],
-    "results": []
+    "status": "OK",
+    "id": 1020,
+    "print_date": "2026-02-03",
+    "editor": "Wyna Liu",
+    "categories": [
+      {
+        "title": "CUT INTO PIECES",
+        "cards": [
+          {
+            "content": "CUBE",
+            "position": 5
+          },
+          {
+            "content": "DICE",
+            "position": 3
+          },
+          {
+            "content": "HASH",
+            "position": 8
+          },
+          {
+            "content": "MINCE",
+            "position": 11
+          }
+        ]
+      },
+      {
+        "title": "PROVIDE WITH A PLACE TO STAY",
+        "cards": [
+          {
+            "content": "BOARD",
+            "position": 4
+          },
+          {
+            "content": "HOUSE",
+            "position": 9
+          },
+          {
+            "content": "LODGE",
+            "position": 14
+          },
+          {
+            "content": "QUARTER",
+            "position": 6
+          }
+        ]
+      },
+      {
+        "title": "KINDS OF GOLF CLUBS",
+        "cards": [
+          {
+            "content": "CHIPPER",
+            "position": 15
+          },
+          {
+            "content": "IRON",
+            "position": 10
+          },
+          {
+            "content": "WEDGE",
+            "position": 12
+          },
+          {
+            "content": "WOOD",
+            "position": 1
+          }
+        ]
+      },
+      {
+        "title": "MEMORY ___",
+        "cards": [
+          {
+            "content": "CARD",
+            "position": 0
+          },
+          {
+            "content": "FOAM",
+            "position": 2
+          },
+          {
+            "content": "HOLE",
+            "position": 7
+          },
+          {
+            "content": "LANE",
+            "position": 13
+          }
+        ]
+      }
+    ]
   },
   "2026-02-04": {
     "status": "ERROR",
@@ -88743,6 +89253,13 @@
     "results": []
   },
   "2026-02-08": {
+    "status": "ERROR",
+    "errors": [
+      "Not Found"
+    ],
+    "results": []
+  },
+  "2026-02-09": {
     "status": "ERROR",
     "errors": [
       "Not Found"
