@@ -89522,39 +89522,464 @@
     ]
   },
   "2026-02-10": {
-    "status": "ERROR",
-    "errors": [
-      "Not Found"
-    ],
-    "results": []
+    "status": "OK",
+    "id": 1037,
+    "print_date": "2026-02-10",
+    "editor": "Wyna Liu",
+    "categories": [
+      {
+        "title": "EXHIBITION",
+        "cards": [
+          {
+            "content": "CONVENTION",
+            "position": 5
+          },
+          {
+            "content": "EXPOSITION",
+            "position": 2
+          },
+          {
+            "content": "FAIR",
+            "position": 6
+          },
+          {
+            "content": "SHOW",
+            "position": 8
+          }
+        ]
+      },
+      {
+        "title": "WORDS SPELLING OUT INITIALISMS",
+        "cards": [
+          {
+            "content": "DEEJAY",
+            "position": 10
+          },
+          {
+            "content": "EMCEE",
+            "position": 3
+          },
+          {
+            "content": "KAYO",
+            "position": 15
+          },
+          {
+            "content": "OKAY",
+            "position": 4
+          }
+        ]
+      },
+      {
+        "title": "DVD BONUS FEATURES",
+        "cards": [
+          {
+            "content": "COMMENTARY",
+            "position": 7
+          },
+          {
+            "content": "INTERVIEW",
+            "position": 1
+          },
+          {
+            "content": "OUTTAKES",
+            "position": 9
+          },
+          {
+            "content": "TRAILER",
+            "position": 13
+          }
+        ]
+      },
+      {
+        "title": "STARTING WITH PARTS OF A WHEEL",
+        "cards": [
+          {
+            "content": "HUBBUB",
+            "position": 14
+          },
+          {
+            "content": "RIMSHOT",
+            "position": 11
+          },
+          {
+            "content": "SPOKESPERSON",
+            "position": 0
+          },
+          {
+            "content": "TIRESOME",
+            "position": 12
+          }
+        ]
+      }
+    ]
   },
   "2026-02-11": {
-    "status": "ERROR",
-    "errors": [
-      "Not Found"
-    ],
-    "results": []
+    "status": "OK",
+    "id": 1035,
+    "print_date": "2026-02-11",
+    "editor": "Wyna Liu",
+    "categories": [
+      {
+        "title": "LONG (FOR)",
+        "cards": [
+          {
+            "content": "MOON",
+            "position": 2
+          },
+          {
+            "content": "PINE",
+            "position": 8
+          },
+          {
+            "content": "SWOON",
+            "position": 13
+          },
+          {
+            "content": "YEARN",
+            "position": 15
+          }
+        ]
+      },
+      {
+        "title": "EARNINGS",
+        "cards": [
+          {
+            "content": "GAIN",
+            "position": 7
+          },
+          {
+            "content": "NET",
+            "position": 0
+          },
+          {
+            "content": "RETURN",
+            "position": 4
+          },
+          {
+            "content": "YIELD",
+            "position": 14
+          }
+        ]
+      },
+      {
+        "title": "CHUNK",
+        "cards": [
+          {
+            "content": "BLOCK",
+            "position": 6
+          },
+          {
+            "content": "BRICK",
+            "position": 9
+          },
+          {
+            "content": "CAKE",
+            "position": 3
+          },
+          {
+            "content": "PUCK",
+            "position": 5
+          }
+        ]
+      },
+      {
+        "title": "ROLLER ___",
+        "cards": [
+          {
+            "content": "BAG",
+            "position": 11
+          },
+          {
+            "content": "COASTER",
+            "position": 10
+          },
+          {
+            "content": "DERBY",
+            "position": 12
+          },
+          {
+            "content": "RINK",
+            "position": 1
+          }
+        ]
+      }
+    ]
   },
   "2026-02-12": {
-    "status": "ERROR",
-    "errors": [
-      "Not Found"
-    ],
-    "results": []
+    "status": "OK",
+    "id": 1034,
+    "print_date": "2026-02-12",
+    "editor": "Wyna Liu",
+    "categories": [
+      {
+        "title": "CONSTRUCT",
+        "cards": [
+          {
+            "content": "FORM",
+            "position": 11
+          },
+          {
+            "content": "MAKE",
+            "position": 8
+          },
+          {
+            "content": "MOLD",
+            "position": 14
+          },
+          {
+            "content": "PRODUCE",
+            "position": 5
+          }
+        ]
+      },
+      {
+        "title": "FIXED IN PLACE",
+        "cards": [
+          {
+            "content": "FAST",
+            "position": 10
+          },
+          {
+            "content": "FIRM",
+            "position": 13
+          },
+          {
+            "content": "FROZEN",
+            "position": 4
+          },
+          {
+            "content": "TIGHT",
+            "position": 15
+          }
+        ]
+      },
+      {
+        "title": "MLB PLAYER, FOR SHORT",
+        "cards": [
+          {
+            "content": "A",
+            "position": 2
+          },
+          {
+            "content": "CARD",
+            "position": 3
+          },
+          {
+            "content": "JAY",
+            "position": 9
+          },
+          {
+            "content": "YANK",
+            "position": 1
+          }
+        ]
+      },
+      {
+        "title": "___ QUEEN",
+        "cards": [
+          {
+            "content": "DAIRY",
+            "position": 7
+          },
+          {
+            "content": "DANCING",
+            "position": 6
+          },
+          {
+            "content": "DRAG",
+            "position": 12
+          },
+          {
+            "content": "MAY",
+            "position": 0
+          }
+        ]
+      }
+    ]
   },
   "2026-02-13": {
-    "status": "ERROR",
-    "errors": [
-      "Not Found"
-    ],
-    "results": []
+    "status": "OK",
+    "id": 1038,
+    "print_date": "2026-02-13",
+    "editor": "Wyna Liu",
+    "categories": [
+      {
+        "title": "DOWNRIGHT",
+        "cards": [
+          {
+            "content": "PURE",
+            "position": 13
+          },
+          {
+            "content": "SHEER",
+            "position": 6
+          },
+          {
+            "content": "STARK",
+            "position": 8
+          },
+          {
+            "content": "UTTER",
+            "position": 11
+          }
+        ]
+      },
+      {
+        "title": "PENNANT",
+        "cards": [
+          {
+            "content": "BANNER",
+            "position": 10
+          },
+          {
+            "content": "COLORS",
+            "position": 7
+          },
+          {
+            "content": "FLAG",
+            "position": 15
+          },
+          {
+            "content": "STANDARD",
+            "position": 2
+          }
+        ]
+      },
+      {
+        "title": "CIGARETTE BRANDS",
+        "cards": [
+          {
+            "content": "CAMEL",
+            "position": 12
+          },
+          {
+            "content": "CAPRI",
+            "position": 9
+          },
+          {
+            "content": "KENT",
+            "position": 4
+          },
+          {
+            "content": "PARLIAMENT",
+            "position": 1
+          }
+        ]
+      },
+      {
+        "title": "HOMOPHONES OF WAYS TO GET SMALLER",
+        "cards": [
+          {
+            "content": "LESSON",
+            "position": 3
+          },
+          {
+            "content": "RESEED",
+            "position": 14
+          },
+          {
+            "content": "SYNC",
+            "position": 5
+          },
+          {
+            "content": "WAYNE",
+            "position": 0
+          }
+        ]
+      }
+    ]
   },
   "2026-02-14": {
-    "status": "ERROR",
-    "errors": [
-      "Not Found"
-    ],
-    "results": []
+    "status": "OK",
+    "id": 1033,
+    "print_date": "2026-02-14",
+    "editor": "Wyna Liu",
+    "categories": [
+      {
+        "title": "UPTICK",
+        "cards": [
+          {
+            "content": "HIKE",
+            "position": 5
+          },
+          {
+            "content": "JUMP",
+            "position": 3
+          },
+          {
+            "content": "RISE",
+            "position": 15
+          },
+          {
+            "content": "SPIKE",
+            "position": 0
+          }
+        ]
+      },
+      {
+        "title": "PROTUBERANCE",
+        "cards": [
+          {
+            "content": "BUMP",
+            "position": 7
+          },
+          {
+            "content": "HUMP",
+            "position": 14
+          },
+          {
+            "content": "LUMP",
+            "position": 2
+          },
+          {
+            "content": "MOUND",
+            "position": 11
+          }
+        ]
+      },
+      {
+        "title": "TOM HANKS ROLES",
+        "cards": [
+          {
+            "content": "GUMP",
+            "position": 6
+          },
+          {
+            "content": "PHILLIPS",
+            "position": 13
+          },
+          {
+            "content": "SULLY",
+            "position": 8
+          },
+          {
+            "content": "WOODY",
+            "position": 10
+          }
+        ]
+      },
+      {
+        "title": "WORDS BEFORE \"MINT\"",
+        "cards": [
+          {
+            "content": "BREATH",
+            "position": 9
+          },
+          {
+            "content": "JUNIOR",
+            "position": 4
+          },
+          {
+            "content": "PEPPER",
+            "position": 12
+          },
+          {
+            "content": "SPEAR",
+            "position": 1
+          }
+        ]
+      }
+    ]
   },
   "2026-02-15": {
     "status": "OK",
@@ -89649,11 +90074,96 @@
     ]
   },
   "2026-02-16": {
-    "status": "ERROR",
-    "errors": [
-      "Not Found"
-    ],
-    "results": []
+    "status": "OK",
+    "id": 1039,
+    "print_date": "2026-02-16",
+    "editor": "Wyna Liu",
+    "categories": [
+      {
+        "title": "KNEE SLAPPER",
+        "cards": [
+          {
+            "content": "HOOT",
+            "position": 8
+          },
+          {
+            "content": "LAUGH",
+            "position": 3
+          },
+          {
+            "content": "RIOT",
+            "position": 10
+          },
+          {
+            "content": "SCREAM",
+            "position": 1
+          }
+        ]
+      },
+      {
+        "title": "HOMOPHONES",
+        "cards": [
+          {
+            "content": "DO",
+            "position": 2
+          },
+          {
+            "content": "DOE",
+            "position": 5
+          },
+          {
+            "content": "DOH",
+            "position": 14
+          },
+          {
+            "content": "DOUGH",
+            "position": 11
+          }
+        ]
+      },
+      {
+        "title": "SOUNDS A CHICKEN MAKES",
+        "cards": [
+          {
+            "content": "BUCK",
+            "position": 0
+          },
+          {
+            "content": "CACKLE",
+            "position": 13
+          },
+          {
+            "content": "CLUCK",
+            "position": 15
+          },
+          {
+            "content": "SQUAWK",
+            "position": 7
+          }
+        ]
+      },
+      {
+        "title": "STRESS RESPONSES",
+        "cards": [
+          {
+            "content": "FAWN",
+            "position": 4
+          },
+          {
+            "content": "FIGHT",
+            "position": 9
+          },
+          {
+            "content": "FLIGHT",
+            "position": 6
+          },
+          {
+            "content": "FREEZE",
+            "position": 12
+          }
+        ]
+      }
+    ]
   },
   "2026-02-17": {
     "status": "ERROR",
@@ -89776,6 +90286,13 @@
     "results": []
   },
   "2026-02-22": {
+    "status": "ERROR",
+    "errors": [
+      "Not Found"
+    ],
+    "results": []
+  },
+  "2026-02-23": {
     "status": "ERROR",
     "errors": [
       "Not Found"
