@@ -89721,7 +89721,7 @@
     "editor": "Wyna Liu",
     "categories": [
       {
-        "title": "LONG (FOR)",
+        "title": "ACT LOVESTRUCK",
         "cards": [
           {
             "content": "MOON",
@@ -89763,7 +89763,7 @@
         ]
       },
       {
-        "title": "CHUNK",
+        "title": "COMPACT MASS",
         "cards": [
           {
             "content": "BLOCK",
@@ -89938,7 +89938,7 @@
           },
           {
             "content": "FLAG",
-            "position": 15
+            "position": 14
           },
           {
             "content": "STANDARD",
@@ -89951,10 +89951,6 @@
         "cards": [
           {
             "content": "CAMEL",
-            "position": 12
-          },
-          {
-            "content": "CAPRI",
             "position": 9
           },
           {
@@ -89964,6 +89960,10 @@
           {
             "content": "PARLIAMENT",
             "position": 1
+          },
+          {
+            "content": "SALEM",
+            "position": 15
           }
         ]
       },
@@ -89976,7 +89976,7 @@
           },
           {
             "content": "RESEED",
-            "position": 14
+            "position": 12
           },
           {
             "content": "SYNC",
@@ -90427,5 +90427,97 @@
       "Not Found"
     ],
     "results": []
+  },
+  "2026-02-28": {
+    "status": "OK",
+    "id": 1036,
+    "print_date": "2026-02-28",
+    "editor": "Wyna Liu",
+    "categories": [
+      {
+        "title": "CRAVING",
+        "cards": [
+          {
+            "content": "DESIRE",
+            "position": 8
+          },
+          {
+            "content": "ITCH",
+            "position": 7
+          },
+          {
+            "content": "THIRST",
+            "position": 13
+          },
+          {
+            "content": "URGE",
+            "position": 15
+          }
+        ]
+      },
+      {
+        "title": "JOBS THAT INVOLVE TRAVELING",
+        "cards": [
+          {
+            "content": "CRUISE DIRECTOR",
+            "position": 14
+          },
+          {
+            "content": "PILOT",
+            "position": 5
+          },
+          {
+            "content": "ROADIE",
+            "position": 9
+          },
+          {
+            "content": "SALESMAN",
+            "position": 3
+          }
+        ]
+      },
+      {
+        "title": "NAME HOMOPHONES",
+        "cards": [
+          {
+            "content": "EARNEST",
+            "position": 6
+          },
+          {
+            "content": "KNEEL",
+            "position": 1
+          },
+          {
+            "content": "RUSTLE",
+            "position": 10
+          },
+          {
+            "content": "TAILOR",
+            "position": 2
+          }
+        ]
+      },
+      {
+        "title": "ASTRONOMICAL TERMS PLUS A LETTER",
+        "cards": [
+          {
+            "content": "COMETH",
+            "position": 4
+          },
+          {
+            "content": "NOVAK",
+            "position": 12
+          },
+          {
+            "content": "START",
+            "position": 0
+          },
+          {
+            "content": "SUNG",
+            "position": 11
+          }
+        ]
+      }
+    ]
   }
 }
