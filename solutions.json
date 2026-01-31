@@ -90267,18 +90267,188 @@
     ]
   },
   "2026-02-17": {
-    "status": "ERROR",
-    "errors": [
-      "Not Found"
-    ],
-    "results": []
+    "status": "OK",
+    "id": 1065,
+    "print_date": "2026-02-17",
+    "editor": "Wyna Liu",
+    "categories": [
+      {
+        "title": "ZOOM",
+        "cards": [
+          {
+            "content": "DART",
+            "position": 10
+          },
+          {
+            "content": "FLASH",
+            "position": 2
+          },
+          {
+            "content": "SPEED",
+            "position": 12
+          },
+          {
+            "content": "ZIP",
+            "position": 7
+          }
+        ]
+      },
+      {
+        "title": "RIFFLE (THROUGH)",
+        "cards": [
+          {
+            "content": "FLIP",
+            "position": 13
+          },
+          {
+            "content": "LEAF",
+            "position": 1
+          },
+          {
+            "content": "SKIM",
+            "position": 8
+          },
+          {
+            "content": "THUMB",
+            "position": 4
+          }
+        ]
+      },
+      {
+        "title": "SAUCES IN CHINESE CUISINE",
+        "cards": [
+          {
+            "content": "HOISIN",
+            "position": 14
+          },
+          {
+            "content": "OYSTER",
+            "position": 5
+          },
+          {
+            "content": "PLUM",
+            "position": 0
+          },
+          {
+            "content": "SOY",
+            "position": 9
+          }
+        ]
+      },
+      {
+        "title": "STARTING WITH SYNONYMS FOR \"DUD\"",
+        "cards": [
+          {
+            "content": "BOMBAY",
+            "position": 11
+          },
+          {
+            "content": "BUSTLE",
+            "position": 3
+          },
+          {
+            "content": "FLOPPY",
+            "position": 6
+          },
+          {
+            "content": "MISSUS",
+            "position": 15
+          }
+        ]
+      }
+    ]
   },
   "2026-02-18": {
-    "status": "ERROR",
-    "errors": [
-      "Not Found"
-    ],
-    "results": []
+    "status": "OK",
+    "id": 1064,
+    "print_date": "2026-02-18",
+    "editor": "Wyna Liu",
+    "categories": [
+      {
+        "title": "RETRO HAIR DIRECTIVES",
+        "cards": [
+          {
+            "content": "CRIMP",
+            "position": 13
+          },
+          {
+            "content": "CURL",
+            "position": 8
+          },
+          {
+            "content": "FEATHER",
+            "position": 3
+          },
+          {
+            "content": "TEASE",
+            "position": 5
+          }
+        ]
+      },
+      {
+        "title": "RETRO SLANG FOR COOL",
+        "cards": [
+          {
+            "content": "BAD",
+            "position": 2
+          },
+          {
+            "content": "FLY",
+            "position": 4
+          },
+          {
+            "content": "RAD",
+            "position": 15
+          },
+          {
+            "content": "WICKED",
+            "position": 10
+          }
+        ]
+      },
+      {
+        "title": "CHICKEN DESCRIPTORS",
+        "cards": [
+          {
+            "content": "BANTAM",
+            "position": 6
+          },
+          {
+            "content": "CRESTED",
+            "position": 1
+          },
+          {
+            "content": "FREE-RANGE",
+            "position": 14
+          },
+          {
+            "content": "LEGHORN",
+            "position": 11
+          }
+        ]
+      },
+      {
+        "title": "___ CREAM",
+        "cards": [
+          {
+            "content": "HEAVY",
+            "position": 0
+          },
+          {
+            "content": "SHAVING",
+            "position": 12
+          },
+          {
+            "content": "SOUR",
+            "position": 9
+          },
+          {
+            "content": "TOPICAL",
+            "position": 7
+          }
+        ]
+      }
+    ]
   },
   "2026-02-19": {
     "status": "OK",
@@ -90373,39 +90543,464 @@
     ]
   },
   "2026-02-20": {
-    "status": "ERROR",
-    "errors": [
-      "Not Found"
-    ],
-    "results": []
+    "status": "OK",
+    "id": 1069,
+    "print_date": "2026-02-20",
+    "editor": "Wyna Liu",
+    "categories": [
+      {
+        "title": "QUICK FIX",
+        "cards": [
+          {
+            "content": "EASY ANSWER",
+            "position": 15
+          },
+          {
+            "content": "MAGIC WAND",
+            "position": 0
+          },
+          {
+            "content": "PANACEA",
+            "position": 13
+          },
+          {
+            "content": "SILVER BULLET",
+            "position": 8
+          }
+        ]
+      },
+      {
+        "title": "ASSOCIATED WITH THE MOON",
+        "cards": [
+          {
+            "content": "ECLIPSE",
+            "position": 1
+          },
+          {
+            "content": "GREEN CHEESE",
+            "position": 11
+          },
+          {
+            "content": "TIDE",
+            "position": 4
+          },
+          {
+            "content": "WEREWOLF",
+            "position": 6
+          }
+        ]
+      },
+      {
+        "title": "ORIGINAL MONOPOLY TOKENS",
+        "cards": [
+          {
+            "content": "BATTLESHIP",
+            "position": 9
+          },
+          {
+            "content": "BOOT",
+            "position": 7
+          },
+          {
+            "content": "THIMBLE",
+            "position": 14
+          },
+          {
+            "content": "TOP HAT",
+            "position": 2
+          }
+        ]
+      },
+      {
+        "title": "WHAT \"JACK\" MIGHT REFER TO",
+        "cards": [
+          {
+            "content": "CHEESE",
+            "position": 10
+          },
+          {
+            "content": "DONKEY",
+            "position": 3
+          },
+          {
+            "content": "PLAYING CARD",
+            "position": 5
+          },
+          {
+            "content": "SOCKET",
+            "position": 12
+          }
+        ]
+      }
+    ]
   },
   "2026-02-21": {
-    "status": "ERROR",
-    "errors": [
-      "Not Found"
-    ],
-    "results": []
+    "status": "OK",
+    "id": 1067,
+    "print_date": "2026-02-21",
+    "editor": "Wyna Liu",
+    "categories": [
+      {
+        "title": "EXPERIENCE",
+        "cards": [
+          {
+            "content": "BACKGROUND",
+            "position": 11
+          },
+          {
+            "content": "HISTORY",
+            "position": 14
+          },
+          {
+            "content": "LIFE",
+            "position": 3
+          },
+          {
+            "content": "PAST",
+            "position": 2
+          }
+        ]
+      },
+      {
+        "title": "ATTENDANCE STATUS",
+        "cards": [
+          {
+            "content": "ABSENT",
+            "position": 12
+          },
+          {
+            "content": "EXCUSED",
+            "position": 10
+          },
+          {
+            "content": "LATE",
+            "position": 0
+          },
+          {
+            "content": "PRESENT",
+            "position": 4
+          }
+        ]
+      },
+      {
+        "title": "COMMENTARY ABOUT YOUR CONNECTIONS RESULTS",
+        "cards": [
+          {
+            "content": "GREAT",
+            "position": 1
+          },
+          {
+            "content": "PERFECT",
+            "position": 7
+          },
+          {
+            "content": "PHEW",
+            "position": 15
+          },
+          {
+            "content": "SOLID",
+            "position": 8
+          }
+        ]
+      },
+      {
+        "title": "CAR BRANDS PLUS TWO LETTERS",
+        "cards": [
+          {
+            "content": "AUDITS",
+            "position": 13
+          },
+          {
+            "content": "DODGERS",
+            "position": 9
+          },
+          {
+            "content": "INFINITIVE",
+            "position": 6
+          },
+          {
+            "content": "MINION",
+            "position": 5
+          }
+        ]
+      }
+    ]
   },
   "2026-02-22": {
-    "status": "ERROR",
-    "errors": [
-      "Not Found"
-    ],
-    "results": []
+    "status": "OK",
+    "id": 1070,
+    "print_date": "2026-02-22",
+    "editor": "Wyna Liu",
+    "categories": [
+      {
+        "title": "ONE WHO DOESN'T FIT IN",
+        "cards": [
+          {
+            "content": "BLACK SHEEP",
+            "position": 5
+          },
+          {
+            "content": "MISFIT",
+            "position": 12
+          },
+          {
+            "content": "OUTCAST",
+            "position": 0
+          },
+          {
+            "content": "REJECT",
+            "position": 14
+          }
+        ]
+      },
+      {
+        "title": "DESCRIPTORS FOR GRAYING HAIR",
+        "cards": [
+          {
+            "content": "DISTINGUISHED",
+            "position": 4
+          },
+          {
+            "content": "FLECKED",
+            "position": 13
+          },
+          {
+            "content": "SALT-AND-PEPPER",
+            "position": 1
+          },
+          {
+            "content": "SILVER",
+            "position": 10
+          }
+        ]
+      },
+      {
+        "title": "CLASSIC COMIC STRIPS",
+        "cards": [
+          {
+            "content": "BLONDIE",
+            "position": 2
+          },
+          {
+            "content": "BLOOM COUNTY",
+            "position": 9
+          },
+          {
+            "content": "SHOE",
+            "position": 11
+          },
+          {
+            "content": "THE FAR SIDE",
+            "position": 7
+          }
+        ]
+      },
+      {
+        "title": "ASSOCIATED WITH THEODORE ROOSEVELT",
+        "cards": [
+          {
+            "content": "BIG STICK",
+            "position": 15
+          },
+          {
+            "content": "BULL MOOSE",
+            "position": 8
+          },
+          {
+            "content": "ROUGH RIDERS",
+            "position": 6
+          },
+          {
+            "content": "TEDDY BEAR",
+            "position": 3
+          }
+        ]
+      }
+    ]
   },
   "2026-02-23": {
-    "status": "ERROR",
-    "errors": [
-      "Not Found"
-    ],
-    "results": []
+    "status": "OK",
+    "id": 1068,
+    "print_date": "2026-02-23",
+    "editor": "Wyna Liu",
+    "categories": [
+      {
+        "title": "EAT VORACIOUSLY",
+        "cards": [
+          {
+            "content": "BOLT",
+            "position": 11
+          },
+          {
+            "content": "GORGE",
+            "position": 6
+          },
+          {
+            "content": "INHALE",
+            "position": 14
+          },
+          {
+            "content": "SCARF",
+            "position": 12
+          }
+        ]
+      },
+      {
+        "title": "CONICAL THINGS",
+        "cards": [
+          {
+            "content": "CHRISTMAS TREE",
+            "position": 4
+          },
+          {
+            "content": "CONE",
+            "position": 9
+          },
+          {
+            "content": "PARTY HAT",
+            "position": 3
+          },
+          {
+            "content": "VOLCANO",
+            "position": 1
+          }
+        ]
+      },
+      {
+        "title": "POSE",
+        "cards": [
+          {
+            "content": "BLUFF",
+            "position": 7
+          },
+          {
+            "content": "FRONT",
+            "position": 15
+          },
+          {
+            "content": "MASQUERADE",
+            "position": 2
+          },
+          {
+            "content": "POSTURE",
+            "position": 8
+          }
+        ]
+      },
+      {
+        "title": "SETTINGS FOR A KISS",
+        "cards": [
+          {
+            "content": "BLARNEY STONE",
+            "position": 13
+          },
+          {
+            "content": "MISTLETOE",
+            "position": 5
+          },
+          {
+            "content": "NEW YEAR'S EVE",
+            "position": 0
+          },
+          {
+            "content": "WEDDING",
+            "position": 10
+          }
+        ]
+      }
+    ]
   },
   "2026-02-24": {
-    "status": "ERROR",
-    "errors": [
-      "Not Found"
-    ],
-    "results": []
+    "status": "OK",
+    "id": 1066,
+    "print_date": "2026-02-24",
+    "editor": "Wyna Liu",
+    "categories": [
+      {
+        "title": "CALCIUM-BASED STRUCTURES",
+        "cards": [
+          {
+            "content": "BONES",
+            "position": 3
+          },
+          {
+            "content": "CORAL",
+            "position": 5
+          },
+          {
+            "content": "SHELLS",
+            "position": 10
+          },
+          {
+            "content": "TEETH",
+            "position": 13
+          }
+        ]
+      },
+      {
+        "title": "SYMBOLS OF SCOTLAND",
+        "cards": [
+          {
+            "content": "BAGPIPES",
+            "position": 15
+          },
+          {
+            "content": "SCOTTIE",
+            "position": 2
+          },
+          {
+            "content": "TARTAN",
+            "position": 12
+          },
+          {
+            "content": "THISTLE",
+            "position": 8
+          }
+        ]
+      },
+      {
+        "title": "FAMOUS PLAYWRIGHTS",
+        "cards": [
+          {
+            "content": "CHEKHOV",
+            "position": 7
+          },
+          {
+            "content": "COWARD",
+            "position": 0
+          },
+          {
+            "content": "MILLER",
+            "position": 14
+          },
+          {
+            "content": "SHAW",
+            "position": 9
+          }
+        ]
+      },
+      {
+        "title": "___ BEAM",
+        "cards": [
+          {
+            "content": "BALANCE",
+            "position": 6
+          },
+          {
+            "content": "JIM",
+            "position": 4
+          },
+          {
+            "content": "LASER",
+            "position": 1
+          },
+          {
+            "content": "TRACTOR",
+            "position": 11
+          }
+        ]
+      }
+    ]
   },
   "2026-02-25": {
     "status": "ERROR",
@@ -90521,6 +91116,13 @@
     ]
   },
   "2026-03-01": {
+    "status": "ERROR",
+    "errors": [
+      "Not Found"
+    ],
+    "results": []
+  },
+  "2026-03-02": {
     "status": "ERROR",
     "errors": [
       "Not Found"
