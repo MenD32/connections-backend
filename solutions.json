@@ -91003,25 +91003,280 @@
     ]
   },
   "2026-02-25": {
-    "status": "ERROR",
-    "errors": [
-      "Not Found"
-    ],
-    "results": []
+    "status": "OK",
+    "id": 1076,
+    "print_date": "2026-02-25",
+    "editor": "Wyna Liu",
+    "categories": [
+      {
+        "title": "CARE FOR",
+        "cards": [
+          {
+            "content": "BABY",
+            "position": 2
+          },
+          {
+            "content": "FOSTER",
+            "position": 11
+          },
+          {
+            "content": "MOTHER",
+            "position": 7
+          },
+          {
+            "content": "NURSE",
+            "position": 5
+          }
+        ]
+      },
+      {
+        "title": "ELEMENTARY",
+        "cards": [
+          {
+            "content": "BASIC",
+            "position": 8
+          },
+          {
+            "content": "KEY",
+            "position": 6
+          },
+          {
+            "content": "PRIMARY",
+            "position": 13
+          },
+          {
+            "content": "PRINCIPAL",
+            "position": 3
+          }
+        ]
+      },
+      {
+        "title": "JAMESES",
+        "cards": [
+          {
+            "content": "BROWN",
+            "position": 14
+          },
+          {
+            "content": "COOK",
+            "position": 1
+          },
+          {
+            "content": "DEAN",
+            "position": 4
+          },
+          {
+            "content": "HARDEN",
+            "position": 10
+          }
+        ]
+      },
+      {
+        "title": "ENDING IN FAMILY WORDS",
+        "cards": [
+          {
+            "content": "ALKALINE",
+            "position": 9
+          },
+          {
+            "content": "DECLAN",
+            "position": 15
+          },
+          {
+            "content": "DIATRIBE",
+            "position": 12
+          },
+          {
+            "content": "NAPKIN",
+            "position": 0
+          }
+        ]
+      }
+    ]
   },
   "2026-02-26": {
-    "status": "ERROR",
-    "errors": [
-      "Not Found"
-    ],
-    "results": []
+    "status": "OK",
+    "id": 1073,
+    "print_date": "2026-02-26",
+    "editor": "Wyna Liu",
+    "categories": [
+      {
+        "title": "PIVOTAL POINT",
+        "cards": [
+          {
+            "content": "CROSSROADS",
+            "position": 15
+          },
+          {
+            "content": "LANDMARK",
+            "position": 7
+          },
+          {
+            "content": "MILESTONE",
+            "position": 3
+          },
+          {
+            "content": "WATERSHED",
+            "position": 5
+          }
+        ]
+      },
+      {
+        "title": "GREEN THINGS",
+        "cards": [
+          {
+            "content": "GRASSHOPPER",
+            "position": 6
+          },
+          {
+            "content": "SHAMROCK",
+            "position": 0
+          },
+          {
+            "content": "STATUE OF LIBERTY",
+            "position": 11
+          },
+          {
+            "content": "WASABI",
+            "position": 13
+          }
+        ]
+      },
+      {
+        "title": "ELEMENTS OF JOKE-TELLING",
+        "cards": [
+          {
+            "content": "CALLBACK",
+            "position": 14
+          },
+          {
+            "content": "PUNCHLINE",
+            "position": 2
+          },
+          {
+            "content": "SETUP",
+            "position": 12
+          },
+          {
+            "content": "TIMING",
+            "position": 9
+          }
+        ]
+      },
+      {
+        "title": "\"___ PLEASE\"",
+        "cards": [
+          {
+            "content": "ATTENTION",
+            "position": 10
+          },
+          {
+            "content": "CHECK",
+            "position": 8
+          },
+          {
+            "content": "DRUMROLL",
+            "position": 1
+          },
+          {
+            "content": "PRETTY",
+            "position": 4
+          }
+        ]
+      }
+    ]
   },
   "2026-02-27": {
-    "status": "ERROR",
-    "errors": [
-      "Not Found"
-    ],
-    "results": []
+    "status": "OK",
+    "id": 1074,
+    "print_date": "2026-02-27",
+    "editor": "Wyna Liu",
+    "categories": [
+      {
+        "title": "BACKSTABBER",
+        "cards": [
+          {
+            "content": "JUDAS",
+            "position": 0
+          },
+          {
+            "content": "SNAKE",
+            "position": 8
+          },
+          {
+            "content": "TRAITOR",
+            "position": 10
+          },
+          {
+            "content": "TURNCOAT",
+            "position": 15
+          }
+        ]
+      },
+      {
+        "title": "DEMEANOR",
+        "cards": [
+          {
+            "content": "AIR",
+            "position": 6
+          },
+          {
+            "content": "IMPRESSION",
+            "position": 14
+          },
+          {
+            "content": "MANNER",
+            "position": 11
+          },
+          {
+            "content": "QUALITY",
+            "position": 2
+          }
+        ]
+      },
+      {
+        "title": "KINDS OF CHAIN REACTION \"EFFECTS\"",
+        "cards": [
+          {
+            "content": "BUTTERFLY",
+            "position": 3
+          },
+          {
+            "content": "DOMINO",
+            "position": 12
+          },
+          {
+            "content": "RIPPLE",
+            "position": 7
+          },
+          {
+            "content": "SNOWBALL",
+            "position": 9
+          }
+        ]
+      },
+      {
+        "title": "___ PRESS",
+        "cards": [
+          {
+            "content": "BENCH",
+            "position": 5
+          },
+          {
+            "content": "DRILL",
+            "position": 1
+          },
+          {
+            "content": "FRENCH",
+            "position": 4
+          },
+          {
+            "content": "PRINTING",
+            "position": 13
+          }
+        ]
+      }
+    ]
   },
   "2026-02-28": {
     "status": "OK",
@@ -91116,25 +91371,280 @@
     ]
   },
   "2026-03-01": {
-    "status": "ERROR",
-    "errors": [
-      "Not Found"
-    ],
-    "results": []
+    "status": "OK",
+    "id": 1075,
+    "print_date": "2026-03-01",
+    "editor": "Wyna Liu",
+    "categories": [
+      {
+        "title": "CONSTRUCTION EQUIPMENT",
+        "cards": [
+          {
+            "content": "HARD HAT",
+            "position": 2
+          },
+          {
+            "content": "LADDER",
+            "position": 0
+          },
+          {
+            "content": "NAIL GUN",
+            "position": 6
+          },
+          {
+            "content": "TOOL BELT",
+            "position": 10
+          }
+        ]
+      },
+      {
+        "title": "LITTLE BITE",
+        "cards": [
+          {
+            "content": "CANAPÉ",
+            "position": 12
+          },
+          {
+            "content": "FINGER FOOD",
+            "position": 3
+          },
+          {
+            "content": "HORS D'OEUVRE",
+            "position": 15
+          },
+          {
+            "content": "TAPA",
+            "position": 5
+          }
+        ]
+      },
+      {
+        "title": "VACATION EMOJI",
+        "cards": [
+          {
+            "content": "AIRPLANE",
+            "position": 8
+          },
+          {
+            "content": "PALM TREE",
+            "position": 1
+          },
+          {
+            "content": "SMILING FACE WITH SUNGLASSES",
+            "position": 13
+          },
+          {
+            "content": "SUITCASE",
+            "position": 11
+          }
+        ]
+      },
+      {
+        "title": "THINGS YOU DON'T EAT THAT END IN FOODS",
+        "cards": [
+          {
+            "content": "COPYPASTA",
+            "position": 14
+          },
+          {
+            "content": "JOHANNESBURGER",
+            "position": 7
+          },
+          {
+            "content": "KNUCKLE SANDWICH",
+            "position": 4
+          },
+          {
+            "content": "LICORICE PIZZA",
+            "position": 9
+          }
+        ]
+      }
+    ]
   },
   "2026-03-02": {
-    "status": "ERROR",
-    "errors": [
-      "Not Found"
-    ],
-    "results": []
+    "status": "OK",
+    "id": 1071,
+    "print_date": "2026-03-02",
+    "editor": "Wyna Liu",
+    "categories": [
+      {
+        "title": "GYMNASTICS APPARATUS",
+        "cards": [
+          {
+            "content": "BEAM",
+            "position": 11
+          },
+          {
+            "content": "HORSE",
+            "position": 12
+          },
+          {
+            "content": "RINGS",
+            "position": 14
+          },
+          {
+            "content": "VAULT",
+            "position": 4
+          }
+        ]
+      },
+      {
+        "title": "STATUS",
+        "cards": [
+          {
+            "content": "POSITION",
+            "position": 15
+          },
+          {
+            "content": "RANK",
+            "position": 1
+          },
+          {
+            "content": "STANDING",
+            "position": 13
+          },
+          {
+            "content": "STATION",
+            "position": 8
+          }
+        ]
+      },
+      {
+        "title": "BASEBALL CALLS",
+        "cards": [
+          {
+            "content": "BALL",
+            "position": 3
+          },
+          {
+            "content": "FOUL",
+            "position": 7
+          },
+          {
+            "content": "SAFE",
+            "position": 5
+          },
+          {
+            "content": "STRIKE",
+            "position": 9
+          }
+        ]
+      },
+      {
+        "title": "___ CHICKEN",
+        "cards": [
+          {
+            "content": "FUNKY",
+            "position": 6
+          },
+          {
+            "content": "POPCORN",
+            "position": 10
+          },
+          {
+            "content": "RUBBER",
+            "position": 2
+          },
+          {
+            "content": "SPRING",
+            "position": 0
+          }
+        ]
+      }
+    ]
   },
   "2026-03-03": {
-    "status": "ERROR",
-    "errors": [
-      "Not Found"
-    ],
-    "results": []
+    "status": "OK",
+    "id": 1072,
+    "print_date": "2026-03-03",
+    "editor": "Wyna Liu",
+    "categories": [
+      {
+        "title": "BE ADJACENT TO",
+        "cards": [
+          {
+            "content": "ABUT",
+            "position": 13
+          },
+          {
+            "content": "FLANK",
+            "position": 4
+          },
+          {
+            "content": "NEIGHBOR",
+            "position": 11
+          },
+          {
+            "content": "TOUCH",
+            "position": 8
+          }
+        ]
+      },
+      {
+        "title": "SEEN IN A CLOSET",
+        "cards": [
+          {
+            "content": "HANGER",
+            "position": 1
+          },
+          {
+            "content": "HOOK",
+            "position": 7
+          },
+          {
+            "content": "ROD",
+            "position": 12
+          },
+          {
+            "content": "SHELF",
+            "position": 9
+          }
+        ]
+      },
+      {
+        "title": "\"BIG\" THINGS",
+        "cards": [
+          {
+            "content": "APPLE",
+            "position": 0
+          },
+          {
+            "content": "BROTHER",
+            "position": 5
+          },
+          {
+            "content": "DIPPER",
+            "position": 14
+          },
+          {
+            "content": "MAC",
+            "position": 3
+          }
+        ]
+      },
+      {
+        "title": "STARTING WITH SYNONYMS FOR \"SPEEDY\"",
+        "cards": [
+          {
+            "content": "BRISKET",
+            "position": 6
+          },
+          {
+            "content": "FASTIDIOUS",
+            "position": 10
+          },
+          {
+            "content": "FLEETWOOD",
+            "position": 2
+          },
+          {
+            "content": "QUICKSAND",
+            "position": 15
+          }
+        ]
+      }
+    ]
   },
   "2026-03-04": {
     "status": "ERROR",
@@ -91251,6 +91761,13 @@
     ]
   },
   "2026-03-08": {
+    "status": "ERROR",
+    "errors": [
+      "Not Found"
+    ],
+    "results": []
+  },
+  "2026-03-09": {
     "status": "ERROR",
     "errors": [
       "Not Found"
