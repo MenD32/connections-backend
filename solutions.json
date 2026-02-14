@@ -91647,25 +91647,280 @@
     ]
   },
   "2026-03-04": {
-    "status": "ERROR",
-    "errors": [
-      "Not Found"
-    ],
-    "results": []
+    "status": "OK",
+    "id": 1081,
+    "print_date": "2026-03-04",
+    "editor": "Wyna Liu",
+    "categories": [
+      {
+        "title": "PURSUE",
+        "cards": [
+          {
+            "content": "HOUND",
+            "position": 1
+          },
+          {
+            "content": "SHADOW",
+            "position": 8
+          },
+          {
+            "content": "TAIL",
+            "position": 14
+          },
+          {
+            "content": "TRACK",
+            "position": 11
+          }
+        ]
+      },
+      {
+        "title": "CLASSIC KID GIFTS",
+        "cards": [
+          {
+            "content": "BIKE",
+            "position": 10
+          },
+          {
+            "content": "BOOK",
+            "position": 6
+          },
+          {
+            "content": "TOY",
+            "position": 3
+          },
+          {
+            "content": "VIDEO GAME",
+            "position": 13
+          }
+        ]
+      },
+      {
+        "title": "SPORTSMANLIKE",
+        "cards": [
+          {
+            "content": "FAIR",
+            "position": 7
+          },
+          {
+            "content": "HONEST",
+            "position": 15
+          },
+          {
+            "content": "SPORTING",
+            "position": 4
+          },
+          {
+            "content": "SQUARE",
+            "position": 12
+          }
+        ]
+      },
+      {
+        "title": "\"___ GIRL\" TITLES",
+        "cards": [
+          {
+            "content": "GONE",
+            "position": 9
+          },
+          {
+            "content": "GOSSIP",
+            "position": 0
+          },
+          {
+            "content": "NEW",
+            "position": 2
+          },
+          {
+            "content": "WORKING",
+            "position": 5
+          }
+        ]
+      }
+    ]
   },
   "2026-03-05": {
-    "status": "ERROR",
-    "errors": [
-      "Not Found"
-    ],
-    "results": []
+    "status": "OK",
+    "id": 1078,
+    "print_date": "2026-03-05",
+    "editor": "Wyna Liu",
+    "categories": [
+      {
+        "title": "BITS OF HARDWARE",
+        "cards": [
+          {
+            "content": "BOLT",
+            "position": 3
+          },
+          {
+            "content": "NUT",
+            "position": 8
+          },
+          {
+            "content": "SCREW",
+            "position": 14
+          },
+          {
+            "content": "WASHER",
+            "position": 10
+          }
+        ]
+      },
+      {
+        "title": "GO BACK AND FORTH",
+        "cards": [
+          {
+            "content": "ALTERNATE",
+            "position": 0
+          },
+          {
+            "content": "SEESAW",
+            "position": 7
+          },
+          {
+            "content": "SWITCH",
+            "position": 13
+          },
+          {
+            "content": "TOGGLE",
+            "position": 2
+          }
+        ]
+      },
+      {
+        "title": "PLACES WHERE IDEAS ARE DEVELOPED",
+        "cards": [
+          {
+            "content": "INCUBATOR",
+            "position": 12
+          },
+          {
+            "content": "LAB",
+            "position": 9
+          },
+          {
+            "content": "SANDBOX",
+            "position": 5
+          },
+          {
+            "content": "TESTBED",
+            "position": 15
+          }
+        ]
+      },
+      {
+        "title": "WHAT \"SUB\" MIGHT REFER TO",
+        "cards": [
+          {
+            "content": "BELOW",
+            "position": 6
+          },
+          {
+            "content": "HERO",
+            "position": 1
+          },
+          {
+            "content": "REPLACEMENT",
+            "position": 4
+          },
+          {
+            "content": "SUBMARINE",
+            "position": 11
+          }
+        ]
+      }
+    ]
   },
   "2026-03-06": {
-    "status": "ERROR",
-    "errors": [
-      "Not Found"
-    ],
-    "results": []
+    "status": "OK",
+    "id": 1080,
+    "print_date": "2026-03-06",
+    "editor": "Wyna Liu",
+    "categories": [
+      {
+        "title": "FREELOADER",
+        "cards": [
+          {
+            "content": "LEECH",
+            "position": 15
+          },
+          {
+            "content": "PARASITE",
+            "position": 10
+          },
+          {
+            "content": "SCRUB",
+            "position": 5
+          },
+          {
+            "content": "SPONGE",
+            "position": 0
+          }
+        ]
+      },
+      {
+        "title": "CONCEALING COVER",
+        "cards": [
+          {
+            "content": "CLOAK",
+            "position": 14
+          },
+          {
+            "content": "CURTAIN",
+            "position": 7
+          },
+          {
+            "content": "LAYER",
+            "position": 8
+          },
+          {
+            "content": "MANTLE",
+            "position": 11
+          }
+        ]
+      },
+      {
+        "title": "WAYS TO REFER TO #",
+        "cards": [
+          {
+            "content": "HASH",
+            "position": 9
+          },
+          {
+            "content": "NUMBER",
+            "position": 12
+          },
+          {
+            "content": "POUND",
+            "position": 4
+          },
+          {
+            "content": "SHARP",
+            "position": 2
+          }
+        ]
+      },
+      {
+        "title": "WORDS FOR RATIONALITY, IN THE SINGULAR",
+        "cards": [
+          {
+            "content": "FACULTY",
+            "position": 6
+          },
+          {
+            "content": "MARBLE",
+            "position": 1
+          },
+          {
+            "content": "SENSE",
+            "position": 13
+          },
+          {
+            "content": "WIT",
+            "position": 3
+          }
+        ]
+      }
+    ]
   },
   "2026-03-07": {
     "status": "OK",
@@ -91761,25 +92016,280 @@
     ]
   },
   "2026-03-08": {
-    "status": "ERROR",
-    "errors": [
-      "Not Found"
-    ],
-    "results": []
+    "status": "OK",
+    "id": 1083,
+    "print_date": "2026-03-08",
+    "editor": "Wyna Liu",
+    "categories": [
+      {
+        "title": "CITIES",
+        "cards": [
+          {
+            "content": "LIMA",
+            "position": 15
+          },
+          {
+            "content": "NICE",
+            "position": 0
+          },
+          {
+            "content": "OSAKA",
+            "position": 5
+          },
+          {
+            "content": "PHOENIX",
+            "position": 10
+          }
+        ]
+      },
+      {
+        "title": "PALINDROMES",
+        "cards": [
+          {
+            "content": "EYE",
+            "position": 8
+          },
+          {
+            "content": "REFER",
+            "position": 12
+          },
+          {
+            "content": "ROTATOR",
+            "position": 14
+          },
+          {
+            "content": "SELES",
+            "position": 3
+          }
+        ]
+      },
+      {
+        "title": "HORROR MOVIES MINUS \"S\"",
+        "cards": [
+          {
+            "content": "GREMLIN",
+            "position": 9
+          },
+          {
+            "content": "JAW",
+            "position": 6
+          },
+          {
+            "content": "SINNER",
+            "position": 7
+          },
+          {
+            "content": "TREMOR",
+            "position": 13
+          }
+        ]
+      },
+      {
+        "title": "STARTING WITH SLANG FOR ZERO",
+        "cards": [
+          {
+            "content": "JACKET",
+            "position": 4
+          },
+          {
+            "content": "NADAL",
+            "position": 1
+          },
+          {
+            "content": "SQUATTER",
+            "position": 11
+          },
+          {
+            "content": "ZIPPER",
+            "position": 2
+          }
+        ]
+      }
+    ]
   },
   "2026-03-09": {
-    "status": "ERROR",
-    "errors": [
-      "Not Found"
-    ],
-    "results": []
+    "status": "OK",
+    "id": 1077,
+    "print_date": "2026-03-09",
+    "editor": "Wyna Liu",
+    "categories": [
+      {
+        "title": "STARTING WITH THE SAME SOUND, SPELLED DIFFERENTLY",
+        "cards": [
+          {
+            "content": "WAREHOUSE",
+            "position": 5
+          },
+          {
+            "content": "WEARABLE",
+            "position": 11
+          },
+          {
+            "content": "WEREWOLF",
+            "position": 2
+          },
+          {
+            "content": "WHEREFORE",
+            "position": 14
+          }
+        ]
+      },
+      {
+        "title": "METAPHORS FOR PUBLIC SCRUTINY",
+        "cards": [
+          {
+            "content": "FISHBOWL",
+            "position": 6
+          },
+          {
+            "content": "HOT SEAT",
+            "position": 13
+          },
+          {
+            "content": "MICROSCOPE",
+            "position": 3
+          },
+          {
+            "content": "SPOTLIGHT",
+            "position": 8
+          }
+        ]
+      },
+      {
+        "title": "MUPPETS",
+        "cards": [
+          {
+            "content": "ANIMAL",
+            "position": 7
+          },
+          {
+            "content": "BEAKER",
+            "position": 0
+          },
+          {
+            "content": "FOZZIE",
+            "position": 15
+          },
+          {
+            "content": "GONZO",
+            "position": 10
+          }
+        ]
+      },
+      {
+        "title": "THEY FEATURE A BOSS",
+        "cards": [
+          {
+            "content": "COMPANY",
+            "position": 9
+          },
+          {
+            "content": "E STREET BAND",
+            "position": 12
+          },
+          {
+            "content": "MAFIA",
+            "position": 4
+          },
+          {
+            "content": "VIDEO GAME",
+            "position": 1
+          }
+        ]
+      }
+    ]
   },
   "2026-03-10": {
-    "status": "ERROR",
-    "errors": [
-      "Not Found"
-    ],
-    "results": []
+    "status": "OK",
+    "id": 1082,
+    "print_date": "2026-03-10",
+    "editor": "Wyna Liu",
+    "categories": [
+      {
+        "title": "COOK WITH DRY HEAT",
+        "cards": [
+          {
+            "content": "BROWN",
+            "position": 4
+          },
+          {
+            "content": "ROAST",
+            "position": 9
+          },
+          {
+            "content": "SEAR",
+            "position": 13
+          },
+          {
+            "content": "TOAST",
+            "position": 3
+          }
+        ]
+      },
+      {
+        "title": "FAMILIAL NICKNAMES",
+        "cards": [
+          {
+            "content": "CUZ",
+            "position": 15
+          },
+          {
+            "content": "GRAM",
+            "position": 1
+          },
+          {
+            "content": "POP",
+            "position": 10
+          },
+          {
+            "content": "UNC",
+            "position": 5
+          }
+        ]
+      },
+      {
+        "title": "U.S. STATE ABBREVIATIONS",
+        "cards": [
+          {
+            "content": "MASS",
+            "position": 0
+          },
+          {
+            "content": "MISS",
+            "position": 14
+          },
+          {
+            "content": "PENN",
+            "position": 8
+          },
+          {
+            "content": "WASH",
+            "position": 6
+          }
+        ]
+      },
+      {
+        "title": "PUNCH",
+        "cards": [
+          {
+            "content": "BOX",
+            "position": 11
+          },
+          {
+            "content": "DUKE",
+            "position": 2
+          },
+          {
+            "content": "SLUG",
+            "position": 12
+          },
+          {
+            "content": "SOCK",
+            "position": 7
+          }
+        ]
+      }
+    ]
   },
   "2026-03-11": {
     "status": "ERROR",
@@ -91803,13 +92313,105 @@
     "results": []
   },
   "2026-03-14": {
+    "status": "OK",
+    "id": 1079,
+    "print_date": "2026-03-14",
+    "editor": "Wyna Liu",
+    "categories": [
+      {
+        "title": "HYPNOTIC STATE",
+        "cards": [
+          {
+            "content": "DREAM",
+            "position": 14
+          },
+          {
+            "content": "HAZE",
+            "position": 3
+          },
+          {
+            "content": "SPELL",
+            "position": 8
+          },
+          {
+            "content": "TRANCE",
+            "position": 11
+          }
+        ]
+      },
+      {
+        "title": "STARTING WITH PREFIXES MEANING \"TWO\"",
+        "cards": [
+          {
+            "content": "BINARY",
+            "position": 2
+          },
+          {
+            "content": "DIOXIDE",
+            "position": 12
+          },
+          {
+            "content": "DUOLINGO",
+            "position": 7
+          },
+          {
+            "content": "TWILIGHT",
+            "position": 15
+          }
+        ]
+      },
+      {
+        "title": "FICTIONAL INSPECTORS",
+        "cards": [
+          {
+            "content": "CLOUSEAU",
+            "position": 9
+          },
+          {
+            "content": "GADGET",
+            "position": 1
+          },
+          {
+            "content": "JAVERT",
+            "position": 13
+          },
+          {
+            "content": "MORSE",
+            "position": 6
+          }
+        ]
+      },
+      {
+        "title": "ENDING IN FEMALE ANIMALS",
+        "cards": [
+          {
+            "content": "HOOTENANNY",
+            "position": 4
+          },
+          {
+            "content": "LICHEN",
+            "position": 5
+          },
+          {
+            "content": "MOSCOW",
+            "position": 10
+          },
+          {
+            "content": "NIGHTMARE",
+            "position": 0
+          }
+        ]
+      }
+    ]
+  },
+  "2026-03-15": {
     "status": "ERROR",
     "errors": [
       "Not Found"
     ],
     "results": []
   },
-  "2026-03-15": {
+  "2026-03-16": {
     "status": "ERROR",
     "errors": [
       "Not Found"
