@@ -92292,25 +92292,280 @@
     ]
   },
   "2026-03-11": {
-    "status": "ERROR",
-    "errors": [
-      "Not Found"
-    ],
-    "results": []
+    "status": "OK",
+    "id": 1084,
+    "print_date": "2026-03-11",
+    "editor": "Wyna Liu",
+    "categories": [
+      {
+        "title": "STEAL",
+        "cards": [
+          {
+            "content": "LIFT",
+            "position": 5
+          },
+          {
+            "content": "PALM",
+            "position": 2
+          },
+          {
+            "content": "PINCH",
+            "position": 11
+          },
+          {
+            "content": "POCKET",
+            "position": 9
+          }
+        ]
+      },
+      {
+        "title": "MAKE NICER, WITH \"UP\"",
+        "cards": [
+          {
+            "content": "DRESS",
+            "position": 0
+          },
+          {
+            "content": "JAZZ",
+            "position": 3
+          },
+          {
+            "content": "SPIFF",
+            "position": 14
+          },
+          {
+            "content": "SPRUCE",
+            "position": 6
+          }
+        ]
+      },
+      {
+        "title": "KINDS OF CONES",
+        "cards": [
+          {
+            "content": "ICE CREAM",
+            "position": 13
+          },
+          {
+            "content": "PINE",
+            "position": 8
+          },
+          {
+            "content": "SNOW",
+            "position": 1
+          },
+          {
+            "content": "TRAFFIC",
+            "position": 7
+          }
+        ]
+      },
+      {
+        "title": "PRONOUN HOMOPHONES",
+        "cards": [
+          {
+            "content": "HEE",
+            "position": 12
+          },
+          {
+            "content": "MI",
+            "position": 15
+          },
+          {
+            "content": "OUI",
+            "position": 10
+          },
+          {
+            "content": "YEW",
+            "position": 4
+          }
+        ]
+      }
+    ]
   },
   "2026-03-12": {
-    "status": "ERROR",
-    "errors": [
-      "Not Found"
-    ],
-    "results": []
+    "status": "OK",
+    "id": 1086,
+    "print_date": "2026-03-12",
+    "editor": "Wyna Liu",
+    "categories": [
+      {
+        "title": "PLACES TO FIND SAND",
+        "cards": [
+          {
+            "content": "BUNKER",
+            "position": 9
+          },
+          {
+            "content": "DESERT",
+            "position": 12
+          },
+          {
+            "content": "HOURGLASS",
+            "position": 4
+          },
+          {
+            "content": "SANDBOX",
+            "position": 3
+          }
+        ]
+      },
+      {
+        "title": "THINGS THAT MOVE BACK AND FORTH",
+        "cards": [
+          {
+            "content": "METRONOME",
+            "position": 6
+          },
+          {
+            "content": "PENDULUM",
+            "position": 11
+          },
+          {
+            "content": "SWING",
+            "position": 1
+          },
+          {
+            "content": "WINDSHIELD WIPER",
+            "position": 8
+          }
+        ]
+      },
+      {
+        "title": "APPARATUS-BASED EXERCISE CLASSES",
+        "cards": [
+          {
+            "content": "BARRE",
+            "position": 15
+          },
+          {
+            "content": "REFORMER",
+            "position": 13
+          },
+          {
+            "content": "SPIN",
+            "position": 10
+          },
+          {
+            "content": "STEP",
+            "position": 2
+          }
+        ]
+      },
+      {
+        "title": "FEATURING BIRDS",
+        "cards": [
+          {
+            "content": "CUCKOO CLOCK",
+            "position": 0
+          },
+          {
+            "content": "FROOT LOOPS",
+            "position": 14
+          },
+          {
+            "content": "MEXICAN FLAG",
+            "position": 5
+          },
+          {
+            "content": "WEATHER VANE",
+            "position": 7
+          }
+        ]
+      }
+    ]
   },
   "2026-03-13": {
-    "status": "ERROR",
-    "errors": [
-      "Not Found"
-    ],
-    "results": []
+    "status": "OK",
+    "id": 1088,
+    "print_date": "2026-03-13",
+    "editor": "Wyna Liu",
+    "categories": [
+      {
+        "title": "\"NO THANKS\"",
+        "cards": [
+          {
+            "content": "LATER",
+            "position": 15
+          },
+          {
+            "content": "NAH",
+            "position": 9
+          },
+          {
+            "content": "NEXT TIME",
+            "position": 12
+          },
+          {
+            "content": "PASS",
+            "position": 2
+          }
+        ]
+      },
+      {
+        "title": "KINDS OF NUMBERS",
+        "cards": [
+          {
+            "content": "EVEN",
+            "position": 11
+          },
+          {
+            "content": "IRRATIONAL",
+            "position": 14
+          },
+          {
+            "content": "PERFECT",
+            "position": 0
+          },
+          {
+            "content": "PRIME",
+            "position": 6
+          }
+        ]
+      },
+      {
+        "title": "KINDS OF WALLS",
+        "cards": [
+          {
+            "content": "BERLIN",
+            "position": 13
+          },
+          {
+            "content": "BRICK",
+            "position": 1
+          },
+          {
+            "content": "FOURTH",
+            "position": 10
+          },
+          {
+            "content": "GREAT",
+            "position": 4
+          }
+        ]
+      },
+      {
+        "title": "HOMOPHONES OF NON-NUMERIC AMOUNTS",
+        "cards": [
+          {
+            "content": "AWL",
+            "position": 5
+          },
+          {
+            "content": "NUN",
+            "position": 3
+          },
+          {
+            "content": "PHEW",
+            "position": 8
+          },
+          {
+            "content": "SUM",
+            "position": 7
+          }
+        ]
+      }
+    ]
   },
   "2026-03-14": {
     "status": "OK",
@@ -92405,11 +92660,96 @@
     ]
   },
   "2026-03-15": {
-    "status": "ERROR",
-    "errors": [
-      "Not Found"
-    ],
-    "results": []
+    "status": "OK",
+    "id": 1089,
+    "print_date": "2026-03-15",
+    "editor": "Wyna Liu",
+    "categories": [
+      {
+        "title": "TOOTHED WHEELS",
+        "cards": [
+          {
+            "content": "COG",
+            "position": 4
+          },
+          {
+            "content": "GEAR",
+            "position": 9
+          },
+          {
+            "content": "PINION",
+            "position": 13
+          },
+          {
+            "content": "SPROCKET",
+            "position": 15
+          }
+        ]
+      },
+      {
+        "title": "GREEDILY CONTROL",
+        "cards": [
+          {
+            "content": "BOGART",
+            "position": 14
+          },
+          {
+            "content": "CORNER",
+            "position": 10
+          },
+          {
+            "content": "HOG",
+            "position": 1
+          },
+          {
+            "content": "MONOPOLIZE",
+            "position": 12
+          }
+        ]
+      },
+      {
+        "title": "PORTMANTEAUX",
+        "cards": [
+          {
+            "content": "BLOG",
+            "position": 5
+          },
+          {
+            "content": "MOTEL",
+            "position": 11
+          },
+          {
+            "content": "SMOG",
+            "position": 6
+          },
+          {
+            "content": "SPORK",
+            "position": 3
+          }
+        ]
+      },
+      {
+        "title": "BULL___",
+        "cards": [
+          {
+            "content": "DOG",
+            "position": 0
+          },
+          {
+            "content": "DOZE",
+            "position": 7
+          },
+          {
+            "content": "FROG",
+            "position": 2
+          },
+          {
+            "content": "HORN",
+            "position": 8
+          }
+        ]
+      }
+    ]
   },
   "2026-03-16": {
     "status": "ERROR",
@@ -92433,11 +92773,96 @@
     "results": []
   },
   "2026-03-19": {
-    "status": "ERROR",
-    "errors": [
-      "Not Found"
-    ],
-    "results": []
+    "status": "OK",
+    "id": 1085,
+    "print_date": "2026-03-19",
+    "editor": "Wyna Liu",
+    "categories": [
+      {
+        "title": "FOLK TALE CHARACTERS",
+        "cards": [
+          {
+            "content": "CHICKEN LITTLE",
+            "position": 5
+          },
+          {
+            "content": "FROG PRINCE",
+            "position": 15
+          },
+          {
+            "content": "GINGERBREAD MAN",
+            "position": 13
+          },
+          {
+            "content": "GOLDILOCKS",
+            "position": 8
+          }
+        ]
+      },
+      {
+        "title": "GOOD LUCK SYMBOLS",
+        "cards": [
+          {
+            "content": "EVIL EYE",
+            "position": 1
+          },
+          {
+            "content": "FOUR-LEAF CLOVER",
+            "position": 14
+          },
+          {
+            "content": "HORSESHOE",
+            "position": 7
+          },
+          {
+            "content": "RABBIT'S FOOT",
+            "position": 9
+          }
+        ]
+      },
+      {
+        "title": "THINGS THAT CHANGE COLOR",
+        "cards": [
+          {
+            "content": "CHAMELEON",
+            "position": 10
+          },
+          {
+            "content": "MOOD RING",
+            "position": 2
+          },
+          {
+            "content": "SUNSET",
+            "position": 12
+          },
+          {
+            "content": "TRAFFIC LIGHT",
+            "position": 4
+          }
+        ]
+      },
+      {
+        "title": "ENDING IN MUSIC GENRES",
+        "cards": [
+          {
+            "content": "BABY BLUES",
+            "position": 0
+          },
+          {
+            "content": "PET ROCK",
+            "position": 3
+          },
+          {
+            "content": "SCRAP METAL",
+            "position": 6
+          },
+          {
+            "content": "SODA POP",
+            "position": 11
+          }
+        ]
+      }
+    ]
   },
   "2026-03-20": {
     "status": "ERROR",
@@ -92454,6 +92879,13 @@
     "results": []
   },
   "2026-03-22": {
+    "status": "ERROR",
+    "errors": [
+      "Not Found"
+    ],
+    "results": []
+  },
+  "2026-03-23": {
     "status": "ERROR",
     "errors": [
       "Not Found"
