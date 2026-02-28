@@ -92752,25 +92752,280 @@
     ]
   },
   "2026-03-16": {
-    "status": "ERROR",
-    "errors": [
-      "Not Found"
-    ],
-    "results": []
+    "status": "OK",
+    "id": 1095,
+    "print_date": "2026-03-16",
+    "editor": "Wyna Liu",
+    "categories": [
+      {
+        "title": "ANIMAL GROUP NAMES",
+        "cards": [
+          {
+            "content": "GAGGLE",
+            "position": 14
+          },
+          {
+            "content": "PACK",
+            "position": 11
+          },
+          {
+            "content": "POD",
+            "position": 12
+          },
+          {
+            "content": "PRIDE",
+            "position": 6
+          }
+        ]
+      },
+      {
+        "title": "THINGS ASSOCIATED WITH BEING SLOW",
+        "cards": [
+          {
+            "content": "GLACIER",
+            "position": 15
+          },
+          {
+            "content": "MOLASSES",
+            "position": 9
+          },
+          {
+            "content": "SLOTH",
+            "position": 1
+          },
+          {
+            "content": "TRAFFIC",
+            "position": 5
+          }
+        ]
+      },
+      {
+        "title": "SILENT \"W\"",
+        "cards": [
+          {
+            "content": "CARTWRIGHT",
+            "position": 8
+          },
+          {
+            "content": "TWO",
+            "position": 3
+          },
+          {
+            "content": "WRATH",
+            "position": 4
+          },
+          {
+            "content": "WRESTLE",
+            "position": 10
+          }
+        ]
+      },
+      {
+        "title": "WORDS THAT SOUND LIKE STATE ABBREVIATIONS",
+        "cards": [
+          {
+            "content": "ANY",
+            "position": 2
+          },
+          {
+            "content": "EMMY",
+            "position": 13
+          },
+          {
+            "content": "ENVY",
+            "position": 7
+          },
+          {
+            "content": "OKAY",
+            "position": 0
+          }
+        ]
+      }
+    ]
   },
   "2026-03-17": {
-    "status": "ERROR",
-    "errors": [
-      "Not Found"
-    ],
-    "results": []
+    "status": "OK",
+    "id": 1094,
+    "print_date": "2026-03-17",
+    "editor": "Wyna Liu",
+    "categories": [
+      {
+        "title": "METAPHORS FOR TROUBLE",
+        "cards": [
+          {
+            "content": "BIND",
+            "position": 10
+          },
+          {
+            "content": "HOT WATER",
+            "position": 2
+          },
+          {
+            "content": "JAM",
+            "position": 7
+          },
+          {
+            "content": "PICKLE",
+            "position": 15
+          }
+        ]
+      },
+      {
+        "title": "METAPHORS FOR QUICKNESS",
+        "cards": [
+          {
+            "content": "ARROW",
+            "position": 9
+          },
+          {
+            "content": "LIGHTNING",
+            "position": 5
+          },
+          {
+            "content": "ROCKET",
+            "position": 14
+          },
+          {
+            "content": "WIND",
+            "position": 1
+          }
+        ]
+      },
+      {
+        "title": "THINGS WITH STRINGS",
+        "cards": [
+          {
+            "content": "BALLOON",
+            "position": 6
+          },
+          {
+            "content": "KITE",
+            "position": 0
+          },
+          {
+            "content": "TEA BAG",
+            "position": 4
+          },
+          {
+            "content": "YO-YO",
+            "position": 12
+          }
+        ]
+      },
+      {
+        "title": "MUSIC THEORY CONCEPTS",
+        "cards": [
+          {
+            "content": "KEY",
+            "position": 3
+          },
+          {
+            "content": "PITCH",
+            "position": 8
+          },
+          {
+            "content": "SCALE",
+            "position": 11
+          },
+          {
+            "content": "TONE",
+            "position": 13
+          }
+        ]
+      }
+    ]
   },
   "2026-03-18": {
-    "status": "ERROR",
-    "errors": [
-      "Not Found"
-    ],
-    "results": []
+    "status": "OK",
+    "id": 1093,
+    "print_date": "2026-03-18",
+    "editor": "Wyna Liu",
+    "categories": [
+      {
+        "title": "INTERVAL",
+        "cards": [
+          {
+            "content": "PATCH",
+            "position": 10
+          },
+          {
+            "content": "PERIOD",
+            "position": 15
+          },
+          {
+            "content": "SPELL",
+            "position": 0
+          },
+          {
+            "content": "STRETCH",
+            "position": 5
+          }
+        ]
+      },
+      {
+        "title": "REACT TO A STUBBED TOE",
+        "cards": [
+          {
+            "content": "CURSE",
+            "position": 6
+          },
+          {
+            "content": "HOP",
+            "position": 11
+          },
+          {
+            "content": "WINCE",
+            "position": 8
+          },
+          {
+            "content": "YELL",
+            "position": 1
+          }
+        ]
+      },
+      {
+        "title": "GUITAR EFFECTS PEDALS",
+        "cards": [
+          {
+            "content": "DELAY",
+            "position": 12
+          },
+          {
+            "content": "REVERB",
+            "position": 14
+          },
+          {
+            "content": "WAH",
+            "position": 7
+          },
+          {
+            "content": "WHAMMY",
+            "position": 4
+          }
+        ]
+      },
+      {
+        "title": "___ CHECK",
+        "cards": [
+          {
+            "content": "BLANK",
+            "position": 9
+          },
+          {
+            "content": "COAT",
+            "position": 3
+          },
+          {
+            "content": "RAIN",
+            "position": 2
+          },
+          {
+            "content": "REALITY",
+            "position": 13
+          }
+        ]
+      }
+    ]
   },
   "2026-03-19": {
     "status": "OK",
@@ -92865,32 +93120,372 @@
     ]
   },
   "2026-03-20": {
-    "status": "ERROR",
-    "errors": [
-      "Not Found"
-    ],
-    "results": []
+    "status": "OK",
+    "id": 1092,
+    "print_date": "2026-03-20",
+    "editor": "Wyna Liu",
+    "categories": [
+      {
+        "title": "DISTURB",
+        "cards": [
+          {
+            "content": "ALARM",
+            "position": 4
+          },
+          {
+            "content": "CONCERN",
+            "position": 11
+          },
+          {
+            "content": "RATTLE",
+            "position": 8
+          },
+          {
+            "content": "SHAKE",
+            "position": 6
+          }
+        ]
+      },
+      {
+        "title": "WORDS ON A MONOPOLY BOARD",
+        "cards": [
+          {
+            "content": "BOARDWALK",
+            "position": 14
+          },
+          {
+            "content": "CHANCE",
+            "position": 2
+          },
+          {
+            "content": "LUXURY",
+            "position": 0
+          },
+          {
+            "content": "PARKING",
+            "position": 7
+          }
+        ]
+      },
+      {
+        "title": "FIGURES IN GREEK MYTH",
+        "cards": [
+          {
+            "content": "FATE",
+            "position": 15
+          },
+          {
+            "content": "FURY",
+            "position": 9
+          },
+          {
+            "content": "MUSE",
+            "position": 13
+          },
+          {
+            "content": "SIREN",
+            "position": 1
+          }
+        ]
+      },
+      {
+        "title": "EGG ___",
+        "cards": [
+          {
+            "content": "CARTON",
+            "position": 3
+          },
+          {
+            "content": "NOODLE",
+            "position": 12
+          },
+          {
+            "content": "ROLL",
+            "position": 10
+          },
+          {
+            "content": "TIMER",
+            "position": 5
+          }
+        ]
+      }
+    ]
   },
   "2026-03-21": {
-    "status": "ERROR",
-    "errors": [
-      "Not Found"
-    ],
-    "results": []
+    "status": "OK",
+    "id": 1098,
+    "print_date": "2026-03-21",
+    "editor": "Wyna Liu",
+    "categories": [
+      {
+        "title": "DIRECT",
+        "cards": [
+          {
+            "content": "BLUNT",
+            "position": 13
+          },
+          {
+            "content": "FRANK",
+            "position": 6
+          },
+          {
+            "content": "PLAIN",
+            "position": 1
+          },
+          {
+            "content": "STRAIGHT",
+            "position": 9
+          }
+        ]
+      },
+      {
+        "title": "TARGET",
+        "cards": [
+          {
+            "content": "GOAL",
+            "position": 8
+          },
+          {
+            "content": "MARK",
+            "position": 5
+          },
+          {
+            "content": "OBJECT",
+            "position": 2
+          },
+          {
+            "content": "POINT",
+            "position": 10
+          }
+        ]
+      },
+      {
+        "title": "CHECKERS TERMS",
+        "cards": [
+          {
+            "content": "CAPTURE",
+            "position": 15
+          },
+          {
+            "content": "CROWN",
+            "position": 3
+          },
+          {
+            "content": "JUMP",
+            "position": 4
+          },
+          {
+            "content": "KING",
+            "position": 12
+          }
+        ]
+      },
+      {
+        "title": "20TH CENTURY AMERICAN POETS",
+        "cards": [
+          {
+            "content": "BISHOP",
+            "position": 11
+          },
+          {
+            "content": "FROST",
+            "position": 14
+          },
+          {
+            "content": "POUND",
+            "position": 0
+          },
+          {
+            "content": "RICH",
+            "position": 7
+          }
+        ]
+      }
+    ]
   },
   "2026-03-22": {
-    "status": "ERROR",
-    "errors": [
-      "Not Found"
-    ],
-    "results": []
+    "status": "OK",
+    "id": 1097,
+    "print_date": "2026-03-22",
+    "editor": "Wyna Liu",
+    "categories": [
+      {
+        "title": "OVERSEE",
+        "cards": [
+          {
+            "content": "CHAIR",
+            "position": 5
+          },
+          {
+            "content": "HEAD",
+            "position": 6
+          },
+          {
+            "content": "LEAD",
+            "position": 9
+          },
+          {
+            "content": "RUN",
+            "position": 2
+          }
+        ]
+      },
+      {
+        "title": "PICTURE TAKEN FROM A FILM",
+        "cards": [
+          {
+            "content": "FRAME",
+            "position": 10
+          },
+          {
+            "content": "IMAGE",
+            "position": 8
+          },
+          {
+            "content": "SHOT",
+            "position": 15
+          },
+          {
+            "content": "STILL",
+            "position": 3
+          }
+        ]
+      },
+      {
+        "title": "COMPONENTS OF A WEIGHTLIFTING SETUP",
+        "cards": [
+          {
+            "content": "BAR",
+            "position": 11
+          },
+          {
+            "content": "BENCH",
+            "position": 7
+          },
+          {
+            "content": "RACK",
+            "position": 0
+          },
+          {
+            "content": "WEIGHTS",
+            "position": 13
+          }
+        ]
+      },
+      {
+        "title": "___ SURF",
+        "cards": [
+          {
+            "content": "CHANNEL",
+            "position": 12
+          },
+          {
+            "content": "COUCH",
+            "position": 1
+          },
+          {
+            "content": "CROWD",
+            "position": 4
+          },
+          {
+            "content": "KITE",
+            "position": 14
+          }
+        ]
+      }
+    ]
   },
   "2026-03-23": {
-    "status": "ERROR",
-    "errors": [
-      "Not Found"
-    ],
-    "results": []
+    "status": "OK",
+    "id": 1096,
+    "print_date": "2026-03-23",
+    "editor": "Wyna Liu",
+    "categories": [
+      {
+        "title": "PRINCIPLED",
+        "cards": [
+          {
+            "content": "DECENT",
+            "position": 14
+          },
+          {
+            "content": "HONEST",
+            "position": 11
+          },
+          {
+            "content": "MORAL",
+            "position": 12
+          },
+          {
+            "content": "STAND-UP",
+            "position": 1
+          }
+        ]
+      },
+      {
+        "title": "GAME-CHANGING INVENTIONS",
+        "cards": [
+          {
+            "content": "LIGHT BULB",
+            "position": 2
+          },
+          {
+            "content": "PRINTING PRESS",
+            "position": 10
+          },
+          {
+            "content": "SLICED BREAD",
+            "position": 13
+          },
+          {
+            "content": "WHEEL",
+            "position": 5
+          }
+        ]
+      },
+      {
+        "title": "\"VIRGIN\" THINGS",
+        "cards": [
+          {
+            "content": "MARY",
+            "position": 7
+          },
+          {
+            "content": "MOCKTAIL",
+            "position": 9
+          },
+          {
+            "content": "OLIVE OIL",
+            "position": 4
+          },
+          {
+            "content": "VIRGO",
+            "position": 15
+          }
+        ]
+      },
+      {
+        "title": "ENDING IN NICKNAME HOMOPHONES",
+        "cards": [
+          {
+            "content": "BRAIN STEW",
+            "position": 8
+          },
+          {
+            "content": "BROCCOLI RABE",
+            "position": 3
+          },
+          {
+            "content": "JUNGLE GYM",
+            "position": 0
+          },
+          {
+            "content": "OPEN MIC",
+            "position": 6
+          }
+        ]
+      }
+    ]
   },
   "2026-03-24": {
     "status": "ERROR",
@@ -93013,6 +93608,13 @@
     "results": []
   },
   "2026-03-29": {
+    "status": "ERROR",
+    "errors": [
+      "Not Found"
+    ],
+    "results": []
+  },
+  "2026-03-30": {
     "status": "ERROR",
     "errors": [
       "Not Found"
