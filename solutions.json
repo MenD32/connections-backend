@@ -92871,23 +92871,23 @@
         ]
       },
       {
-        "title": "METAPHORS FOR QUICKNESS",
+        "title": "MUSIC THEORY CONCEPTS",
         "cards": [
           {
-            "content": "ARROW",
-            "position": 9
+            "content": "KEY",
+            "position": 3
           },
           {
-            "content": "LIGHTNING",
-            "position": 5
+            "content": "PITCH",
+            "position": 8
           },
           {
-            "content": "ROCKET",
-            "position": 14
+            "content": "SCALE",
+            "position": 11
           },
           {
-            "content": "WIND",
-            "position": 1
+            "content": "TONE",
+            "position": 13
           }
         ]
       },
@@ -92913,23 +92913,23 @@
         ]
       },
       {
-        "title": "MUSIC THEORY CONCEPTS",
+        "title": "METAPHORS FOR QUICKNESS",
         "cards": [
           {
-            "content": "KEY",
-            "position": 3
+            "content": "ARROW",
+            "position": 9
           },
           {
-            "content": "PITCH",
-            "position": 8
+            "content": "LIGHTNING",
+            "position": 5
           },
           {
-            "content": "SCALE",
-            "position": 11
+            "content": "ROCKET",
+            "position": 14
           },
           {
-            "content": "TONE",
-            "position": 13
+            "content": "WIND",
+            "position": 1
           }
         ]
       }
@@ -93168,7 +93168,7 @@
         ]
       },
       {
-        "title": "FIGURES IN GREEK MYTH",
+        "title": "FIGURE IN GREEK MYTH",
         "cards": [
           {
             "content": "FATE",
@@ -93643,6 +93643,13 @@
     "results": []
   },
   "2026-04-03": {
+    "status": "ERROR",
+    "errors": [
+      "Not Found"
+    ],
+    "results": []
+  },
+  "2026-04-04": {
     "status": "ERROR",
     "errors": [
       "Not Found"
