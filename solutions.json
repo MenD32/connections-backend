@@ -93488,25 +93488,280 @@
     ]
   },
   "2026-03-24": {
-    "status": "ERROR",
-    "errors": [
-      "Not Found"
-    ],
-    "results": []
+    "status": "OK",
+    "id": 1102,
+    "print_date": "2026-03-24",
+    "editor": "Wyna Liu",
+    "categories": [
+      {
+        "title": "DESPICABLE",
+        "cards": [
+          {
+            "content": "BASE",
+            "position": 7
+          },
+          {
+            "content": "LOW",
+            "position": 0
+          },
+          {
+            "content": "MEAN",
+            "position": 10
+          },
+          {
+            "content": "VILE",
+            "position": 15
+          }
+        ]
+      },
+      {
+        "title": "LAWNCARE VERBS",
+        "cards": [
+          {
+            "content": "EDGE",
+            "position": 6
+          },
+          {
+            "content": "MOW",
+            "position": 13
+          },
+          {
+            "content": "RAKE",
+            "position": 11
+          },
+          {
+            "content": "WEED",
+            "position": 3
+          }
+        ]
+      },
+      {
+        "title": "KINDS OF TRUCKS",
+        "cards": [
+          {
+            "content": "DUMP",
+            "position": 14
+          },
+          {
+            "content": "FIRE",
+            "position": 5
+          },
+          {
+            "content": "FOOD",
+            "position": 2
+          },
+          {
+            "content": "TOW",
+            "position": 12
+          }
+        ]
+      },
+      {
+        "title": "HETERONYMS",
+        "cards": [
+          {
+            "content": "BOW",
+            "position": 8
+          },
+          {
+            "content": "ROW",
+            "position": 4
+          },
+          {
+            "content": "SOW",
+            "position": 9
+          },
+          {
+            "content": "WIND",
+            "position": 1
+          }
+        ]
+      }
+    ]
   },
   "2026-03-25": {
-    "status": "ERROR",
-    "errors": [
-      "Not Found"
-    ],
-    "results": []
+    "status": "OK",
+    "id": 1101,
+    "print_date": "2026-03-25",
+    "editor": "Wyna Liu",
+    "categories": [
+      {
+        "title": "OBFUSCATE",
+        "cards": [
+          {
+            "content": "BLUR",
+            "position": 11
+          },
+          {
+            "content": "CLOUD",
+            "position": 2
+          },
+          {
+            "content": "MUDDY",
+            "position": 12
+          },
+          {
+            "content": "OBSCURE",
+            "position": 5
+          }
+        ]
+      },
+      {
+        "title": "MAGAZINES",
+        "cards": [
+          {
+            "content": "FORTUNE",
+            "position": 7
+          },
+          {
+            "content": "PEOPLE",
+            "position": 13
+          },
+          {
+            "content": "SPIN",
+            "position": 4
+          },
+          {
+            "content": "TIME",
+            "position": 9
+          }
+        ]
+      },
+      {
+        "title": "PAYMENT METHODS",
+        "cards": [
+          {
+            "content": "CASH",
+            "position": 14
+          },
+          {
+            "content": "CHARGE",
+            "position": 6
+          },
+          {
+            "content": "CHECK",
+            "position": 8
+          },
+          {
+            "content": "WIRE",
+            "position": 0
+          }
+        ]
+      },
+      {
+        "title": "UNITS OF VOLUME WITH LAST LETTER CHANGED",
+        "cards": [
+          {
+            "content": "CUR",
+            "position": 15
+          },
+          {
+            "content": "GALLOP",
+            "position": 10
+          },
+          {
+            "content": "PING",
+            "position": 3
+          },
+          {
+            "content": "QUARK",
+            "position": 1
+          }
+        ]
+      }
+    ]
   },
   "2026-03-26": {
-    "status": "ERROR",
-    "errors": [
-      "Not Found"
-    ],
-    "results": []
+    "status": "OK",
+    "id": 1100,
+    "print_date": "2026-03-26",
+    "editor": "Wyna Liu",
+    "categories": [
+      {
+        "title": "FOOD PROCUREMENT METHODS",
+        "cards": [
+          {
+            "content": "AGRICULTURE",
+            "position": 5
+          },
+          {
+            "content": "FISHING",
+            "position": 0
+          },
+          {
+            "content": "GATHERING",
+            "position": 8
+          },
+          {
+            "content": "HUNTING",
+            "position": 11
+          }
+        ]
+      },
+      {
+        "title": "MEMBER OF A DETROIT SPORTS TEAM",
+        "cards": [
+          {
+            "content": "LION",
+            "position": 12
+          },
+          {
+            "content": "PISTON",
+            "position": 7
+          },
+          {
+            "content": "RED WING",
+            "position": 15
+          },
+          {
+            "content": "TIGER",
+            "position": 2
+          }
+        ]
+      },
+      {
+        "title": "FEATURES OF A CLASSIC VOTING BOOTH",
+        "cards": [
+          {
+            "content": "BALLOT",
+            "position": 13
+          },
+          {
+            "content": "BOOTH",
+            "position": 9
+          },
+          {
+            "content": "CURTAIN",
+            "position": 3
+          },
+          {
+            "content": "LEVER",
+            "position": 6
+          }
+        ]
+      },
+      {
+        "title": "THEY HAVE BOLTS",
+        "cards": [
+          {
+            "content": "FRANKENSTEIN'S MONSTER",
+            "position": 10
+          },
+          {
+            "content": "HARDWARE STORE",
+            "position": 14
+          },
+          {
+            "content": "LIGHTNING",
+            "position": 4
+          },
+          {
+            "content": "LOCK",
+            "position": 1
+          }
+        ]
+      }
+    ]
   },
   "2026-03-27": {
     "status": "OK",
@@ -93622,11 +93877,96 @@
     "results": []
   },
   "2026-03-31": {
-    "status": "ERROR",
-    "errors": [
-      "Not Found"
-    ],
-    "results": []
+    "status": "OK",
+    "id": 1103,
+    "print_date": "2026-03-31",
+    "editor": "Wyna Liu",
+    "categories": [
+      {
+        "title": "SHORTAGE",
+        "cards": [
+          {
+            "content": "ABSENCE",
+            "position": 13
+          },
+          {
+            "content": "CRUNCH",
+            "position": 3
+          },
+          {
+            "content": "DEFICIT",
+            "position": 15
+          },
+          {
+            "content": "PINCH",
+            "position": 10
+          }
+        ]
+      },
+      {
+        "title": "PARTS OF A PIRATE SHIP",
+        "cards": [
+          {
+            "content": "CANNON",
+            "position": 7
+          },
+          {
+            "content": "CROW'S NEST",
+            "position": 9
+          },
+          {
+            "content": "JOLLY ROGER",
+            "position": 12
+          },
+          {
+            "content": "PLANK",
+            "position": 1
+          }
+        ]
+      },
+      {
+        "title": "KINDS OF BRAS",
+        "cards": [
+          {
+            "content": "PLUNGE",
+            "position": 11
+          },
+          {
+            "content": "PUSH-UP",
+            "position": 4
+          },
+          {
+            "content": "SPORTS",
+            "position": 5
+          },
+          {
+            "content": "WIRELESS",
+            "position": 0
+          }
+        ]
+      },
+      {
+        "title": "STARTING WITH BABY ANIMALS",
+        "cards": [
+          {
+            "content": "CALF RAISE",
+            "position": 8
+          },
+          {
+            "content": "CHICK FLICK",
+            "position": 6
+          },
+          {
+            "content": "FRY COOK",
+            "position": 14
+          },
+          {
+            "content": "KIT KAT",
+            "position": 2
+          }
+        ]
+      }
+    ]
   },
   "2026-04-01": {
     "status": "ERROR",
@@ -93657,6 +93997,98 @@
     "results": []
   },
   "2026-04-05": {
+    "status": "OK",
+    "id": 1099,
+    "print_date": "2026-04-05",
+    "editor": "Wyna Liu",
+    "categories": [
+      {
+        "title": "ATOMIC STRUCTURE TERMS",
+        "cards": [
+          {
+            "content": "ELECTRON",
+            "position": 12
+          },
+          {
+            "content": "NUCLEUS",
+            "position": 10
+          },
+          {
+            "content": "ORBIT",
+            "position": 7
+          },
+          {
+            "content": "SHELL",
+            "position": 4
+          }
+        ]
+      },
+      {
+        "title": "PARTS OF A SHERLOCK HOLMES COSTUME",
+        "cards": [
+          {
+            "content": "DEERSTALKER",
+            "position": 14
+          },
+          {
+            "content": "MAGNIFYING GLASS",
+            "position": 11
+          },
+          {
+            "content": "PIPE",
+            "position": 0
+          },
+          {
+            "content": "VIOLIN",
+            "position": 5
+          }
+        ]
+      },
+      {
+        "title": "THINGS TO FLIP",
+        "cards": [
+          {
+            "content": "COIN",
+            "position": 8
+          },
+          {
+            "content": "LIGHT SWITCH",
+            "position": 3
+          },
+          {
+            "content": "PANCAKE",
+            "position": 1
+          },
+          {
+            "content": "THE BIRD",
+            "position": 15
+          }
+        ]
+      },
+      {
+        "title": "STARTING WITH SYNONYMS FOR \"SLUSH\"",
+        "cards": [
+          {
+            "content": "GOOGOL",
+            "position": 13
+          },
+          {
+            "content": "MUSHROOM",
+            "position": 6
+          },
+          {
+            "content": "PASTEURIZE",
+            "position": 9
+          },
+          {
+            "content": "PULPIT",
+            "position": 2
+          }
+        ]
+      }
+    ]
+  },
+  "2026-04-06": {
     "status": "ERROR",
     "errors": [
       "Not Found"
