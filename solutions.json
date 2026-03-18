@@ -94324,7 +94324,7 @@
           },
           {
             "position": 12,
-            "image_url": "https://games-phoenix-assets-prd.s3.us-east-1.amazonaws.com/images/connections/img-1111-1773435862226.svg",
+            "image_url": "https://games-phoenix-assets-prd.s3.us-east-1.amazonaws.com/images/connections/img-1111-1773779943355.svg",
             "image_alt_text": "SECOND CITY"
           }
         ]
@@ -94855,6 +94855,13 @@
     "results": []
   },
   "2026-04-16": {
+    "status": "ERROR",
+    "errors": [
+      "Not Found"
+    ],
+    "results": []
+  },
+  "2026-04-17": {
     "status": "ERROR",
     "errors": [
       "Not Found"
