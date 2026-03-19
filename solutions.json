@@ -94522,6 +94522,27 @@
     "editor": "Wyna Liu",
     "categories": [
       {
+        "title": "\"LET SLEEPING DOGS LIE\"",
+        "cards": [
+          {
+            "content": "DOGS",
+            "position": 15
+          },
+          {
+            "content": "LET",
+            "position": 8
+          },
+          {
+            "content": "LIE",
+            "position": 3
+          },
+          {
+            "content": "SLEEPING",
+            "position": 12
+          }
+        ]
+      },
+      {
         "title": "OBSCURE",
         "cards": [
           {
@@ -94560,27 +94581,6 @@
           {
             "content": "SPIT",
             "position": 6
-          }
-        ]
-      },
-      {
-        "title": "\"LET SLEEPING DOGS LIE\"",
-        "cards": [
-          {
-            "content": "DOGS",
-            "position": 15
-          },
-          {
-            "content": "LET",
-            "position": 8
-          },
-          {
-            "content": "LIE",
-            "position": 3
-          },
-          {
-            "content": "SLEEPING",
-            "position": 12
           }
         ]
       },
@@ -94862,6 +94862,13 @@
     "results": []
   },
   "2026-04-17": {
+    "status": "ERROR",
+    "errors": [
+      "Not Found"
+    ],
+    "results": []
+  },
+  "2026-04-18": {
     "status": "ERROR",
     "errors": [
       "Not Found"
