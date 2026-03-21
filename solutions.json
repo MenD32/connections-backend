@@ -94792,39 +94792,464 @@
     ]
   },
   "2026-04-07": {
-    "status": "ERROR",
-    "errors": [
-      "Not Found"
-    ],
-    "results": []
+    "status": "OK",
+    "id": 1117,
+    "print_date": "2026-04-07",
+    "editor": "Wyna Liu",
+    "categories": [
+      {
+        "title": "COMPETITION",
+        "cards": [
+          {
+            "content": "BATTLE",
+            "position": 1
+          },
+          {
+            "content": "CLASH",
+            "position": 9
+          },
+          {
+            "content": "CONTEST",
+            "position": 15
+          },
+          {
+            "content": "MATCH",
+            "position": 7
+          }
+        ]
+      },
+      {
+        "title": "ON BOARD",
+        "cards": [
+          {
+            "content": "DOWN",
+            "position": 10
+          },
+          {
+            "content": "GAME",
+            "position": 5
+          },
+          {
+            "content": "IN",
+            "position": 6
+          },
+          {
+            "content": "WILLING",
+            "position": 13
+          }
+        ]
+      },
+      {
+        "title": "WORDS FOR UNSPECIFIED CHOICES",
+        "cards": [
+          {
+            "content": "ANOTHER",
+            "position": 3
+          },
+          {
+            "content": "EITHER",
+            "position": 14
+          },
+          {
+            "content": "NEITHER",
+            "position": 12
+          },
+          {
+            "content": "ONE",
+            "position": 0
+          }
+        ]
+      },
+      {
+        "title": "___LIFE",
+        "cards": [
+          {
+            "content": "AFTER",
+            "position": 2
+          },
+          {
+            "content": "LOW",
+            "position": 11
+          },
+          {
+            "content": "NIGHT",
+            "position": 8
+          },
+          {
+            "content": "WILD",
+            "position": 4
+          }
+        ]
+      }
+    ]
   },
   "2026-04-08": {
-    "status": "ERROR",
-    "errors": [
-      "Not Found"
-    ],
-    "results": []
+    "status": "OK",
+    "id": 1116,
+    "print_date": "2026-04-08",
+    "editor": "Wyna Liu",
+    "categories": [
+      {
+        "title": "AESTHETIC",
+        "cards": [
+          {
+            "content": "DESIGN",
+            "position": 9
+          },
+          {
+            "content": "LOOK",
+            "position": 5
+          },
+          {
+            "content": "SCHEME",
+            "position": 1
+          },
+          {
+            "content": "STYLE",
+            "position": 14
+          }
+        ]
+      },
+      {
+        "title": "COHORT MEMBER",
+        "cards": [
+          {
+            "content": "ASSOCIATE",
+            "position": 2
+          },
+          {
+            "content": "COLLEAGUE",
+            "position": 13
+          },
+          {
+            "content": "FELLOW",
+            "position": 11
+          },
+          {
+            "content": "PEER",
+            "position": 7
+          }
+        ]
+      },
+      {
+        "title": "KINDS OF BAR APPARATUSES",
+        "cards": [
+          {
+            "content": "MONKEY",
+            "position": 4
+          },
+          {
+            "content": "PARALLEL",
+            "position": 15
+          },
+          {
+            "content": "PULL-UP",
+            "position": 10
+          },
+          {
+            "content": "UNEVEN",
+            "position": 12
+          }
+        ]
+      },
+      {
+        "title": "EYEWEAR IN THE SINGULAR",
+        "cards": [
+          {
+            "content": "CONTACT",
+            "position": 3
+          },
+          {
+            "content": "GOGGLE",
+            "position": 8
+          },
+          {
+            "content": "SHADE",
+            "position": 6
+          },
+          {
+            "content": "SPECTACLE",
+            "position": 0
+          }
+        ]
+      }
+    ]
   },
   "2026-04-09": {
-    "status": "ERROR",
-    "errors": [
-      "Not Found"
-    ],
-    "results": []
+    "status": "OK",
+    "id": 1112,
+    "print_date": "2026-04-09",
+    "editor": "Wyna Liu",
+    "categories": [
+      {
+        "title": "GLOOMY",
+        "cards": [
+          {
+            "content": "BLUE",
+            "position": 4
+          },
+          {
+            "content": "DARK",
+            "position": 10
+          },
+          {
+            "content": "DOWN",
+            "position": 9
+          },
+          {
+            "content": "LOW",
+            "position": 7
+          }
+        ]
+      },
+      {
+        "title": "OINTMENT",
+        "cards": [
+          {
+            "content": "BALM",
+            "position": 15
+          },
+          {
+            "content": "CREAM",
+            "position": 6
+          },
+          {
+            "content": "PASTE",
+            "position": 11
+          },
+          {
+            "content": "RUB",
+            "position": 13
+          }
+        ]
+      },
+      {
+        "title": "ZODIAC SYMBOLS",
+        "cards": [
+          {
+            "content": "ARCHER",
+            "position": 14
+          },
+          {
+            "content": "FISH",
+            "position": 8
+          },
+          {
+            "content": "GOAT",
+            "position": 3
+          },
+          {
+            "content": "RAM",
+            "position": 0
+          }
+        ]
+      },
+      {
+        "title": "MUSCULAR, MINUS \"ED\" SOUND",
+        "cards": [
+          {
+            "content": "JACK",
+            "position": 1
+          },
+          {
+            "content": "RIP",
+            "position": 2
+          },
+          {
+            "content": "SHRED",
+            "position": 12
+          },
+          {
+            "content": "YOKE",
+            "position": 5
+          }
+        ]
+      }
+    ]
   },
   "2026-04-10": {
-    "status": "ERROR",
-    "errors": [
-      "Not Found"
-    ],
-    "results": []
+    "status": "OK",
+    "id": 1115,
+    "print_date": "2026-04-10",
+    "editor": "Wyna Liu",
+    "categories": [
+      {
+        "title": "PEPPERS",
+        "cards": [
+          {
+            "content": "BELL PEPPER",
+            "position": 8
+          },
+          {
+            "content": "CAROLINA REAPER",
+            "position": 2
+          },
+          {
+            "content": "CHIPOTLE",
+            "position": 7
+          },
+          {
+            "content": "PEPPERONCINO",
+            "position": 15
+          }
+        ]
+      },
+      {
+        "title": "THINGS THAT POP UP",
+        "cards": [
+          {
+            "content": "EJECTOR SEAT",
+            "position": 9
+          },
+          {
+            "content": "JACK-IN-THE-BOX",
+            "position": 3
+          },
+          {
+            "content": "POP-UP BOOK",
+            "position": 12
+          },
+          {
+            "content": "TOASTER",
+            "position": 6
+          }
+        ]
+      },
+      {
+        "title": "BLUE CHARACTERS",
+        "cards": [
+          {
+            "content": "BLUE",
+            "position": 11
+          },
+          {
+            "content": "GENIE",
+            "position": 13
+          },
+          {
+            "content": "GONZO",
+            "position": 0
+          },
+          {
+            "content": "SONIC",
+            "position": 4
+          }
+        ]
+      },
+      {
+        "title": "DESCRIPTORS FOR SWISS CHEESE",
+        "cards": [
+          {
+            "content": "FIRM",
+            "position": 5
+          },
+          {
+            "content": "HOLEY",
+            "position": 14
+          },
+          {
+            "content": "NUTTY",
+            "position": 1
+          },
+          {
+            "content": "SWISS",
+            "position": 10
+          }
+        ]
+      }
+    ]
   },
   "2026-04-11": {
-    "status": "ERROR",
-    "errors": [
-      "Not Found"
-    ],
-    "results": []
+    "status": "OK",
+    "id": 1118,
+    "print_date": "2026-04-11",
+    "editor": "Wyna Liu",
+    "categories": [
+      {
+        "title": "FOUND IN THE TRUNK OF A CAR",
+        "cards": [
+          {
+            "content": "ICE SCRAPER",
+            "position": 11
+          },
+          {
+            "content": "JACK",
+            "position": 2
+          },
+          {
+            "content": "JUMPER CABLES",
+            "position": 15
+          },
+          {
+            "content": "SPARE TIRE",
+            "position": 12
+          }
+        ]
+      },
+      {
+        "title": "BENEFACTOR",
+        "cards": [
+          {
+            "content": "ANGEL",
+            "position": 0
+          },
+          {
+            "content": "CHAMPION",
+            "position": 8
+          },
+          {
+            "content": "PATRON",
+            "position": 6
+          },
+          {
+            "content": "SPONSOR",
+            "position": 14
+          }
+        ]
+      },
+      {
+        "title": "STRUCTURAL SUPPORTS",
+        "cards": [
+          {
+            "content": "BEAM",
+            "position": 7
+          },
+          {
+            "content": "BRACE",
+            "position": 13
+          },
+          {
+            "content": "COLUMN",
+            "position": 10
+          },
+          {
+            "content": "STRUT",
+            "position": 5
+          }
+        ]
+      },
+      {
+        "title": "ENDING IN BODIES OF WATER",
+        "cards": [
+          {
+            "content": "BOMBAY",
+            "position": 4
+          },
+          {
+            "content": "CHELSEA",
+            "position": 9
+          },
+          {
+            "content": "SCREWDRIVER",
+            "position": 3
+          },
+          {
+            "content": "SNOWFLAKE",
+            "position": 1
+          }
+        ]
+      }
+    ]
   },
   "2026-04-12": {
     "status": "ERROR",
@@ -94834,11 +95259,96 @@
     "results": []
   },
   "2026-04-13": {
-    "status": "ERROR",
-    "errors": [
-      "Not Found"
-    ],
-    "results": []
+    "status": "OK",
+    "id": 1113,
+    "print_date": "2026-04-13",
+    "editor": "Wyna Liu",
+    "categories": [
+      {
+        "title": "ACCESSORIES FOR A MAGICIAN",
+        "cards": [
+          {
+            "content": "CAPE",
+            "position": 3
+          },
+          {
+            "content": "HANDKERCHIEF",
+            "position": 5
+          },
+          {
+            "content": "MAGIC WAND",
+            "position": 0
+          },
+          {
+            "content": "RABBIT",
+            "position": 15
+          }
+        ]
+      },
+      {
+        "title": "SEEN OUTSIDE A THEATER",
+        "cards": [
+          {
+            "content": "BOX OFFICE",
+            "position": 9
+          },
+          {
+            "content": "MARQUEE",
+            "position": 6
+          },
+          {
+            "content": "TICKET LINE",
+            "position": 11
+          },
+          {
+            "content": "VELVET ROPE",
+            "position": 1
+          }
+        ]
+      },
+      {
+        "title": "TV SHOW TITLE SURNAMES",
+        "cards": [
+          {
+            "content": "HOUSE",
+            "position": 7
+          },
+          {
+            "content": "LASSO",
+            "position": 4
+          },
+          {
+            "content": "MONTANA",
+            "position": 12
+          },
+          {
+            "content": "SOPRANO",
+            "position": 14
+          }
+        ]
+      },
+      {
+        "title": "THEY HAVE CAPS",
+        "cards": [
+          {
+            "content": "BASEBALL PLAYER",
+            "position": 13
+          },
+          {
+            "content": "CAMERA LENS",
+            "position": 10
+          },
+          {
+            "content": "MUSHROOM",
+            "position": 2
+          },
+          {
+            "content": "PEN",
+            "position": 8
+          }
+        ]
+      }
+    ]
   },
   "2026-04-14": {
     "status": "ERROR",
@@ -94869,13 +95379,105 @@
     "results": []
   },
   "2026-04-18": {
+    "status": "OK",
+    "id": 1114,
+    "print_date": "2026-04-18",
+    "editor": "Wyna Liu",
+    "categories": [
+      {
+        "title": "LOOK AT WITH AWE",
+        "cards": [
+          {
+            "content": "GOGGLE",
+            "position": 14
+          },
+          {
+            "content": "MARVEL",
+            "position": 0
+          },
+          {
+            "content": "STARE",
+            "position": 10
+          },
+          {
+            "content": "WONDER",
+            "position": 7
+          }
+        ]
+      },
+      {
+        "title": "BASIC ELECTRICITY TERMS",
+        "cards": [
+          {
+            "content": "AC",
+            "position": 15
+          },
+          {
+            "content": "DC",
+            "position": 1
+          },
+          {
+            "content": "POWER",
+            "position": 3
+          },
+          {
+            "content": "VOLTAGE",
+            "position": 6
+          }
+        ]
+      },
+      {
+        "title": "UNEXPECTED WINNER",
+        "cards": [
+          {
+            "content": "DARK HORSE",
+            "position": 5
+          },
+          {
+            "content": "LONG SHOT",
+            "position": 11
+          },
+          {
+            "content": "SLEEPER",
+            "position": 8
+          },
+          {
+            "content": "UNDERDOG",
+            "position": 13
+          }
+        ]
+      },
+      {
+        "title": "STARTING WITH SODA BRANDS",
+        "cards": [
+          {
+            "content": "CRUSHWORTHY",
+            "position": 2
+          },
+          {
+            "content": "FANTAGRAPHICS",
+            "position": 4
+          },
+          {
+            "content": "FRESCADE",
+            "position": 9
+          },
+          {
+            "content": "PEPSINOGEN",
+            "position": 12
+          }
+        ]
+      }
+    ]
+  },
+  "2026-04-19": {
     "status": "ERROR",
     "errors": [
       "Not Found"
     ],
     "results": []
   },
-  "2026-04-19": {
+  "2026-04-20": {
     "status": "ERROR",
     "errors": [
       "Not Found"
