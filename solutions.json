@@ -95358,11 +95358,96 @@
     "results": []
   },
   "2026-04-15": {
-    "status": "ERROR",
-    "errors": [
-      "Not Found"
-    ],
-    "results": []
+    "status": "OK",
+    "id": 1119,
+    "print_date": "2026-04-15",
+    "editor": "Wyna Liu",
+    "categories": [
+      {
+        "title": "GRADUATION GEAR",
+        "cards": [
+          {
+            "content": "CAP",
+            "position": 9
+          },
+          {
+            "content": "DIPLOMA",
+            "position": 15
+          },
+          {
+            "content": "GOWN",
+            "position": 2
+          },
+          {
+            "content": "TASSEL",
+            "position": 0
+          }
+        ]
+      },
+      {
+        "title": "TEDIOUS UNDERTAKING",
+        "cards": [
+          {
+            "content": "CHORE",
+            "position": 14
+          },
+          {
+            "content": "GRIND",
+            "position": 5
+          },
+          {
+            "content": "HASSLE",
+            "position": 3
+          },
+          {
+            "content": "TRIAL",
+            "position": 8
+          }
+        ]
+      },
+      {
+        "title": "OVERSIMPLISTIC",
+        "cards": [
+          {
+            "content": "FACILE",
+            "position": 7
+          },
+          {
+            "content": "FLIP",
+            "position": 4
+          },
+          {
+            "content": "LIMITED",
+            "position": 10
+          },
+          {
+            "content": "SHALLOW",
+            "position": 12
+          }
+        ]
+      },
+      {
+        "title": "SHAPES OF CHESS PIECES",
+        "cards": [
+          {
+            "content": "CASTLE",
+            "position": 6
+          },
+          {
+            "content": "CROWN",
+            "position": 1
+          },
+          {
+            "content": "HORSE",
+            "position": 11
+          },
+          {
+            "content": "MITER",
+            "position": 13
+          }
+        ]
+      }
+    ]
   },
   "2026-04-16": {
     "status": "ERROR",
@@ -95492,6 +95577,13 @@
     "results": []
   },
   "2026-04-22": {
+    "status": "ERROR",
+    "errors": [
+      "Not Found"
+    ],
+    "results": []
+  },
+  "2026-04-23": {
     "status": "ERROR",
     "errors": [
       "Not Found"
