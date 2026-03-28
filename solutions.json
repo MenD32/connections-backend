@@ -95252,11 +95252,96 @@
     ]
   },
   "2026-04-12": {
-    "status": "ERROR",
-    "errors": [
-      "Not Found"
-    ],
-    "results": []
+    "status": "OK",
+    "id": 1125,
+    "print_date": "2026-04-12",
+    "editor": "Wyna Liu",
+    "categories": [
+      {
+        "title": "PANTS FEATURES",
+        "cards": [
+          {
+            "content": "BELT LOOP",
+            "position": 15
+          },
+          {
+            "content": "CUFF",
+            "position": 11
+          },
+          {
+            "content": "FLY",
+            "position": 0
+          },
+          {
+            "content": "POCKET",
+            "position": 6
+          }
+        ]
+      },
+      {
+        "title": "EMIT",
+        "cards": [
+          {
+            "content": "CAST",
+            "position": 3
+          },
+          {
+            "content": "PROJECT",
+            "position": 5
+          },
+          {
+            "content": "RADIATE",
+            "position": 13
+          },
+          {
+            "content": "SHED",
+            "position": 8
+          }
+        ]
+      },
+      {
+        "title": "PERSPECTIVE",
+        "cards": [
+          {
+            "content": "ANGLE",
+            "position": 7
+          },
+          {
+            "content": "POSITION",
+            "position": 9
+          },
+          {
+            "content": "STANCE",
+            "position": 14
+          },
+          {
+            "content": "TAKE",
+            "position": 2
+          }
+        ]
+      },
+      {
+        "title": "___ DOLL",
+        "cards": [
+          {
+            "content": "PAPER",
+            "position": 1
+          },
+          {
+            "content": "RAG",
+            "position": 12
+          },
+          {
+            "content": "RUSSIAN",
+            "position": 10
+          },
+          {
+            "content": "TROLL",
+            "position": 4
+          }
+        ]
+      }
+    ]
   },
   "2026-04-13": {
     "status": "OK",
@@ -95351,11 +95436,96 @@
     ]
   },
   "2026-04-14": {
-    "status": "ERROR",
-    "errors": [
-      "Not Found"
-    ],
-    "results": []
+    "status": "OK",
+    "id": 1123,
+    "print_date": "2026-04-14",
+    "editor": "Wyna Liu",
+    "categories": [
+      {
+        "title": "THINGS STORED BY A BROWSER",
+        "cards": [
+          {
+            "content": "BOOKMARK",
+            "position": 3
+          },
+          {
+            "content": "CACHE",
+            "position": 11
+          },
+          {
+            "content": "COOKIE",
+            "position": 4
+          },
+          {
+            "content": "HISTORY",
+            "position": 14
+          }
+        ]
+      },
+      {
+        "title": "BOXING TERMS",
+        "cards": [
+          {
+            "content": "BELL",
+            "position": 6
+          },
+          {
+            "content": "GLOVES",
+            "position": 9
+          },
+          {
+            "content": "RING",
+            "position": 12
+          },
+          {
+            "content": "ROUND",
+            "position": 0
+          }
+        ]
+      },
+      {
+        "title": "TILT",
+        "cards": [
+          {
+            "content": "LEAN",
+            "position": 15
+          },
+          {
+            "content": "LIST",
+            "position": 1
+          },
+          {
+            "content": "PITCH",
+            "position": 13
+          },
+          {
+            "content": "TIP",
+            "position": 8
+          }
+        ]
+      },
+      {
+        "title": "FREE___",
+        "cards": [
+          {
+            "content": "LANCE",
+            "position": 5
+          },
+          {
+            "content": "MASON",
+            "position": 2
+          },
+          {
+            "content": "STYLE",
+            "position": 10
+          },
+          {
+            "content": "WAY",
+            "position": 7
+          }
+        ]
+      }
+    ]
   },
   "2026-04-15": {
     "status": "OK",
@@ -95417,12 +95587,12 @@
             "position": 4
           },
           {
-            "content": "LIMITED",
-            "position": 10
-          },
-          {
             "content": "SHALLOW",
             "position": 12
+          },
+          {
+            "content": "TRITE",
+            "position": 10
           }
         ]
       },
@@ -95450,11 +95620,96 @@
     ]
   },
   "2026-04-16": {
-    "status": "ERROR",
-    "errors": [
-      "Not Found"
-    ],
-    "results": []
+    "status": "OK",
+    "id": 1120,
+    "print_date": "2026-04-16",
+    "editor": "Wyna Liu",
+    "categories": [
+      {
+        "title": "TEASE",
+        "cards": [
+          {
+            "content": "NEEDLE",
+            "position": 4
+          },
+          {
+            "content": "RIB",
+            "position": 15
+          },
+          {
+            "content": "RIDE",
+            "position": 3
+          },
+          {
+            "content": "ROAST",
+            "position": 11
+          }
+        ]
+      },
+      {
+        "title": "THERMOSTAT SETTINGS",
+        "cards": [
+          {
+            "content": "AUTO",
+            "position": 8
+          },
+          {
+            "content": "COOL",
+            "position": 0
+          },
+          {
+            "content": "FAN",
+            "position": 6
+          },
+          {
+            "content": "HEAT",
+            "position": 10
+          }
+        ]
+      },
+      {
+        "title": "FEATURES OF A CATWOMAN COSTUME",
+        "cards": [
+          {
+            "content": "BODYSUIT",
+            "position": 9
+          },
+          {
+            "content": "CLAWS",
+            "position": 13
+          },
+          {
+            "content": "MASK",
+            "position": 2
+          },
+          {
+            "content": "WHIP",
+            "position": 1
+          }
+        ]
+      },
+      {
+        "title": "TRAINING ___",
+        "cards": [
+          {
+            "content": "BRA",
+            "position": 14
+          },
+          {
+            "content": "CAMP",
+            "position": 5
+          },
+          {
+            "content": "DAY",
+            "position": 12
+          },
+          {
+            "content": "WHEELS",
+            "position": 7
+          }
+        ]
+      }
+    ]
   },
   "2026-04-17": {
     "status": "ERROR",
@@ -95556,11 +95811,96 @@
     ]
   },
   "2026-04-19": {
-    "status": "ERROR",
-    "errors": [
-      "Not Found"
-    ],
-    "results": []
+    "status": "OK",
+    "id": 1122,
+    "print_date": "2026-04-19",
+    "editor": "Wyna Liu",
+    "categories": [
+      {
+        "title": "CHEEKY",
+        "cards": [
+          {
+            "content": "ARCH",
+            "position": 1
+          },
+          {
+            "content": "FRESH",
+            "position": 4
+          },
+          {
+            "content": "SASSY",
+            "position": 11
+          },
+          {
+            "content": "WISE",
+            "position": 9
+          }
+        ]
+      },
+      {
+        "title": "DRESS MEASUREMENTS",
+        "cards": [
+          {
+            "content": "BUST",
+            "position": 5
+          },
+          {
+            "content": "HIPS",
+            "position": 15
+          },
+          {
+            "content": "LENGTH",
+            "position": 13
+          },
+          {
+            "content": "WAIST",
+            "position": 8
+          }
+        ]
+      },
+      {
+        "title": "CARDS IN TEXAS HOLD 'EM",
+        "cards": [
+          {
+            "content": "FLOP",
+            "position": 7
+          },
+          {
+            "content": "HOLE",
+            "position": 3
+          },
+          {
+            "content": "RIVER",
+            "position": 10
+          },
+          {
+            "content": "TURN",
+            "position": 12
+          }
+        ]
+      },
+      {
+        "title": "SECOND WORDS OF CANDY BRANDS IN THE SINGULAR",
+        "cards": [
+          {
+            "content": "CAP",
+            "position": 14
+          },
+          {
+            "content": "DUD",
+            "position": 2
+          },
+          {
+            "content": "KID",
+            "position": 6
+          },
+          {
+            "content": "MINT",
+            "position": 0
+          }
+        ]
+      }
+    ]
   },
   "2026-04-20": {
     "status": "ERROR",
@@ -95584,11 +95924,96 @@
     "results": []
   },
   "2026-04-23": {
-    "status": "ERROR",
-    "errors": [
-      "Not Found"
-    ],
-    "results": []
+    "status": "OK",
+    "id": 1121,
+    "print_date": "2026-04-23",
+    "editor": "Wyna Liu",
+    "categories": [
+      {
+        "title": "BORDER",
+        "cards": [
+          {
+            "content": "FLANK",
+            "position": 15
+          },
+          {
+            "content": "NEIGHBOR",
+            "position": 2
+          },
+          {
+            "content": "SKIRT",
+            "position": 6
+          },
+          {
+            "content": "TOUCH",
+            "position": 4
+          }
+        ]
+      },
+      {
+        "title": "KINDS OF FICTION",
+        "cards": [
+          {
+            "content": "HISTORICAL",
+            "position": 14
+          },
+          {
+            "content": "LITERARY",
+            "position": 10
+          },
+          {
+            "content": "PULP",
+            "position": 8
+          },
+          {
+            "content": "SCIENCE",
+            "position": 7
+          }
+        ]
+      },
+      {
+        "title": "WORDS IN A PLANETARY MNEMONIC",
+        "cards": [
+          {
+            "content": "EDUCATED",
+            "position": 9
+          },
+          {
+            "content": "MOTHER",
+            "position": 0
+          },
+          {
+            "content": "MY",
+            "position": 1
+          },
+          {
+            "content": "VERY",
+            "position": 13
+          }
+        ]
+      },
+      {
+        "title": "STARTING WITH FOUR-LETTER '80S BANDS",
+        "cards": [
+          {
+            "content": "ASIAGO",
+            "position": 11
+          },
+          {
+            "content": "DEVOTE",
+            "position": 12
+          },
+          {
+            "content": "TOTORO",
+            "position": 3
+          },
+          {
+            "content": "WHAMMY",
+            "position": 5
+          }
+        ]
+      }
+    ]
   },
   "2026-04-24": {
     "status": "ERROR",
@@ -95610,5 +96035,97 @@
       "Not Found"
     ],
     "results": []
+  },
+  "2026-04-27": {
+    "status": "OK",
+    "id": 1090,
+    "print_date": "2026-04-27",
+    "editor": "Wyna Liu",
+    "categories": [
+      {
+        "title": "SALAD INGREDIENTS",
+        "cards": [
+          {
+            "content": "RANCH DRESSING",
+            "position": 15
+          },
+          {
+            "content": "RED ONION",
+            "position": 2
+          },
+          {
+            "content": "ROASTED CHICKEN",
+            "position": 7
+          },
+          {
+            "content": "ROMAINE LETTUCE",
+            "position": 10
+          }
+        ]
+      },
+      {
+        "title": "CLASSIC FILMS",
+        "cards": [
+          {
+            "content": "RAIN MAN",
+            "position": 12
+          },
+          {
+            "content": "REAR WINDOW",
+            "position": 9
+          },
+          {
+            "content": "RESERVOIR DOGS",
+            "position": 4
+          },
+          {
+            "content": "ROMAN HOLIDAY",
+            "position": 6
+          }
+        ]
+      },
+      {
+        "title": "\"THE SIMPSONS\" CHARACTERS",
+        "cards": [
+          {
+            "content": "RADIOACTIVE MAN",
+            "position": 0
+          },
+          {
+            "content": "RALPH WIGGUM",
+            "position": 14
+          },
+          {
+            "content": "REVEREND LOVEJOY",
+            "position": 5
+          },
+          {
+            "content": "ROD FLANDERS",
+            "position": 11
+          }
+        ]
+      },
+      {
+        "title": "ENDING IN NBA PLAYERS",
+        "cards": [
+          {
+            "content": "RAGING BULL",
+            "position": 1
+          },
+          {
+            "content": "REGINA KING",
+            "position": 3
+          },
+          {
+            "content": "ROE BUCK",
+            "position": 8
+          },
+          {
+            "content": "ROTARY CLIPPER",
+            "position": 13
+          }
+        ]
+      }
+    ]
   }
 }
