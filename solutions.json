@@ -95712,11 +95712,96 @@
     ]
   },
   "2026-04-17": {
-    "status": "ERROR",
-    "errors": [
-      "Not Found"
-    ],
-    "results": []
+    "status": "OK",
+    "id": 1132,
+    "print_date": "2026-04-17",
+    "editor": "Wyna Liu",
+    "categories": [
+      {
+        "title": "VEGETABLE PARTS",
+        "cards": [
+          {
+            "content": "BULB",
+            "position": 8
+          },
+          {
+            "content": "LEAF",
+            "position": 13
+          },
+          {
+            "content": "ROOT",
+            "position": 2
+          },
+          {
+            "content": "STEM",
+            "position": 5
+          }
+        ]
+      },
+      {
+        "title": "PREVAILING",
+        "cards": [
+          {
+            "content": "COMMON",
+            "position": 10
+          },
+          {
+            "content": "DOMINANT",
+            "position": 0
+          },
+          {
+            "content": "GENERAL",
+            "position": 7
+          },
+          {
+            "content": "POPULAR",
+            "position": 15
+          }
+        ]
+      },
+      {
+        "title": "PARTS OF A PIANO",
+        "cards": [
+          {
+            "content": "HAMMER",
+            "position": 6
+          },
+          {
+            "content": "KEY",
+            "position": 1
+          },
+          {
+            "content": "PEDAL",
+            "position": 14
+          },
+          {
+            "content": "STRING",
+            "position": 11
+          }
+        ]
+      },
+      {
+        "title": "WORDS AFTER \"AND\" IN DRINK NAMES",
+        "cards": [
+          {
+            "content": "SODA",
+            "position": 9
+          },
+          {
+            "content": "STORMY",
+            "position": 12
+          },
+          {
+            "content": "TAN",
+            "position": 3
+          },
+          {
+            "content": "TONIC",
+            "position": 4
+          }
+        ]
+      }
+    ]
   },
   "2026-04-18": {
     "status": "OK",
@@ -95903,25 +95988,280 @@
     ]
   },
   "2026-04-20": {
-    "status": "ERROR",
-    "errors": [
-      "Not Found"
-    ],
-    "results": []
+    "status": "OK",
+    "id": 1130,
+    "print_date": "2026-04-20",
+    "editor": "Wyna Liu",
+    "categories": [
+      {
+        "title": "MASS OF SMOKE",
+        "cards": [
+          {
+            "content": "BILLOW",
+            "position": 11
+          },
+          {
+            "content": "CLOUD",
+            "position": 3
+          },
+          {
+            "content": "PLUME",
+            "position": 13
+          },
+          {
+            "content": "PUFF",
+            "position": 8
+          }
+        ]
+      },
+      {
+        "title": "FISHING GEAR",
+        "cards": [
+          {
+            "content": "BAIT",
+            "position": 12
+          },
+          {
+            "content": "HOOK",
+            "position": 10
+          },
+          {
+            "content": "NET",
+            "position": 7
+          },
+          {
+            "content": "ROD",
+            "position": 4
+          }
+        ]
+      },
+      {
+        "title": "ASSOCIATED WITH BLACK WIDOW SPIDERS",
+        "cards": [
+          {
+            "content": "CANNIBALISM",
+            "position": 15
+          },
+          {
+            "content": "HOURGLASS",
+            "position": 1
+          },
+          {
+            "content": "VENOM",
+            "position": 9
+          },
+          {
+            "content": "WEB",
+            "position": 5
+          }
+        ]
+      },
+      {
+        "title": "___ MONDAY",
+        "cards": [
+          {
+            "content": "BLUE",
+            "position": 2
+          },
+          {
+            "content": "CYBER",
+            "position": 0
+          },
+          {
+            "content": "MANIC",
+            "position": 6
+          },
+          {
+            "content": "MEATLESS",
+            "position": 14
+          }
+        ]
+      }
+    ]
   },
   "2026-04-21": {
-    "status": "ERROR",
-    "errors": [
-      "Not Found"
-    ],
-    "results": []
+    "status": "OK",
+    "id": 1127,
+    "print_date": "2026-04-21",
+    "editor": "Wyna Liu",
+    "categories": [
+      {
+        "title": "AMBLE (IN)",
+        "cards": [
+          {
+            "content": "BREEZE",
+            "position": 1
+          },
+          {
+            "content": "MOSEY",
+            "position": 11
+          },
+          {
+            "content": "STROLL",
+            "position": 14
+          },
+          {
+            "content": "WALTZ",
+            "position": 7
+          }
+        ]
+      },
+      {
+        "title": "BALDERDASH",
+        "cards": [
+          {
+            "content": "BALONEY",
+            "position": 15
+          },
+          {
+            "content": "BILGE",
+            "position": 12
+          },
+          {
+            "content": "BULL",
+            "position": 6
+          },
+          {
+            "content": "BUNK",
+            "position": 8
+          }
+        ]
+      },
+      {
+        "title": "KINDS OF BAGS",
+        "cards": [
+          {
+            "content": "CROSSBODY",
+            "position": 13
+          },
+          {
+            "content": "HOBO",
+            "position": 10
+          },
+          {
+            "content": "MESSENGER",
+            "position": 3
+          },
+          {
+            "content": "SADDLE",
+            "position": 5
+          }
+        ]
+      },
+      {
+        "title": "STARTS OF ONE-WORD JAMES BOND MOVIE TITLES",
+        "cards": [
+          {
+            "content": "GOLD",
+            "position": 9
+          },
+          {
+            "content": "MOON",
+            "position": 4
+          },
+          {
+            "content": "OCTOPUS",
+            "position": 0
+          },
+          {
+            "content": "THUNDER",
+            "position": 2
+          }
+        ]
+      }
+    ]
   },
   "2026-04-22": {
-    "status": "ERROR",
-    "errors": [
-      "Not Found"
-    ],
-    "results": []
+    "status": "OK",
+    "id": 1128,
+    "print_date": "2026-04-22",
+    "editor": "Wyna Liu",
+    "categories": [
+      {
+        "title": "POTTERY EQUIPMENT",
+        "cards": [
+          {
+            "content": "CLAY",
+            "position": 8
+          },
+          {
+            "content": "GLAZE",
+            "position": 13
+          },
+          {
+            "content": "KILN",
+            "position": 15
+          },
+          {
+            "content": "WHEEL",
+            "position": 6
+          }
+        ]
+      },
+      {
+        "title": "WALLOP",
+        "cards": [
+          {
+            "content": "DECK",
+            "position": 4
+          },
+          {
+            "content": "PUNCH",
+            "position": 14
+          },
+          {
+            "content": "SLUG",
+            "position": 3
+          },
+          {
+            "content": "SOCK",
+            "position": 9
+          }
+        ]
+      },
+      {
+        "title": "WORDS PRONOUNCED DIFFERENT WAYS AS PROPER NOUNS",
+        "cards": [
+          {
+            "content": "HERB",
+            "position": 7
+          },
+          {
+            "content": "NICE",
+            "position": 2
+          },
+          {
+            "content": "POLISH",
+            "position": 1
+          },
+          {
+            "content": "READING",
+            "position": 10
+          }
+        ]
+      },
+      {
+        "title": "PICK-UP ___",
+        "cards": [
+          {
+            "content": "ARTIST",
+            "position": 11
+          },
+          {
+            "content": "GAME",
+            "position": 5
+          },
+          {
+            "content": "STICKS",
+            "position": 12
+          },
+          {
+            "content": "TRUCK",
+            "position": 0
+          }
+        ]
+      }
+    ]
   },
   "2026-04-23": {
     "status": "OK",
@@ -96023,11 +96363,96 @@
     "results": []
   },
   "2026-04-25": {
-    "status": "ERROR",
-    "errors": [
-      "Not Found"
-    ],
-    "results": []
+    "status": "OK",
+    "id": 1126,
+    "print_date": "2026-04-25",
+    "editor": "Wyna Liu",
+    "categories": [
+      {
+        "title": "BODY COVERINGS",
+        "cards": [
+          {
+            "content": "ENAMEL",
+            "position": 5
+          },
+          {
+            "content": "HAIR",
+            "position": 10
+          },
+          {
+            "content": "NAIL",
+            "position": 7
+          },
+          {
+            "content": "SKIN",
+            "position": 13
+          }
+        ]
+      },
+      {
+        "title": "MASSES, IN IDIOMS",
+        "cards": [
+          {
+            "content": "CROWD",
+            "position": 11
+          },
+          {
+            "content": "HAYSTACK",
+            "position": 0
+          },
+          {
+            "content": "MILLION",
+            "position": 14
+          },
+          {
+            "content": "OCEAN",
+            "position": 3
+          }
+        ]
+      },
+      {
+        "title": "OLD TIMEY SLANG FOR LAW ENFORCEMENT",
+        "cards": [
+          {
+            "content": "COPPER",
+            "position": 2
+          },
+          {
+            "content": "DICK",
+            "position": 8
+          },
+          {
+            "content": "FLATFOOT",
+            "position": 15
+          },
+          {
+            "content": "GUMSHOE",
+            "position": 12
+          }
+        ]
+      },
+      {
+        "title": "STARTING WITH SYNONYMS FOR \"THROW\"",
+        "cards": [
+          {
+            "content": "CAST IRON",
+            "position": 4
+          },
+          {
+            "content": "CHUCK E. CHEESE",
+            "position": 9
+          },
+          {
+            "content": "HURLY-BURLY",
+            "position": 6
+          },
+          {
+            "content": "PITCHFORK",
+            "position": 1
+          }
+        ]
+      }
+    ]
   },
   "2026-04-26": {
     "status": "ERROR",
@@ -96247,5 +96672,19 @@
         ]
       }
     ]
+  },
+  "2026-05-03": {
+    "status": "ERROR",
+    "errors": [
+      "Not Found"
+    ],
+    "results": []
+  },
+  "2026-05-04": {
+    "status": "ERROR",
+    "errors": [
+      "Not Found"
+    ],
+    "results": []
   }
 }
