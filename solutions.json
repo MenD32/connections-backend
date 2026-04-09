@@ -95781,7 +95781,7 @@
         ]
       },
       {
-        "title": "WORDS AFTER \"AND\" IN DRINK NAMES",
+        "title": "SECOND HALVES OF DRINK NAMES",
         "cards": [
           {
             "content": "SODA",
@@ -96884,5 +96884,12 @@
         ]
       }
     ]
+  },
+  "2026-05-09": {
+    "status": "ERROR",
+    "errors": [
+      "Not Found"
+    ],
+    "results": []
   }
 }
