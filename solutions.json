@@ -97318,7 +97318,7 @@
             "position": 15
           },
           {
-            "content": "HACKEY SACK",
+            "content": "HACKY SACK",
             "position": 12
           }
         ]
@@ -97345,7 +97345,7 @@
         ]
       },
       {
-        "title": "STARTING WITH KINDS OF DOGS",
+        "title": "STARTING WITH FAMILIAR NAMES FOR KINDS OF DOGS",
         "cards": [
           {
             "content": "CHOWDER",
@@ -97851,27 +97851,6 @@
     "editor": "Wyna Liu",
     "categories": [
       {
-        "title": "DESTINED",
-        "cards": [
-          {
-            "content": "BOUND",
-            "position": 4
-          },
-          {
-            "content": "CERTAIN",
-            "position": 12
-          },
-          {
-            "content": "FATED",
-            "position": 15
-          },
-          {
-            "content": "SURE",
-            "position": 9
-          }
-        ]
-      },
-      {
         "title": "MUSIC PLAYER BUTTONS",
         "cards": [
           {
@@ -97889,6 +97868,27 @@
           {
             "content": "SKIP",
             "position": 0
+          }
+        ]
+      },
+      {
+        "title": "DESTINED",
+        "cards": [
+          {
+            "content": "BOUND",
+            "position": 4
+          },
+          {
+            "content": "CERTAIN",
+            "position": 12
+          },
+          {
+            "content": "FATED",
+            "position": 15
+          },
+          {
+            "content": "SURE",
+            "position": 9
           }
         ]
       },
@@ -98204,7 +98204,7 @@
         ]
       },
       {
-        "title": "HOMOPHONES OF KINDS OF DOGS",
+        "title": "HOMOPHONES OF KINDS OF DOGS, FAMILIARLY",
         "cards": [
           {
             "content": "CIAO",
@@ -98269,6 +98269,13 @@
     "results": []
   },
   "2026-05-22": {
+    "status": "ERROR",
+    "errors": [
+      "Not Found"
+    ],
+    "results": []
+  },
+  "2026-05-23": {
     "status": "ERROR",
     "errors": [
       "Not Found"
