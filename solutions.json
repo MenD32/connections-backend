@@ -100114,5 +100114,97 @@
       "Not Found"
     ],
     "results": []
+  },
+  "2026-06-12": {
+    "status": "OK",
+    "id": 1168,
+    "print_date": "2026-06-12",
+    "editor": "Wyna Liu",
+    "categories": [
+      {
+        "title": "STARTING WITH MEGAFAUNA",
+        "cards": [
+          {
+            "content": "BEARNAISE",
+            "position": 14
+          },
+          {
+            "content": "BOARDWALK",
+            "position": 1
+          },
+          {
+            "content": "CAMELOT",
+            "position": 11
+          },
+          {
+            "content": "HIPPOCRATES",
+            "position": 2
+          }
+        ]
+      },
+      {
+        "title": "STARTING WITH UNITS OF BREAD",
+        "cards": [
+          {
+            "content": "BUNGEE",
+            "position": 15
+          },
+          {
+            "content": "HERODOTUS",
+            "position": 5
+          },
+          {
+            "content": "LOAFER",
+            "position": 8
+          },
+          {
+            "content": "ROLLS-ROYCE",
+            "position": 0
+          }
+        ]
+      },
+      {
+        "title": "STARTING WITH FOOLISH TYPES",
+        "cards": [
+          {
+            "content": "BOOBY TRAP",
+            "position": 3
+          },
+          {
+            "content": "GO ON RECORD",
+            "position": 12
+          },
+          {
+            "content": "SAPPHO",
+            "position": 10
+          },
+          {
+            "content": "TWITTER",
+            "position": 6
+          }
+        ]
+      },
+      {
+        "title": "STARTING WITH KINDS OF POETRY",
+        "cards": [
+          {
+            "content": "EPICURUS",
+            "position": 13
+          },
+          {
+            "content": "FOUNDATION",
+            "position": 9
+          },
+          {
+            "content": "LIME RICKEY",
+            "position": 4
+          },
+          {
+            "content": "ODENKIRK",
+            "position": 7
+          }
+        ]
+      }
+    ]
   }
 }
