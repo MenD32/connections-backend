@@ -99231,28 +99231,7 @@
     "editor": "Wyna Liu",
     "categories": [
       {
-        "title": "TINY BIT",
-        "cards": [
-          {
-            "content": "SCRAP",
-            "position": 10
-          },
-          {
-            "content": "SHRED",
-            "position": 15
-          },
-          {
-            "content": "SPOT",
-            "position": 7
-          },
-          {
-            "content": "WHIT",
-            "position": 4
-          }
-        ]
-      },
-      {
-        "title": "COMMON SWAG ITEMS",
+        "title": "COMMON PROMO ITEMS",
         "cards": [
           {
             "content": "CAP",
@@ -99269,6 +99248,27 @@
           {
             "content": "STICKER",
             "position": 12
+          }
+        ]
+      },
+      {
+        "title": "TINY BIT",
+        "cards": [
+          {
+            "content": "JOT",
+            "position": 7
+          },
+          {
+            "content": "SCRAP",
+            "position": 10
+          },
+          {
+            "content": "SHRED",
+            "position": 15
+          },
+          {
+            "content": "WHIT",
+            "position": 4
           }
         ]
       },
@@ -99641,7 +99641,7 @@
         ]
       },
       {
-        "title": "KINDS OF FORMAL ROOMS",
+        "title": "KINDS OF ROOMS IN A MANSION",
         "cards": [
           {
             "content": "BILLIARD",
@@ -99665,10 +99665,6 @@
         "title": "WHAT \"PA\" MIGHT REFER TO",
         "cards": [
           {
-            "content": "AUDIO SETUP",
-            "position": 9
-          },
-          {
             "content": "FATHER",
             "position": 1
           },
@@ -99678,6 +99674,10 @@
           },
           {
             "content": "PROTACTINIUM",
+            "position": 9
+          },
+          {
+            "content": "PUBLIC ADDRESS",
             "position": 14
           }
         ]
@@ -99733,7 +99733,7 @@
         ]
       },
       {
-        "title": "TYPOGRAPHICAL MARKS",
+        "title": "TYPOGRAPHICAL SYMBOLS",
         "cards": [
           {
             "content": "BRACE",
@@ -99879,7 +99879,7 @@
         "cards": [
           {
             "content": "CEILING",
-            "position": 6
+            "position": 4
           },
           {
             "content": "DOOR",
@@ -99896,6 +99896,27 @@
         ]
       },
       {
+        "title": "OLD-TIMEY LOUNGING ACCESSORIES",
+        "cards": [
+          {
+            "content": "NEWSPAPER",
+            "position": 3
+          },
+          {
+            "content": "PIPE",
+            "position": 10
+          },
+          {
+            "content": "ROBE",
+            "position": 15
+          },
+          {
+            "content": "SLIPPERS",
+            "position": 5
+          }
+        ]
+      },
+      {
         "title": "SUBJECTS IN TENNESSEE WILLIAMS TITLES",
         "cards": [
           {
@@ -99908,32 +99929,11 @@
           },
           {
             "content": "MENAGERIE",
-            "position": 0
+            "position": 1
           },
           {
             "content": "TATTOO",
             "position": 9
-          }
-        ]
-      },
-      {
-        "title": "THINGS A DOG CAN FETCH",
-        "cards": [
-          {
-            "content": "BALL",
-            "position": 10
-          },
-          {
-            "content": "NEWSPAPER",
-            "position": 5
-          },
-          {
-            "content": "SLIPPER",
-            "position": 3
-          },
-          {
-            "content": "STICK",
-            "position": 15
           }
         ]
       },
@@ -99946,15 +99946,15 @@
           },
           {
             "content": "ONION",
-            "position": 4
-          },
-          {
-            "content": "TREE",
             "position": 2
           },
           {
+            "content": "TREE",
+            "position": 6
+          },
+          {
             "content": "WEDDING",
-            "position": 1
+            "position": 0
           }
         ]
       }
@@ -100026,6 +100026,10 @@
         "title": "STARTS OF CLASSIC HIP-HOP GROUPS",
         "cards": [
           {
+            "content": "BEASTIE",
+            "position": 12
+          },
+          {
             "content": "PUBLIC",
             "position": 0
           },
@@ -100036,10 +100040,6 @@
           {
             "content": "SALT",
             "position": 2
-          },
-          {
-            "content": "ULTRAMAGNETIC",
-            "position": 12
           }
         ]
       },
@@ -100116,98 +100116,20 @@
     "results": []
   },
   "2026-06-12": {
-    "status": "OK",
-    "id": 1168,
-    "print_date": "2026-06-12",
-    "editor": "Wyna Liu",
-    "categories": [
-      {
-        "title": "STARTING WITH MEGAFAUNA",
-        "cards": [
-          {
-            "content": "BEARNAISE",
-            "position": 14
-          },
-          {
-            "content": "BOARDWALK",
-            "position": 1
-          },
-          {
-            "content": "CAMELOT",
-            "position": 11
-          },
-          {
-            "content": "HIPPOCRATES",
-            "position": 2
-          }
-        ]
-      },
-      {
-        "title": "STARTING WITH UNITS OF BREAD",
-        "cards": [
-          {
-            "content": "BUNGEE",
-            "position": 15
-          },
-          {
-            "content": "HERODOTUS",
-            "position": 5
-          },
-          {
-            "content": "LOAFER",
-            "position": 8
-          },
-          {
-            "content": "ROLLS-ROYCE",
-            "position": 0
-          }
-        ]
-      },
-      {
-        "title": "STARTING WITH FOOLISH TYPES",
-        "cards": [
-          {
-            "content": "BOOBY TRAP",
-            "position": 3
-          },
-          {
-            "content": "GO ON RECORD",
-            "position": 12
-          },
-          {
-            "content": "SAPPHO",
-            "position": 10
-          },
-          {
-            "content": "TWITTER",
-            "position": 6
-          }
-        ]
-      },
-      {
-        "title": "STARTING WITH KINDS OF POETRY",
-        "cards": [
-          {
-            "content": "EPICURUS",
-            "position": 13
-          },
-          {
-            "content": "FOUNDATION",
-            "position": 9
-          },
-          {
-            "content": "LIME RICKEY",
-            "position": 4
-          },
-          {
-            "content": "ODENKIRK",
-            "position": 7
-          }
-        ]
-      }
-    ]
+    "status": "ERROR",
+    "errors": [
+      "Not Found"
+    ],
+    "results": []
   },
   "2026-06-13": {
+    "status": "ERROR",
+    "errors": [
+      "Not Found"
+    ],
+    "results": []
+  },
+  "2026-06-14": {
     "status": "ERROR",
     "errors": [
       "Not Found"
