@@ -99961,18 +99961,188 @@
     ]
   },
   "2026-06-02": {
-    "status": "ERROR",
-    "errors": [
-      "Not Found"
-    ],
-    "results": []
+    "status": "OK",
+    "id": 1173,
+    "print_date": "2026-06-02",
+    "editor": "Wyna Liu",
+    "categories": [
+      {
+        "title": "CLANDESTINE",
+        "cards": [
+          {
+            "content": "CLOAK-AND-DAGGER",
+            "position": 4
+          },
+          {
+            "content": "COVERT",
+            "position": 14
+          },
+          {
+            "content": "HUSH-HUSH",
+            "position": 11
+          },
+          {
+            "content": "TOP SECRET",
+            "position": 9
+          }
+        ]
+      },
+      {
+        "title": "BRITISH POTATO DISHES",
+        "cards": [
+          {
+            "content": "BUBBLE AND SQUEAK",
+            "position": 12
+          },
+          {
+            "content": "CHIPS",
+            "position": 6
+          },
+          {
+            "content": "JACKET POTATO",
+            "position": 1
+          },
+          {
+            "content": "MASH",
+            "position": 3
+          }
+        ]
+      },
+      {
+        "title": "HERALDIC ACHIEVEMENTS",
+        "cards": [
+          {
+            "content": "COAT OF ARMS",
+            "position": 2
+          },
+          {
+            "content": "CREST",
+            "position": 5
+          },
+          {
+            "content": "HELMET",
+            "position": 8
+          },
+          {
+            "content": "SHIELD",
+            "position": 15
+          }
+        ]
+      },
+      {
+        "title": "ENDING IN MODAL AUXILIARY VERBS",
+        "cards": [
+          {
+            "content": "CAPE MAY",
+            "position": 7
+          },
+          {
+            "content": "FREE WILL",
+            "position": 10
+          },
+          {
+            "content": "GRAPE MUST",
+            "position": 13
+          },
+          {
+            "content": "TIN CAN",
+            "position": 0
+          }
+        ]
+      }
+    ]
   },
   "2026-06-03": {
-    "status": "ERROR",
-    "errors": [
-      "Not Found"
-    ],
-    "results": []
+    "status": "OK",
+    "id": 1170,
+    "print_date": "2026-06-03",
+    "editor": "Wyna Liu",
+    "categories": [
+      {
+        "title": "KINDS OF RICE",
+        "cards": [
+          {
+            "content": "BROWN",
+            "position": 6
+          },
+          {
+            "content": "JASMINE",
+            "position": 1
+          },
+          {
+            "content": "STICKY",
+            "position": 4
+          },
+          {
+            "content": "SUSHI",
+            "position": 7
+          }
+        ]
+      },
+      {
+        "title": "GUMMY BEAR DESCRIPTORS",
+        "cards": [
+          {
+            "content": "COLORFUL",
+            "position": 2
+          },
+          {
+            "content": "GUMMY",
+            "position": 8
+          },
+          {
+            "content": "SUGARY",
+            "position": 10
+          },
+          {
+            "content": "URSINE",
+            "position": 13
+          }
+        ]
+      },
+      {
+        "title": "SAVORY STUFFED PASTRIES",
+        "cards": [
+          {
+            "content": "EMPANADA",
+            "position": 14
+          },
+          {
+            "content": "FATAYER",
+            "position": 12
+          },
+          {
+            "content": "PASTY",
+            "position": 5
+          },
+          {
+            "content": "SAMOSA",
+            "position": 11
+          }
+        ]
+      },
+      {
+        "title": "DISNEY PRINCESSES MINUS LAST LETTER",
+        "cards": [
+          {
+            "content": "ARIE",
+            "position": 9
+          },
+          {
+            "content": "BELL",
+            "position": 3
+          },
+          {
+            "content": "MOAN",
+            "position": 15
+          },
+          {
+            "content": "RAY",
+            "position": 0
+          }
+        ]
+      }
+    ]
   },
   "2026-06-04": {
     "status": "OK",
@@ -100067,32 +100237,372 @@
     ]
   },
   "2026-06-05": {
-    "status": "ERROR",
-    "errors": [
-      "Not Found"
-    ],
-    "results": []
+    "status": "OK",
+    "id": 1172,
+    "print_date": "2026-06-05",
+    "editor": "Wyna Liu",
+    "categories": [
+      {
+        "title": "BIT OF CEREAL",
+        "cards": [
+          {
+            "content": "CLUSTER",
+            "position": 6
+          },
+          {
+            "content": "FLAKE",
+            "position": 0
+          },
+          {
+            "content": "LOOP",
+            "position": 14
+          },
+          {
+            "content": "PUFF",
+            "position": 9
+          }
+        ]
+      },
+      {
+        "title": "ASSOCIATED WITH HANSEL AND GRETEL",
+        "cards": [
+          {
+            "content": "BREADCRUMB",
+            "position": 5
+          },
+          {
+            "content": "FOREST",
+            "position": 11
+          },
+          {
+            "content": "OVEN",
+            "position": 12
+          },
+          {
+            "content": "WITCH",
+            "position": 2
+          }
+        ]
+      },
+      {
+        "title": "DEMI MOORE MOVIES",
+        "cards": [
+          {
+            "content": "DISCLOSURE",
+            "position": 13
+          },
+          {
+            "content": "GHOST",
+            "position": 3
+          },
+          {
+            "content": "STRIPTEASE",
+            "position": 8
+          },
+          {
+            "content": "THE SUBSTANCE",
+            "position": 15
+          }
+        ]
+      },
+      {
+        "title": "ENDING IN METHODS OF TRANSPORTATION",
+        "cards": [
+          {
+            "content": "INCUBUS",
+            "position": 4
+          },
+          {
+            "content": "OSCAR",
+            "position": 1
+          },
+          {
+            "content": "QUATRAIN",
+            "position": 10
+          },
+          {
+            "content": "SITUATIONSHIP",
+            "position": 7
+          }
+        ]
+      }
+    ]
   },
   "2026-06-06": {
-    "status": "ERROR",
-    "errors": [
-      "Not Found"
-    ],
-    "results": []
+    "status": "OK",
+    "id": 1169,
+    "print_date": "2026-06-06",
+    "editor": "Wyna Liu",
+    "categories": [
+      {
+        "title": "PILLAR",
+        "cards": [
+          {
+            "content": "POLE",
+            "position": 15
+          },
+          {
+            "content": "POST",
+            "position": 2
+          },
+          {
+            "content": "SHAFT",
+            "position": 7
+          },
+          {
+            "content": "STAKE",
+            "position": 10
+          }
+        ]
+      },
+      {
+        "title": "INDICATE",
+        "cards": [
+          {
+            "content": "BETRAY",
+            "position": 12
+          },
+          {
+            "content": "DISPLAY",
+            "position": 8
+          },
+          {
+            "content": "EXPRESS",
+            "position": 1
+          },
+          {
+            "content": "REGISTER",
+            "position": 5
+          }
+        ]
+      },
+      {
+        "title": "KINDS OF LIZARDS",
+        "cards": [
+          {
+            "content": "BASILISK",
+            "position": 13
+          },
+          {
+            "content": "DRAGON",
+            "position": 4
+          },
+          {
+            "content": "MONITOR",
+            "position": 9
+          },
+          {
+            "content": "SKINK",
+            "position": 11
+          }
+        ]
+      },
+      {
+        "title": "___ TABLE",
+        "cards": [
+          {
+            "content": "DINNER",
+            "position": 0
+          },
+          {
+            "content": "DRAFTING",
+            "position": 14
+          },
+          {
+            "content": "ROUND",
+            "position": 3
+          },
+          {
+            "content": "TIMES",
+            "position": 6
+          }
+        ]
+      }
+    ]
   },
   "2026-06-07": {
-    "status": "ERROR",
-    "errors": [
-      "Not Found"
-    ],
-    "results": []
+    "status": "OK",
+    "id": 1171,
+    "print_date": "2026-06-07",
+    "editor": "Wyna Liu",
+    "categories": [
+      {
+        "title": "RISQUÉ CLOTHING DESCRIPTORS",
+        "cards": [
+          {
+            "content": "PLUNGING",
+            "position": 15
+          },
+          {
+            "content": "SHEER",
+            "position": 2
+          },
+          {
+            "content": "SLINKY",
+            "position": 12
+          },
+          {
+            "content": "TIGHT",
+            "position": 10
+          }
+        ]
+      },
+      {
+        "title": "SPEAK",
+        "cards": [
+          {
+            "content": "EXPRESS",
+            "position": 9
+          },
+          {
+            "content": "STATE",
+            "position": 3
+          },
+          {
+            "content": "UTTER",
+            "position": 4
+          },
+          {
+            "content": "VOICE",
+            "position": 14
+          }
+        ]
+      },
+      {
+        "title": "DEMOLISH",
+        "cards": [
+          {
+            "content": "GUT",
+            "position": 1
+          },
+          {
+            "content": "LEVEL",
+            "position": 6
+          },
+          {
+            "content": "TOTAL",
+            "position": 8
+          },
+          {
+            "content": "TRASH",
+            "position": 11
+          }
+        ]
+      },
+      {
+        "title": "MUSIC GENRE PREFIXES",
+        "cards": [
+          {
+            "content": "CORE",
+            "position": 13
+          },
+          {
+            "content": "POP",
+            "position": 0
+          },
+          {
+            "content": "STEP",
+            "position": 7
+          },
+          {
+            "content": "WAVE",
+            "position": 5
+          }
+        ]
+      }
+    ]
   },
   "2026-06-08": {
-    "status": "ERROR",
-    "errors": [
-      "Not Found"
-    ],
-    "results": []
+    "status": "OK",
+    "id": 1174,
+    "print_date": "2026-06-08",
+    "editor": "Wyna Liu",
+    "categories": [
+      {
+        "title": "LANDFORMS BY WATER",
+        "cards": [
+          {
+            "content": "DELTA",
+            "position": 7
+          },
+          {
+            "content": "ISLAND",
+            "position": 2
+          },
+          {
+            "content": "ISTHMUS",
+            "position": 13
+          },
+          {
+            "content": "PENINSULA",
+            "position": 8
+          }
+        ]
+      },
+      {
+        "title": "SLANG FOR HEAD",
+        "cards": [
+          {
+            "content": "ATTIC",
+            "position": 9
+          },
+          {
+            "content": "COCONUT",
+            "position": 6
+          },
+          {
+            "content": "DOME",
+            "position": 14
+          },
+          {
+            "content": "MELON",
+            "position": 11
+          }
+        ]
+      },
+      {
+        "title": "THINGS THAT CAN BE SPIKED",
+        "cards": [
+          {
+            "content": "MOHAWK",
+            "position": 1
+          },
+          {
+            "content": "PUNCH",
+            "position": 3
+          },
+          {
+            "content": "SEA URCHIN",
+            "position": 10
+          },
+          {
+            "content": "VOLLEYBALL",
+            "position": 4
+          }
+        ]
+      },
+      {
+        "title": "\"THE ___ MAN\"",
+        "cards": [
+          {
+            "content": "ELEPHANT",
+            "position": 5
+          },
+          {
+            "content": "INVISIBLE",
+            "position": 0
+          },
+          {
+            "content": "OMEGA",
+            "position": 12
+          },
+          {
+            "content": "RUNNING",
+            "position": 15
+          }
+        ]
+      }
+    ]
   },
   "2026-06-09": {
     "status": "ERROR",
@@ -100130,6 +100640,98 @@
     "results": []
   },
   "2026-06-14": {
+    "status": "OK",
+    "id": 1175,
+    "print_date": "2026-06-14",
+    "editor": "Wyna Liu",
+    "categories": [
+      {
+        "title": "CLASSIC SLAPSTICK PROPS",
+        "cards": [
+          {
+            "content": "BANANA PEEL",
+            "position": 12
+          },
+          {
+            "content": "CREAM PIE",
+            "position": 3
+          },
+          {
+            "content": "RUBBER CHICKEN",
+            "position": 15
+          },
+          {
+            "content": "SELTZER BOTTLE",
+            "position": 9
+          }
+        ]
+      },
+      {
+        "title": "THINGS THAT SPIN",
+        "cards": [
+          {
+            "content": "GLOBE",
+            "position": 7
+          },
+          {
+            "content": "GRINDSTONE",
+            "position": 0
+          },
+          {
+            "content": "GYROSCOPE",
+            "position": 6
+          },
+          {
+            "content": "ROULETTE WHEEL",
+            "position": 11
+          }
+        ]
+      },
+      {
+        "title": "FEATURED IN \"ALICE'S ADVENTURES IN WONDERLAND\"",
+        "cards": [
+          {
+            "content": "CATERPILLAR",
+            "position": 2
+          },
+          {
+            "content": "POCKET WATCH",
+            "position": 8
+          },
+          {
+            "content": "RABBIT HOLE",
+            "position": 14
+          },
+          {
+            "content": "TEA PARTY",
+            "position": 5
+          }
+        ]
+      },
+      {
+        "title": "WHAT \"MA\" MIGHT REFER TO",
+        "cards": [
+          {
+            "content": "MASSACHUSETTS",
+            "position": 4
+          },
+          {
+            "content": "MASTER OF ARTS",
+            "position": 13
+          },
+          {
+            "content": "MILLIAMPERE",
+            "position": 10
+          },
+          {
+            "content": "MOTHER",
+            "position": 1
+          }
+        ]
+      }
+    ]
+  },
+  "2026-06-15": {
     "status": "ERROR",
     "errors": [
       "Not Found"
