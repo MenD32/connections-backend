@@ -100243,27 +100243,6 @@
     "editor": "Wyna Liu",
     "categories": [
       {
-        "title": "BIT OF CEREAL",
-        "cards": [
-          {
-            "content": "CLUSTER",
-            "position": 6
-          },
-          {
-            "content": "FLAKE",
-            "position": 0
-          },
-          {
-            "content": "LOOP",
-            "position": 14
-          },
-          {
-            "content": "PUFF",
-            "position": 9
-          }
-        ]
-      },
-      {
         "title": "ASSOCIATED WITH HANSEL AND GRETEL",
         "cards": [
           {
@@ -100281,6 +100260,27 @@
           {
             "content": "WITCH",
             "position": 2
+          }
+        ]
+      },
+      {
+        "title": "BIT OF CEREAL",
+        "cards": [
+          {
+            "content": "CLUSTER",
+            "position": 6
+          },
+          {
+            "content": "FLAKE",
+            "position": 0
+          },
+          {
+            "content": "LOOP",
+            "position": 14
+          },
+          {
+            "content": "PUFF",
+            "position": 9
           }
         ]
       },
@@ -100356,7 +100356,7 @@
         ]
       },
       {
-        "title": "INDICATE",
+        "title": "INDICATE, AS EMOTIONS",
         "cards": [
           {
             "content": "BETRAY",
@@ -100427,22 +100427,22 @@
     "editor": "Wyna Liu",
     "categories": [
       {
-        "title": "RISQUÉ CLOTHING DESCRIPTORS",
+        "title": "TRANSLUCENT, AS FABRIC",
         "cards": [
           {
-            "content": "PLUNGING",
+            "content": "GAUZY",
             "position": 15
+          },
+          {
+            "content": "GOSSAMER",
+            "position": 12
           },
           {
             "content": "SHEER",
             "position": 2
           },
           {
-            "content": "SLINKY",
-            "position": 12
-          },
-          {
-            "content": "TIGHT",
+            "content": "THIN",
             "position": 10
           }
         ]
@@ -100490,7 +100490,7 @@
         ]
       },
       {
-        "title": "MUSIC GENRE PREFIXES",
+        "title": "MUSIC GENRE SUFFIXES",
         "cards": [
           {
             "content": "CORE",
@@ -100543,10 +100543,6 @@
         "title": "SLANG FOR HEAD",
         "cards": [
           {
-            "content": "ATTIC",
-            "position": 9
-          },
-          {
             "content": "COCONUT",
             "position": 6
           },
@@ -100557,6 +100553,10 @@
           {
             "content": "MELON",
             "position": 11
+          },
+          {
+            "content": "PATE",
+            "position": 9
           }
         ]
       },
@@ -100582,7 +100582,7 @@
         ]
       },
       {
-        "title": "\"THE ___ MAN\"",
+        "title": "\"THE ___ MAN\" MOVIES",
         "cards": [
           {
             "content": "ELEPHANT",
@@ -100767,6 +100767,13 @@
     "results": []
   },
   "2026-06-20": {
+    "status": "ERROR",
+    "errors": [
+      "Not Found"
+    ],
+    "results": []
+  },
+  "2026-06-21": {
     "status": "ERROR",
     "errors": [
       "Not Found"
