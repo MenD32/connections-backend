@@ -100605,39 +100605,464 @@
     ]
   },
   "2026-06-09": {
-    "status": "ERROR",
-    "errors": [
-      "Not Found"
-    ],
-    "results": []
+    "status": "OK",
+    "id": 1179,
+    "print_date": "2026-06-09",
+    "editor": "Wyna Liu",
+    "categories": [
+      {
+        "title": "SYMBOLS OF INNOCENCE",
+        "cards": [
+          {
+            "content": "ANGEL",
+            "position": 2
+          },
+          {
+            "content": "BABE",
+            "position": 12
+          },
+          {
+            "content": "DOVE",
+            "position": 7
+          },
+          {
+            "content": "LAMB",
+            "position": 10
+          }
+        ]
+      },
+      {
+        "title": "THINGS YOU'RE NOT SUPPOSED TO REVEAL",
+        "cards": [
+          {
+            "content": "PASSWORD",
+            "position": 9
+          },
+          {
+            "content": "SECRET",
+            "position": 4
+          },
+          {
+            "content": "SPOILER",
+            "position": 15
+          },
+          {
+            "content": "SURPRISE",
+            "position": 3
+          }
+        ]
+      },
+      {
+        "title": "SLANG FOR MUSICAL INSTRUMENTS",
+        "cards": [
+          {
+            "content": "AXE",
+            "position": 1
+          },
+          {
+            "content": "BONE",
+            "position": 6
+          },
+          {
+            "content": "KEYS",
+            "position": 11
+          },
+          {
+            "content": "SKINS",
+            "position": 13
+          }
+        ]
+      },
+      {
+        "title": "THINGS REPRESENTED IN SUPERSCRIPT",
+        "cards": [
+          {
+            "content": "ASTERISK",
+            "position": 0
+          },
+          {
+            "content": "DEGREE",
+            "position": 8
+          },
+          {
+            "content": "EXPONENT",
+            "position": 14
+          },
+          {
+            "content": "TRADEMARK",
+            "position": 5
+          }
+        ]
+      }
+    ]
   },
   "2026-06-10": {
-    "status": "ERROR",
-    "errors": [
-      "Not Found"
-    ],
-    "results": []
+    "status": "OK",
+    "id": 1176,
+    "print_date": "2026-06-10",
+    "editor": "Wyna Liu",
+    "categories": [
+      {
+        "title": "TECHNIQUE",
+        "cards": [
+          {
+            "content": "FASHION",
+            "position": 2
+          },
+          {
+            "content": "MANNER",
+            "position": 15
+          },
+          {
+            "content": "METHOD",
+            "position": 4
+          },
+          {
+            "content": "WAY",
+            "position": 11
+          }
+        ]
+      },
+      {
+        "title": "GROSS THINGS THAT FORM ON WET SURFACES",
+        "cards": [
+          {
+            "content": "CRUST",
+            "position": 9
+          },
+          {
+            "content": "FILM",
+            "position": 3
+          },
+          {
+            "content": "SCUM",
+            "position": 14
+          },
+          {
+            "content": "SKIN",
+            "position": 5
+          }
+        ]
+      },
+      {
+        "title": "PARTS OF A THEATER",
+        "cards": [
+          {
+            "content": "CATWALK",
+            "position": 13
+          },
+          {
+            "content": "PIT",
+            "position": 8
+          },
+          {
+            "content": "STAGE",
+            "position": 0
+          },
+          {
+            "content": "WINGS",
+            "position": 7
+          }
+        ]
+      },
+      {
+        "title": "COUNTED IN DOCUMENT WORD COUNTS",
+        "cards": [
+          {
+            "content": "CHARACTER",
+            "position": 6
+          },
+          {
+            "content": "LINE",
+            "position": 12
+          },
+          {
+            "content": "PAGE",
+            "position": 1
+          },
+          {
+            "content": "WORD",
+            "position": 10
+          }
+        ]
+      }
+    ]
   },
   "2026-06-11": {
-    "status": "ERROR",
-    "errors": [
-      "Not Found"
-    ],
-    "results": []
+    "status": "OK",
+    "id": 1180,
+    "print_date": "2026-06-11",
+    "editor": "Wyna Liu",
+    "categories": [
+      {
+        "title": "PARTS OF A WORKOUT ROUTINE",
+        "cards": [
+          {
+            "content": "BALANCE",
+            "position": 11
+          },
+          {
+            "content": "CARDIO",
+            "position": 8
+          },
+          {
+            "content": "STRETCHING",
+            "position": 15
+          },
+          {
+            "content": "WEIGHTS",
+            "position": 13
+          }
+        ]
+      },
+      {
+        "title": "THINGS WITH HORNS",
+        "cards": [
+          {
+            "content": "BRASS BAND",
+            "position": 5
+          },
+          {
+            "content": "DEVIL",
+            "position": 0
+          },
+          {
+            "content": "RHINO",
+            "position": 7
+          },
+          {
+            "content": "VIKING HELMET",
+            "position": 10
+          }
+        ]
+      },
+      {
+        "title": "HOMOPHONES OF SUVS",
+        "cards": [
+          {
+            "content": "BRONCHO",
+            "position": 3
+          },
+          {
+            "content": "FORERUNNER",
+            "position": 14
+          },
+          {
+            "content": "TROUPER",
+            "position": 9
+          },
+          {
+            "content": "UCONN",
+            "position": 6
+          }
+        ]
+      },
+      {
+        "title": "PAYMENT APPS MINUS A LETTER",
+        "cards": [
+          {
+            "content": "ELLE",
+            "position": 12
+          },
+          {
+            "content": "PAPAL",
+            "position": 2
+          },
+          {
+            "content": "STRIP",
+            "position": 1
+          },
+          {
+            "content": "VENO",
+            "position": 4
+          }
+        ]
+      }
+    ]
   },
   "2026-06-12": {
-    "status": "ERROR",
-    "errors": [
-      "Not Found"
-    ],
-    "results": []
+    "status": "OK",
+    "id": 1182,
+    "print_date": "2026-06-12",
+    "editor": "Wyna Liu",
+    "categories": [
+      {
+        "title": "STARTING WITH INCANTATIONS",
+        "cards": [
+          {
+            "content": "CHARM BRACELET",
+            "position": 8
+          },
+          {
+            "content": "CURSE WORD",
+            "position": 3
+          },
+          {
+            "content": "HEX KEY",
+            "position": 15
+          },
+          {
+            "content": "SPELL CHECKER",
+            "position": 5
+          }
+        ]
+      },
+      {
+        "title": "STARTING WITH SYNONYMS FOR \"REPEAT\"",
+        "cards": [
+          {
+            "content": "COPY EDITOR",
+            "position": 4
+          },
+          {
+            "content": "ECHO PARK",
+            "position": 13
+          },
+          {
+            "content": "MIRROR SELFIE",
+            "position": 10
+          },
+          {
+            "content": "QUOTE UNQUOTE",
+            "position": 2
+          }
+        ]
+      },
+      {
+        "title": "STARTING WITH ANIMAL GROUP NAMES",
+        "cards": [
+          {
+            "content": "MURDER MYSTERY",
+            "position": 9
+          },
+          {
+            "content": "PACK RAT",
+            "position": 7
+          },
+          {
+            "content": "PRIDE ROCK",
+            "position": 12
+          },
+          {
+            "content": "SCHOOL DAYS",
+            "position": 0
+          }
+        ]
+      },
+      {
+        "title": "STARTING WITH PARTS OF A RIVER",
+        "cards": [
+          {
+            "content": "BANK TELLER",
+            "position": 6
+          },
+          {
+            "content": "BED HEAD",
+            "position": 1
+          },
+          {
+            "content": "DELTA AIRLINES",
+            "position": 14
+          },
+          {
+            "content": "MOUTH GUARD",
+            "position": 11
+          }
+        ]
+      }
+    ]
   },
   "2026-06-13": {
-    "status": "ERROR",
-    "errors": [
-      "Not Found"
-    ],
-    "results": []
+    "status": "OK",
+    "id": 1178,
+    "print_date": "2026-06-13",
+    "editor": "Wyna Liu",
+    "categories": [
+      {
+        "title": "SEEN AT A TEA SERVICE",
+        "cards": [
+          {
+            "content": "SAUCER",
+            "position": 11
+          },
+          {
+            "content": "SPOON",
+            "position": 7
+          },
+          {
+            "content": "TEACUP",
+            "position": 1
+          },
+          {
+            "content": "TONGS",
+            "position": 14
+          }
+        ]
+      },
+      {
+        "title": "ENDURING SONG",
+        "cards": [
+          {
+            "content": "CLASSIC",
+            "position": 2
+          },
+          {
+            "content": "HIT",
+            "position": 8
+          },
+          {
+            "content": "OLDIE",
+            "position": 13
+          },
+          {
+            "content": "STANDARD",
+            "position": 6
+          }
+        ]
+      },
+      {
+        "title": "USED IN MOVIE PRACTICAL EFFECTS",
+        "cards": [
+          {
+            "content": "MAKEUP",
+            "position": 15
+          },
+          {
+            "content": "MINIATURE",
+            "position": 4
+          },
+          {
+            "content": "PROSTHETIC",
+            "position": 10
+          },
+          {
+            "content": "PUPPET",
+            "position": 0
+          }
+        ]
+      },
+      {
+        "title": "WORDS BEFORE \"STORY\" IN MOVIE TITLES",
+        "cards": [
+          {
+            "content": "CHRISTMAS",
+            "position": 5
+          },
+          {
+            "content": "NEVERENDING",
+            "position": 9
+          },
+          {
+            "content": "TOY",
+            "position": 3
+          },
+          {
+            "content": "WEST SIDE",
+            "position": 12
+          }
+        ]
+      }
+    ]
   },
   "2026-06-14": {
     "status": "OK",
@@ -100746,11 +101171,96 @@
     "results": []
   },
   "2026-06-17": {
-    "status": "ERROR",
-    "errors": [
-      "Not Found"
-    ],
-    "results": []
+    "status": "OK",
+    "id": 1177,
+    "print_date": "2026-06-17",
+    "editor": "Wyna Liu",
+    "categories": [
+      {
+        "title": "ALCOVE",
+        "cards": [
+          {
+            "content": "CAVITY",
+            "position": 1
+          },
+          {
+            "content": "NICHE",
+            "position": 15
+          },
+          {
+            "content": "NOOK",
+            "position": 8
+          },
+          {
+            "content": "RECESS",
+            "position": 13
+          }
+        ]
+      },
+      {
+        "title": "BODILY WORDS FOR ATTITUDE",
+        "cards": [
+          {
+            "content": "CHEEK",
+            "position": 6
+          },
+          {
+            "content": "LIP",
+            "position": 9
+          },
+          {
+            "content": "MOUTH",
+            "position": 0
+          },
+          {
+            "content": "NERVE",
+            "position": 14
+          }
+        ]
+      },
+      {
+        "title": "FIGURES IN GREEK MYTH",
+        "cards": [
+          {
+            "content": "CALLIOPE",
+            "position": 3
+          },
+          {
+            "content": "ECHO",
+            "position": 7
+          },
+          {
+            "content": "IRIS",
+            "position": 4
+          },
+          {
+            "content": "NEMESIS",
+            "position": 10
+          }
+        ]
+      },
+      {
+        "title": "STARTING WITH SYNONYMS FOR \"ILK\"",
+        "cards": [
+          {
+            "content": "CLASSIC",
+            "position": 2
+          },
+          {
+            "content": "KINDLE",
+            "position": 5
+          },
+          {
+            "content": "SORTIE",
+            "position": 12
+          },
+          {
+            "content": "TYPEFACE",
+            "position": 11
+          }
+        ]
+      }
+    ]
   },
   "2026-06-18": {
     "status": "ERROR",
@@ -100779,5 +101289,97 @@
       "Not Found"
     ],
     "results": []
+  },
+  "2026-06-22": {
+    "status": "OK",
+    "id": 1181,
+    "print_date": "2026-06-22",
+    "editor": "Wyna Liu",
+    "categories": [
+      {
+        "title": "DOMINANT",
+        "cards": [
+          {
+            "content": "ALPHA",
+            "position": 4
+          },
+          {
+            "content": "HEAD",
+            "position": 3
+          },
+          {
+            "content": "LEAD",
+            "position": 7
+          },
+          {
+            "content": "PRIMARY",
+            "position": 9
+          }
+        ]
+      },
+      {
+        "title": "MULTIPLICATION INDICATORS",
+        "cards": [
+          {
+            "content": "BY",
+            "position": 14
+          },
+          {
+            "content": "TIMES",
+            "position": 8
+          },
+          {
+            "content": "X",
+            "position": 6
+          },
+          {
+            "content": "●",
+            "position": 11
+          }
+        ]
+      },
+      {
+        "title": "PRONUNCIATION DESCRIPTORS",
+        "cards": [
+          {
+            "content": "SHORT",
+            "position": 12
+          },
+          {
+            "content": "SILENT",
+            "position": 10
+          },
+          {
+            "content": "SOFT",
+            "position": 5
+          },
+          {
+            "content": "STRESSED",
+            "position": 0
+          }
+        ]
+      },
+      {
+        "title": "STARTING WITH EXPLOSIVE ONOMATOPOEIA",
+        "cards": [
+          {
+            "content": "BANGKOK",
+            "position": 15
+          },
+          {
+            "content": "BOOMER",
+            "position": 1
+          },
+          {
+            "content": "POPSICLE",
+            "position": 13
+          },
+          {
+            "content": "POWDER",
+            "position": 2
+          }
+        ]
+      }
+    ]
   }
 }
