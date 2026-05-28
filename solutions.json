@@ -99610,12 +99610,12 @@
             "position": 3
           },
           {
-            "content": "INDIAN",
-            "position": 12
-          },
-          {
             "content": "PACIFIC",
             "position": 6
+          },
+          {
+            "content": "SOUTHERN",
+            "position": 12
           }
         ]
       },
@@ -100653,27 +100653,6 @@
         ]
       },
       {
-        "title": "SLANG FOR MUSICAL INSTRUMENTS",
-        "cards": [
-          {
-            "content": "AXE",
-            "position": 1
-          },
-          {
-            "content": "BONE",
-            "position": 6
-          },
-          {
-            "content": "KEYS",
-            "position": 11
-          },
-          {
-            "content": "SKINS",
-            "position": 13
-          }
-        ]
-      },
-      {
         "title": "THINGS REPRESENTED IN SUPERSCRIPT",
         "cards": [
           {
@@ -100691,6 +100670,27 @@
           {
             "content": "TRADEMARK",
             "position": 5
+          }
+        ]
+      },
+      {
+        "title": "SLANG FOR MUSICAL INSTRUMENTS",
+        "cards": [
+          {
+            "content": "AXE",
+            "position": 1
+          },
+          {
+            "content": "BONE",
+            "position": 6
+          },
+          {
+            "content": "KEYS",
+            "position": 11
+          },
+          {
+            "content": "SKINS",
+            "position": 13
           }
         ]
       }
@@ -100908,27 +100908,6 @@
         ]
       },
       {
-        "title": "STARTING WITH SYNONYMS FOR \"REPEAT\"",
-        "cards": [
-          {
-            "content": "COPY EDITOR",
-            "position": 4
-          },
-          {
-            "content": "ECHO PARK",
-            "position": 13
-          },
-          {
-            "content": "MIRROR SELFIE",
-            "position": 10
-          },
-          {
-            "content": "QUOTE UNQUOTE",
-            "position": 2
-          }
-        ]
-      },
-      {
         "title": "STARTING WITH ANIMAL GROUP NAMES",
         "cards": [
           {
@@ -100946,6 +100925,27 @@
           {
             "content": "SCHOOL DAYS",
             "position": 0
+          }
+        ]
+      },
+      {
+        "title": "STARTING WITH SYNONYMS FOR \"REPEAT\"",
+        "cards": [
+          {
+            "content": "COPY EDITOR",
+            "position": 4
+          },
+          {
+            "content": "ECHO PARK",
+            "position": 13
+          },
+          {
+            "content": "MIRROR SELFIE",
+            "position": 10
+          },
+          {
+            "content": "QUOTE UNQUOTE",
+            "position": 2
           }
         ]
       },
@@ -101404,6 +101404,13 @@
     "results": []
   },
   "2026-06-26": {
+    "status": "ERROR",
+    "errors": [
+      "Not Found"
+    ],
+    "results": []
+  },
+  "2026-06-27": {
     "status": "ERROR",
     "errors": [
       "Not Found"
