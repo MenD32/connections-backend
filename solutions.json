@@ -101157,18 +101157,188 @@
     ]
   },
   "2026-06-15": {
-    "status": "ERROR",
-    "errors": [
-      "Not Found"
-    ],
-    "results": []
+    "status": "OK",
+    "id": 1184,
+    "print_date": "2026-06-15",
+    "editor": "Wyna Liu",
+    "categories": [
+      {
+        "title": "STAYING POWER",
+        "cards": [
+          {
+            "content": "LEGS",
+            "position": 4
+          },
+          {
+            "content": "MOMENTUM",
+            "position": 12
+          },
+          {
+            "content": "STAMINA",
+            "position": 15
+          },
+          {
+            "content": "TRACTION",
+            "position": 9
+          }
+        ]
+      },
+      {
+        "title": "GET READY FOR A NIGHT OUT",
+        "cards": [
+          {
+            "content": "ACCESSORIZE",
+            "position": 14
+          },
+          {
+            "content": "CHANGE",
+            "position": 3
+          },
+          {
+            "content": "PRIMP",
+            "position": 10
+          },
+          {
+            "content": "SHOWER",
+            "position": 7
+          }
+        ]
+      },
+      {
+        "title": "CHINESE ZODIAC ANIMALS",
+        "cards": [
+          {
+            "content": "DOG",
+            "position": 5
+          },
+          {
+            "content": "DRAGON",
+            "position": 8
+          },
+          {
+            "content": "HORSE",
+            "position": 0
+          },
+          {
+            "content": "SNAKE",
+            "position": 2
+          }
+        ]
+      },
+      {
+        "title": "FLOWERS",
+        "cards": [
+          {
+            "content": "ANEMONE",
+            "position": 1
+          },
+          {
+            "content": "LARKSPUR",
+            "position": 6
+          },
+          {
+            "content": "MONKSHOOD",
+            "position": 11
+          },
+          {
+            "content": "PHLOX",
+            "position": 13
+          }
+        ]
+      }
+    ]
   },
   "2026-06-16": {
-    "status": "ERROR",
-    "errors": [
-      "Not Found"
-    ],
-    "results": []
+    "status": "OK",
+    "id": 1185,
+    "print_date": "2026-06-16",
+    "editor": "Wyna Liu",
+    "categories": [
+      {
+        "title": "CREAMY SALAD DRESSINGS",
+        "cards": [
+          {
+            "content": "BLUE CHEESE",
+            "position": 9
+          },
+          {
+            "content": "CAESAR",
+            "position": 14
+          },
+          {
+            "content": "GREEN GODDESS",
+            "position": 4
+          },
+          {
+            "content": "RANCH",
+            "position": 7
+          }
+        ]
+      },
+      {
+        "title": "ATTENDANTS",
+        "cards": [
+          {
+            "content": "COURT",
+            "position": 3
+          },
+          {
+            "content": "ENTOURAGE",
+            "position": 13
+          },
+          {
+            "content": "RETINUE",
+            "position": 15
+          },
+          {
+            "content": "SUITE",
+            "position": 5
+          }
+        ]
+      },
+      {
+        "title": "RARE THINGS, IDIOMATICALLY",
+        "cards": [
+          {
+            "content": "BLACK SWAN",
+            "position": 0
+          },
+          {
+            "content": "BLUE MOON",
+            "position": 8
+          },
+          {
+            "content": "PERFECT STORM",
+            "position": 11
+          },
+          {
+            "content": "UNICORN",
+            "position": 6
+          }
+        ]
+      },
+      {
+        "title": "WHAT \"HOOPS\" MIGHT REFER TO",
+        "cards": [
+          {
+            "content": "BASKETBALL",
+            "position": 2
+          },
+          {
+            "content": "EARRINGS",
+            "position": 1
+          },
+          {
+            "content": "RED TAPE",
+            "position": 10
+          },
+          {
+            "content": "RHYTHMIC GYMNASTICS GEAR",
+            "position": 12
+          }
+        ]
+      }
+    ]
   },
   "2026-06-17": {
     "status": "OK",
@@ -101263,18 +101433,188 @@
     ]
   },
   "2026-06-18": {
-    "status": "ERROR",
-    "errors": [
-      "Not Found"
-    ],
-    "results": []
+    "status": "OK",
+    "id": 1189,
+    "print_date": "2026-06-18",
+    "editor": "Wyna Liu",
+    "categories": [
+      {
+        "title": "FITNESS CLASS TYPES",
+        "cards": [
+          {
+            "content": "AEROBICS",
+            "position": 15
+          },
+          {
+            "content": "BARRE",
+            "position": 4
+          },
+          {
+            "content": "BOOTCAMP",
+            "position": 11
+          },
+          {
+            "content": "PILATES",
+            "position": 12
+          }
+        ]
+      },
+      {
+        "title": "DEMEANOR",
+        "cards": [
+          {
+            "content": "ATTITUDE",
+            "position": 7
+          },
+          {
+            "content": "BEARING",
+            "position": 9
+          },
+          {
+            "content": "NATURE",
+            "position": 1
+          },
+          {
+            "content": "PRESENCE",
+            "position": 13
+          }
+        ]
+      },
+      {
+        "title": "PEACE ACTIVISTS",
+        "cards": [
+          {
+            "content": "GANDHI",
+            "position": 14
+          },
+          {
+            "content": "KING",
+            "position": 2
+          },
+          {
+            "content": "MANDELA",
+            "position": 8
+          },
+          {
+            "content": "TUTU",
+            "position": 6
+          }
+        ]
+      },
+      {
+        "title": "TOOLS MINUS LAST TWO LETTERS",
+        "cards": [
+          {
+            "content": "HAMM",
+            "position": 10
+          },
+          {
+            "content": "JIGS",
+            "position": 5
+          },
+          {
+            "content": "PLIE",
+            "position": 3
+          },
+          {
+            "content": "WREN",
+            "position": 0
+          }
+        ]
+      }
+    ]
   },
   "2026-06-19": {
-    "status": "ERROR",
-    "errors": [
-      "Not Found"
-    ],
-    "results": []
+    "status": "OK",
+    "id": 1188,
+    "print_date": "2026-06-19",
+    "editor": "Wyna Liu",
+    "categories": [
+      {
+        "title": "UMAMI-RICH FOODS",
+        "cards": [
+          {
+            "content": "MISO PASTE",
+            "position": 9
+          },
+          {
+            "content": "PARMESAN",
+            "position": 14
+          },
+          {
+            "content": "SOY SAUCE",
+            "position": 3
+          },
+          {
+            "content": "VEGEMITE",
+            "position": 6
+          }
+        ]
+      },
+      {
+        "title": "THINGS A BEGINNER MIGHT LEARN ON THE PIANO",
+        "cards": [
+          {
+            "content": "CHOPSTICKS",
+            "position": 8
+          },
+          {
+            "content": "FÜR ELISE",
+            "position": 15
+          },
+          {
+            "content": "HEART AND SOUL",
+            "position": 11
+          },
+          {
+            "content": "THE ENTERTAINER",
+            "position": 13
+          }
+        ]
+      },
+      {
+        "title": "STARTING WITH MAGAZINES",
+        "cards": [
+          {
+            "content": "FORTUNE COOKIE",
+            "position": 5
+          },
+          {
+            "content": "PEOPLE PERSON",
+            "position": 10
+          },
+          {
+            "content": "SPINDERELLA",
+            "position": 4
+          },
+          {
+            "content": "TIME MACHINE",
+            "position": 0
+          }
+        ]
+      },
+      {
+        "title": "ENDING IN SYNONYMS FOR \"AGGREGATE\"",
+        "cards": [
+          {
+            "content": "COINCIDENTALLY",
+            "position": 12
+          },
+          {
+            "content": "DIM SUM",
+            "position": 2
+          },
+          {
+            "content": "TEETOTAL",
+            "position": 1
+          },
+          {
+            "content": "VISCOUNT",
+            "position": 7
+          }
+        ]
+      }
+    ]
   },
   "2026-06-20": {
     "status": "ERROR",
@@ -101284,11 +101624,96 @@
     "results": []
   },
   "2026-06-21": {
-    "status": "ERROR",
-    "errors": [
-      "Not Found"
-    ],
-    "results": []
+    "status": "OK",
+    "id": 1186,
+    "print_date": "2026-06-21",
+    "editor": "Wyna Liu",
+    "categories": [
+      {
+        "title": "PRECIPITATION",
+        "cards": [
+          {
+            "content": "DRIZZLE",
+            "position": 14
+          },
+          {
+            "content": "RAIN",
+            "position": 5
+          },
+          {
+            "content": "SHOWERS",
+            "position": 12
+          },
+          {
+            "content": "SPRINKLES",
+            "position": 11
+          }
+        ]
+      },
+      {
+        "title": "BOWLS OVER",
+        "cards": [
+          {
+            "content": "FLOORS",
+            "position": 7
+          },
+          {
+            "content": "ROCKS",
+            "position": 1
+          },
+          {
+            "content": "STUNS",
+            "position": 10
+          },
+          {
+            "content": "SURPRISES",
+            "position": 4
+          }
+        ]
+      },
+      {
+        "title": "NBC SITCOMS",
+        "cards": [
+          {
+            "content": "COMMUNITY",
+            "position": 9
+          },
+          {
+            "content": "FRIENDS",
+            "position": 15
+          },
+          {
+            "content": "SCRUBS",
+            "position": 3
+          },
+          {
+            "content": "WINGS",
+            "position": 13
+          }
+        ]
+      },
+      {
+        "title": "STARTING WITH KINDS OF INSULTS",
+        "cards": [
+          {
+            "content": "BARBADOS",
+            "position": 8
+          },
+          {
+            "content": "DIGGITY",
+            "position": 0
+          },
+          {
+            "content": "DISSECT",
+            "position": 6
+          },
+          {
+            "content": "SLAPDASH",
+            "position": 2
+          }
+        ]
+      }
+    ]
   },
   "2026-06-22": {
     "status": "OK",
@@ -101397,11 +101822,96 @@
     "results": []
   },
   "2026-06-25": {
-    "status": "ERROR",
-    "errors": [
-      "Not Found"
-    ],
-    "results": []
+    "status": "OK",
+    "id": 1183,
+    "print_date": "2026-06-25",
+    "editor": "Wyna Liu",
+    "categories": [
+      {
+        "title": "COMPUTER PERIPHERALS",
+        "cards": [
+          {
+            "content": "MICROPHONE",
+            "position": 11
+          },
+          {
+            "content": "MONITOR",
+            "position": 12
+          },
+          {
+            "content": "PRINTER",
+            "position": 14
+          },
+          {
+            "content": "TRACKPAD",
+            "position": 5
+          }
+        ]
+      },
+      {
+        "title": "TIGHTLY PACKED",
+        "cards": [
+          {
+            "content": "COMPACT",
+            "position": 2
+          },
+          {
+            "content": "COMPRESSED",
+            "position": 15
+          },
+          {
+            "content": "DENSE",
+            "position": 10
+          },
+          {
+            "content": "SQUASHED",
+            "position": 7
+          }
+        ]
+      },
+      {
+        "title": "CHEMICAL ELEMENTS",
+        "cards": [
+          {
+            "content": "LEAD",
+            "position": 6
+          },
+          {
+            "content": "MERCURY",
+            "position": 8
+          },
+          {
+            "content": "NEON",
+            "position": 13
+          },
+          {
+            "content": "POLONIUM",
+            "position": 0
+          }
+        ]
+      },
+      {
+        "title": "STARTING WITH BIRD HOMOPHONES",
+        "cards": [
+          {
+            "content": "CRANIUM",
+            "position": 1
+          },
+          {
+            "content": "CROQUETTE",
+            "position": 4
+          },
+          {
+            "content": "DUCTILE",
+            "position": 9
+          },
+          {
+            "content": "HOCKEY",
+            "position": 3
+          }
+        ]
+      }
+    ]
   },
   "2026-06-26": {
     "status": "ERROR",
@@ -101423,5 +101933,97 @@
       "Not Found"
     ],
     "results": []
+  },
+  "2026-06-29": {
+    "status": "OK",
+    "id": 1187,
+    "print_date": "2026-06-29",
+    "editor": "Wyna Liu",
+    "categories": [
+      {
+        "title": "OLD TIMEY TROUBLEMAKERS",
+        "cards": [
+          {
+            "content": "MISCREANT",
+            "position": 13
+          },
+          {
+            "content": "ROGUE",
+            "position": 8
+          },
+          {
+            "content": "RUFFIAN",
+            "position": 1
+          },
+          {
+            "content": "SCOUNDREL",
+            "position": 15
+          }
+        ]
+      },
+      {
+        "title": "CONSUME WITH GUSTO",
+        "cards": [
+          {
+            "content": "CRUSH",
+            "position": 9
+          },
+          {
+            "content": "GUZZLE",
+            "position": 14
+          },
+          {
+            "content": "INHALE",
+            "position": 2
+          },
+          {
+            "content": "SNARF",
+            "position": 6
+          }
+        ]
+      },
+      {
+        "title": "PARTS OF A SPEAKER",
+        "cards": [
+          {
+            "content": "CABINET",
+            "position": 10
+          },
+          {
+            "content": "CONE",
+            "position": 7
+          },
+          {
+            "content": "MAGNET",
+            "position": 5
+          },
+          {
+            "content": "WOOFER",
+            "position": 0
+          }
+        ]
+      },
+      {
+        "title": "ENDING IN PARTS OF A TREE",
+        "cards": [
+          {
+            "content": "EMBARK",
+            "position": 4
+          },
+          {
+            "content": "GROOT",
+            "position": 3
+          },
+          {
+            "content": "NUDIBRANCH",
+            "position": 12
+          },
+          {
+            "content": "STRUNK",
+            "position": 11
+          }
+        ]
+      }
+    ]
   }
 }
