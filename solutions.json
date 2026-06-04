@@ -101468,15 +101468,15 @@
           },
           {
             "content": "BEARING",
-            "position": 9
+            "position": 5
           },
           {
-            "content": "NATURE",
+            "content": "CARRIAGE",
             "position": 1
           },
           {
             "content": "PRESENCE",
-            "position": 13
+            "position": 9
           }
         ]
       },
@@ -101510,7 +101510,7 @@
           },
           {
             "content": "JIGS",
-            "position": 5
+            "position": 13
           },
           {
             "content": "PLIE",
@@ -101870,8 +101870,12 @@
         ]
       },
       {
-        "title": "CHEMICAL ELEMENTS",
+        "title": "HAZARDOUS ELEMENTAL METALS",
         "cards": [
+          {
+            "content": "FRANCIUM",
+            "position": 13
+          },
           {
             "content": "LEAD",
             "position": 6
@@ -101879,10 +101883,6 @@
           {
             "content": "MERCURY",
             "position": 8
-          },
-          {
-            "content": "NEON",
-            "position": 13
           },
           {
             "content": "POLONIUM",
@@ -102048,6 +102048,13 @@
     "results": []
   },
   "2026-07-03": {
+    "status": "ERROR",
+    "errors": [
+      "Not Found"
+    ],
+    "results": []
+  },
+  "2026-07-04": {
     "status": "ERROR",
     "errors": [
       "Not Found"
