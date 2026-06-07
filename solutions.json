@@ -102584,5 +102584,97 @@
       "Not Found"
     ],
     "results": []
+  },
+  "2026-07-07": {
+    "status": "OK",
+    "id": 1191,
+    "print_date": "2026-07-07",
+    "editor": "Wyna Liu",
+    "categories": [
+      {
+        "title": "STUDENT-ATHLETE DESIGNATIONS",
+        "cards": [
+          {
+            "content": "ALL-AMERICAN",
+            "position": 14
+          },
+          {
+            "content": "JOCK",
+            "position": 2
+          },
+          {
+            "content": "LETTERMAN",
+            "position": 4
+          },
+          {
+            "content": "TEAM CAPTAIN",
+            "position": 11
+          }
+        ]
+      },
+      {
+        "title": "ROOMS IN CLUE",
+        "cards": [
+          {
+            "content": "CONSERVATORY",
+            "position": 15
+          },
+          {
+            "content": "HALL",
+            "position": 9
+          },
+          {
+            "content": "KITCHEN",
+            "position": 7
+          },
+          {
+            "content": "STUDY",
+            "position": 12
+          }
+        ]
+      },
+      {
+        "title": "___ TWIST",
+        "cards": [
+          {
+            "content": "FRENCH",
+            "position": 5
+          },
+          {
+            "content": "LEMON",
+            "position": 6
+          },
+          {
+            "content": "OLIVER",
+            "position": 10
+          },
+          {
+            "content": "PLOT",
+            "position": 0
+          }
+        ]
+      },
+      {
+        "title": "ENDING IN \"SESAME STREET\" CHARACTERS",
+        "cards": [
+          {
+            "content": "BERNIE",
+            "position": 8
+          },
+          {
+            "content": "COLBERT",
+            "position": 3
+          },
+          {
+            "content": "DISCOUNT",
+            "position": 1
+          },
+          {
+            "content": "SAN ANSELMO",
+            "position": 13
+          }
+        ]
+      }
+    ]
   }
 }
