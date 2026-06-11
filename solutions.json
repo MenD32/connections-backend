@@ -101920,27 +101920,6 @@
         ]
       },
       {
-        "title": "CONTENT SORTING OPTIONS ONLINE",
-        "cards": [
-          {
-            "content": "FEATURED",
-            "position": 9
-          },
-          {
-            "content": "POPULAR",
-            "position": 6
-          },
-          {
-            "content": "RECENT",
-            "position": 12
-          },
-          {
-            "content": "TRENDING",
-            "position": 15
-          }
-        ]
-      },
-      {
         "title": "IN A MONOPOLY BOX",
         "cards": [
           {
@@ -101958,6 +101937,27 @@
           {
             "content": "TOKEN",
             "position": 10
+          }
+        ]
+      },
+      {
+        "title": "CONTENT SORTING OPTIONS ONLINE",
+        "cards": [
+          {
+            "content": "FEATURED",
+            "position": 9
+          },
+          {
+            "content": "POPULAR",
+            "position": 6
+          },
+          {
+            "content": "RECENT",
+            "position": 12
+          },
+          {
+            "content": "TRENDING",
+            "position": 15
           }
         ]
       },
@@ -102044,7 +102044,7 @@
             "position": 9
           },
           {
-            "content": "KOOL AID MAN",
+            "content": "KOOL-AID MAN",
             "position": 4
           },
           {
@@ -102175,44 +102175,23 @@
     "editor": "Wyna Liu",
     "categories": [
       {
-        "title": "SIGNS OF SURFACE WEAR",
+        "title": "CRUNCHY SNACK ITEM",
         "cards": [
           {
             "content": "CHIP",
             "position": 1
           },
           {
-            "content": "MARK",
-            "position": 7
-          },
-          {
-            "content": "NICK",
+            "content": "CRACKER",
             "position": 12
           },
           {
-            "content": "SCRATCH",
+            "content": "NUT",
+            "position": 7
+          },
+          {
+            "content": "PRETZEL",
             "position": 15
-          }
-        ]
-      },
-      {
-        "title": "AREAS OF LOW GROUND",
-        "cards": [
-          {
-            "content": "DALE",
-            "position": 4
-          },
-          {
-            "content": "DELL",
-            "position": 13
-          },
-          {
-            "content": "GORGE",
-            "position": 10
-          },
-          {
-            "content": "HOLLOW",
-            "position": 8
           }
         ]
       },
@@ -102234,6 +102213,27 @@
           {
             "content": "TREE",
             "position": 9
+          }
+        ]
+      },
+      {
+        "title": "AREAS OF LOW GROUND",
+        "cards": [
+          {
+            "content": "DALE",
+            "position": 4
+          },
+          {
+            "content": "DELL",
+            "position": 13
+          },
+          {
+            "content": "GORGE",
+            "position": 10
+          },
+          {
+            "content": "HOLLOW",
+            "position": 8
           }
         ]
       },
@@ -102472,7 +102472,7 @@
     "editor": "Wyna Liu",
     "categories": [
       {
-        "title": "THINGS THAT MIMIC OTHER THINGS",
+        "title": "THEY IMPERSONATE OTHER THINGS",
         "cards": [
           {
             "content": "COPYCAT",
@@ -102493,10 +102493,10 @@
         ]
       },
       {
-        "title": "OLD TIMEY NAMES FOR THINGS WE STILL USE",
+        "title": "OLD-TIMEY NAMES FOR THINGS WE STILL USE",
         "cards": [
           {
-            "content": "AEROPLANE",
+            "content": "GRAMOPHONE",
             "position": 12
           },
           {
@@ -102592,27 +102592,6 @@
     "editor": "Wyna Liu",
     "categories": [
       {
-        "title": "STUDENT-ATHLETE DESIGNATIONS",
-        "cards": [
-          {
-            "content": "ALL-AMERICAN",
-            "position": 14
-          },
-          {
-            "content": "JOCK",
-            "position": 2
-          },
-          {
-            "content": "LETTERMAN",
-            "position": 4
-          },
-          {
-            "content": "TEAM CAPTAIN",
-            "position": 11
-          }
-        ]
-      },
-      {
         "title": "ROOMS IN CLUE",
         "cards": [
           {
@@ -102630,6 +102609,27 @@
           {
             "content": "STUDY",
             "position": 12
+          }
+        ]
+      },
+      {
+        "title": "STUDENT-ATHLETE DESIGNATIONS",
+        "cards": [
+          {
+            "content": "ALL-AMERICAN",
+            "position": 14
+          },
+          {
+            "content": "JOCK",
+            "position": 2
+          },
+          {
+            "content": "LETTERMAN",
+            "position": 4
+          },
+          {
+            "content": "TEAM CAPTAIN",
+            "position": 11
           }
         ]
       },
@@ -102692,6 +102692,13 @@
     "results": []
   },
   "2026-07-10": {
+    "status": "ERROR",
+    "errors": [
+      "Not Found"
+    ],
+    "results": []
+  },
+  "2026-07-11": {
     "status": "ERROR",
     "errors": [
       "Not Found"
