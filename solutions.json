@@ -102261,18 +102261,188 @@
     ]
   },
   "2026-06-27": {
-    "status": "ERROR",
-    "errors": [
-      "Not Found"
-    ],
-    "results": []
+    "status": "OK",
+    "id": 1198,
+    "print_date": "2026-06-27",
+    "editor": "Wyna Liu",
+    "categories": [
+      {
+        "title": "MONOPOLY SQUARES",
+        "cards": [
+          {
+            "content": "BOARDWALK",
+            "position": 4
+          },
+          {
+            "content": "INCOME TAX",
+            "position": 9
+          },
+          {
+            "content": "SHORT LINE",
+            "position": 12
+          },
+          {
+            "content": "WATER WORKS",
+            "position": 14
+          }
+        ]
+      },
+      {
+        "title": "COMPONENTS OF A FASHION SHOW",
+        "cards": [
+          {
+            "content": "CATWALK",
+            "position": 0
+          },
+          {
+            "content": "COLLECTION",
+            "position": 3
+          },
+          {
+            "content": "DESIGNER",
+            "position": 5
+          },
+          {
+            "content": "MODEL",
+            "position": 11
+          }
+        ]
+      },
+      {
+        "title": "COMMONLY STRIPED THINGS",
+        "cards": [
+          {
+            "content": "BARBER POLE",
+            "position": 15
+          },
+          {
+            "content": "BILLIARD BALL",
+            "position": 10
+          },
+          {
+            "content": "CREDIT CARD",
+            "position": 2
+          },
+          {
+            "content": "CROSSWALK",
+            "position": 7
+          }
+        ]
+      },
+      {
+        "title": "ENDING IN HORSE GAITS",
+        "cards": [
+          {
+            "content": "DECANTER",
+            "position": 13
+          },
+          {
+            "content": "ENVELOPE",
+            "position": 6
+          },
+          {
+            "content": "FIREWALK",
+            "position": 8
+          },
+          {
+            "content": "FOXTROT",
+            "position": 1
+          }
+        ]
+      }
+    ]
   },
   "2026-06-28": {
-    "status": "ERROR",
-    "errors": [
-      "Not Found"
-    ],
-    "results": []
+    "status": "OK",
+    "id": 1200,
+    "print_date": "2026-06-28",
+    "editor": "Wyna Liu",
+    "categories": [
+      {
+        "title": "HIGH-QUALITY",
+        "cards": [
+          {
+            "content": "CHOICE",
+            "position": 4
+          },
+          {
+            "content": "FINE",
+            "position": 15
+          },
+          {
+            "content": "PRIME",
+            "position": 9
+          },
+          {
+            "content": "SELECT",
+            "position": 3
+          }
+        ]
+      },
+      {
+        "title": "SIGNALS TO COMMENCE",
+        "cards": [
+          {
+            "content": "BEGIN",
+            "position": 8
+          },
+          {
+            "content": "GO",
+            "position": 5
+          },
+          {
+            "content": "NOW",
+            "position": 14
+          },
+          {
+            "content": "START",
+            "position": 2
+          }
+        ]
+      },
+      {
+        "title": "ACCESSORIES FOR A GUITARIST",
+        "cards": [
+          {
+            "content": "CAPO",
+            "position": 12
+          },
+          {
+            "content": "PICK",
+            "position": 0
+          },
+          {
+            "content": "SLIDE",
+            "position": 6
+          },
+          {
+            "content": "STRAP",
+            "position": 11
+          }
+        ]
+      },
+      {
+        "title": "THEY HAVE BOARDS",
+        "cards": [
+          {
+            "content": "CHESS",
+            "position": 1
+          },
+          {
+            "content": "CORPORATION",
+            "position": 7
+          },
+          {
+            "content": "DARTS",
+            "position": 13
+          },
+          {
+            "content": "SURFER",
+            "position": 10
+          }
+        ]
+      }
+    ]
   },
   "2026-06-29": {
     "status": "OK",
@@ -102367,11 +102537,96 @@
     ]
   },
   "2026-06-30": {
-    "status": "ERROR",
-    "errors": [
-      "Not Found"
-    ],
-    "results": []
+    "status": "OK",
+    "id": 1203,
+    "print_date": "2026-06-30",
+    "editor": "Wyna Liu",
+    "categories": [
+      {
+        "title": "ENDORSE",
+        "cards": [
+          {
+            "content": "BACK",
+            "position": 12
+          },
+          {
+            "content": "BOLSTER",
+            "position": 7
+          },
+          {
+            "content": "CHAMPION",
+            "position": 0
+          },
+          {
+            "content": "SUPPORT",
+            "position": 9
+          }
+        ]
+      },
+      {
+        "title": "KINDS OF CHAIRS",
+        "cards": [
+          {
+            "content": "BEANBAG",
+            "position": 6
+          },
+          {
+            "content": "RECLINER",
+            "position": 15
+          },
+          {
+            "content": "ROCKER",
+            "position": 4
+          },
+          {
+            "content": "STOOL",
+            "position": 13
+          }
+        ]
+      },
+      {
+        "title": "WORDS REPEATED IN HIT SONG TITLES",
+        "cards": [
+          {
+            "content": "JUMPIN'",
+            "position": 3
+          },
+          {
+            "content": "LOUIE",
+            "position": 11
+          },
+          {
+            "content": "NEW YORK",
+            "position": 1
+          },
+          {
+            "content": "REBEL",
+            "position": 14
+          }
+        ]
+      },
+      {
+        "title": "HOMOPHONES OF MULTIPLE GRAMMY-WINNING WOMEN SINGERS",
+        "cards": [
+          {
+            "content": "CARRY",
+            "position": 10
+          },
+          {
+            "content": "KNICKS",
+            "position": 2
+          },
+          {
+            "content": "NIGHT",
+            "position": 5
+          },
+          {
+            "content": "RATE",
+            "position": 8
+          }
+        ]
+      }
+    ]
   },
   "2026-07-01": {
     "status": "OK",
@@ -102579,11 +102834,96 @@
     "results": []
   },
   "2026-07-06": {
-    "status": "ERROR",
-    "errors": [
-      "Not Found"
-    ],
-    "results": []
+    "status": "OK",
+    "id": 1199,
+    "print_date": "2026-07-06",
+    "editor": "Wyna Liu",
+    "categories": [
+      {
+        "title": "STUNNING NEWS",
+        "cards": [
+          {
+            "content": "BOMBSHELL",
+            "position": 9
+          },
+          {
+            "content": "REVELATION",
+            "position": 11
+          },
+          {
+            "content": "SHOCKER",
+            "position": 14
+          },
+          {
+            "content": "THUNDERBOLT",
+            "position": 3
+          }
+        ]
+      },
+      {
+        "title": "SCIENCE FAIR MODEL SUBJECTS",
+        "cards": [
+          {
+            "content": "ATOM",
+            "position": 0
+          },
+          {
+            "content": "DNA",
+            "position": 6
+          },
+          {
+            "content": "SOLAR SYSTEM",
+            "position": 12
+          },
+          {
+            "content": "VOLCANO",
+            "position": 4
+          }
+        ]
+      },
+      {
+        "title": "ACME PRODUCTS USED BY WILE E. COYOTE",
+        "cards": [
+          {
+            "content": "EARTHQUAKE PILLS",
+            "position": 10
+          },
+          {
+            "content": "IRON BIRD SEED",
+            "position": 15
+          },
+          {
+            "content": "ROCKET SKATES",
+            "position": 7
+          },
+          {
+            "content": "TNT",
+            "position": 2
+          }
+        ]
+      },
+      {
+        "title": "STARTING WITH DATING APPS",
+        "cards": [
+          {
+            "content": "BUMBLEBEE",
+            "position": 1
+          },
+          {
+            "content": "GRIND RAIL",
+            "position": 13
+          },
+          {
+            "content": "MATCHA",
+            "position": 8
+          },
+          {
+            "content": "TINDERBOX",
+            "position": 5
+          }
+        ]
+      }
+    ]
   },
   "2026-07-07": {
     "status": "OK",
@@ -102692,13 +103032,105 @@
     "results": []
   },
   "2026-07-10": {
+    "status": "OK",
+    "id": 1197,
+    "print_date": "2026-07-10",
+    "editor": "Wyna Liu",
+    "categories": [
+      {
+        "title": "SMARTPHONE SETTINGS",
+        "cards": [
+          {
+            "content": "AIRPLANE MODE",
+            "position": 7
+          },
+          {
+            "content": "DO NOT DISTURB",
+            "position": 4
+          },
+          {
+            "content": "HOTSPOT",
+            "position": 12
+          },
+          {
+            "content": "LOCATION SERVICES",
+            "position": 15
+          }
+        ]
+      },
+      {
+        "title": "DESSERT MENU DESCRIPTORS",
+        "cards": [
+          {
+            "content": "DECADENT",
+            "position": 10
+          },
+          {
+            "content": "FRESH-BAKED",
+            "position": 2
+          },
+          {
+            "content": "MOLTEN",
+            "position": 14
+          },
+          {
+            "content": "À LA MODE",
+            "position": 5
+          }
+        ]
+      },
+      {
+        "title": "'80S SYNTH-POP BANDS",
+        "cards": [
+          {
+            "content": "DEPECHE MODE",
+            "position": 1
+          },
+          {
+            "content": "ERASURE",
+            "position": 8
+          },
+          {
+            "content": "NEW ORDER",
+            "position": 11
+          },
+          {
+            "content": "PET SHOP BOYS",
+            "position": 13
+          }
+        ]
+      },
+      {
+        "title": "STARTING WITH BASEBALL CALLS",
+        "cards": [
+          {
+            "content": "BALL GOWN",
+            "position": 3
+          },
+          {
+            "content": "OUTKAST",
+            "position": 0
+          },
+          {
+            "content": "SAFE MODE",
+            "position": 9
+          },
+          {
+            "content": "STRIKE A POSE",
+            "position": 6
+          }
+        ]
+      }
+    ]
+  },
+  "2026-07-11": {
     "status": "ERROR",
     "errors": [
       "Not Found"
     ],
     "results": []
   },
-  "2026-07-11": {
+  "2026-07-12": {
     "status": "ERROR",
     "errors": [
       "Not Found"
