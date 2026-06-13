@@ -102585,6 +102585,27 @@
         ]
       },
       {
+        "title": "FEATURING SILENT AND PRONOUNCED \"K\"S",
+        "cards": [
+          {
+            "content": "JACKKNIFE",
+            "position": 8
+          },
+          {
+            "content": "KNAPSACK",
+            "position": 5
+          },
+          {
+            "content": "KNICKS",
+            "position": 2
+          },
+          {
+            "content": "KNOCK-KNOCK",
+            "position": 10
+          }
+        ]
+      },
+      {
         "title": "WORDS REPEATED IN HIT SONG TITLES",
         "cards": [
           {
@@ -102602,27 +102623,6 @@
           {
             "content": "REBEL",
             "position": 14
-          }
-        ]
-      },
-      {
-        "title": "HOMOPHONES OF MULTIPLE GRAMMY-WINNING WOMEN SINGERS",
-        "cards": [
-          {
-            "content": "CARRY",
-            "position": 10
-          },
-          {
-            "content": "KNICKS",
-            "position": 2
-          },
-          {
-            "content": "NIGHT",
-            "position": 5
-          },
-          {
-            "content": "RATE",
-            "position": 8
           }
         ]
       }
@@ -102827,11 +102827,96 @@
     "results": []
   },
   "2026-07-05": {
-    "status": "ERROR",
-    "errors": [
-      "Not Found"
-    ],
-    "results": []
+    "status": "OK",
+    "id": 1204,
+    "print_date": "2026-07-05",
+    "editor": "Wyna Liu",
+    "categories": [
+      {
+        "title": "GRANOLA INGREDIENTS",
+        "cards": [
+          {
+            "content": "HONEY",
+            "position": 7
+          },
+          {
+            "content": "NUTS",
+            "position": 14
+          },
+          {
+            "content": "OATS",
+            "position": 1
+          },
+          {
+            "content": "SEEDS",
+            "position": 11
+          }
+        ]
+      },
+      {
+        "title": "PAYMENT METHODS",
+        "cards": [
+          {
+            "content": "CARD",
+            "position": 5
+          },
+          {
+            "content": "CASH",
+            "position": 12
+          },
+          {
+            "content": "CHECK",
+            "position": 10
+          },
+          {
+            "content": "WIRE",
+            "position": 3
+          }
+        ]
+      },
+      {
+        "title": "AMEX CARD TYPES",
+        "cards": [
+          {
+            "content": "CENTURION",
+            "position": 15
+          },
+          {
+            "content": "GOLD",
+            "position": 8
+          },
+          {
+            "content": "GREEN",
+            "position": 2
+          },
+          {
+            "content": "PLATINUM",
+            "position": 13
+          }
+        ]
+      },
+      {
+        "title": "WHAT \"W\" MIGHT STAND FOR",
+        "cards": [
+          {
+            "content": "TUNGSTEN",
+            "position": 9
+          },
+          {
+            "content": "WEST",
+            "position": 4
+          },
+          {
+            "content": "WIN",
+            "position": 0
+          },
+          {
+            "content": "WITH",
+            "position": 6
+          }
+        ]
+      }
+    ]
   },
   "2026-07-06": {
     "status": "OK",
@@ -103131,6 +103216,13 @@
     "results": []
   },
   "2026-07-12": {
+    "status": "ERROR",
+    "errors": [
+      "Not Found"
+    ],
+    "results": []
+  },
+  "2026-07-13": {
     "status": "ERROR",
     "errors": [
       "Not Found"
