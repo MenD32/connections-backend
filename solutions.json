@@ -102813,18 +102813,188 @@
     ]
   },
   "2026-07-03": {
-    "status": "ERROR",
-    "errors": [
-      "Not Found"
-    ],
-    "results": []
+    "status": "OK",
+    "id": 1209,
+    "print_date": "2026-07-03",
+    "editor": "Wyna Liu",
+    "categories": [
+      {
+        "title": "POSITIVE FEELINGS",
+        "cards": [
+          {
+            "content": "BLISS",
+            "position": 9
+          },
+          {
+            "content": "FELICITY",
+            "position": 2
+          },
+          {
+            "content": "GOOD VIBES",
+            "position": 14
+          },
+          {
+            "content": "WARM FUZZIES",
+            "position": 4
+          }
+        ]
+      },
+      {
+        "title": "RETRO EXPRESSIONS OF APPROVAL",
+        "cards": [
+          {
+            "content": "COOL BEANS",
+            "position": 6
+          },
+          {
+            "content": "FAR OUT",
+            "position": 12
+          },
+          {
+            "content": "GROOVY",
+            "position": 15
+          },
+          {
+            "content": "RIGHT ON",
+            "position": 10
+          }
+        ]
+      },
+      {
+        "title": "BAD THINGS TO GIVE SOMEONE",
+        "cards": [
+          {
+            "content": "COLD SHOULDER",
+            "position": 8
+          },
+          {
+            "content": "DIRTY LOOK",
+            "position": 7
+          },
+          {
+            "content": "HARD TIME",
+            "position": 11
+          },
+          {
+            "content": "RUNAROUND",
+            "position": 1
+          }
+        ]
+      },
+      {
+        "title": "WHAT THINGS PRONOUNCED \"T\" MIGHT REFER TO",
+        "cards": [
+          {
+            "content": "GOLF ACCESSORY",
+            "position": 13
+          },
+          {
+            "content": "HOT DRINK",
+            "position": 0
+          },
+          {
+            "content": "MUSICAL NOTE",
+            "position": 5
+          },
+          {
+            "content": "SHIRT",
+            "position": 3
+          }
+        ]
+      }
+    ]
   },
   "2026-07-04": {
-    "status": "ERROR",
-    "errors": [
-      "Not Found"
-    ],
-    "results": []
+    "status": "OK",
+    "id": 1207,
+    "print_date": "2026-07-04",
+    "editor": "Wyna Liu",
+    "categories": [
+      {
+        "title": "PERSIST",
+        "cards": [
+          {
+            "content": "CONTINUE",
+            "position": 13
+          },
+          {
+            "content": "LAST",
+            "position": 8
+          },
+          {
+            "content": "LINGER",
+            "position": 0
+          },
+          {
+            "content": "STAY",
+            "position": 11
+          }
+        ]
+      },
+      {
+        "title": "TROPICAL DRINKS",
+        "cards": [
+          {
+            "content": "HURRICANE",
+            "position": 9
+          },
+          {
+            "content": "PAINKILLER",
+            "position": 14
+          },
+          {
+            "content": "SCORPION",
+            "position": 7
+          },
+          {
+            "content": "ZOMBIE",
+            "position": 4
+          }
+        ]
+      },
+      {
+        "title": "KINDS OF POEMS",
+        "cards": [
+          {
+            "content": "BALLAD",
+            "position": 12
+          },
+          {
+            "content": "EPIC",
+            "position": 2
+          },
+          {
+            "content": "ODE",
+            "position": 5
+          },
+          {
+            "content": "VILLANELLE",
+            "position": 15
+          }
+        ]
+      },
+      {
+        "title": "SWEET ___",
+        "cards": [
+          {
+            "content": "DREAMS",
+            "position": 3
+          },
+          {
+            "content": "NOTHINGS",
+            "position": 10
+          },
+          {
+            "content": "PEA",
+            "position": 6
+          },
+          {
+            "content": "SPOT",
+            "position": 1
+          }
+        ]
+      }
+    ]
   },
   "2026-07-05": {
     "status": "OK",
@@ -103103,18 +103273,188 @@
     ]
   },
   "2026-07-08": {
-    "status": "ERROR",
-    "errors": [
-      "Not Found"
-    ],
-    "results": []
+    "status": "OK",
+    "id": 1205,
+    "print_date": "2026-07-08",
+    "editor": "Wyna Liu",
+    "categories": [
+      {
+        "title": "CUT INTO THIN PIECES",
+        "cards": [
+          {
+            "content": "GRATE",
+            "position": 8
+          },
+          {
+            "content": "PLANE",
+            "position": 1
+          },
+          {
+            "content": "SHAVE",
+            "position": 6
+          },
+          {
+            "content": "SLIVER",
+            "position": 15
+          }
+        ]
+      },
+      {
+        "title": "MOTIF",
+        "cards": [
+          {
+            "content": "DRIFT",
+            "position": 0
+          },
+          {
+            "content": "PLOT",
+            "position": 3
+          },
+          {
+            "content": "THEME",
+            "position": 14
+          },
+          {
+            "content": "THREAD",
+            "position": 7
+          }
+        ]
+      },
+      {
+        "title": "GUITAR-PLAYING TECHNIQUES",
+        "cards": [
+          {
+            "content": "PICK",
+            "position": 9
+          },
+          {
+            "content": "PLUCK",
+            "position": 4
+          },
+          {
+            "content": "STRUM",
+            "position": 13
+          },
+          {
+            "content": "TAP",
+            "position": 11
+          }
+        ]
+      },
+      {
+        "title": "HOUSE OF ___",
+        "cards": [
+          {
+            "content": "CARDS",
+            "position": 5
+          },
+          {
+            "content": "LORDS",
+            "position": 12
+          },
+          {
+            "content": "WAX",
+            "position": 2
+          },
+          {
+            "content": "WORSHIP",
+            "position": 10
+          }
+        ]
+      }
+    ]
   },
   "2026-07-09": {
-    "status": "ERROR",
-    "errors": [
-      "Not Found"
-    ],
-    "results": []
+    "status": "OK",
+    "id": 1206,
+    "print_date": "2026-07-09",
+    "editor": "Wyna Liu",
+    "categories": [
+      {
+        "title": "NON-ALCOHOLIC DESIGNATORS",
+        "cards": [
+          {
+            "content": "NA",
+            "position": 4
+          },
+          {
+            "content": "SPIRIT-FREE",
+            "position": 15
+          },
+          {
+            "content": "VIRGIN",
+            "position": 1
+          },
+          {
+            "content": "ZERO-PROOF",
+            "position": 10
+          }
+        ]
+      },
+      {
+        "title": "MUSIC PUBLICATIONS",
+        "cards": [
+          {
+            "content": "BILLBOARD",
+            "position": 12
+          },
+          {
+            "content": "PITCHFORK",
+            "position": 14
+          },
+          {
+            "content": "ROLLING STONE",
+            "position": 5
+          },
+          {
+            "content": "SPIN",
+            "position": 2
+          }
+        ]
+      },
+      {
+        "title": "KINDS OF RUGS",
+        "cards": [
+          {
+            "content": "PERSIAN",
+            "position": 6
+          },
+          {
+            "content": "PRAYER",
+            "position": 3
+          },
+          {
+            "content": "SHAG",
+            "position": 9
+          },
+          {
+            "content": "THROW",
+            "position": 0
+          }
+        ]
+      },
+      {
+        "title": "PONTIAC MODELS",
+        "cards": [
+          {
+            "content": "FIREBIRD",
+            "position": 7
+          },
+          {
+            "content": "G6",
+            "position": 8
+          },
+          {
+            "content": "GRAND PRIX",
+            "position": 11
+          },
+          {
+            "content": "TRANS AM",
+            "position": 13
+          }
+        ]
+      }
+    ]
   },
   "2026-07-10": {
     "status": "OK",
@@ -103223,11 +103563,96 @@
     "results": []
   },
   "2026-07-13": {
-    "status": "ERROR",
-    "errors": [
-      "Not Found"
-    ],
-    "results": []
+    "status": "OK",
+    "id": 1208,
+    "print_date": "2026-07-13",
+    "editor": "Wyna Liu",
+    "categories": [
+      {
+        "title": "INTERROGATE",
+        "cards": [
+          {
+            "content": "EXAMINE",
+            "position": 12
+          },
+          {
+            "content": "GRILL",
+            "position": 5
+          },
+          {
+            "content": "PUMP",
+            "position": 6
+          },
+          {
+            "content": "QUESTION",
+            "position": 3
+          }
+        ]
+      },
+      {
+        "title": "THINGS WITH HANDLES",
+        "cards": [
+          {
+            "content": "BUCKET",
+            "position": 2
+          },
+          {
+            "content": "DRAWER",
+            "position": 11
+          },
+          {
+            "content": "MUG",
+            "position": 8
+          },
+          {
+            "content": "UMBRELLA",
+            "position": 0
+          }
+        ]
+      },
+      {
+        "title": "FICTIONAL CATS",
+        "cards": [
+          {
+            "content": "FIGARO",
+            "position": 9
+          },
+          {
+            "content": "PUSS",
+            "position": 4
+          },
+          {
+            "content": "SALEM",
+            "position": 1
+          },
+          {
+            "content": "TOM",
+            "position": 14
+          }
+        ]
+      },
+      {
+        "title": "STARTING WITH SMOOCHES",
+        "cards": [
+          {
+            "content": "BUSSIN",
+            "position": 13
+          },
+          {
+            "content": "KISSER",
+            "position": 7
+          },
+          {
+            "content": "PECKISH",
+            "position": 15
+          },
+          {
+            "content": "SMACKDOWN",
+            "position": 10
+          }
+        ]
+      }
+    ]
   },
   "2026-07-14": {
     "status": "ERROR",
@@ -103244,11 +103669,96 @@
     "results": []
   },
   "2026-07-16": {
-    "status": "ERROR",
-    "errors": [
-      "Not Found"
-    ],
-    "results": []
+    "status": "OK",
+    "id": 1202,
+    "print_date": "2026-07-16",
+    "editor": "Wyna Liu",
+    "categories": [
+      {
+        "title": "SKINCARE PRODUCTS",
+        "cards": [
+          {
+            "content": "CLAY MASK",
+            "position": 15
+          },
+          {
+            "content": "EYE CREAM",
+            "position": 13
+          },
+          {
+            "content": "PEEL",
+            "position": 8
+          },
+          {
+            "content": "TONER",
+            "position": 4
+          }
+        ]
+      },
+      {
+        "title": "SHADES OF BLACK",
+        "cards": [
+          {
+            "content": "CHARCOAL",
+            "position": 7
+          },
+          {
+            "content": "INK",
+            "position": 1
+          },
+          {
+            "content": "JET",
+            "position": 2
+          },
+          {
+            "content": "PITCH",
+            "position": 9
+          }
+        ]
+      },
+      {
+        "title": "ASSOCIATED WITH PRECISION",
+        "cards": [
+          {
+            "content": "BULLSEYE",
+            "position": 11
+          },
+          {
+            "content": "CLOCKWORK",
+            "position": 14
+          },
+          {
+            "content": "LASER",
+            "position": 6
+          },
+          {
+            "content": "NEEDLE",
+            "position": 0
+          }
+        ]
+      },
+      {
+        "title": "STARTING WITH TINY MARKS",
+        "cards": [
+          {
+            "content": "DOT MATRIX",
+            "position": 3
+          },
+          {
+            "content": "PERIOD PIECE",
+            "position": 10
+          },
+          {
+            "content": "POINT BREAK",
+            "position": 5
+          },
+          {
+            "content": "SPOT REMOVER",
+            "position": 12
+          }
+        ]
+      }
+    ]
   },
   "2026-07-17": {
     "status": "ERROR",
@@ -103265,6 +103775,13 @@
     "results": []
   },
   "2026-07-19": {
+    "status": "ERROR",
+    "errors": [
+      "Not Found"
+    ],
+    "results": []
+  },
+  "2026-07-20": {
     "status": "ERROR",
     "errors": [
       "Not Found"
