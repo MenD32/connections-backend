@@ -102751,16 +102751,16 @@
         "title": "OLD-TIMEY NAMES FOR THINGS WE STILL USE",
         "cards": [
           {
-            "content": "GRAMOPHONE",
-            "position": 12
-          },
-          {
             "content": "LOOKING GLASS",
             "position": 5
           },
           {
             "content": "SPECTACLES",
             "position": 9
+          },
+          {
+            "content": "TALKIE",
+            "position": 12
           },
           {
             "content": "WATER CLOSET",
@@ -102784,7 +102784,7 @@
             "position": 13
           },
           {
-            "content": "TOM TOM",
+            "content": "TOM-TOM",
             "position": 2
           }
         ]
@@ -103817,6 +103817,13 @@
     "results": []
   },
   "2026-07-25": {
+    "status": "ERROR",
+    "errors": [
+      "Not Found"
+    ],
+    "results": []
+  },
+  "2026-07-26": {
     "status": "ERROR",
     "errors": [
       "Not Found"
