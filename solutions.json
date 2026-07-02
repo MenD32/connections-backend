@@ -104333,7 +104333,7 @@
         ]
       },
       {
-        "title": "THINGS A TOILET DOES",
+        "title": "THINGS TOILETS DO",
         "cards": [
           {
             "content": "DRAIN",
@@ -104383,7 +104383,7 @@
     "editor": "Wyna Liu",
     "categories": [
       {
-        "title": "PROCLAIM",
+        "title": "ANNOUNCE",
         "cards": [
           {
             "content": "BLARE",
@@ -104446,7 +104446,7 @@
         ]
       },
       {
-        "title": "STARTING WITH FERMENTED BEVERAGES",
+        "title": "STARTING WITH ALCOHOLIC BEVERAGES",
         "cards": [
           {
             "content": "ALEXA",
@@ -104539,6 +104539,13 @@
     "results": []
   },
   "2026-07-31": {
+    "status": "ERROR",
+    "errors": [
+      "Not Found"
+    ],
+    "results": []
+  },
+  "2026-08-01": {
     "status": "ERROR",
     "errors": [
       "Not Found"
