@@ -105324,7 +105324,7 @@
         ]
       },
       {
-        "title": "ACTIVITIES WITH MANY BALLS",
+        "title": "ACTIVITIES WITH MULTIPLE BALLS",
         "cards": [
           {
             "content": "BEER PONG",
@@ -106549,6 +106549,13 @@
     ]
   },
   "2026-08-20": {
+    "status": "ERROR",
+    "errors": [
+      "Not Found"
+    ],
+    "results": []
+  },
+  "2026-08-21": {
     "status": "ERROR",
     "errors": [
       "Not Found"
