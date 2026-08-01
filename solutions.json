@@ -106541,7 +106541,7 @@
         ]
       },
       {
-        "title": "SITCOM SURNAMES",
+        "title": "NBC SITCOM SURNAMES",
         "cards": [
           {
             "content": "BENES",
@@ -107045,11 +107045,96 @@
     ]
   },
   "2026-08-18": {
-    "status": "ERROR",
-    "errors": [
-      "Not Found"
-    ],
-    "results": []
+    "status": "OK",
+    "id": 1255,
+    "print_date": "2026-08-18",
+    "editor": "Wyna Liu",
+    "categories": [
+      {
+        "title": "SEEN AT A MOVIE PREMIERE",
+        "cards": [
+          {
+            "content": "LIMOUSINE",
+            "position": 9
+          },
+          {
+            "content": "PAPARAZZI",
+            "position": 15
+          },
+          {
+            "content": "RED CARPET",
+            "position": 0
+          },
+          {
+            "content": "VELVET ROPE",
+            "position": 6
+          }
+        ]
+      },
+      {
+        "title": "PJS",
+        "cards": [
+          {
+            "content": "PETROLEUM JELLY",
+            "position": 11
+          },
+          {
+            "content": "POETIC JUSTICE",
+            "position": 14
+          },
+          {
+            "content": "PRACTICAL JOKE",
+            "position": 8
+          },
+          {
+            "content": "PRIVATE JET",
+            "position": 3
+          }
+        ]
+      },
+      {
+        "title": "THINGS THAT ARE ORANGE",
+        "cards": [
+          {
+            "content": "BASKETBALL",
+            "position": 2
+          },
+          {
+            "content": "ORANGUTAN",
+            "position": 12
+          },
+          {
+            "content": "SWEET POTATO",
+            "position": 4
+          },
+          {
+            "content": "TRAFFIC CONE",
+            "position": 10
+          }
+        ]
+      },
+      {
+        "title": "THINGS THAT ARE GRITTY",
+        "cards": [
+          {
+            "content": "FILM NOIR",
+            "position": 1
+          },
+          {
+            "content": "FLYERS MASCOT",
+            "position": 7
+          },
+          {
+            "content": "SANDPAPER",
+            "position": 5
+          },
+          {
+            "content": "TURKISH COFFEE",
+            "position": 13
+          }
+        ]
+      }
+    ]
   },
   "2026-08-19": {
     "status": "OK",
@@ -107144,46 +107229,556 @@
     ]
   },
   "2026-08-20": {
-    "status": "ERROR",
-    "errors": [
-      "Not Found"
-    ],
-    "results": []
+    "status": "OK",
+    "id": 1252,
+    "print_date": "2026-08-20",
+    "editor": "Wyna Liu",
+    "categories": [
+      {
+        "title": "PIZZA TOPPINGS",
+        "cards": [
+          {
+            "content": "DIAVOLA",
+            "position": 12
+          },
+          {
+            "content": "HAWAIIAN",
+            "position": 4
+          },
+          {
+            "content": "MEAT LOVERS",
+            "position": 14
+          },
+          {
+            "content": "WHITE",
+            "position": 8
+          }
+        ]
+      },
+      {
+        "title": "KINDS OF NUMBERS",
+        "cards": [
+          {
+            "content": "ATOMIC",
+            "position": 10
+          },
+          {
+            "content": "SERIAL",
+            "position": 3
+          },
+          {
+            "content": "SOCIAL SECURITY",
+            "position": 15
+          },
+          {
+            "content": "TELEPHONE",
+            "position": 0
+          }
+        ]
+      },
+      {
+        "title": "SIMILARLY SHAPED TYPOGRAPHICAL MARKS",
+        "cards": [
+          {
+            "content": "APOSTROPHE",
+            "position": 1
+          },
+          {
+            "content": "CEDILLA",
+            "position": 13
+          },
+          {
+            "content": "COMMA",
+            "position": 7
+          },
+          {
+            "content": "OKINA",
+            "position": 5
+          }
+        ]
+      },
+      {
+        "title": "STARTING WITH CHINESE ZODIAC ANIMALS",
+        "cards": [
+          {
+            "content": "DRAGONFLY",
+            "position": 11
+          },
+          {
+            "content": "OXFORD",
+            "position": 2
+          },
+          {
+            "content": "PIGMENT",
+            "position": 9
+          },
+          {
+            "content": "RATCHET",
+            "position": 6
+          }
+        ]
+      }
+    ]
   },
   "2026-08-21": {
-    "status": "ERROR",
-    "errors": [
-      "Not Found"
-    ],
-    "results": []
+    "status": "OK",
+    "id": 1251,
+    "print_date": "2026-08-21",
+    "editor": "Wyna Liu",
+    "categories": [
+      {
+        "title": "THINGS MOST ANIMALS NEED",
+        "cards": [
+          {
+            "content": "NUTRITION",
+            "position": 15
+          },
+          {
+            "content": "OXYGEN",
+            "position": 6
+          },
+          {
+            "content": "SLEEP",
+            "position": 2
+          },
+          {
+            "content": "WATER",
+            "position": 12
+          }
+        ]
+      },
+      {
+        "title": "CALLS TO BEGIN A PERFORMANCE",
+        "cards": [
+          {
+            "content": "ACTION",
+            "position": 5
+          },
+          {
+            "content": "CURTAIN UP",
+            "position": 14
+          },
+          {
+            "content": "PLACES",
+            "position": 11
+          },
+          {
+            "content": "SHOWTIME",
+            "position": 8
+          }
+        ]
+      },
+      {
+        "title": "___ KIDS",
+        "cards": [
+          {
+            "content": "COMEBACK",
+            "position": 7
+          },
+          {
+            "content": "KARATE",
+            "position": 9
+          },
+          {
+            "content": "SUNDANCE",
+            "position": 10
+          },
+          {
+            "content": "WIMPY",
+            "position": 0
+          }
+        ]
+      },
+      {
+        "title": "ONCE IN A ___",
+        "cards": [
+          {
+            "content": "BLUE MOON",
+            "position": 13
+          },
+          {
+            "content": "GENERATION",
+            "position": 3
+          },
+          {
+            "content": "LIFETIME",
+            "position": 4
+          },
+          {
+            "content": "WHILE",
+            "position": 1
+          }
+        ]
+      }
+    ]
   },
   "2026-08-22": {
-    "status": "ERROR",
-    "errors": [
-      "Not Found"
-    ],
-    "results": []
+    "status": "OK",
+    "id": 1249,
+    "print_date": "2026-08-22",
+    "editor": "Wyna Liu",
+    "categories": [
+      {
+        "title": "CARPENTRY TOOLS",
+        "cards": [
+          {
+            "content": "CHISEL",
+            "position": 13
+          },
+          {
+            "content": "HAMMER",
+            "position": 4
+          },
+          {
+            "content": "PLANE",
+            "position": 6
+          },
+          {
+            "content": "SAW",
+            "position": 9
+          }
+        ]
+      },
+      {
+        "title": "KINDS OF MELON",
+        "cards": [
+          {
+            "content": "BITTER",
+            "position": 0
+          },
+          {
+            "content": "MUSK",
+            "position": 11
+          },
+          {
+            "content": "WATER",
+            "position": 14
+          },
+          {
+            "content": "WINTER",
+            "position": 3
+          }
+        ]
+      },
+      {
+        "title": "GARDEN HOSE SETTINGS",
+        "cards": [
+          {
+            "content": "CONE",
+            "position": 5
+          },
+          {
+            "content": "JET",
+            "position": 7
+          },
+          {
+            "content": "MIST",
+            "position": 10
+          },
+          {
+            "content": "SHOWER",
+            "position": 15
+          }
+        ]
+      },
+      {
+        "title": "___ GIRLS OF POP CULTURE",
+        "cards": [
+          {
+            "content": "GILMORE",
+            "position": 12
+          },
+          {
+            "content": "GOLDEN",
+            "position": 8
+          },
+          {
+            "content": "MEAN",
+            "position": 2
+          },
+          {
+            "content": "SPICE",
+            "position": 1
+          }
+        ]
+      }
+    ]
   },
   "2026-08-23": {
-    "status": "ERROR",
-    "errors": [
-      "Not Found"
-    ],
-    "results": []
+    "status": "OK",
+    "id": 1253,
+    "print_date": "2026-08-23",
+    "editor": "Wyna Liu",
+    "categories": [
+      {
+        "title": "POTENTIALLY EXPLOSIVE THINGS",
+        "cards": [
+          {
+            "content": "POWDER KEG",
+            "position": 11
+          },
+          {
+            "content": "TIME BOMB",
+            "position": 15
+          },
+          {
+            "content": "TINDERBOX",
+            "position": 6
+          },
+          {
+            "content": "VOLCANO",
+            "position": 3
+          }
+        ]
+      },
+      {
+        "title": "DOUBLE VOWELS",
+        "cards": [
+          {
+            "content": "ANTIFREEZE",
+            "position": 0
+          },
+          {
+            "content": "BAZAAR",
+            "position": 13
+          },
+          {
+            "content": "SKIING",
+            "position": 8
+          },
+          {
+            "content": "VACUUM",
+            "position": 1
+          }
+        ]
+      },
+      {
+        "title": "MADE WITH POTATOES",
+        "cards": [
+          {
+            "content": "HOME FRIES",
+            "position": 9
+          },
+          {
+            "content": "POTATO BATTERY",
+            "position": 7
+          },
+          {
+            "content": "VISCHYSSOISE",
+            "position": 14
+          },
+          {
+            "content": "VODKA",
+            "position": 5
+          }
+        ]
+      },
+      {
+        "title": "HOUSEHOLD STAIN REMOVERS",
+        "cards": [
+          {
+            "content": "BAKING SODA",
+            "position": 2
+          },
+          {
+            "content": "CLUB SODA",
+            "position": 10
+          },
+          {
+            "content": "HYDROGEN PEROXIDE",
+            "position": 12
+          },
+          {
+            "content": "VINEGAR",
+            "position": 4
+          }
+        ]
+      }
+    ]
   },
   "2026-08-24": {
-    "status": "ERROR",
-    "errors": [
-      "Not Found"
-    ],
-    "results": []
+    "status": "OK",
+    "id": 1250,
+    "print_date": "2026-08-24",
+    "editor": "Wyna Liu",
+    "categories": [
+      {
+        "title": "FISH",
+        "cards": [
+          {
+            "content": "MULLET",
+            "position": 8
+          },
+          {
+            "content": "PIKE",
+            "position": 11
+          },
+          {
+            "content": "SOLE",
+            "position": 0
+          },
+          {
+            "content": "TANG",
+            "position": 13
+          }
+        ]
+      },
+      {
+        "title": "PRINCIPAL",
+        "cards": [
+          {
+            "content": "ARCH",
+            "position": 7
+          },
+          {
+            "content": "CHIEF",
+            "position": 14
+          },
+          {
+            "content": "MAIN",
+            "position": 2
+          },
+          {
+            "content": "PRIME",
+            "position": 5
+          }
+        ]
+      },
+      {
+        "title": "PRO-WRESTLING LINGO",
+        "cards": [
+          {
+            "content": "FACE",
+            "position": 12
+          },
+          {
+            "content": "HEEL",
+            "position": 4
+          },
+          {
+            "content": "JOBBER",
+            "position": 15
+          },
+          {
+            "content": "KAYFABE",
+            "position": 9
+          }
+        ]
+      },
+      {
+        "title": "LETTER HOMOPHONE PLUS TENNIS TERM",
+        "cards": [
+          {
+            "content": "DEFAULT",
+            "position": 1
+          },
+          {
+            "content": "EFFACE",
+            "position": 10
+          },
+          {
+            "content": "EX-LOVE",
+            "position": 6
+          },
+          {
+            "content": "EYELET",
+            "position": 3
+          }
+        ]
+      }
+    ]
   },
   "2026-08-25": {
-    "status": "ERROR",
-    "errors": [
-      "Not Found"
-    ],
-    "results": []
+    "status": "OK",
+    "id": 1254,
+    "print_date": "2026-08-25",
+    "editor": "Wyna Liu",
+    "categories": [
+      {
+        "title": "SURFACE-LEVEL",
+        "cards": [
+          {
+            "content": "COSMETIC",
+            "position": 12
+          },
+          {
+            "content": "ONE-DIMENSIONAL",
+            "position": 8
+          },
+          {
+            "content": "SKIN-DEEP",
+            "position": 15
+          },
+          {
+            "content": "SUPERFICIAL",
+            "position": 0
+          }
+        ]
+      },
+      {
+        "title": "SCI-FI PHENOMENA",
+        "cards": [
+          {
+            "content": "HYPERSPACE",
+            "position": 1
+          },
+          {
+            "content": "PARALLEL UNIVERSE",
+            "position": 9
+          },
+          {
+            "content": "TELEPORTATION",
+            "position": 14
+          },
+          {
+            "content": "TIME WARP",
+            "position": 6
+          }
+        ]
+      },
+      {
+        "title": "STEPHEN KING FILM ADAPTATIONS, WITH \"THE\"",
+        "cards": [
+          {
+            "content": "GREEN MILE",
+            "position": 10
+          },
+          {
+            "content": "LONG WALK",
+            "position": 7
+          },
+          {
+            "content": "RUNNING MAN",
+            "position": 4
+          },
+          {
+            "content": "SHAWSHANK REDEMPTION",
+            "position": 13
+          }
+        ]
+      },
+      {
+        "title": "ENDING IN ICE CREAM ORDERS",
+        "cards": [
+          {
+            "content": "HARLEM SHAKE",
+            "position": 2
+          },
+          {
+            "content": "INSIDE SCOOP",
+            "position": 11
+          },
+          {
+            "content": "LICKETY-SPLIT",
+            "position": 3
+          },
+          {
+            "content": "TRAFFIC CONE",
+            "position": 5
+          }
+        ]
+      }
+    ]
   },
   "2026-08-26": {
     "status": "ERROR",
@@ -107200,6 +107795,27 @@
     "results": []
   },
   "2026-08-28": {
+    "status": "ERROR",
+    "errors": [
+      "Not Found"
+    ],
+    "results": []
+  },
+  "2026-08-29": {
+    "status": "ERROR",
+    "errors": [
+      "Not Found"
+    ],
+    "results": []
+  },
+  "2026-08-30": {
+    "status": "ERROR",
+    "errors": [
+      "Not Found"
+    ],
+    "results": []
+  },
+  "2026-08-31": {
     "status": "ERROR",
     "errors": [
       "Not Found"
