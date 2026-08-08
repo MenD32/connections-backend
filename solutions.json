@@ -107781,25 +107781,280 @@
     ]
   },
   "2026-08-26": {
-    "status": "ERROR",
-    "errors": [
-      "Not Found"
-    ],
-    "results": []
+    "status": "OK",
+    "id": 1259,
+    "print_date": "2026-08-26",
+    "editor": "Wyna Liu",
+    "categories": [
+      {
+        "title": "\"THERE YOU HAVE IT!\"",
+        "cards": [
+          {
+            "content": "BEHOLD",
+            "position": 10
+          },
+          {
+            "content": "PRESTO",
+            "position": 5
+          },
+          {
+            "content": "SHAZAM",
+            "position": 14
+          },
+          {
+            "content": "VOILÀ",
+            "position": 12
+          }
+        ]
+      },
+      {
+        "title": "KNACK",
+        "cards": [
+          {
+            "content": "FORTE",
+            "position": 3
+          },
+          {
+            "content": "GIFT",
+            "position": 8
+          },
+          {
+            "content": "STRENGTH",
+            "position": 15
+          },
+          {
+            "content": "TALENT",
+            "position": 13
+          }
+        ]
+      },
+      {
+        "title": "WHAT \"P\" MIGHT STAND FOR",
+        "cards": [
+          {
+            "content": "PAGE",
+            "position": 7
+          },
+          {
+            "content": "PARK",
+            "position": 0
+          },
+          {
+            "content": "PHOSPHORUS",
+            "position": 9
+          },
+          {
+            "content": "PIANO",
+            "position": 2
+          }
+        ]
+      },
+      {
+        "title": "KEY ___",
+        "cards": [
+          {
+            "content": "CHAIN",
+            "position": 11
+          },
+          {
+            "content": "LARGO",
+            "position": 4
+          },
+          {
+            "content": "LIME",
+            "position": 1
+          },
+          {
+            "content": "SIGNATURE",
+            "position": 6
+          }
+        ]
+      }
+    ]
   },
   "2026-08-27": {
-    "status": "ERROR",
-    "errors": [
-      "Not Found"
-    ],
-    "results": []
+    "status": "OK",
+    "id": 1261,
+    "print_date": "2026-08-27",
+    "editor": "Wyna Liu",
+    "categories": [
+      {
+        "title": "ELECTRIC THINGS",
+        "cards": [
+          {
+            "content": "ELECTRIC EEL",
+            "position": 13
+          },
+          {
+            "content": "LIGHTNING",
+            "position": 6
+          },
+          {
+            "content": "LIVE WIRE",
+            "position": 11
+          },
+          {
+            "content": "PIKACHU",
+            "position": 0
+          }
+        ]
+      },
+      {
+        "title": "MOVED TO TEARS",
+        "cards": [
+          {
+            "content": "CHOKED UP",
+            "position": 15
+          },
+          {
+            "content": "EMOTIONAL",
+            "position": 10
+          },
+          {
+            "content": "MISTY",
+            "position": 4
+          },
+          {
+            "content": "OVERCOME",
+            "position": 12
+          }
+        ]
+      },
+      {
+        "title": "SHADES OF GRAY",
+        "cards": [
+          {
+            "content": "ASH",
+            "position": 7
+          },
+          {
+            "content": "DOVE",
+            "position": 3
+          },
+          {
+            "content": "PEWTER",
+            "position": 8
+          },
+          {
+            "content": "SLATE",
+            "position": 5
+          }
+        ]
+      },
+      {
+        "title": "MUSIC GENRE PLUS STARTING LETTER",
+        "cards": [
+          {
+            "content": "BROCK",
+            "position": 9
+          },
+          {
+            "content": "NEMO",
+            "position": 2
+          },
+          {
+            "content": "SPUNK",
+            "position": 1
+          },
+          {
+            "content": "WRAP",
+            "position": 14
+          }
+        ]
+      }
+    ]
   },
   "2026-08-28": {
-    "status": "ERROR",
-    "errors": [
-      "Not Found"
-    ],
-    "results": []
+    "status": "OK",
+    "id": 1260,
+    "print_date": "2026-08-28",
+    "editor": "Wyna Liu",
+    "categories": [
+      {
+        "title": "BEDTIME PARTING WORDS",
+        "cards": [
+          {
+            "content": "NIGHT",
+            "position": 8
+          },
+          {
+            "content": "REST EASY",
+            "position": 13
+          },
+          {
+            "content": "SLEEP TIGHT",
+            "position": 15
+          },
+          {
+            "content": "SWEET DREAMS",
+            "position": 1
+          }
+        ]
+      },
+      {
+        "title": "PALINDROMES",
+        "cards": [
+          {
+            "content": "MOM",
+            "position": 9
+          },
+          {
+            "content": "NOON",
+            "position": 5
+          },
+          {
+            "content": "SIS",
+            "position": 12
+          },
+          {
+            "content": "TOP SPOT",
+            "position": 2
+          }
+        ]
+      },
+      {
+        "title": "MODERN ADD-ONS/COMBINING FORMS",
+        "cards": [
+          {
+            "content": "BRO",
+            "position": 7
+          },
+          {
+            "content": "CODED",
+            "position": 14
+          },
+          {
+            "content": "ERA",
+            "position": 3
+          },
+          {
+            "content": "MAXXING",
+            "position": 10
+          }
+        ]
+      },
+      {
+        "title": "TOP OF THE ___",
+        "cards": [
+          {
+            "content": "HOUR",
+            "position": 6
+          },
+          {
+            "content": "LINE",
+            "position": 11
+          },
+          {
+            "content": "MORNING",
+            "position": 0
+          },
+          {
+            "content": "POPS",
+            "position": 4
+          }
+        ]
+      }
+    ]
   },
   "2026-08-29": {
     "status": "ERROR",
@@ -107809,25 +108064,280 @@
     "results": []
   },
   "2026-08-30": {
-    "status": "ERROR",
-    "errors": [
-      "Not Found"
-    ],
-    "results": []
+    "status": "OK",
+    "id": 1256,
+    "print_date": "2026-08-30",
+    "editor": "Wyna Liu",
+    "categories": [
+      {
+        "title": "EXERCISE FACILITIES",
+        "cards": [
+          {
+            "content": "GYMNASIUM",
+            "position": 8
+          },
+          {
+            "content": "HEALTH CLUB",
+            "position": 13
+          },
+          {
+            "content": "REC CENTER",
+            "position": 0
+          },
+          {
+            "content": "YMCA",
+            "position": 11
+          }
+        ]
+      },
+      {
+        "title": "WINE ACCESSORIES",
+        "cards": [
+          {
+            "content": "AERATOR",
+            "position": 10
+          },
+          {
+            "content": "CORKSCREW",
+            "position": 2
+          },
+          {
+            "content": "DECANTER",
+            "position": 15
+          },
+          {
+            "content": "STOPPER",
+            "position": 5
+          }
+        ]
+      },
+      {
+        "title": "BRANDS WITH BUNNY RABBIT MASCOTS",
+        "cards": [
+          {
+            "content": "CADBURY",
+            "position": 9
+          },
+          {
+            "content": "ENERGIZER",
+            "position": 6
+          },
+          {
+            "content": "PLAYBOY",
+            "position": 3
+          },
+          {
+            "content": "TRIX",
+            "position": 14
+          }
+        ]
+      },
+      {
+        "title": "WORDS ON AN OLD WEST WANTED POSTER",
+        "cards": [
+          {
+            "content": "ALIAS",
+            "position": 1
+          },
+          {
+            "content": "OUTLAW",
+            "position": 12
+          },
+          {
+            "content": "REWARD",
+            "position": 7
+          },
+          {
+            "content": "WANTED",
+            "position": 4
+          }
+        ]
+      }
+    ]
   },
   "2026-08-31": {
-    "status": "ERROR",
-    "errors": [
-      "Not Found"
-    ],
-    "results": []
+    "status": "OK",
+    "id": 1258,
+    "print_date": "2026-08-31",
+    "editor": "Wyna Liu",
+    "categories": [
+      {
+        "title": "THINGS THAT COME IN TUBES",
+        "cards": [
+          {
+            "content": "LIPSTICK",
+            "position": 3
+          },
+          {
+            "content": "POSTER",
+            "position": 7
+          },
+          {
+            "content": "TENNIS BALLS",
+            "position": 13
+          },
+          {
+            "content": "TOOTHPASTE",
+            "position": 10
+          }
+        ]
+      },
+      {
+        "title": "WARNINGS ON A SHIPPING BOX",
+        "cards": [
+          {
+            "content": "FRAGILE",
+            "position": 2
+          },
+          {
+            "content": "HEAVY",
+            "position": 5
+          },
+          {
+            "content": "PERISHABLE",
+            "position": 12
+          },
+          {
+            "content": "THIS SIDE UP",
+            "position": 15
+          }
+        ]
+      },
+      {
+        "title": "HISTORICAL SOVEREIGN TITLES",
+        "cards": [
+          {
+            "content": "CALIPH",
+            "position": 1
+          },
+          {
+            "content": "KHAN",
+            "position": 11
+          },
+          {
+            "content": "PHARAOH",
+            "position": 8
+          },
+          {
+            "content": "SHOGUN",
+            "position": 14
+          }
+        ]
+      },
+      {
+        "title": "___ BOWL",
+        "cards": [
+          {
+            "content": "DUST",
+            "position": 6
+          },
+          {
+            "content": "POKE",
+            "position": 9
+          },
+          {
+            "content": "SALAD",
+            "position": 4
+          },
+          {
+            "content": "SUPER",
+            "position": 0
+          }
+        ]
+      }
+    ]
   },
   "2026-09-01": {
-    "status": "ERROR",
-    "errors": [
-      "Not Found"
-    ],
-    "results": []
+    "status": "OK",
+    "id": 1257,
+    "print_date": "2026-09-01",
+    "editor": "Wyna Liu",
+    "categories": [
+      {
+        "title": "\"I PROMISE!\"",
+        "cards": [
+          {
+            "content": "CROSS MY HEART",
+            "position": 8
+          },
+          {
+            "content": "FOR REAL",
+            "position": 3
+          },
+          {
+            "content": "ON GOD",
+            "position": 15
+          },
+          {
+            "content": "PINKY SWEAR",
+            "position": 12
+          }
+        ]
+      },
+      {
+        "title": "LONG, SKINNY THINGS OFTEN SEEN TOGETHER",
+        "cards": [
+          {
+            "content": "ARROW",
+            "position": 1
+          },
+          {
+            "content": "GOLF CLUB",
+            "position": 7
+          },
+          {
+            "content": "PICK-UP STICK",
+            "position": 9
+          },
+          {
+            "content": "SPAGHETTO",
+            "position": 14
+          }
+        ]
+      },
+      {
+        "title": "PRIVATE INVESTIGATORS OF FICTION",
+        "cards": [
+          {
+            "content": "HERCULE POIROT",
+            "position": 13
+          },
+          {
+            "content": "MIKE HAMMER",
+            "position": 6
+          },
+          {
+            "content": "SAM SPADE",
+            "position": 4
+          },
+          {
+            "content": "SHERLOCK HOLMES",
+            "position": 10
+          }
+        ]
+      },
+      {
+        "title": "STARTING WITH WORDS OF INTENTION",
+        "cards": [
+          {
+            "content": "AIMEE MANN",
+            "position": 11
+          },
+          {
+            "content": "HOPE DIAMOND",
+            "position": 2
+          },
+          {
+            "content": "PLANETARIUM",
+            "position": 0
+          },
+          {
+            "content": "WISHY-WASHY",
+            "position": 5
+          }
+        ]
+      }
+    ]
   },
   "2026-09-02": {
     "status": "ERROR",
@@ -107863,5 +108373,97 @@
       "Not Found"
     ],
     "results": []
+  },
+  "2026-09-07": {
+    "status": "OK",
+    "id": 1262,
+    "print_date": "2026-09-07",
+    "editor": "Wyna Liu",
+    "categories": [
+      {
+        "title": "QUITE THE SAGA",
+        "cards": [
+          {
+            "content": "FABRICATION",
+            "position": 10
+          },
+          {
+            "content": "FISH STORY",
+            "position": 14
+          },
+          {
+            "content": "TALL TALE",
+            "position": 12
+          },
+          {
+            "content": "YARN",
+            "position": 6
+          }
+        ]
+      },
+      {
+        "title": "PARTS OF A BRA",
+        "cards": [
+          {
+            "content": "CUP",
+            "position": 3
+          },
+          {
+            "content": "HOOK",
+            "position": 11
+          },
+          {
+            "content": "STRAP",
+            "position": 13
+          },
+          {
+            "content": "UNDERWIRE",
+            "position": 15
+          }
+        ]
+      },
+      {
+        "title": "ASSOCIATED WITH PINE TREES",
+        "cards": [
+          {
+            "content": "CAR AIR FRESHENER",
+            "position": 8
+          },
+          {
+            "content": "CHRISTMAS",
+            "position": 2
+          },
+          {
+            "content": "NEEDLES",
+            "position": 0
+          },
+          {
+            "content": "TURPENTINE",
+            "position": 5
+          }
+        ]
+      },
+      {
+        "title": "STARTING WITH DISNEY CHARACTERS",
+        "cards": [
+          {
+            "content": "PLUTONIUM",
+            "position": 4
+          },
+          {
+            "content": "SCAR TISSUE",
+            "position": 7
+          },
+          {
+            "content": "STITCH MARKER",
+            "position": 9
+          },
+          {
+            "content": "TRAMPOLINE",
+            "position": 1
+          }
+        ]
+      }
+    ]
   }
 }
