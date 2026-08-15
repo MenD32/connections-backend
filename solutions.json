@@ -108057,11 +108057,96 @@
     ]
   },
   "2026-08-29": {
-    "status": "ERROR",
-    "errors": [
-      "Not Found"
-    ],
-    "results": []
+    "status": "OK",
+    "id": 1276,
+    "print_date": "2026-08-29",
+    "editor": "Wyna Liu",
+    "categories": [
+      {
+        "title": "UNDER THE HOOD OF A CAR",
+        "cards": [
+          {
+            "content": "ALTERNATOR",
+            "position": 15
+          },
+          {
+            "content": "BATTERY",
+            "position": 2
+          },
+          {
+            "content": "ENGINE",
+            "position": 5
+          },
+          {
+            "content": "RADIATOR",
+            "position": 10
+          }
+        ]
+      },
+      {
+        "title": "KINDS OF SALAD",
+        "cards": [
+          {
+            "content": "CHOPPED",
+            "position": 11
+          },
+          {
+            "content": "GREEK",
+            "position": 0
+          },
+          {
+            "content": "HOUSE",
+            "position": 3
+          },
+          {
+            "content": "WEDGE",
+            "position": 8
+          }
+        ]
+      },
+      {
+        "title": "KEYBOARD KEYS",
+        "cards": [
+          {
+            "content": "CONTROL",
+            "position": 12
+          },
+          {
+            "content": "ESCAPE",
+            "position": 6
+          },
+          {
+            "content": "SHIFT",
+            "position": 14
+          },
+          {
+            "content": "SPACE",
+            "position": 9
+          }
+        ]
+      },
+      {
+        "title": "STARTING WITH FIGURES FROM GREEK MYTH",
+        "cards": [
+          {
+            "content": "AT LAST",
+            "position": 7
+          },
+          {
+            "content": "HERALD",
+            "position": 13
+          },
+          {
+            "content": "HYDRANT",
+            "position": 1
+          },
+          {
+            "content": "TRITONE",
+            "position": 4
+          }
+        ]
+      }
+    ]
   },
   "2026-08-30": {
     "status": "OK",
@@ -108340,25 +108425,280 @@
     ]
   },
   "2026-09-02": {
-    "status": "ERROR",
-    "errors": [
-      "Not Found"
-    ],
-    "results": []
+    "status": "OK",
+    "id": 1273,
+    "print_date": "2026-09-02",
+    "editor": "Wyna Liu",
+    "categories": [
+      {
+        "title": "FLABBERGAST",
+        "cards": [
+          {
+            "content": "DAZZLE",
+            "position": 10
+          },
+          {
+            "content": "FLOOR",
+            "position": 3
+          },
+          {
+            "content": "STUN",
+            "position": 15
+          },
+          {
+            "content": "WOW",
+            "position": 1
+          }
+        ]
+      },
+      {
+        "title": "THINGS IN A VIOLIN CASE",
+        "cards": [
+          {
+            "content": "BOW",
+            "position": 0
+          },
+          {
+            "content": "MUTE",
+            "position": 14
+          },
+          {
+            "content": "ROSIN",
+            "position": 9
+          },
+          {
+            "content": "SHOULDER REST",
+            "position": 12
+          }
+        ]
+      },
+      {
+        "title": "___ DOGS (THAT ARE DOGS)",
+        "cards": [
+          {
+            "content": "HUNTING",
+            "position": 13
+          },
+          {
+            "content": "RESCUE",
+            "position": 8
+          },
+          {
+            "content": "SAUSAGE",
+            "position": 5
+          },
+          {
+            "content": "SHEEP",
+            "position": 7
+          }
+        ]
+      },
+      {
+        "title": "___ DOGS (THAT AREN'T DOGS)",
+        "cards": [
+          {
+            "content": "CORN",
+            "position": 4
+          },
+          {
+            "content": "PRAIRIE",
+            "position": 11
+          },
+          {
+            "content": "SALTY",
+            "position": 6
+          },
+          {
+            "content": "TOP",
+            "position": 2
+          }
+        ]
+      }
+    ]
   },
   "2026-09-03": {
-    "status": "ERROR",
-    "errors": [
-      "Not Found"
-    ],
-    "results": []
+    "status": "OK",
+    "id": 1278,
+    "print_date": "2026-09-03",
+    "editor": "Wyna Liu",
+    "categories": [
+      {
+        "title": "TWO SHAKES OF A LAMB'S TAIL",
+        "cards": [
+          {
+            "content": "BLINK",
+            "position": 4
+          },
+          {
+            "content": "FLASH",
+            "position": 7
+          },
+          {
+            "content": "HEARTBEAT",
+            "position": 9
+          },
+          {
+            "content": "TRICE",
+            "position": 14
+          }
+        ]
+      },
+      {
+        "title": "SHADES OF RED",
+        "cards": [
+          {
+            "content": "CARMINE",
+            "position": 5
+          },
+          {
+            "content": "CINNABAR",
+            "position": 10
+          },
+          {
+            "content": "MAROON",
+            "position": 2
+          },
+          {
+            "content": "VERMILLION",
+            "position": 13
+          }
+        ]
+      },
+      {
+        "title": "TOY CAR BRANDS",
+        "cards": [
+          {
+            "content": "HOT WHEELS",
+            "position": 12
+          },
+          {
+            "content": "MATCHBOX",
+            "position": 1
+          },
+          {
+            "content": "MICRO MACHINES",
+            "position": 15
+          },
+          {
+            "content": "TONKA",
+            "position": 11
+          }
+        ]
+      },
+      {
+        "title": "SPREADSHEET FUNCTIONS",
+        "cards": [
+          {
+            "content": "AVERAGE",
+            "position": 3
+          },
+          {
+            "content": "COUNT",
+            "position": 8
+          },
+          {
+            "content": "MAX",
+            "position": 0
+          },
+          {
+            "content": "SUM",
+            "position": 6
+          }
+        ]
+      }
+    ]
   },
   "2026-09-04": {
-    "status": "ERROR",
-    "errors": [
-      "Not Found"
-    ],
-    "results": []
+    "status": "OK",
+    "id": 1275,
+    "print_date": "2026-09-04",
+    "editor": "Wyna Liu",
+    "categories": [
+      {
+        "title": "SPHERICAL THINGS",
+        "cards": [
+          {
+            "content": "BOWLING BALL",
+            "position": 8
+          },
+          {
+            "content": "EYE",
+            "position": 1
+          },
+          {
+            "content": "MOON",
+            "position": 0
+          },
+          {
+            "content": "ORANGE",
+            "position": 6
+          }
+        ]
+      },
+      {
+        "title": "FOOD WHOSE NAME IS TWO FOODS",
+        "cards": [
+          {
+            "content": "CAKE DONUT",
+            "position": 10
+          },
+          {
+            "content": "CANDY CORN",
+            "position": 5
+          },
+          {
+            "content": "CHERRY TOMATO",
+            "position": 12
+          },
+          {
+            "content": "PIZZA PIE",
+            "position": 2
+          }
+        ]
+      },
+      {
+        "title": "KINDS OF EELS",
+        "cards": [
+          {
+            "content": "CONGER",
+            "position": 11
+          },
+          {
+            "content": "GULPER",
+            "position": 14
+          },
+          {
+            "content": "MORAY",
+            "position": 4
+          },
+          {
+            "content": "RIBBON",
+            "position": 9
+          }
+        ]
+      },
+      {
+        "title": "ACCESSORIES INSIDE STARTING AND ENDING LETTERS",
+        "cards": [
+          {
+            "content": "CRINGY",
+            "position": 15
+          },
+          {
+            "content": "OPINE",
+            "position": 7
+          },
+          {
+            "content": "STIED",
+            "position": 13
+          },
+          {
+            "content": "THAT'S",
+            "position": 3
+          }
+        ]
+      }
+    ]
   },
   "2026-09-05": {
     "status": "ERROR",
@@ -108368,11 +108708,96 @@
     "results": []
   },
   "2026-09-06": {
-    "status": "ERROR",
-    "errors": [
-      "Not Found"
-    ],
-    "results": []
+    "status": "OK",
+    "id": 1277,
+    "print_date": "2026-09-06",
+    "editor": "Wyna Liu",
+    "categories": [
+      {
+        "title": "UNRESTRICTED PERMISSION",
+        "cards": [
+          {
+            "content": "BLANK CHECK",
+            "position": 5
+          },
+          {
+            "content": "CARTE BLANCHE",
+            "position": 10
+          },
+          {
+            "content": "FREE REIGN",
+            "position": 12
+          },
+          {
+            "content": "FULL AUTHORITY",
+            "position": 15
+          }
+        ]
+      },
+      {
+        "title": "PLACES TO INSERT SOMETHING INTO ON A COMPUTER",
+        "cards": [
+          {
+            "content": "CARD SLOT",
+            "position": 4
+          },
+          {
+            "content": "HEADPHONE JACK",
+            "position": 11
+          },
+          {
+            "content": "OPTICAL DRIVE",
+            "position": 9
+          },
+          {
+            "content": "USB PORT",
+            "position": 2
+          }
+        ]
+      },
+      {
+        "title": "ABBREVIATIONS FOLLOWED BY REDUNDANT WORD",
+        "cards": [
+          {
+            "content": "ATM MACHINE",
+            "position": 3
+          },
+          {
+            "content": "LCD DISPLAY",
+            "position": 14
+          },
+          {
+            "content": "PIN NUMBER",
+            "position": 7
+          },
+          {
+            "content": "UPC CODE",
+            "position": 1
+          }
+        ]
+      },
+      {
+        "title": "ENDING WITH WAYS TO CARVE A SURFACE",
+        "cards": [
+          {
+            "content": "COURT SCRIBE",
+            "position": 6
+          },
+          {
+            "content": "DIRECTOR'S CUT",
+            "position": 8
+          },
+          {
+            "content": "PIZZA SLICE",
+            "position": 13
+          },
+          {
+            "content": "SAT SCORE",
+            "position": 0
+          }
+        ]
+      }
+    ]
   },
   "2026-09-07": {
     "status": "OK",
@@ -108467,18 +108892,188 @@
     ]
   },
   "2026-09-08": {
-    "status": "ERROR",
-    "errors": [
-      "Not Found"
-    ],
-    "results": []
+    "status": "OK",
+    "id": 1274,
+    "print_date": "2026-09-08",
+    "editor": "Wyna Liu",
+    "categories": [
+      {
+        "title": "CLASSIC AMERICAN PERFORMANCE CARS",
+        "cards": [
+          {
+            "content": "CORVETTE",
+            "position": 4
+          },
+          {
+            "content": "FIREBIRD",
+            "position": 15
+          },
+          {
+            "content": "MUSTANG",
+            "position": 13
+          },
+          {
+            "content": "VIPER",
+            "position": 10
+          }
+        ]
+      },
+      {
+        "title": "FEATURES OF A MIME COSTUME",
+        "cards": [
+          {
+            "content": "BERET",
+            "position": 9
+          },
+          {
+            "content": "GLOVES",
+            "position": 3
+          },
+          {
+            "content": "STRIPES",
+            "position": 1
+          },
+          {
+            "content": "SUSPENDERS",
+            "position": 12
+          }
+        ]
+      },
+      {
+        "title": "___ HEART",
+        "cards": [
+          {
+            "content": "ARTICHOKE",
+            "position": 5
+          },
+          {
+            "content": "PURPLE",
+            "position": 0
+          },
+          {
+            "content": "SACRED",
+            "position": 8
+          },
+          {
+            "content": "TAKE TO",
+            "position": 14
+          }
+        ]
+      },
+      {
+        "title": "CANDY BARS PLUS A LETTER",
+        "cards": [
+          {
+            "content": "DOVES",
+            "position": 6
+          },
+          {
+            "content": "MARSH",
+            "position": 7
+          },
+          {
+            "content": "SKORT",
+            "position": 2
+          },
+          {
+            "content": "TWIXT",
+            "position": 11
+          }
+        ]
+      }
+    ]
   },
   "2026-09-09": {
-    "status": "ERROR",
-    "errors": [
-      "Not Found"
-    ],
-    "results": []
+    "status": "OK",
+    "id": 1272,
+    "print_date": "2026-09-09",
+    "editor": "Wyna Liu",
+    "categories": [
+      {
+        "title": "HARD TO UNDERSTAND",
+        "cards": [
+          {
+            "content": "BEWILDERING",
+            "position": 5
+          },
+          {
+            "content": "ESOTERIC",
+            "position": 8
+          },
+          {
+            "content": "INCOMPREHENSIBLE",
+            "position": 0
+          },
+          {
+            "content": "OPAQUE",
+            "position": 10
+          }
+        ]
+      },
+      {
+        "title": "WORDS WITH \"SMALL\" PREFIXES",
+        "cards": [
+          {
+            "content": "MICROBREWERY",
+            "position": 4
+          },
+          {
+            "content": "MINIVAN",
+            "position": 9
+          },
+          {
+            "content": "NANOTECHNOLOGY",
+            "position": 2
+          },
+          {
+            "content": "PICOSECOND",
+            "position": 6
+          }
+        ]
+      },
+      {
+        "title": "HORROR MOVIES",
+        "cards": [
+          {
+            "content": "ARACHNOPHOBIA",
+            "position": 3
+          },
+          {
+            "content": "HALLOWEEN",
+            "position": 7
+          },
+          {
+            "content": "IT",
+            "position": 14
+          },
+          {
+            "content": "SAW",
+            "position": 13
+          }
+        ]
+      },
+      {
+        "title": "WORDS BEFORE \"FORCE\"",
+        "cards": [
+          {
+            "content": "BRUTE",
+            "position": 11
+          },
+          {
+            "content": "ELECTROMAGNETIC",
+            "position": 1
+          },
+          {
+            "content": "G",
+            "position": 15
+          },
+          {
+            "content": "TASK",
+            "position": 12
+          }
+        ]
+      }
+    ]
   },
   "2026-09-10": {
     "status": "ERROR",
@@ -108502,6 +109097,13 @@
     "results": []
   },
   "2026-09-13": {
+    "status": "ERROR",
+    "errors": [
+      "Not Found"
+    ],
+    "results": []
+  },
+  "2026-09-14": {
     "status": "ERROR",
     "errors": [
       "Not Found"
