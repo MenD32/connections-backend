@@ -108701,11 +108701,96 @@
     ]
   },
   "2026-09-05": {
-    "status": "ERROR",
-    "errors": [
-      "Not Found"
-    ],
-    "results": []
+    "status": "OK",
+    "id": 1289,
+    "print_date": "2026-09-05",
+    "editor": "Wyna Liu",
+    "categories": [
+      {
+        "title": "MOVE UNSTEADILY",
+        "cards": [
+          {
+            "content": "SWAY",
+            "position": 12
+          },
+          {
+            "content": "TODDLE",
+            "position": 10
+          },
+          {
+            "content": "TOTTER",
+            "position": 15
+          },
+          {
+            "content": "WOBBLE",
+            "position": 6
+          }
+        ]
+      },
+      {
+        "title": "BIRD ONOMATOPOEIA",
+        "cards": [
+          {
+            "content": "COO",
+            "position": 11
+          },
+          {
+            "content": "GOBBLE",
+            "position": 3
+          },
+          {
+            "content": "HONK",
+            "position": 1
+          },
+          {
+            "content": "WARBLE",
+            "position": 4
+          }
+        ]
+      },
+      {
+        "title": "___HEAD",
+        "cards": [
+          {
+            "content": "BOBBLE",
+            "position": 2
+          },
+          {
+            "content": "HAMMER",
+            "position": 9
+          },
+          {
+            "content": "JUG",
+            "position": 13
+          },
+          {
+            "content": "SLEEPY",
+            "position": 0
+          }
+        ]
+      },
+      {
+        "title": "DESSERTS MINUS A LETTER",
+        "cards": [
+          {
+            "content": "COBBLE",
+            "position": 5
+          },
+          {
+            "content": "PI",
+            "position": 8
+          },
+          {
+            "content": "TAR",
+            "position": 7
+          },
+          {
+            "content": "TORT",
+            "position": 14
+          }
+        ]
+      }
+    ]
   },
   "2026-09-06": {
     "status": "OK",
@@ -109076,46 +109161,556 @@
     ]
   },
   "2026-09-10": {
-    "status": "ERROR",
-    "errors": [
-      "Not Found"
-    ],
-    "results": []
+    "status": "OK",
+    "id": 1286,
+    "print_date": "2026-09-10",
+    "editor": "Wyna Liu",
+    "categories": [
+      {
+        "title": "CHEMICAL ELEMENTS",
+        "cards": [
+          {
+            "content": "ACTINIUM",
+            "position": 8
+          },
+          {
+            "content": "KRYPTON",
+            "position": 14
+          },
+          {
+            "content": "LEAD",
+            "position": 2
+          },
+          {
+            "content": "SULFUR",
+            "position": 11
+          }
+        ]
+      },
+      {
+        "title": "WHAT YOU MIGHT SEE STICKING OUT OF A WINDOW",
+        "cards": [
+          {
+            "content": "AIR CONDITIONER",
+            "position": 6
+          },
+          {
+            "content": "CATIO",
+            "position": 0
+          },
+          {
+            "content": "CLOTHESLINE",
+            "position": 3
+          },
+          {
+            "content": "FLOWER BOX",
+            "position": 13
+          }
+        ]
+      },
+      {
+        "title": "BRUCE SPRINGSTEEN CLASSICS",
+        "cards": [
+          {
+            "content": "ATLANTIC CITY",
+            "position": 4
+          },
+          {
+            "content": "BADLANDS",
+            "position": 10
+          },
+          {
+            "content": "BORN TO RUN",
+            "position": 15
+          },
+          {
+            "content": "THUNDER ROAD",
+            "position": 12
+          }
+        ]
+      },
+      {
+        "title": "ENDING IN SYNONYMS FOR \"HAPPENING NOW\"",
+        "cards": [
+          {
+            "content": "ADULT CONTEMPORARY",
+            "position": 7
+          },
+          {
+            "content": "ALTERNATING CURRENT",
+            "position": 1
+          },
+          {
+            "content": "REPRESENT",
+            "position": 5
+          },
+          {
+            "content": "SEXTANT",
+            "position": 9
+          }
+        ]
+      }
+    ]
   },
   "2026-09-11": {
-    "status": "ERROR",
-    "errors": [
-      "Not Found"
-    ],
-    "results": []
+    "status": "OK",
+    "id": 1284,
+    "print_date": "2026-09-11",
+    "editor": "Wyna Liu",
+    "categories": [
+      {
+        "title": "PEOPLE HIRED FOR AN EVENT",
+        "cards": [
+          {
+            "content": "BAND",
+            "position": 11
+          },
+          {
+            "content": "FLORIST",
+            "position": 14
+          },
+          {
+            "content": "PHOTOGRAPHER",
+            "position": 12
+          },
+          {
+            "content": "PLANNER",
+            "position": 6
+          }
+        ]
+      },
+      {
+        "title": "INTERNALIZE",
+        "cards": [
+          {
+            "content": "ABSORB",
+            "position": 5
+          },
+          {
+            "content": "DIGEST",
+            "position": 3
+          },
+          {
+            "content": "PROCESS",
+            "position": 0
+          },
+          {
+            "content": "TAKE IN",
+            "position": 10
+          }
+        ]
+      },
+      {
+        "title": "WAYS TO PRACTICE SELF-CARE",
+        "cards": [
+          {
+            "content": "EXERCISE",
+            "position": 4
+          },
+          {
+            "content": "JOURNAL",
+            "position": 2
+          },
+          {
+            "content": "MEDITATE",
+            "position": 13
+          },
+          {
+            "content": "UNPLUG",
+            "position": 8
+          }
+        ]
+      },
+      {
+        "title": "THINGS THAT ARE PUSHED METAPHORICALLY",
+        "cards": [
+          {
+            "content": "AGENDA",
+            "position": 9
+          },
+          {
+            "content": "ENVELOPE",
+            "position": 7
+          },
+          {
+            "content": "LIMITS",
+            "position": 15
+          },
+          {
+            "content": "LUCK",
+            "position": 1
+          }
+        ]
+      }
+    ]
   },
   "2026-09-12": {
-    "status": "ERROR",
-    "errors": [
-      "Not Found"
-    ],
-    "results": []
+    "status": "OK",
+    "id": 1285,
+    "print_date": "2026-09-12",
+    "editor": "Wyna Liu",
+    "categories": [
+      {
+        "title": "WAYS TO PERSONALIZE A CAR",
+        "cards": [
+          {
+            "content": "BUMPER STICKER",
+            "position": 3
+          },
+          {
+            "content": "FUZZY DICE",
+            "position": 9
+          },
+          {
+            "content": "HOOD ORNAMENT",
+            "position": 14
+          },
+          {
+            "content": "VANITY PLATE",
+            "position": 4
+          }
+        ]
+      },
+      {
+        "title": "PEOPLE IN AN ONLINE FORUM",
+        "cards": [
+          {
+            "content": "LURKER",
+            "position": 15
+          },
+          {
+            "content": "POSTER",
+            "position": 2
+          },
+          {
+            "content": "SPAMMER",
+            "position": 10
+          },
+          {
+            "content": "TROLL",
+            "position": 7
+          }
+        ]
+      },
+      {
+        "title": "THINGS THAT BLINK",
+        "cards": [
+          {
+            "content": "CURSOR",
+            "position": 5
+          },
+          {
+            "content": "EYELIDS",
+            "position": 13
+          },
+          {
+            "content": "SMOKE DETECTOR",
+            "position": 8
+          },
+          {
+            "content": "TURN SIGNAL",
+            "position": 0
+          }
+        ]
+      },
+      {
+        "title": "___ ALERT",
+        "cards": [
+          {
+            "content": "NERD",
+            "position": 11
+          },
+          {
+            "content": "RED",
+            "position": 12
+          },
+          {
+            "content": "SPOILER",
+            "position": 6
+          },
+          {
+            "content": "WEATHER",
+            "position": 1
+          }
+        ]
+      }
+    ]
   },
   "2026-09-13": {
-    "status": "ERROR",
-    "errors": [
-      "Not Found"
-    ],
-    "results": []
+    "status": "OK",
+    "id": 1287,
+    "print_date": "2026-09-13",
+    "editor": "Wyna Liu",
+    "categories": [
+      {
+        "title": "LACKING IN FIRMNESS",
+        "cards": [
+          {
+            "content": "DROOPY",
+            "position": 2
+          },
+          {
+            "content": "FLACCID",
+            "position": 12
+          },
+          {
+            "content": "SAGGING",
+            "position": 10
+          },
+          {
+            "content": "SLACK",
+            "position": 7
+          }
+        ]
+      },
+      {
+        "title": "U.S. PRESIDENTS",
+        "cards": [
+          {
+            "content": "CLEVELAND",
+            "position": 14
+          },
+          {
+            "content": "GARFIELD",
+            "position": 1
+          },
+          {
+            "content": "GRANT",
+            "position": 6
+          },
+          {
+            "content": "MADISON",
+            "position": 11
+          }
+        ]
+      },
+      {
+        "title": "WORDS THAT SOUND LIKE TWO LETTERS",
+        "cards": [
+          {
+            "content": "EMPTY",
+            "position": 3
+          },
+          {
+            "content": "EXCESS",
+            "position": 5
+          },
+          {
+            "content": "KEWPIE",
+            "position": 13
+          },
+          {
+            "content": "ODIE",
+            "position": 8
+          }
+        ]
+      },
+      {
+        "title": "ENDING IN ELEVATED LANDFORMS",
+        "cards": [
+          {
+            "content": "DOUBLESPEAK",
+            "position": 15
+          },
+          {
+            "content": "HEATHCLIFF",
+            "position": 4
+          },
+          {
+            "content": "PARAMOUNT",
+            "position": 9
+          },
+          {
+            "content": "PORRIDGE",
+            "position": 0
+          }
+        ]
+      }
+    ]
   },
   "2026-09-14": {
-    "status": "ERROR",
-    "errors": [
-      "Not Found"
-    ],
-    "results": []
+    "status": "OK",
+    "id": 1288,
+    "print_date": "2026-09-14",
+    "editor": "Wyna Liu",
+    "categories": [
+      {
+        "title": "WATER BIRDS",
+        "cards": [
+          {
+            "content": "COOT",
+            "position": 2
+          },
+          {
+            "content": "GOOSE",
+            "position": 13
+          },
+          {
+            "content": "LOON",
+            "position": 8
+          },
+          {
+            "content": "TEAL",
+            "position": 6
+          }
+        ]
+      },
+      {
+        "title": "INFORMANT",
+        "cards": [
+          {
+            "content": "CANARY",
+            "position": 5
+          },
+          {
+            "content": "RAT",
+            "position": 7
+          },
+          {
+            "content": "SNITCH",
+            "position": 12
+          },
+          {
+            "content": "STOOLIE",
+            "position": 15
+          }
+        ]
+      },
+      {
+        "title": "COMMON SINGLE-USE PLASTIC ITEMS",
+        "cards": [
+          {
+            "content": "BAG",
+            "position": 9
+          },
+          {
+            "content": "CUTLERY",
+            "position": 11
+          },
+          {
+            "content": "STIRRER",
+            "position": 14
+          },
+          {
+            "content": "STRAW",
+            "position": 0
+          }
+        ]
+      },
+      {
+        "title": "___GRASS",
+        "cards": [
+          {
+            "content": "BLUE",
+            "position": 4
+          },
+          {
+            "content": "CRAB",
+            "position": 1
+          },
+          {
+            "content": "LEMON",
+            "position": 3
+          },
+          {
+            "content": "WHEAT",
+            "position": 10
+          }
+        ]
+      }
+    ]
   },
   "2026-09-15": {
-    "status": "ERROR",
-    "errors": [
-      "Not Found"
-    ],
-    "results": []
+    "status": "OK",
+    "id": 1283,
+    "print_date": "2026-09-15",
+    "editor": "Wyna Liu",
+    "categories": [
+      {
+        "title": "INSTRUCT",
+        "cards": [
+          {
+            "content": "COACH",
+            "position": 1
+          },
+          {
+            "content": "DIRECT",
+            "position": 8
+          },
+          {
+            "content": "GUIDE",
+            "position": 15
+          },
+          {
+            "content": "TRAIN",
+            "position": 9
+          }
+        ]
+      },
+      {
+        "title": "PARTS OF A WHISTLING KETTLE",
+        "cards": [
+          {
+            "content": "HANDLE",
+            "position": 4
+          },
+          {
+            "content": "LID",
+            "position": 10
+          },
+          {
+            "content": "SPOUT",
+            "position": 12
+          },
+          {
+            "content": "WHISTLE",
+            "position": 2
+          }
+        ]
+      },
+      {
+        "title": "UNDERCOVER OPERATIVE",
+        "cards": [
+          {
+            "content": "ASSET",
+            "position": 11
+          },
+          {
+            "content": "MOLE",
+            "position": 13
+          },
+          {
+            "content": "PLANT",
+            "position": 0
+          },
+          {
+            "content": "SLEEPER",
+            "position": 7
+          }
+        ]
+      },
+      {
+        "title": "THINGS THAT APPEAR AT THE END",
+        "cards": [
+          {
+            "content": "CABOOSE",
+            "position": 5
+          },
+          {
+            "content": "DECEMBER",
+            "position": 6
+          },
+          {
+            "content": "DESSERT",
+            "position": 3
+          },
+          {
+            "content": "EPILOGUE",
+            "position": 14
+          }
+        ]
+      }
+    ]
   },
   "2026-09-16": {
     "status": "ERROR",
@@ -109139,6 +109734,13 @@
     "results": []
   },
   "2026-09-19": {
+    "status": "ERROR",
+    "errors": [
+      "Not Found"
+    ],
+    "results": []
+  },
+  "2026-09-20": {
     "status": "ERROR",
     "errors": [
       "Not Found"
