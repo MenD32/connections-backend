@@ -108770,7 +108770,7 @@
         ]
       },
       {
-        "title": "DESSERTS MINUS A LETTER",
+        "title": "DESSERTS MINUS LAST LETTER",
         "cards": [
           {
             "content": "COBBLE",
@@ -109535,7 +109535,7 @@
     "editor": "Wyna Liu",
     "categories": [
       {
-        "title": "WATER BIRDS",
+        "title": "WATERBIRDS",
         "cards": [
           {
             "content": "COOT",
@@ -109776,6 +109776,13 @@
     "results": []
   },
   "2026-09-25": {
+    "status": "ERROR",
+    "errors": [
+      "Not Found"
+    ],
+    "results": []
+  },
+  "2026-09-26": {
     "status": "ERROR",
     "errors": [
       "Not Found"
