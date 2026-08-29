@@ -109713,46 +109713,556 @@
     ]
   },
   "2026-09-16": {
-    "status": "ERROR",
-    "errors": [
-      "Not Found"
-    ],
-    "results": []
+    "status": "OK",
+    "id": 1295,
+    "print_date": "2026-09-16",
+    "editor": "Wyna Liu",
+    "categories": [
+      {
+        "title": "ENDING IN METAL ELEMENTS",
+        "cards": [
+          {
+            "content": "LATIN",
+            "position": 1
+          },
+          {
+            "content": "LONG JOHN SILVER",
+            "position": 7
+          },
+          {
+            "content": "MARIGOLD",
+            "position": 14
+          },
+          {
+            "content": "STEAM IRON",
+            "position": 9
+          }
+        ]
+      },
+      {
+        "title": "STARTING WITH U.S. COINS",
+        "cards": [
+          {
+            "content": "DIMENSION",
+            "position": 11
+          },
+          {
+            "content": "NICKELODEON",
+            "position": 5
+          },
+          {
+            "content": "PENNYWISE",
+            "position": 3
+          },
+          {
+            "content": "QUARTERBACK",
+            "position": 12
+          }
+        ]
+      },
+      {
+        "title": "POETS' MIDDLE NAMES",
+        "cards": [
+          {
+            "content": "BARRETT",
+            "position": 15
+          },
+          {
+            "content": "CARLOS",
+            "position": 13
+          },
+          {
+            "content": "ST. VINCENT",
+            "position": 8
+          },
+          {
+            "content": "WADSWORTH",
+            "position": 4
+          }
+        ]
+      },
+      {
+        "title": "SAUSAGES PLUS A LETTER",
+        "cards": [
+          {
+            "content": "BORAT",
+            "position": 6
+          },
+          {
+            "content": "CLINK",
+            "position": 2
+          },
+          {
+            "content": "FRANK-N-FURTER",
+            "position": 0
+          },
+          {
+            "content": "WIDENER",
+            "position": 10
+          }
+        ]
+      }
+    ]
   },
   "2026-09-17": {
-    "status": "ERROR",
-    "errors": [
-      "Not Found"
-    ],
-    "results": []
+    "status": "OK",
+    "id": 1296,
+    "print_date": "2026-09-17",
+    "editor": "Wyna Liu",
+    "categories": [
+      {
+        "title": "ELASTICITY",
+        "cards": [
+          {
+            "content": "BOUNCE",
+            "position": 9
+          },
+          {
+            "content": "FLEXIBILITY",
+            "position": 14
+          },
+          {
+            "content": "GIVE",
+            "position": 5
+          },
+          {
+            "content": "SPRING",
+            "position": 0
+          }
+        ]
+      },
+      {
+        "title": "THINGS THAT ARE UNDERGROUND",
+        "cards": [
+          {
+            "content": "MINE SHAFT",
+            "position": 13
+          },
+          {
+            "content": "SEWER LINE",
+            "position": 10
+          },
+          {
+            "content": "SUBWAY STATION",
+            "position": 1
+          },
+          {
+            "content": "WELL",
+            "position": 8
+          }
+        ]
+      },
+      {
+        "title": "HUGH JACKMAN MOVIES, WITH \"THE\"",
+        "cards": [
+          {
+            "content": "FOUNTAIN",
+            "position": 7
+          },
+          {
+            "content": "PRESTIGE",
+            "position": 2
+          },
+          {
+            "content": "SHEEP DETECTIVES",
+            "position": 12
+          },
+          {
+            "content": "WOLVERINE",
+            "position": 15
+          }
+        ]
+      },
+      {
+        "title": "LOVE ___",
+        "cards": [
+          {
+            "content": "HANDLES",
+            "position": 11
+          },
+          {
+            "content": "LANGUAGE",
+            "position": 6
+          },
+          {
+            "content": "TAP",
+            "position": 4
+          },
+          {
+            "content": "TRIANGLE",
+            "position": 3
+          }
+        ]
+      }
+    ]
   },
   "2026-09-18": {
-    "status": "ERROR",
-    "errors": [
-      "Not Found"
-    ],
-    "results": []
+    "status": "OK",
+    "id": 1294,
+    "print_date": "2026-09-18",
+    "editor": "Wyna Liu",
+    "categories": [
+      {
+        "title": "SEGMENT OF A PROCESS",
+        "cards": [
+          {
+            "content": "PHASE",
+            "position": 15
+          },
+          {
+            "content": "ROUND",
+            "position": 8
+          },
+          {
+            "content": "STAGE",
+            "position": 9
+          },
+          {
+            "content": "STEP",
+            "position": 3
+          }
+        ]
+      },
+      {
+        "title": "ASSORTMENTS OF FOOD/DRINK",
+        "cards": [
+          {
+            "content": "FLIGHT",
+            "position": 4
+          },
+          {
+            "content": "MEDLEY",
+            "position": 11
+          },
+          {
+            "content": "PLATTER",
+            "position": 6
+          },
+          {
+            "content": "SAMPLER",
+            "position": 14
+          }
+        ]
+      },
+      {
+        "title": "PARTS OF A FLIGHT",
+        "cards": [
+          {
+            "content": "BOARDING",
+            "position": 13
+          },
+          {
+            "content": "CRUISE",
+            "position": 1
+          },
+          {
+            "content": "LANDING",
+            "position": 7
+          },
+          {
+            "content": "TAKEOFF",
+            "position": 10
+          }
+        ]
+      },
+      {
+        "title": "___CASE",
+        "cards": [
+          {
+            "content": "BRIEF",
+            "position": 12
+          },
+          {
+            "content": "PILLOW",
+            "position": 0
+          },
+          {
+            "content": "STAIR",
+            "position": 5
+          },
+          {
+            "content": "UPPER",
+            "position": 2
+          }
+        ]
+      }
+    ]
   },
   "2026-09-19": {
-    "status": "ERROR",
-    "errors": [
-      "Not Found"
-    ],
-    "results": []
+    "status": "OK",
+    "id": 1299,
+    "print_date": "2026-09-19",
+    "editor": "Wyna Liu",
+    "categories": [
+      {
+        "title": "WIDEN ONE'S SCOPE",
+        "cards": [
+          {
+            "content": "BRANCH OUT",
+            "position": 5
+          },
+          {
+            "content": "DIVERSIFY",
+            "position": 15
+          },
+          {
+            "content": "EXPAND",
+            "position": 13
+          },
+          {
+            "content": "GROW",
+            "position": 11
+          }
+        ]
+      },
+      {
+        "title": "FEATURES OF A KID'S DRAWING",
+        "cards": [
+          {
+            "content": "HOUSE",
+            "position": 6
+          },
+          {
+            "content": "STICK FIGURE",
+            "position": 0
+          },
+          {
+            "content": "SUN",
+            "position": 3
+          },
+          {
+            "content": "TREE",
+            "position": 8
+          }
+        ]
+      },
+      {
+        "title": "ASSOCIATED WITH SWINGING LONDON IN THE 1960S",
+        "cards": [
+          {
+            "content": "CARNABY STREET",
+            "position": 14
+          },
+          {
+            "content": "MINISKIRT",
+            "position": 1
+          },
+          {
+            "content": "MOD",
+            "position": 9
+          },
+          {
+            "content": "TWIGGY",
+            "position": 7
+          }
+        ]
+      },
+      {
+        "title": "STARTING WITH MATH FUNCTIONS",
+        "cards": [
+          {
+            "content": "COS LETTUCE",
+            "position": 12
+          },
+          {
+            "content": "LOG CABIN",
+            "position": 2
+          },
+          {
+            "content": "SIN CITY",
+            "position": 10
+          },
+          {
+            "content": "TAN LINE",
+            "position": 4
+          }
+        ]
+      }
+    ]
   },
   "2026-09-20": {
-    "status": "ERROR",
-    "errors": [
-      "Not Found"
-    ],
-    "results": []
+    "status": "OK",
+    "id": 1298,
+    "print_date": "2026-09-20",
+    "editor": "Wyna Liu",
+    "categories": [
+      {
+        "title": "ROUND FLAT THINGS",
+        "cards": [
+          {
+            "content": "BLU-RAY",
+            "position": 9
+          },
+          {
+            "content": "COASTER",
+            "position": 6
+          },
+          {
+            "content": "SAND DOLLAR",
+            "position": 11
+          },
+          {
+            "content": "TORTILLA",
+            "position": 2
+          }
+        ]
+      },
+      {
+        "title": "ASSOCIATED WITH KENTUCKY",
+        "cards": [
+          {
+            "content": "BLUEGRASS",
+            "position": 10
+          },
+          {
+            "content": "BOURBON",
+            "position": 13
+          },
+          {
+            "content": "DERBY",
+            "position": 4
+          },
+          {
+            "content": "FRIED CHICKEN",
+            "position": 5
+          }
+        ]
+      },
+      {
+        "title": "VAMPIRE MOVIES",
+        "cards": [
+          {
+            "content": "BLADE",
+            "position": 8
+          },
+          {
+            "content": "NEAR DARK",
+            "position": 12
+          },
+          {
+            "content": "SINNERS",
+            "position": 15
+          },
+          {
+            "content": "TWILIGHT",
+            "position": 0
+          }
+        ]
+      },
+      {
+        "title": "___BOARDS YOU RIDE ON",
+        "cards": [
+          {
+            "content": "HOVER",
+            "position": 7
+          },
+          {
+            "content": "SKATE",
+            "position": 3
+          },
+          {
+            "content": "SNOW",
+            "position": 1
+          },
+          {
+            "content": "SURF",
+            "position": 14
+          }
+        ]
+      }
+    ]
   },
   "2026-09-21": {
-    "status": "ERROR",
-    "errors": [
-      "Not Found"
-    ],
-    "results": []
+    "status": "OK",
+    "id": 1293,
+    "print_date": "2026-09-21",
+    "editor": "Wyna Liu",
+    "categories": [
+      {
+        "title": "EMAIL BUTTONS",
+        "cards": [
+          {
+            "content": "COMPOSE",
+            "position": 0
+          },
+          {
+            "content": "DRAFTS",
+            "position": 14
+          },
+          {
+            "content": "SENT",
+            "position": 11
+          },
+          {
+            "content": "SPAM",
+            "position": 6
+          }
+        ]
+      },
+      {
+        "title": "WAYS TO ATTRACT FISH",
+        "cards": [
+          {
+            "content": "CHUM",
+            "position": 9
+          },
+          {
+            "content": "FLY",
+            "position": 2
+          },
+          {
+            "content": "SPINNER",
+            "position": 15
+          },
+          {
+            "content": "WORM",
+            "position": 5
+          }
+        ]
+      },
+      {
+        "title": "CHESS VERBS",
+        "cards": [
+          {
+            "content": "CAPTURE",
+            "position": 13
+          },
+          {
+            "content": "CASTLE",
+            "position": 8
+          },
+          {
+            "content": "CHECK",
+            "position": 1
+          },
+          {
+            "content": "MATE",
+            "position": 7
+          }
+        ]
+      },
+      {
+        "title": "STARTS OF COMPOSERS' NAMES",
+        "cards": [
+          {
+            "content": "BEET",
+            "position": 3
+          },
+          {
+            "content": "BRAH",
+            "position": 4
+          },
+          {
+            "content": "CHOP",
+            "position": 12
+          },
+          {
+            "content": "VIVA",
+            "position": 10
+          }
+        ]
+      }
+    ]
   },
   "2026-09-22": {
     "status": "ERROR",
@@ -109776,11 +110286,96 @@
     "results": []
   },
   "2026-09-25": {
-    "status": "ERROR",
-    "errors": [
-      "Not Found"
-    ],
-    "results": []
+    "status": "OK",
+    "id": 1297,
+    "print_date": "2026-09-25",
+    "editor": "Wyna Liu",
+    "categories": [
+      {
+        "title": "LUXE",
+        "cards": [
+          {
+            "content": "BOUGIE",
+            "position": 1
+          },
+          {
+            "content": "FANCY",
+            "position": 11
+          },
+          {
+            "content": "POSH",
+            "position": 13
+          },
+          {
+            "content": "SWANK",
+            "position": 6
+          }
+        ]
+      },
+      {
+        "title": "PARTS OF A MECHANICAL CLOCK",
+        "cards": [
+          {
+            "content": "ESCAPEMENT",
+            "position": 12
+          },
+          {
+            "content": "PENDULUM",
+            "position": 10
+          },
+          {
+            "content": "RATCHET",
+            "position": 5
+          },
+          {
+            "content": "SPRING",
+            "position": 3
+          }
+        ]
+      },
+      {
+        "title": "FAMOUS DANS",
+        "cards": [
+          {
+            "content": "AYKROYD",
+            "position": 15
+          },
+          {
+            "content": "LEVY",
+            "position": 9
+          },
+          {
+            "content": "RATHER",
+            "position": 0
+          },
+          {
+            "content": "SAVAGE",
+            "position": 7
+          }
+        ]
+      },
+      {
+        "title": "TAXONOMIC RANKS PLUS A LETTER",
+        "cards": [
+          {
+            "content": "BORDER",
+            "position": 4
+          },
+          {
+            "content": "CLASSY",
+            "position": 8
+          },
+          {
+            "content": "FOAMILY",
+            "position": 14
+          },
+          {
+            "content": "GENIUS",
+            "position": 2
+          }
+        ]
+      }
+    ]
   },
   "2026-09-26": {
     "status": "ERROR",
@@ -109790,6 +110385,13 @@
     "results": []
   },
   "2026-09-27": {
+    "status": "ERROR",
+    "errors": [
+      "Not Found"
+    ],
+    "results": []
+  },
+  "2026-09-28": {
     "status": "ERROR",
     "errors": [
       "Not Found"
