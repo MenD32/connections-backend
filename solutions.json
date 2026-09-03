@@ -110058,7 +110058,7 @@
         ]
       },
       {
-        "title": "STARTING WITH MATH FUNCTIONS",
+        "title": "STARTING WITH ABBREVIATED MATH FUNCTIONS",
         "cards": [
           {
             "content": "COS LETTUCE",
@@ -110420,6 +110420,13 @@
     "results": []
   },
   "2026-10-02": {
+    "status": "ERROR",
+    "errors": [
+      "Not Found"
+    ],
+    "results": []
+  },
+  "2026-10-03": {
     "status": "ERROR",
     "errors": [
       "Not Found"
