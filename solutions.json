@@ -110265,25 +110265,280 @@
     ]
   },
   "2026-09-22": {
-    "status": "ERROR",
-    "errors": [
-      "Not Found"
-    ],
-    "results": []
+    "status": "OK",
+    "id": 1307,
+    "print_date": "2026-09-22",
+    "editor": "Wyna Liu",
+    "categories": [
+      {
+        "title": "DEMONSTRATIVES",
+        "cards": [
+          {
+            "content": "THAT",
+            "position": 1
+          },
+          {
+            "content": "THESE",
+            "position": 14
+          },
+          {
+            "content": "THIS",
+            "position": 0
+          },
+          {
+            "content": "THOSE",
+            "position": 9
+          }
+        ]
+      },
+      {
+        "title": "EMBELLISHMENT",
+        "cards": [
+          {
+            "content": "ACCENT",
+            "position": 7
+          },
+          {
+            "content": "DETAIL",
+            "position": 12
+          },
+          {
+            "content": "FLOURISH",
+            "position": 15
+          },
+          {
+            "content": "TOUCH",
+            "position": 8
+          }
+        ]
+      },
+      {
+        "title": "OPTIONS ON A MULTIPLE CHOICE SURVEY",
+        "cards": [
+          {
+            "content": "AGREE",
+            "position": 6
+          },
+          {
+            "content": "DISAGREE",
+            "position": 13
+          },
+          {
+            "content": "NEUTRAL",
+            "position": 11
+          },
+          {
+            "content": "OTHER",
+            "position": 3
+          }
+        ]
+      },
+      {
+        "title": "BEVERAGES WITH ACUTE ACCENTS REMOVED",
+        "cards": [
+          {
+            "content": "CAFE",
+            "position": 4
+          },
+          {
+            "content": "PATRON",
+            "position": 5
+          },
+          {
+            "content": "ROSE",
+            "position": 10
+          },
+          {
+            "content": "THE",
+            "position": 2
+          }
+        ]
+      }
+    ]
   },
   "2026-09-23": {
-    "status": "ERROR",
-    "errors": [
-      "Not Found"
-    ],
-    "results": []
+    "status": "OK",
+    "id": 1301,
+    "print_date": "2026-09-23",
+    "editor": "Wyna Liu",
+    "categories": [
+      {
+        "title": "THINGS YOU GRAB BEFORE LEAVING THE HOUSE",
+        "cards": [
+          {
+            "content": "KEYS",
+            "position": 12
+          },
+          {
+            "content": "PHONE",
+            "position": 5
+          },
+          {
+            "content": "SUNGLASSES",
+            "position": 15
+          },
+          {
+            "content": "WALLET",
+            "position": 3
+          }
+        ]
+      },
+      {
+        "title": "WEBSITE HURDLES",
+        "cards": [
+          {
+            "content": "AGE VERIFICATION",
+            "position": 7
+          },
+          {
+            "content": "CAPTCHA",
+            "position": 1
+          },
+          {
+            "content": "COOKIE CONSENT",
+            "position": 14
+          },
+          {
+            "content": "PAYWALL",
+            "position": 9
+          }
+        ]
+      },
+      {
+        "title": "THINGS THAT COME IN CANS",
+        "cards": [
+          {
+            "content": "CONDENSED MILK",
+            "position": 10
+          },
+          {
+            "content": "PAINT",
+            "position": 0
+          },
+          {
+            "content": "SHAVING CREAM",
+            "position": 13
+          },
+          {
+            "content": "SPAM",
+            "position": 4
+          }
+        ]
+      },
+      {
+        "title": "ENDING IN SYNONYMS FOR \"TERM\"",
+        "cards": [
+          {
+            "content": "BITCOIN",
+            "position": 2
+          },
+          {
+            "content": "RECORD LABEL",
+            "position": 6
+          },
+          {
+            "content": "RUB-A-DUB",
+            "position": 11
+          },
+          {
+            "content": "SURINAME",
+            "position": 8
+          }
+        ]
+      }
+    ]
   },
   "2026-09-24": {
-    "status": "ERROR",
-    "errors": [
-      "Not Found"
-    ],
-    "results": []
+    "status": "OK",
+    "id": 1302,
+    "print_date": "2026-09-24",
+    "editor": "Wyna Liu",
+    "categories": [
+      {
+        "title": "PARTS OF A VAMPIRE COSTUME",
+        "cards": [
+          {
+            "content": "CAPE",
+            "position": 7
+          },
+          {
+            "content": "FACE PAINT",
+            "position": 3
+          },
+          {
+            "content": "FAKE BLOOD",
+            "position": 12
+          },
+          {
+            "content": "FANGS",
+            "position": 10
+          }
+        ]
+      },
+      {
+        "title": "THINGS WITH SPRING/S",
+        "cards": [
+          {
+            "content": "BOBBLEHEAD",
+            "position": 4
+          },
+          {
+            "content": "POGO STICK",
+            "position": 2
+          },
+          {
+            "content": "SNAKES IN A CAN",
+            "position": 14
+          },
+          {
+            "content": "TRAMPOLINE",
+            "position": 9
+          }
+        ]
+      },
+      {
+        "title": "FEATURING POINTING",
+        "cards": [
+          {
+            "content": "CREATION OF ADAM",
+            "position": 8
+          },
+          {
+            "content": "FOAM FINGER",
+            "position": 1
+          },
+          {
+            "content": "I'M WITH STUPID SHIRT",
+            "position": 13
+          },
+          {
+            "content": "UNCLE SAM",
+            "position": 6
+          }
+        ]
+      },
+      {
+        "title": "ANAGRAMS",
+        "cards": [
+          {
+            "content": "BEER HAT",
+            "position": 5
+          },
+          {
+            "content": "BREATHE",
+            "position": 11
+          },
+          {
+            "content": "HERB TEA",
+            "position": 15
+          },
+          {
+            "content": "THE BEAR",
+            "position": 0
+          }
+        ]
+      }
+    ]
   },
   "2026-09-25": {
     "status": "OK",
@@ -110378,32 +110633,372 @@
     ]
   },
   "2026-09-26": {
-    "status": "ERROR",
-    "errors": [
-      "Not Found"
-    ],
-    "results": []
+    "status": "OK",
+    "id": 1303,
+    "print_date": "2026-09-26",
+    "editor": "Wyna Liu",
+    "categories": [
+      {
+        "title": "BREATH FRESHENERS",
+        "cards": [
+          {
+            "content": "GUM",
+            "position": 8
+          },
+          {
+            "content": "MINT",
+            "position": 0
+          },
+          {
+            "content": "MOUTHWASH",
+            "position": 13
+          },
+          {
+            "content": "SPRAY",
+            "position": 15
+          }
+        ]
+      },
+      {
+        "title": "THINGS DONE TO A DRESS SHIRT AT THE LAUNDRY",
+        "cards": [
+          {
+            "content": "FOLD",
+            "position": 9
+          },
+          {
+            "content": "PRESS",
+            "position": 1
+          },
+          {
+            "content": "STARCH",
+            "position": 4
+          },
+          {
+            "content": "WASH",
+            "position": 12
+          }
+        ]
+      },
+      {
+        "title": "FEATURES OF WOOD",
+        "cards": [
+          {
+            "content": "BURL",
+            "position": 14
+          },
+          {
+            "content": "GRAIN",
+            "position": 2
+          },
+          {
+            "content": "KNOTS",
+            "position": 10
+          },
+          {
+            "content": "RINGS",
+            "position": 7
+          }
+        ]
+      },
+      {
+        "title": "\"COOL\" THINGS, IN EXPRESSIONS",
+        "cards": [
+          {
+            "content": "BEANS",
+            "position": 3
+          },
+          {
+            "content": "CUCUMBER",
+            "position": 6
+          },
+          {
+            "content": "CUSTOMER",
+            "position": 11
+          },
+          {
+            "content": "ICE",
+            "position": 5
+          }
+        ]
+      }
+    ]
   },
   "2026-09-27": {
-    "status": "ERROR",
-    "errors": [
-      "Not Found"
-    ],
-    "results": []
+    "status": "OK",
+    "id": 1306,
+    "print_date": "2026-09-27",
+    "editor": "Wyna Liu",
+    "categories": [
+      {
+        "title": "SCULPTURE MEDIA",
+        "cards": [
+          {
+            "content": "BRONZE",
+            "position": 13
+          },
+          {
+            "content": "CLAY",
+            "position": 8
+          },
+          {
+            "content": "MARBLE",
+            "position": 5
+          },
+          {
+            "content": "PLASTER",
+            "position": 15
+          }
+        ]
+      },
+      {
+        "title": "RESTAURANT SEATING OPTIONS",
+        "cards": [
+          {
+            "content": "BANQUETTE",
+            "position": 9
+          },
+          {
+            "content": "BOOTH",
+            "position": 3
+          },
+          {
+            "content": "CHAIR",
+            "position": 11
+          },
+          {
+            "content": "STOOL",
+            "position": 4
+          }
+        ]
+      },
+      {
+        "title": "TELECOM",
+        "cards": [
+          {
+            "content": "CARRIER",
+            "position": 1
+          },
+          {
+            "content": "NETWORK",
+            "position": 10
+          },
+          {
+            "content": "OPERATOR",
+            "position": 7
+          },
+          {
+            "content": "PROVIDER",
+            "position": 14
+          }
+        ]
+      },
+      {
+        "title": "ENDING IN CHINESE DYNASTIES",
+        "cards": [
+          {
+            "content": "BBQING",
+            "position": 6
+          },
+          {
+            "content": "HOMING",
+            "position": 2
+          },
+          {
+            "content": "LOHAN",
+            "position": 12
+          },
+          {
+            "content": "WU-TANG",
+            "position": 0
+          }
+        ]
+      }
+    ]
   },
   "2026-09-28": {
-    "status": "ERROR",
-    "errors": [
-      "Not Found"
-    ],
-    "results": []
+    "status": "OK",
+    "id": 1305,
+    "print_date": "2026-09-28",
+    "editor": "Wyna Liu",
+    "categories": [
+      {
+        "title": "THINGS WITH STALKS",
+        "cards": [
+          {
+            "content": "BAMBOO",
+            "position": 3
+          },
+          {
+            "content": "CELERY",
+            "position": 4
+          },
+          {
+            "content": "CORN",
+            "position": 14
+          },
+          {
+            "content": "WHEAT",
+            "position": 11
+          }
+        ]
+      },
+      {
+        "title": "OYSTER CONDIMENTS",
+        "cards": [
+          {
+            "content": "HORSERADISH",
+            "position": 10
+          },
+          {
+            "content": "LEMON",
+            "position": 1
+          },
+          {
+            "content": "MIGNONETTE",
+            "position": 13
+          },
+          {
+            "content": "TABASCO",
+            "position": 5
+          }
+        ]
+      },
+      {
+        "title": "DODGE MODELS",
+        "cards": [
+          {
+            "content": "CHALLENGER",
+            "position": 15
+          },
+          {
+            "content": "CHARGER",
+            "position": 9
+          },
+          {
+            "content": "DURANGO",
+            "position": 7
+          },
+          {
+            "content": "VIPER",
+            "position": 2
+          }
+        ]
+      },
+      {
+        "title": "THREE LETTERS PLUS REPEATED TRIGRAMS",
+        "cards": [
+          {
+            "content": "ARKANSANS",
+            "position": 6
+          },
+          {
+            "content": "CHIHUAHUA",
+            "position": 0
+          },
+          {
+            "content": "POSSESSES",
+            "position": 12
+          },
+          {
+            "content": "SPRINGING",
+            "position": 8
+          }
+        ]
+      }
+    ]
   },
   "2026-09-29": {
-    "status": "ERROR",
-    "errors": [
-      "Not Found"
-    ],
-    "results": []
+    "status": "OK",
+    "id": 1304,
+    "print_date": "2026-09-29",
+    "editor": "Wyna Liu",
+    "categories": [
+      {
+        "title": "SECLUDED",
+        "cards": [
+          {
+            "content": "HIDDEN",
+            "position": 1
+          },
+          {
+            "content": "REMOTE",
+            "position": 11
+          },
+          {
+            "content": "SECRET",
+            "position": 6
+          },
+          {
+            "content": "TUCKED AWAY",
+            "position": 13
+          }
+        ]
+      },
+      {
+        "title": "RIVER FEATURES",
+        "cards": [
+          {
+            "content": "DELTA",
+            "position": 0
+          },
+          {
+            "content": "DRAINAGE BASIN",
+            "position": 15
+          },
+          {
+            "content": "MOUTH",
+            "position": 10
+          },
+          {
+            "content": "STREAM BED",
+            "position": 12
+          }
+        ]
+      },
+      {
+        "title": "FIRST WORDS OF PIXAR FILMS",
+        "cards": [
+          {
+            "content": "FINDING",
+            "position": 5
+          },
+          {
+            "content": "INSIDE",
+            "position": 2
+          },
+          {
+            "content": "MONSTERS",
+            "position": 4
+          },
+          {
+            "content": "TOY",
+            "position": 7
+          }
+        ]
+      },
+      {
+        "title": "PHRASES HIDING GREEK LETTERS",
+        "cards": [
+          {
+            "content": "FREEZE TAG",
+            "position": 8
+          },
+          {
+            "content": "HOME GAME",
+            "position": 14
+          },
+          {
+            "content": "MODEL TANK",
+            "position": 3
+          },
+          {
+            "content": "ORAL PHASE",
+            "position": 9
+          }
+        ]
+      }
+    ]
   },
   "2026-09-30": {
     "status": "ERROR",
@@ -110434,6 +111029,20 @@
     "results": []
   },
   "2026-10-04": {
+    "status": "ERROR",
+    "errors": [
+      "Not Found"
+    ],
+    "results": []
+  },
+  "2026-10-05": {
+    "status": "ERROR",
+    "errors": [
+      "Not Found"
+    ],
+    "results": []
+  },
+  "2026-10-06": {
     "status": "ERROR",
     "errors": [
       "Not Found"
