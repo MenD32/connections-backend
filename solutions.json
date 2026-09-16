@@ -111031,7 +111031,7 @@
         "title": "THINGS THAT ARE SHAKEN (NOT STIRRED)",
         "cards": [
           {
-            "content": "ETCH-A-SKETCH",
+            "content": "ETCH A SKETCH",
             "position": 13
           },
           {
@@ -111090,7 +111090,8 @@
           }
         ]
       }
-    ]
+    ],
+    "stream": "daily"
   },
   "2026-10-01": {
     "status": "OK",
@@ -111182,7 +111183,8 @@
           }
         ]
       }
-    ]
+    ],
+    "stream": "daily"
   },
   "2026-10-02": {
     "status": "OK",
@@ -111274,7 +111276,8 @@
           }
         ]
       }
-    ]
+    ],
+    "stream": "daily"
   },
   "2026-10-03": {
     "status": "OK",
@@ -111282,27 +111285,6 @@
     "print_date": "2026-10-03",
     "editor": "Wyna Liu",
     "categories": [
-      {
-        "title": "ENDING IN MUSICALS",
-        "cards": [
-          {
-            "content": "ELBOW GREASE",
-            "position": 5
-          },
-          {
-            "content": "FAT CATS",
-            "position": 8
-          },
-          {
-            "content": "LINDA HAMILTON",
-            "position": 1
-          },
-          {
-            "content": "SOMETHING WICKED",
-            "position": 7
-          }
-        ]
-      },
       {
         "title": "STARTING WITH TERMS FOR \"TOILET\"",
         "cards": [
@@ -111325,23 +111307,23 @@
         ]
       },
       {
-        "title": "ENDING IN FANTASY CREATURES",
+        "title": "ENDING IN MUSICALS",
         "cards": [
           {
-            "content": "DIET SPRITE",
-            "position": 15
+            "content": "ELBOW GREASE",
+            "position": 5
           },
           {
-            "content": "MERV GRIFFIN",
-            "position": 10
+            "content": "FAT CATS",
+            "position": 8
           },
           {
-            "content": "NY GIANT",
-            "position": 12
+            "content": "LINDA HAMILTON",
+            "position": 1
           },
           {
-            "content": "RIVER PHOENIX",
-            "position": 2
+            "content": "SOMETHING WICKED",
+            "position": 7
           }
         ]
       },
@@ -111365,8 +111347,30 @@
             "position": 0
           }
         ]
+      },
+      {
+        "title": "ENDING IN FANTASY CREATURES",
+        "cards": [
+          {
+            "content": "DIET SPRITE",
+            "position": 15
+          },
+          {
+            "content": "MERV GRIFFIN",
+            "position": 10
+          },
+          {
+            "content": "NY GIANT",
+            "position": 12
+          },
+          {
+            "content": "RIVER PHOENIX",
+            "position": 2
+          }
+        ]
       }
-    ]
+    ],
+    "stream": "daily"
   },
   "2026-10-04": {
     "status": "OK",
@@ -111458,7 +111462,8 @@
           }
         ]
       }
-    ]
+    ],
+    "stream": "daily"
   },
   "2026-10-05": {
     "status": "OK",
@@ -111550,7 +111555,8 @@
           }
         ]
       }
-    ]
+    ],
+    "stream": "daily"
   },
   "2026-10-06": {
     "status": "ERROR",
@@ -111677,7 +111683,8 @@
           }
         ]
       }
-    ]
+    ],
+    "stream": "daily"
   },
   "2026-10-12": {
     "status": "ERROR",
@@ -111701,6 +111708,13 @@
     "results": []
   },
   "2026-10-15": {
+    "status": "ERROR",
+    "errors": [
+      "Not Found"
+    ],
+    "results": []
+  },
+  "2026-10-16": {
     "status": "ERROR",
     "errors": [
       "Not Found"
