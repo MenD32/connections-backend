@@ -111559,39 +111559,469 @@
     "stream": "daily"
   },
   "2026-10-06": {
-    "status": "ERROR",
-    "errors": [
-      "Not Found"
+    "status": "OK",
+    "id": 1316,
+    "print_date": "2026-10-06",
+    "editor": "Wyna Liu",
+    "categories": [
+      {
+        "title": "FINANCIAL FIRMS, FOR SHORT",
+        "cards": [
+          {
+            "content": "BERKSHIRE",
+            "position": 5
+          },
+          {
+            "content": "CITI",
+            "position": 12
+          },
+          {
+            "content": "GOLDMAN",
+            "position": 15
+          },
+          {
+            "content": "MERRILL",
+            "position": 9
+          }
+        ]
+      },
+      {
+        "title": "KINDS OF CHAIRS",
+        "cards": [
+          {
+            "content": "ADIRONDACK",
+            "position": 0
+          },
+          {
+            "content": "EAMES",
+            "position": 14
+          },
+          {
+            "content": "WINDSOR",
+            "position": 8
+          },
+          {
+            "content": "WINGBACK",
+            "position": 10
+          }
+        ]
+      },
+      {
+        "title": "___ INN HOTELS",
+        "cards": [
+          {
+            "content": "COMFORT",
+            "position": 4
+          },
+          {
+            "content": "DAYS",
+            "position": 11
+          },
+          {
+            "content": "HAMPTON",
+            "position": 7
+          },
+          {
+            "content": "HOLIDAY",
+            "position": 3
+          }
+        ]
+      },
+      {
+        "title": "ENDING IN TALENTS",
+        "cards": [
+          {
+            "content": "CATSKILL",
+            "position": 2
+          },
+          {
+            "content": "KNICKKNACK",
+            "position": 1
+          },
+          {
+            "content": "PIANOFORTE",
+            "position": 13
+          },
+          {
+            "content": "STABILITY",
+            "position": 6
+          }
+        ]
+      }
     ],
-    "results": []
+    "stream": "daily"
   },
   "2026-10-07": {
-    "status": "ERROR",
-    "errors": [
-      "Not Found"
+    "status": "OK",
+    "id": 1320,
+    "print_date": "2026-10-07",
+    "editor": "Wyna Liu",
+    "categories": [
+      {
+        "title": "SAVE FOR LATER",
+        "cards": [
+          {
+            "content": "BANK",
+            "position": 8
+          },
+          {
+            "content": "SQUIRREL",
+            "position": 5
+          },
+          {
+            "content": "STASH",
+            "position": 13
+          },
+          {
+            "content": "STORE",
+            "position": 11
+          }
+        ]
+      },
+      {
+        "title": "KINDS OF BUNS",
+        "cards": [
+          {
+            "content": "CINNAMON",
+            "position": 1
+          },
+          {
+            "content": "HAMBURGER",
+            "position": 10
+          },
+          {
+            "content": "HOT DOG",
+            "position": 3
+          },
+          {
+            "content": "STICKY",
+            "position": 4
+          }
+        ]
+      },
+      {
+        "title": "GREEK NUMERICAL PREFIXES",
+        "cards": [
+          {
+            "content": "DICHOTOMY",
+            "position": 9
+          },
+          {
+            "content": "MONOLOGUE",
+            "position": 6
+          },
+          {
+            "content": "TETRACYCLINE",
+            "position": 15
+          },
+          {
+            "content": "TRIDENT",
+            "position": 2
+          }
+        ]
+      },
+      {
+        "title": "BEST ___ TONY AWARDS",
+        "cards": [
+          {
+            "content": "CHOREOGRAPHY",
+            "position": 12
+          },
+          {
+            "content": "MUSICAL",
+            "position": 0
+          },
+          {
+            "content": "ORCHESTRATION",
+            "position": 14
+          },
+          {
+            "content": "PLAY",
+            "position": 7
+          }
+        ]
+      }
     ],
-    "results": []
+    "stream": "daily"
   },
   "2026-10-08": {
-    "status": "ERROR",
-    "errors": [
-      "Not Found"
+    "status": "OK",
+    "id": 1322,
+    "print_date": "2026-10-08",
+    "editor": "Wyna Liu",
+    "categories": [
+      {
+        "title": "FOLLOWS, AS RULES",
+        "cards": [
+          {
+            "content": "HEEDS",
+            "position": 14
+          },
+          {
+            "content": "MINDS",
+            "position": 1
+          },
+          {
+            "content": "REGARDS",
+            "position": 6
+          },
+          {
+            "content": "RESPECTS",
+            "position": 10
+          }
+        ]
+      },
+      {
+        "title": "OUTDO",
+        "cards": [
+          {
+            "content": "BEST",
+            "position": 4
+          },
+          {
+            "content": "ECLIPSE",
+            "position": 7
+          },
+          {
+            "content": "SURPASS",
+            "position": 15
+          },
+          {
+            "content": "TOP",
+            "position": 12
+          }
+        ]
+      },
+      {
+        "title": "THINGS THAT COME IN THREES",
+        "cards": [
+          {
+            "content": "CHEERS",
+            "position": 8
+          },
+          {
+            "content": "STOOGES",
+            "position": 3
+          },
+          {
+            "content": "STRIKES",
+            "position": 11
+          },
+          {
+            "content": "WISHES",
+            "position": 5
+          }
+        ]
+      },
+      {
+        "title": "ENDING IN ACTORS NAMED TOM",
+        "cards": [
+          {
+            "content": "AUTOCRUISE",
+            "position": 13
+          },
+          {
+            "content": "FOOLHARDY",
+            "position": 0
+          },
+          {
+            "content": "MULHOLLAND",
+            "position": 9
+          },
+          {
+            "content": "THANKS",
+            "position": 2
+          }
+        ]
+      }
     ],
-    "results": []
+    "stream": "daily"
   },
   "2026-10-09": {
-    "status": "ERROR",
-    "errors": [
-      "Not Found"
+    "status": "OK",
+    "id": 1319,
+    "print_date": "2026-10-09",
+    "editor": "Wyna Liu",
+    "categories": [
+      {
+        "title": "DECISIVE VICTORY",
+        "cards": [
+          {
+            "content": "BLOWOUT",
+            "position": 4
+          },
+          {
+            "content": "ROMP",
+            "position": 13
+          },
+          {
+            "content": "ROUT",
+            "position": 15
+          },
+          {
+            "content": "SWEEP",
+            "position": 6
+          }
+        ]
+      },
+      {
+        "title": "CONTROLLED BY A TV REMOTE",
+        "cards": [
+          {
+            "content": "CHANNEL",
+            "position": 12
+          },
+          {
+            "content": "INPUT",
+            "position": 10
+          },
+          {
+            "content": "POWER",
+            "position": 0
+          },
+          {
+            "content": "VOLUME",
+            "position": 3
+          }
+        ]
+      },
+      {
+        "title": "FEATURES OF A SPORTS SHOW",
+        "cards": [
+          {
+            "content": "HIGHLIGHTS",
+            "position": 7
+          },
+          {
+            "content": "RECAP",
+            "position": 14
+          },
+          {
+            "content": "SCORES",
+            "position": 8
+          },
+          {
+            "content": "STATS",
+            "position": 11
+          }
+        ]
+      },
+      {
+        "title": "AIR ___",
+        "cards": [
+          {
+            "content": "CONDITIONER",
+            "position": 2
+          },
+          {
+            "content": "GUITAR",
+            "position": 1
+          },
+          {
+            "content": "KISS",
+            "position": 5
+          },
+          {
+            "content": "QUOTES",
+            "position": 9
+          }
+        ]
+      }
     ],
-    "results": []
+    "stream": "daily"
   },
   "2026-10-10": {
-    "status": "ERROR",
-    "errors": [
-      "Not Found"
+    "status": "OK",
+    "id": 1318,
+    "print_date": "2026-10-10",
+    "editor": "Wyna Liu",
+    "categories": [
+      {
+        "title": "USEFUL WHEN WRITING A PAPER",
+        "cards": [
+          {
+            "content": "DRAFT",
+            "position": 4
+          },
+          {
+            "content": "NOTES",
+            "position": 9
+          },
+          {
+            "content": "OUTLINE",
+            "position": 0
+          },
+          {
+            "content": "THESIS",
+            "position": 15
+          }
+        ]
+      },
+      {
+        "title": "PRESUME",
+        "cards": [
+          {
+            "content": "FIGURE",
+            "position": 3
+          },
+          {
+            "content": "GATHER",
+            "position": 8
+          },
+          {
+            "content": "IMAGINE",
+            "position": 5
+          },
+          {
+            "content": "SUPPOSE",
+            "position": 13
+          }
+        ]
+      },
+      {
+        "title": "SOCIAL MEDIA SECTIONS",
+        "cards": [
+          {
+            "content": "FEED",
+            "position": 2
+          },
+          {
+            "content": "MESSAGES",
+            "position": 11
+          },
+          {
+            "content": "NOTIFICATIONS",
+            "position": 7
+          },
+          {
+            "content": "PROFILE",
+            "position": 14
+          }
+        ]
+      },
+      {
+        "title": "___BOXING",
+        "cards": [
+          {
+            "content": "BEAT",
+            "position": 12
+          },
+          {
+            "content": "KICK",
+            "position": 6
+          },
+          {
+            "content": "SHADOW",
+            "position": 1
+          },
+          {
+            "content": "UN",
+            "position": 10
+          }
+        ]
+      }
     ],
-    "results": []
+    "stream": "daily"
   },
   "2026-10-11": {
     "status": "OK",
@@ -111687,18 +112117,190 @@
     "stream": "daily"
   },
   "2026-10-12": {
-    "status": "ERROR",
-    "errors": [
-      "Not Found"
+    "status": "OK",
+    "id": 1317,
+    "print_date": "2026-10-12",
+    "editor": "Wyna Liu",
+    "categories": [
+      {
+        "title": "STATUS",
+        "cards": [
+          {
+            "content": "CONDITION",
+            "position": 8
+          },
+          {
+            "content": "SHAPE",
+            "position": 6
+          },
+          {
+            "content": "SITUATION",
+            "position": 10
+          },
+          {
+            "content": "STATE",
+            "position": 2
+          }
+        ]
+      },
+      {
+        "title": "TOLERATE",
+        "cards": [
+          {
+            "content": "BEAR",
+            "position": 11
+          },
+          {
+            "content": "HANDLE",
+            "position": 5
+          },
+          {
+            "content": "STAND",
+            "position": 13
+          },
+          {
+            "content": "WEATHER",
+            "position": 7
+          }
+        ]
+      },
+      {
+        "title": "WORD SHORTENINGS, OFTEN",
+        "cards": [
+          {
+            "content": "ABBREVIATION",
+            "position": 3
+          },
+          {
+            "content": "CONTRACTION",
+            "position": 9
+          },
+          {
+            "content": "ELISION",
+            "position": 14
+          },
+          {
+            "content": "NICKNAME",
+            "position": 4
+          }
+        ]
+      },
+      {
+        "title": "WORDS MADE USING U.S. POSTAL ABBREVIATIONS",
+        "cards": [
+          {
+            "content": "ALKYLAMIDE",
+            "position": 12
+          },
+          {
+            "content": "CALAMARI",
+            "position": 0
+          },
+          {
+            "content": "MANDARIN",
+            "position": 1
+          },
+          {
+            "content": "MELAMINE",
+            "position": 15
+          }
+        ]
+      }
     ],
-    "results": []
+    "stream": "daily"
   },
   "2026-10-13": {
-    "status": "ERROR",
-    "errors": [
-      "Not Found"
+    "status": "OK",
+    "id": 1321,
+    "print_date": "2026-10-13",
+    "editor": "Wyna Liu",
+    "categories": [
+      {
+        "title": "DISCERNMENT",
+        "cards": [
+          {
+            "content": "EYE",
+            "position": 0
+          },
+          {
+            "content": "FLAIR",
+            "position": 14
+          },
+          {
+            "content": "SENSE",
+            "position": 5
+          },
+          {
+            "content": "TASTE",
+            "position": 9
+          }
+        ]
+      },
+      {
+        "title": "FASTEN",
+        "cards": [
+          {
+            "content": "HITCH",
+            "position": 11
+          },
+          {
+            "content": "LASH",
+            "position": 1
+          },
+          {
+            "content": "TETHER",
+            "position": 13
+          },
+          {
+            "content": "TIE",
+            "position": 4
+          }
+        ]
+      },
+      {
+        "title": "SPORTS CHAMPIONSHIP PRIZES",
+        "cards": [
+          {
+            "content": "BELT",
+            "position": 7
+          },
+          {
+            "content": "CUP",
+            "position": 10
+          },
+          {
+            "content": "JACKET",
+            "position": 3
+          },
+          {
+            "content": "RING",
+            "position": 8
+          }
+        ]
+      },
+      {
+        "title": "LOOSE ___",
+        "cards": [
+          {
+            "content": "CANNON",
+            "position": 12
+          },
+          {
+            "content": "CHANGE",
+            "position": 6
+          },
+          {
+            "content": "ENDS",
+            "position": 15
+          },
+          {
+            "content": "LIPS",
+            "position": 2
+          }
+        ]
+      }
     ],
-    "results": []
+    "stream": "daily"
   },
   "2026-10-14": {
     "status": "ERROR",
@@ -111729,6 +112331,13 @@
     "results": []
   },
   "2026-10-18": {
+    "status": "ERROR",
+    "errors": [
+      "Not Found"
+    ],
+    "results": []
+  },
+  "2026-10-19": {
     "status": "ERROR",
     "errors": [
       "Not Found"
