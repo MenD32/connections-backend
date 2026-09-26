@@ -112304,8 +112304,101 @@
   },
   "2026-10-14": {
     "status": "OK",
-    "id": 1326,
+    "id": 1330,
     "print_date": "2026-10-14",
+    "editor": "Wyna Liu",
+    "categories": [
+      {
+        "title": "HINT",
+        "cards": [
+          {
+            "content": "FLICKER",
+            "position": 5
+          },
+          {
+            "content": "SUGGESTION",
+            "position": 3
+          },
+          {
+            "content": "TRACE",
+            "position": 10
+          },
+          {
+            "content": "WHIFF",
+            "position": 13
+          }
+        ]
+      },
+      {
+        "title": "TENNIS VERBS",
+        "cards": [
+          {
+            "content": "SERVE",
+            "position": 2
+          },
+          {
+            "content": "SLICE",
+            "position": 12
+          },
+          {
+            "content": "SMASH",
+            "position": 8
+          },
+          {
+            "content": "VOLLEY",
+            "position": 14
+          }
+        ]
+      },
+      {
+        "title": "SUPERHEROES, WITH \"THE\"",
+        "cards": [
+          {
+            "content": "FLASH",
+            "position": 6
+          },
+          {
+            "content": "HULK",
+            "position": 9
+          },
+          {
+            "content": "PUNISHER",
+            "position": 15
+          },
+          {
+            "content": "THING",
+            "position": 1
+          }
+        ]
+      },
+      {
+        "title": "STARTING WITH \"FEE, FI, FO, FUM\"",
+        "cards": [
+          {
+            "content": "FEED",
+            "position": 0
+          },
+          {
+            "content": "FIERY",
+            "position": 4
+          },
+          {
+            "content": "FOMENT",
+            "position": 7
+          },
+          {
+            "content": "FUMBLE",
+            "position": 11
+          }
+        ]
+      }
+    ],
+    "stream": "daily"
+  },
+  "2026-10-15": {
+    "status": "OK",
+    "id": 1326,
+    "print_date": "2026-10-15",
     "editor": "Wyna Liu",
     "categories": [
       {
@@ -112394,13 +112487,6 @@
       }
     ],
     "stream": "daily"
-  },
-  "2026-10-15": {
-    "status": "ERROR",
-    "errors": [
-      "Not Found"
-    ],
-    "results": []
   },
   "2026-10-16": {
     "status": "OK",
@@ -112496,11 +112582,97 @@
     "stream": "daily"
   },
   "2026-10-17": {
-    "status": "ERROR",
-    "errors": [
-      "Not Found"
+    "status": "OK",
+    "id": 1329,
+    "print_date": "2026-10-17",
+    "editor": "Wyna Liu",
+    "categories": [
+      {
+        "title": "DIGITAL NOTIFICATIONS",
+        "cards": [
+          {
+            "content": "ALERT",
+            "position": 10
+          },
+          {
+            "content": "CHIME",
+            "position": 12
+          },
+          {
+            "content": "DING",
+            "position": 15
+          },
+          {
+            "content": "PING",
+            "position": 3
+          }
+        ]
+      },
+      {
+        "title": "PHOTO",
+        "cards": [
+          {
+            "content": "PRINT",
+            "position": 11
+          },
+          {
+            "content": "SHOT",
+            "position": 7
+          },
+          {
+            "content": "SNAP",
+            "position": 2
+          },
+          {
+            "content": "STILL",
+            "position": 4
+          }
+        ]
+      },
+      {
+        "title": "KINDS OF CRABS",
+        "cards": [
+          {
+            "content": "FIDDLER",
+            "position": 9
+          },
+          {
+            "content": "HERMIT",
+            "position": 14
+          },
+          {
+            "content": "KING",
+            "position": 1
+          },
+          {
+            "content": "SNOW",
+            "position": 6
+          }
+        ]
+      },
+      {
+        "title": "LA ___",
+        "cards": [
+          {
+            "content": "BOHÈME",
+            "position": 8
+          },
+          {
+            "content": "BREA",
+            "position": 0
+          },
+          {
+            "content": "PAZ",
+            "position": 5
+          },
+          {
+            "content": "SCALA",
+            "position": 13
+          }
+        ]
+      }
     ],
-    "results": []
+    "stream": "daily"
   },
   "2026-10-18": {
     "status": "ERROR",
@@ -112510,18 +112682,190 @@
     "results": []
   },
   "2026-10-19": {
-    "status": "ERROR",
-    "errors": [
-      "Not Found"
+    "status": "OK",
+    "id": 1327,
+    "print_date": "2026-10-19",
+    "editor": "Wyna Liu",
+    "categories": [
+      {
+        "title": "SEETHE",
+        "cards": [
+          {
+            "content": "BOIL",
+            "position": 12
+          },
+          {
+            "content": "FUME",
+            "position": 10
+          },
+          {
+            "content": "RAVE",
+            "position": 4
+          },
+          {
+            "content": "STEAM",
+            "position": 7
+          }
+        ]
+      },
+      {
+        "title": "ALL TALK",
+        "cards": [
+          {
+            "content": "BLUSTER",
+            "position": 13
+          },
+          {
+            "content": "GAS",
+            "position": 8
+          },
+          {
+            "content": "HOT AIR",
+            "position": 2
+          },
+          {
+            "content": "WIND",
+            "position": 5
+          }
+        ]
+      },
+      {
+        "title": "\"MC\" THINGS AT MCDONALD'S",
+        "cards": [
+          {
+            "content": "FLURRY",
+            "position": 6
+          },
+          {
+            "content": "MUFFIN",
+            "position": 1
+          },
+          {
+            "content": "NUGGETS",
+            "position": 15
+          },
+          {
+            "content": "RIB",
+            "position": 9
+          }
+        ]
+      },
+      {
+        "title": "ENDING IN BIRDS",
+        "cards": [
+          {
+            "content": "ALIBIS",
+            "position": 11
+          },
+          {
+            "content": "BALLOON",
+            "position": 3
+          },
+          {
+            "content": "ESCROW",
+            "position": 14
+          },
+          {
+            "content": "MOHAWK",
+            "position": 0
+          }
+        ]
+      }
     ],
-    "results": []
+    "stream": "daily"
   },
   "2026-10-20": {
-    "status": "ERROR",
-    "errors": [
-      "Not Found"
+    "status": "OK",
+    "id": 1328,
+    "print_date": "2026-10-20",
+    "editor": "Wyna Liu",
+    "categories": [
+      {
+        "title": "FINISH",
+        "cards": [
+          {
+            "content": "CLOSE",
+            "position": 10
+          },
+          {
+            "content": "END",
+            "position": 15
+          },
+          {
+            "content": "STOP",
+            "position": 13
+          },
+          {
+            "content": "WRAP",
+            "position": 5
+          }
+        ]
+      },
+      {
+        "title": "LACKEY",
+        "cards": [
+          {
+            "content": "MINION",
+            "position": 7
+          },
+          {
+            "content": "POODLE",
+            "position": 4
+          },
+          {
+            "content": "PUPPET",
+            "position": 9
+          },
+          {
+            "content": "STOOGE",
+            "position": 14
+          }
+        ]
+      },
+      {
+        "title": "MUSTACHES",
+        "cards": [
+          {
+            "content": "CHEVRON",
+            "position": 0
+          },
+          {
+            "content": "HORSESHOE",
+            "position": 11
+          },
+          {
+            "content": "PENCIL",
+            "position": 3
+          },
+          {
+            "content": "WALRUS",
+            "position": 8
+          }
+        ]
+      },
+      {
+        "title": "HOMOPHONES OF DISNEY CHARACTERS",
+        "cards": [
+          {
+            "content": "ARIAL",
+            "position": 12
+          },
+          {
+            "content": "BELL",
+            "position": 2
+          },
+          {
+            "content": "DOCK",
+            "position": 1
+          },
+          {
+            "content": "MINI",
+            "position": 6
+          }
+        ]
+      }
     ],
-    "results": []
+    "stream": "daily"
   },
   "2026-10-21": {
     "status": "ERROR",
@@ -112552,92 +112896,99 @@
     "results": []
   },
   "2026-10-25": {
+    "status": "ERROR",
+    "errors": [
+      "Not Found"
+    ],
+    "results": []
+  },
+  "2026-10-26": {
     "status": "OK",
-    "id": 1324,
-    "print_date": "2026-10-25",
+    "id": 1331,
+    "print_date": "2026-10-26",
     "editor": "Wyna Liu",
     "categories": [
       {
-        "title": "WORDS MEANING GOOD THAT SOUND BAD",
+        "title": "RESPONSES TO \"HOW ARE YOU?\"",
         "cards": [
           {
-            "content": "GNARLY",
-            "position": 4
-          },
-          {
-            "content": "KILLER",
+            "content": "CHILLING",
             "position": 2
           },
           {
-            "content": "SICK",
+            "content": "MANAGING",
+            "position": 10
+          },
+          {
+            "content": "NOT BAD",
             "position": 15
           },
           {
-            "content": "WICKED",
-            "position": 10
-          }
-        ]
-      },
-      {
-        "title": "MARTINI SPECIFICATIONS",
-        "cards": [
-          {
-            "content": "DIRTY",
-            "position": 1
-          },
-          {
-            "content": "DRY",
-            "position": 8
-          },
-          {
-            "content": "SHAKEN",
-            "position": 14
-          },
-          {
-            "content": "TWIST",
-            "position": 5
-          }
-        ]
-      },
-      {
-        "title": "THINGS WITH STRINGS",
-        "cards": [
-          {
-            "content": "GUITAR",
-            "position": 3
-          },
-          {
-            "content": "MARIONETTE",
+            "content": "SAME OLD",
             "position": 12
-          },
-          {
-            "content": "TASSEL",
-            "position": 11
-          },
-          {
-            "content": "TENNIS RACKET",
-            "position": 9
           }
         ]
       },
       {
-        "title": "STARTING WITH DOG COMMANDS",
+        "title": "KINDS OF MATS",
         "cards": [
           {
-            "content": "DOWNFALL",
+            "content": "PRAYER",
             "position": 7
           },
           {
-            "content": "SHAKESPEARE",
+            "content": "WELCOME",
+            "position": 0
+          },
+          {
+            "content": "WRESTLING",
+            "position": 11
+          },
+          {
+            "content": "YOGA",
+            "position": 4
+          }
+        ]
+      },
+      {
+        "title": "AKC DOG BREED GROUPS",
+        "cards": [
+          {
+            "content": "HERDING",
+            "position": 14
+          },
+          {
+            "content": "HOUND",
+            "position": 9
+          },
+          {
+            "content": "SPORTING",
             "position": 6
           },
           {
-            "content": "SITCOM",
+            "content": "TOY",
+            "position": 3
+          }
+        ]
+      },
+      {
+        "title": "HORROR MOVIES WITH LAST LETTER CHANGED",
+        "cards": [
+          {
+            "content": "HALLOWEEK",
+            "position": 1
+          },
+          {
+            "content": "HOSTED",
             "position": 13
           },
           {
-            "content": "STAYCATION",
-            "position": 0
+            "content": "JAWN",
+            "position": 5
+          },
+          {
+            "content": "PSYCHS",
+            "position": 8
           }
         ]
       }
