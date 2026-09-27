@@ -112994,5 +112994,12 @@
       }
     ],
     "stream": "daily"
+  },
+  "2026-10-27": {
+    "status": "ERROR",
+    "errors": [
+      "Not Found"
+    ],
+    "results": []
   }
 }
