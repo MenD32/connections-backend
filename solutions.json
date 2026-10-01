@@ -112330,7 +112330,7 @@
         ]
       },
       {
-        "title": "TENNIS VERBS",
+        "title": "TENNIS SHOTS",
         "cards": [
           {
             "content": "SERVE",
@@ -112402,23 +112402,23 @@
     "editor": "Wyna Liu",
     "categories": [
       {
-        "title": "LOWEST PART",
+        "title": "WAYS TO PRESERVE FOOD",
         "cards": [
           {
-            "content": "BASE",
-            "position": 8
+            "content": "CURE",
+            "position": 12
           },
           {
-            "content": "BOTTOM",
-            "position": 14
+            "content": "DRY",
+            "position": 2
           },
           {
-            "content": "FOOT",
-            "position": 3
+            "content": "PICKLE",
+            "position": 7
           },
           {
-            "content": "FOUNDATION",
-            "position": 11
+            "content": "SMOKE",
+            "position": 0
           }
         ]
       },
@@ -112444,23 +112444,23 @@
         ]
       },
       {
-        "title": "WAYS TO PRESERVE FOOD",
+        "title": "LOWEST PART",
         "cards": [
           {
-            "content": "CURE",
-            "position": 12
+            "content": "BASE",
+            "position": 8
           },
           {
-            "content": "DRY",
-            "position": 2
+            "content": "BOTTOM",
+            "position": 14
           },
           {
-            "content": "PICKLE",
-            "position": 7
+            "content": "FOOT",
+            "position": 3
           },
           {
-            "content": "SMOKE",
-            "position": 0
+            "content": "FOUNDATION",
+            "position": 11
           }
         ]
       },
@@ -112558,7 +112558,7 @@
         ]
       },
       {
-        "title": "STARTING WITH WORDS FOR \"TRENDY\"",
+        "title": "STARTING WITH WORDS FOR \"STYLISH\"",
         "cards": [
           {
             "content": "CHICKEN",
@@ -112712,7 +112712,7 @@
         "title": "ALL TALK",
         "cards": [
           {
-            "content": "BLUSTER",
+            "content": "BLATHER",
             "position": 13
           },
           {
@@ -113103,6 +113103,13 @@
     "results": []
   },
   "2026-10-30": {
+    "status": "ERROR",
+    "errors": [
+      "Not Found"
+    ],
+    "results": []
+  },
+  "2026-10-31": {
     "status": "ERROR",
     "errors": [
       "Not Found"
