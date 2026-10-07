@@ -113458,7 +113458,7 @@
         "cards": [
           {
             "content": "GNARLY",
-            "position": 10
+            "position": 15
           },
           {
             "content": "KILLER",
@@ -113466,11 +113466,11 @@
           },
           {
             "content": "SICK",
-            "position": 15
+            "position": 4
           },
           {
             "content": "WICKED",
-            "position": 4
+            "position": 10
           }
         ]
       },
@@ -113483,15 +113483,15 @@
           },
           {
             "content": "DRY",
-            "position": 8
-          },
-          {
-            "content": "SHAKEN",
             "position": 14
           },
           {
+            "content": "SHAKEN",
+            "position": 6
+          },
+          {
             "content": "UP",
-            "position": 5
+            "position": 7
           }
         ]
       },
@@ -113504,7 +113504,7 @@
           },
           {
             "content": "MARIONETTE",
-            "position": 12
+            "position": 13
           },
           {
             "content": "TASSEL",
@@ -113512,7 +113512,7 @@
           },
           {
             "content": "TENNIS RACKET",
-            "position": 9
+            "position": 8
           }
         ]
       },
@@ -113521,15 +113521,15 @@
         "cards": [
           {
             "content": "DOWNFALL",
-            "position": 7
+            "position": 5
           },
           {
             "content": "SHAKESPEARE",
-            "position": 6
+            "position": 9
           },
           {
             "content": "SITCOM",
-            "position": 13
+            "position": 12
           },
           {
             "content": "STAYCATION",
@@ -113538,7 +113538,10 @@
         ]
       }
     ],
-    "stream": "daily"
+    "stream": "daily",
+    "tags": [
+      "variant:4x4"
+    ]
   },
   "2026-10-29": {
     "status": "ERROR",
@@ -113768,6 +113771,13 @@
     "results": []
   },
   "2026-11-05": {
+    "status": "ERROR",
+    "errors": [
+      "Not Found"
+    ],
+    "results": []
+  },
+  "2026-11-06": {
     "status": "ERROR",
     "errors": [
       "Not Found"
