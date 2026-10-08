@@ -113026,15 +113026,15 @@
         ]
       },
       {
-        "title": "DOUBLE MISNOMERS (THAT ARE NEITHER PART OF THEIR NAME)",
+        "title": "DOUBLE MISNOMERS (NEITHER WORD IS AN ACCURATE DESCRIPTION)",
         "cards": [
-          {
-            "content": "CHINESE CHECKERS",
-            "position": 9
-          },
           {
             "content": "ENGLISH HORN",
             "position": 0
+          },
+          {
+            "content": "GRAPE-NUTS",
+            "position": 9
           },
           {
             "content": "MANTIS SHRIMP",
@@ -113155,6 +113155,27 @@
     "editor": "Wyna Liu",
     "categories": [
       {
+        "title": "FORTHRIGHT",
+        "cards": [
+          {
+            "content": "DIRECT",
+            "position": 2
+          },
+          {
+            "content": "FRANK",
+            "position": 12
+          },
+          {
+            "content": "OPEN",
+            "position": 11
+          },
+          {
+            "content": "VOCAL",
+            "position": 5
+          }
+        ]
+      },
+      {
         "title": "THINGS YOU INSTALL ON A COMPUTER",
         "cards": [
           {
@@ -113193,27 +113214,6 @@
           {
             "content": "TIME",
             "position": 9
-          }
-        ]
-      },
-      {
-        "title": "FORTHRIGHT",
-        "cards": [
-          {
-            "content": "DIRECT",
-            "position": 2
-          },
-          {
-            "content": "FRANK",
-            "position": 12
-          },
-          {
-            "content": "OPEN",
-            "position": 11
-          },
-          {
-            "content": "VOCAL",
-            "position": 5
           }
         ]
       },
@@ -113275,10 +113275,6 @@
         "title": "THINGS ON STICKS",
         "cards": [
           {
-            "content": "FLAG",
-            "position": 3
-          },
-          {
             "content": "HOBBY HORSE",
             "position": 7
           },
@@ -113289,6 +113285,10 @@
           {
             "content": "POPSICLE",
             "position": 4
+          },
+          {
+            "content": "SPARKLER",
+            "position": 3
           }
         ]
       },
@@ -113778,6 +113778,13 @@
     "results": []
   },
   "2026-11-06": {
+    "status": "ERROR",
+    "errors": [
+      "Not Found"
+    ],
+    "results": []
+  },
+  "2026-11-07": {
     "status": "ERROR",
     "errors": [
       "Not Found"
