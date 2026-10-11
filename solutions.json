@@ -113640,7 +113640,7 @@
           },
           {
             "content": "KILLER",
-            "position": 2
+            "position": 3
           },
           {
             "content": "SICK",
@@ -113657,7 +113657,7 @@
         "cards": [
           {
             "content": "DIRTY",
-            "position": 1
+            "position": 2
           },
           {
             "content": "DRY",
@@ -113678,7 +113678,7 @@
         "cards": [
           {
             "content": "GUITAR",
-            "position": 3
+            "position": 1
           },
           {
             "content": "MARIONETTE",
@@ -114422,6 +114422,13 @@
     "results": []
   },
   "2026-11-09": {
+    "status": "ERROR",
+    "errors": [
+      "Not Found"
+    ],
+    "results": []
+  },
+  "2026-11-10": {
     "status": "ERROR",
     "errors": [
       "Not Found"
