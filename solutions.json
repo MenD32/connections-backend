@@ -113342,91 +113342,91 @@
   },
   "2026-10-25": {
     "status": "OK",
-    "id": 1344,
+    "id": 1343,
     "print_date": "2026-10-25",
     "editor": "Wyna Liu",
     "categories": [
       {
-        "title": "THINGS TO BRING ON A TREK",
+        "title": "STEAL",
         "cards": [
           {
-            "content": "BACKPACK",
+            "content": "BOOST",
             "position": 15
           },
           {
-            "content": "COMPASS",
-            "position": 1
+            "content": "PALM",
+            "position": 9
           },
           {
-            "content": "HIKING BOOTS",
-            "position": 7
+            "content": "POCKET",
+            "position": 2
           },
           {
-            "content": "WATER BOTTLE",
-            "position": 10
+            "content": "SWIPE",
+            "position": 13
           }
         ]
       },
       {
-        "title": "MIST MAKERS",
+        "title": "PASTA SHAPES",
         "cards": [
           {
-            "content": "DRY ICE",
-            "position": 9
+            "content": "BOW TIE",
+            "position": 11
           },
           {
-            "content": "FOG MACHINE",
-            "position": 2
+            "content": "ELBOW",
+            "position": 5
           },
           {
-            "content": "HUMIDIFIER",
+            "content": "SHELL",
+            "position": 8
+          },
+          {
+            "content": "WAGON WHEEL",
+            "position": 1
+          }
+        ]
+      },
+      {
+        "title": "FICTIONAL TOMS",
+        "cards": [
+          {
+            "content": "RIPLEY",
             "position": 14
           },
           {
-            "content": "WATERFALL",
+            "content": "SAWYER",
+            "position": 12
+          },
+          {
+            "content": "SWIFT",
+            "position": 6
+          },
+          {
+            "content": "THUMB",
             "position": 4
           }
         ]
       },
       {
-        "title": "ANGER",
+        "title": "THINGS THAT CAN BE SNAPPED",
         "cards": [
           {
-            "content": "INCENSE",
+            "content": "FINGERS",
+            "position": 7
+          },
+          {
+            "content": "FOOTBALL",
             "position": 3
           },
           {
-            "content": "NETTLE",
-            "position": 6
-          },
-          {
-            "content": "PIQUE",
-            "position": 12
-          },
-          {
-            "content": "WIND UP",
-            "position": 11
-          }
-        ]
-      },
-      {
-        "title": "THINGS WITH MIRRORS",
-        "cards": [
-          {
-            "content": "DISCO BALL",
-            "position": 5
-          },
-          {
-            "content": "DRESSING ROOM",
-            "position": 8
-          },
-          {
-            "content": "KALEIDOSCOPE",
-            "position": 13
-          },
-          {
-            "content": "MEDICINE CABINET",
+            "content": "GLOW STICK",
             "position": 0
+          },
+          {
+            "content": "RUBBER BAND",
+            "position": 10
           }
         ]
       }
@@ -113536,27 +113536,6 @@
     "editor": "Wyna Liu",
     "categories": [
       {
-        "title": "PARTS OF THE EAR",
-        "cards": [
-          {
-            "content": "ANVIL",
-            "position": 12
-          },
-          {
-            "content": "CANAL",
-            "position": 9
-          },
-          {
-            "content": "DRUM",
-            "position": 2
-          },
-          {
-            "content": "STIRRUP",
-            "position": 14
-          }
-        ]
-      },
-      {
         "title": "MESS (WITH)",
         "cards": [
           {
@@ -113574,6 +113553,27 @@
           {
             "content": "TRIFLE",
             "position": 10
+          }
+        ]
+      },
+      {
+        "title": "PARTS OF THE EAR",
+        "cards": [
+          {
+            "content": "ANVIL",
+            "position": 12
+          },
+          {
+            "content": "CANAL",
+            "position": 9
+          },
+          {
+            "content": "DRUM",
+            "position": 2
+          },
+          {
+            "content": "STIRRUP",
+            "position": 14
           }
         ]
       },
@@ -113627,91 +113627,91 @@
   },
   "2026-10-28": {
     "status": "OK",
-    "id": 1324,
+    "id": 1337,
     "print_date": "2026-10-28",
     "editor": "Wyna Liu",
     "categories": [
       {
-        "title": "WORDS MEANING GOOD THAT SOUND BAD",
+        "title": "ROMANTIC LIKING",
         "cards": [
           {
-            "content": "GNARLY",
-            "position": 15
-          },
-          {
-            "content": "KILLER",
+            "content": "ATTRACTION",
             "position": 3
           },
           {
-            "content": "SICK",
-            "position": 4
+            "content": "CRUSH",
+            "position": 8
           },
           {
-            "content": "WICKED",
-            "position": 10
-          }
-        ]
-      },
-      {
-        "title": "MARTINI SPECIFICATIONS",
-        "cards": [
-          {
-            "content": "DIRTY",
-            "position": 2
-          },
-          {
-            "content": "DRY",
+            "content": "FEELINGS",
             "position": 14
           },
           {
-            "content": "SHAKEN",
+            "content": "INTEREST",
+            "position": 11
+          }
+        ]
+      },
+      {
+        "title": "COMPONENTS OF AN EMAIL",
+        "cards": [
+          {
+            "content": "ATTACHMENT",
+            "position": 4
+          },
+          {
+            "content": "BODY",
             "position": 6
           },
           {
-            "content": "UP",
-            "position": 7
+            "content": "SIGNATURE",
+            "position": 10
+          },
+          {
+            "content": "SUBJECT",
+            "position": 2
           }
         ]
       },
       {
-        "title": "THINGS WITH STRINGS",
+        "title": "NASA MARS ROVERS",
         "cards": [
           {
-            "content": "GUITAR",
-            "position": 1
+            "content": "CURIOSITY",
+            "position": 0
           },
           {
-            "content": "MARIONETTE",
+            "content": "OPPORTUNITY",
             "position": 13
           },
           {
-            "content": "TASSEL",
-            "position": 11
+            "content": "PERSEVERANCE",
+            "position": 15
           },
           {
-            "content": "TENNIS RACKET",
-            "position": 8
+            "content": "SPIRIT",
+            "position": 5
           }
         ]
       },
       {
-        "title": "STARTING WITH DOG COMMANDS",
+        "title": "HOMOPHONES OF PATHS",
         "cards": [
           {
-            "content": "DOWNFALL",
-            "position": 5
+            "content": "COARSE",
+            "position": 7
           },
           {
-            "content": "SHAKESPEARE",
-            "position": 9
-          },
-          {
-            "content": "SITCOM",
+            "content": "RODE",
             "position": 12
           },
           {
-            "content": "STAYCATION",
-            "position": 0
+            "content": "ROUT",
+            "position": 1
+          },
+          {
+            "content": "WEIGH",
+            "position": 9
           }
         ]
       }
@@ -113915,91 +113915,91 @@
   },
   "2026-10-31": {
     "status": "OK",
-    "id": 1337,
+    "id": 1324,
     "print_date": "2026-10-31",
     "editor": "Wyna Liu",
     "categories": [
       {
-        "title": "ROMANTIC LIKING",
+        "title": "WORDS MEANING GOOD THAT SOUND BAD",
         "cards": [
           {
-            "content": "ATTRACTION",
-            "position": 3
-          },
-          {
-            "content": "CRUSH",
-            "position": 8
-          },
-          {
-            "content": "FEELINGS",
-            "position": 14
-          },
-          {
-            "content": "INTEREST",
-            "position": 11
-          }
-        ]
-      },
-      {
-        "title": "COMPONENTS OF AN EMAIL",
-        "cards": [
-          {
-            "content": "ATTACHMENT",
-            "position": 4
-          },
-          {
-            "content": "BODY",
-            "position": 5
-          },
-          {
-            "content": "SIGNATURE",
-            "position": 10
-          },
-          {
-            "content": "SUBJECT",
-            "position": 2
-          }
-        ]
-      },
-      {
-        "title": "NASA MARS ROVERS",
-        "cards": [
-          {
-            "content": "CURIOSITY",
-            "position": 0
-          },
-          {
-            "content": "OPPORTUNITY",
-            "position": 13
-          },
-          {
-            "content": "PERSEVERANCE",
+            "content": "GNARLY",
             "position": 15
           },
           {
-            "content": "SPIRIT",
-            "position": 6
+            "content": "KILLER",
+            "position": 3
+          },
+          {
+            "content": "SICK",
+            "position": 4
+          },
+          {
+            "content": "WICKED",
+            "position": 10
           }
         ]
       },
       {
-        "title": "HOMOPHONES OF PATHS",
+        "title": "MARTINI SPECIFICATIONS",
         "cards": [
           {
-            "content": "COARSE",
+            "content": "DIRTY",
+            "position": 2
+          },
+          {
+            "content": "DRY",
+            "position": 14
+          },
+          {
+            "content": "SHAKEN",
+            "position": 6
+          },
+          {
+            "content": "UP",
             "position": 7
-          },
+          }
+        ]
+      },
+      {
+        "title": "THINGS WITH STRINGS",
+        "cards": [
           {
-            "content": "RODE",
-            "position": 12
-          },
-          {
-            "content": "ROUT",
+            "content": "GUITAR",
             "position": 1
           },
           {
-            "content": "WEIGH",
+            "content": "MARIONETTE",
+            "position": 13
+          },
+          {
+            "content": "TASSEL",
+            "position": 11
+          },
+          {
+            "content": "TENNIS RACKET",
+            "position": 8
+          }
+        ]
+      },
+      {
+        "title": "STARTING WITH DOG COMMANDS",
+        "cards": [
+          {
+            "content": "DOWNFALL",
+            "position": 5
+          },
+          {
+            "content": "SHAKESPEARE",
             "position": 9
+          },
+          {
+            "content": "SITCOM",
+            "position": 12
+          },
+          {
+            "content": "STAYCATION",
+            "position": 0
           }
         ]
       }
@@ -114107,91 +114107,91 @@
   },
   "2026-11-02": {
     "status": "OK",
-    "id": 1343,
+    "id": 1344,
     "print_date": "2026-11-02",
     "editor": "Wyna Liu",
     "categories": [
       {
-        "title": "STEAL",
+        "title": "THINGS TO BRING ON A TREK",
         "cards": [
           {
-            "content": "BOOST",
+            "content": "BACKPACK",
             "position": 15
           },
           {
-            "content": "PALM",
-            "position": 9
-          },
-          {
-            "content": "POCKET",
-            "position": 2
-          },
-          {
-            "content": "SWIPE",
-            "position": 13
-          }
-        ]
-      },
-      {
-        "title": "PASTA SHAPES",
-        "cards": [
-          {
-            "content": "BOW TIE",
-            "position": 11
-          },
-          {
-            "content": "ELBOW",
-            "position": 5
-          },
-          {
-            "content": "SHELL",
-            "position": 8
-          },
-          {
-            "content": "WAGON WHEEL",
+            "content": "COMPASS",
             "position": 1
+          },
+          {
+            "content": "HIKING BOOTS",
+            "position": 7
+          },
+          {
+            "content": "WATER BOTTLE",
+            "position": 10
           }
         ]
       },
       {
-        "title": "FICTIONAL TOMS",
+        "title": "ANGER",
         "cards": [
           {
-            "content": "RIDDLE",
-            "position": 14
+            "content": "INCENSE",
+            "position": 3
           },
           {
-            "content": "SAWYER",
-            "position": 12
-          },
-          {
-            "content": "SWIFT",
+            "content": "NETTLE",
             "position": 6
           },
           {
-            "content": "THUMB",
+            "content": "PIQUE",
+            "position": 12
+          },
+          {
+            "content": "WIND UP",
+            "position": 11
+          }
+        ]
+      },
+      {
+        "title": "MIST MAKERS",
+        "cards": [
+          {
+            "content": "DRY ICE",
+            "position": 9
+          },
+          {
+            "content": "FOG MACHINE",
+            "position": 2
+          },
+          {
+            "content": "HUMIDIFIER",
+            "position": 14
+          },
+          {
+            "content": "WATERFALL",
             "position": 4
           }
         ]
       },
       {
-        "title": "THINGS THAT CAN BE SNAPPED",
+        "title": "THINGS WITH MIRRORS",
         "cards": [
           {
-            "content": "FINGERS",
-            "position": 7
+            "content": "DISCO BALL",
+            "position": 5
           },
           {
-            "content": "FOOTBALL",
-            "position": 3
+            "content": "DRESSING ROOM",
+            "position": 8
           },
           {
-            "content": "GLOW STICK",
+            "content": "KALEIDOSCOPE",
+            "position": 13
+          },
+          {
+            "content": "MEDICINE CABINET",
             "position": 0
-          },
-          {
-            "content": "RUBBER BAND",
-            "position": 10
           }
         ]
       }
@@ -114450,6 +114450,13 @@
     "results": []
   },
   "2026-11-13": {
+    "status": "ERROR",
+    "errors": [
+      "Not Found"
+    ],
+    "results": []
+  },
+  "2026-11-14": {
     "status": "ERROR",
     "errors": [
       "Not Found"
