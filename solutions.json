@@ -114298,18 +114298,196 @@
     ]
   },
   "2026-11-04": {
-    "status": "ERROR",
-    "errors": [
-      "Not Found"
+    "status": "OK",
+    "id": 1355,
+    "print_date": "2026-11-04",
+    "editor": "Wyna Liu",
+    "categories": [
+      {
+        "title": "MOVE IDLY, WITH \"AROUND\"",
+        "cards": [
+          {
+            "content": "LOLL",
+            "position": 11
+          },
+          {
+            "content": "POKE",
+            "position": 1
+          },
+          {
+            "content": "PUTTER",
+            "position": 8
+          },
+          {
+            "content": "SHUFFLE",
+            "position": 13
+          }
+        ]
+      },
+      {
+        "title": "TRIANGULAR PRISMS WITH A SHARP EDGE",
+        "cards": [
+          {
+            "content": "DOORSTOP",
+            "position": 10
+          },
+          {
+            "content": "FLATIRON BUILDING",
+            "position": 12
+          },
+          {
+            "content": "PIE SLICE",
+            "position": 15
+          },
+          {
+            "content": "WEDGE",
+            "position": 6
+          }
+        ]
+      },
+      {
+        "title": "WORDS AFTER \"DO NOT\" ON A CARE LABEL",
+        "cards": [
+          {
+            "content": "BLEACH",
+            "position": 7
+          },
+          {
+            "content": "IRON",
+            "position": 2
+          },
+          {
+            "content": "TUMBLE DRY",
+            "position": 14
+          },
+          {
+            "content": "WRING",
+            "position": 5
+          }
+        ]
+      },
+      {
+        "title": "FIRE___",
+        "cards": [
+          {
+            "content": "CRACKER",
+            "position": 9
+          },
+          {
+            "content": "FLY",
+            "position": 0
+          },
+          {
+            "content": "WOOD",
+            "position": 4
+          },
+          {
+            "content": "WORKS",
+            "position": 3
+          }
+        ]
+      }
     ],
-    "results": []
+    "stream": "daily",
+    "tags": [
+      "variant:4x4"
+    ]
   },
   "2026-11-05": {
-    "status": "ERROR",
-    "errors": [
-      "Not Found"
+    "status": "OK",
+    "id": 1353,
+    "print_date": "2026-11-05",
+    "editor": "Wyna Liu",
+    "categories": [
+      {
+        "title": "FLOWERS",
+        "cards": [
+          {
+            "content": "ANEMONE",
+            "position": 13
+          },
+          {
+            "content": "LOTUS",
+            "position": 10
+          },
+          {
+            "content": "NARCISSUS",
+            "position": 7
+          },
+          {
+            "content": "ROSE",
+            "position": 1
+          }
+        ]
+      },
+      {
+        "title": "KINDS OF HEELS",
+        "cards": [
+          {
+            "content": "KITTEN",
+            "position": 3
+          },
+          {
+            "content": "PLATFORM",
+            "position": 15
+          },
+          {
+            "content": "SPIKE",
+            "position": 6
+          },
+          {
+            "content": "WEDGE",
+            "position": 8
+          }
+        ]
+      },
+      {
+        "title": "TEARDROP-SHAPED THINGS",
+        "cards": [
+          {
+            "content": "PEAR",
+            "position": 5
+          },
+          {
+            "content": "RAINDROP",
+            "position": 0
+          },
+          {
+            "content": "SPEEDBAG",
+            "position": 14
+          },
+          {
+            "content": "UVULA",
+            "position": 11
+          }
+        ]
+      },
+      {
+        "title": "LIQUORS WITH LAST LETTERS CHANGED",
+        "cards": [
+          {
+            "content": "BRANDO",
+            "position": 12
+          },
+          {
+            "content": "GIG",
+            "position": 4
+          },
+          {
+            "content": "RUN",
+            "position": 9
+          },
+          {
+            "content": "WHISKER",
+            "position": 2
+          }
+        ]
+      }
     ],
-    "results": []
+    "stream": "daily",
+    "tags": [
+      "variant:4x4"
+    ]
   },
   "2026-11-06": {
     "status": "OK",
@@ -114408,18 +114586,196 @@
     ]
   },
   "2026-11-07": {
-    "status": "ERROR",
-    "errors": [
-      "Not Found"
+    "status": "OK",
+    "id": 1350,
+    "print_date": "2026-11-07",
+    "editor": "Wyna Liu",
+    "categories": [
+      {
+        "title": "PIRATE'S PLUNDER",
+        "cards": [
+          {
+            "content": "BOOTY",
+            "position": 15
+          },
+          {
+            "content": "BOUNTY",
+            "position": 9
+          },
+          {
+            "content": "SPOILS",
+            "position": 12
+          },
+          {
+            "content": "TREASURE",
+            "position": 7
+          }
+        ]
+      },
+      {
+        "title": "KINDS OF SHIRTS",
+        "cards": [
+          {
+            "content": "HENLEY",
+            "position": 8
+          },
+          {
+            "content": "POLO",
+            "position": 0
+          },
+          {
+            "content": "RAGLAN",
+            "position": 14
+          },
+          {
+            "content": "RINGER",
+            "position": 5
+          }
+        ]
+      },
+      {
+        "title": "FIRST WORDS OF U.S. STATE NAMES",
+        "cards": [
+          {
+            "content": "NEW",
+            "position": 2
+          },
+          {
+            "content": "NORTH",
+            "position": 10
+          },
+          {
+            "content": "RHODE",
+            "position": 4
+          },
+          {
+            "content": "SOUTH",
+            "position": 13
+          }
+        ]
+      },
+      {
+        "title": "ENDS OF STORM TYPES",
+        "cards": [
+          {
+            "content": "CANE",
+            "position": 11
+          },
+          {
+            "content": "CLONE",
+            "position": 3
+          },
+          {
+            "content": "EASTER",
+            "position": 1
+          },
+          {
+            "content": "SOON",
+            "position": 6
+          }
+        ]
+      }
     ],
-    "results": []
+    "stream": "daily",
+    "tags": [
+      "variant:4x4"
+    ]
   },
   "2026-11-08": {
-    "status": "ERROR",
-    "errors": [
-      "Not Found"
+    "status": "OK",
+    "id": 1351,
+    "print_date": "2026-11-08",
+    "editor": "Wyna Liu",
+    "categories": [
+      {
+        "title": "MUSCULAR",
+        "cards": [
+          {
+            "content": "BUILT",
+            "position": 4
+          },
+          {
+            "content": "CUT",
+            "position": 0
+          },
+          {
+            "content": "JACKED",
+            "position": 14
+          },
+          {
+            "content": "RIPPED",
+            "position": 12
+          }
+        ]
+      },
+      {
+        "title": "HAIR SALON SERVICES",
+        "cards": [
+          {
+            "content": "BLOWOUT",
+            "position": 5
+          },
+          {
+            "content": "COLOR",
+            "position": 8
+          },
+          {
+            "content": "EXTENSIONS",
+            "position": 11
+          },
+          {
+            "content": "TRIM",
+            "position": 13
+          }
+        ]
+      },
+      {
+        "title": "THINGS THAT HELP MAKE SENSE OF A SITUATION",
+        "cards": [
+          {
+            "content": "CLARITY",
+            "position": 6
+          },
+          {
+            "content": "CONTEXT",
+            "position": 2
+          },
+          {
+            "content": "INSIGHT",
+            "position": 10
+          },
+          {
+            "content": "PERSPECTIVE",
+            "position": 15
+          }
+        ]
+      },
+      {
+        "title": "VEGETABLE HOMOPHONES",
+        "cards": [
+          {
+            "content": "CARAT",
+            "position": 3
+          },
+          {
+            "content": "CHARRED",
+            "position": 7
+          },
+          {
+            "content": "KORN",
+            "position": 9
+          },
+          {
+            "content": "LEAK",
+            "position": 1
+          }
+        ]
+      }
     ],
-    "results": []
+    "stream": "daily",
+    "tags": [
+      "variant:4x4"
+    ]
   },
   "2026-11-09": {
     "status": "ERROR",
@@ -114436,18 +114792,196 @@
     "results": []
   },
   "2026-11-11": {
-    "status": "ERROR",
-    "errors": [
-      "Not Found"
+    "status": "OK",
+    "id": 1352,
+    "print_date": "2026-11-11",
+    "editor": "Wyna Liu",
+    "categories": [
+      {
+        "title": "\"GADZOOKS!\"",
+        "cards": [
+          {
+            "content": "GOOD HEAVENS",
+            "position": 11
+          },
+          {
+            "content": "GREAT SCOTT",
+            "position": 0
+          },
+          {
+            "content": "HOLY SMOKES",
+            "position": 14
+          },
+          {
+            "content": "JIMINY CRICKET",
+            "position": 5
+          }
+        ]
+      },
+      {
+        "title": "STARTING WITH VARIATIONS",
+        "cards": [
+          {
+            "content": "CHANGE PURSE",
+            "position": 9
+          },
+          {
+            "content": "FLUX CAPACITOR",
+            "position": 3
+          },
+          {
+            "content": "SHIFT DRESS",
+            "position": 12
+          },
+          {
+            "content": "SWING SET",
+            "position": 15
+          }
+        ]
+      },
+      {
+        "title": "ENDING IN WAYS TO COOK THINGS",
+        "cards": [
+          {
+            "content": "ARCTIC CHAR",
+            "position": 10
+          },
+          {
+            "content": "COMEDY ROAST",
+            "position": 7
+          },
+          {
+            "content": "DOC BROWN",
+            "position": 8
+          },
+          {
+            "content": "YOU'RE TOAST",
+            "position": 2
+          }
+        ]
+      },
+      {
+        "title": "STARTING WITH BEST PICTURE OSCAR WINNERS",
+        "cards": [
+          {
+            "content": "GLADIATOR SANDALS",
+            "position": 13
+          },
+          {
+            "content": "MARTY MCFLY",
+            "position": 6
+          },
+          {
+            "content": "MOONLIGHT SONATA",
+            "position": 4
+          },
+          {
+            "content": "ROCKY ROAD",
+            "position": 1
+          }
+        ]
+      }
     ],
-    "results": []
+    "stream": "daily",
+    "tags": [
+      "variant:4x4"
+    ]
   },
   "2026-11-12": {
-    "status": "ERROR",
-    "errors": [
-      "Not Found"
+    "status": "OK",
+    "id": 1354,
+    "print_date": "2026-11-12",
+    "editor": "Wyna Liu",
+    "categories": [
+      {
+        "title": "KINDS OF MEDICINE",
+        "cards": [
+          {
+            "content": "FOLK",
+            "position": 5
+          },
+          {
+            "content": "HERBAL",
+            "position": 1
+          },
+          {
+            "content": "HOLISTIC",
+            "position": 13
+          },
+          {
+            "content": "TRADITIONAL",
+            "position": 10
+          }
+        ]
+      },
+      {
+        "title": "PARTS OF A GOLF COURSE",
+        "cards": [
+          {
+            "content": "GREEN",
+            "position": 4
+          },
+          {
+            "content": "ROUGH",
+            "position": 7
+          },
+          {
+            "content": "SANDTRAP",
+            "position": 12
+          },
+          {
+            "content": "TEE BOX",
+            "position": 15
+          }
+        ]
+      },
+      {
+        "title": "THINGS FILLED WITH AIR",
+        "cards": [
+          {
+            "content": "AIR MATTRESS",
+            "position": 14
+          },
+          {
+            "content": "BUBBLE",
+            "position": 6
+          },
+          {
+            "content": "TIRE",
+            "position": 11
+          },
+          {
+            "content": "WHOOPIE CUSHION",
+            "position": 3
+          }
+        ]
+      },
+      {
+        "title": "ENDING IN PALINDROMES",
+        "cards": [
+          {
+            "content": "AFTERNOON",
+            "position": 8
+          },
+          {
+            "content": "PATOOT",
+            "position": 2
+          },
+          {
+            "content": "RHEOSTATS",
+            "position": 9
+          },
+          {
+            "content": "SHREDDER",
+            "position": 0
+          }
+        ]
+      }
     ],
-    "results": []
+    "stream": "daily",
+    "tags": [
+      "variant:4x4"
+    ]
   },
   "2026-11-13": {
     "status": "ERROR",
@@ -114457,13 +114991,109 @@
     "results": []
   },
   "2026-11-14": {
+    "status": "OK",
+    "id": 1348,
+    "print_date": "2026-11-14",
+    "editor": "Wyna Liu",
+    "categories": [
+      {
+        "title": "CUTTING-EDGE",
+        "cards": [
+          {
+            "content": "ADVANCED",
+            "position": 3
+          },
+          {
+            "content": "FOREMOST",
+            "position": 15
+          },
+          {
+            "content": "MODERN",
+            "position": 10
+          },
+          {
+            "content": "PROGRESSIVE",
+            "position": 5
+          }
+        ]
+      },
+      {
+        "title": "LOCATIONS FOR AN INSTITUTION",
+        "cards": [
+          {
+            "content": "CAMPUS",
+            "position": 14
+          },
+          {
+            "content": "CENTER",
+            "position": 6
+          },
+          {
+            "content": "COMPLEX",
+            "position": 0
+          },
+          {
+            "content": "FACILITY",
+            "position": 9
+          }
+        ]
+      },
+      {
+        "title": "STRATEGY BOARD GAMES",
+        "cards": [
+          {
+            "content": "CHESS",
+            "position": 1
+          },
+          {
+            "content": "GO",
+            "position": 8
+          },
+          {
+            "content": "OTHELLO",
+            "position": 11
+          },
+          {
+            "content": "STRATEGO",
+            "position": 13
+          }
+        ]
+      },
+      {
+        "title": "BABY GEAR WITH FIRST LETTER CHANGED",
+        "cards": [
+          {
+            "content": "BATTLE",
+            "position": 2
+          },
+          {
+            "content": "MARRIAGE",
+            "position": 4
+          },
+          {
+            "content": "MOTTLE",
+            "position": 7
+          },
+          {
+            "content": "TRIB",
+            "position": 12
+          }
+        ]
+      }
+    ],
+    "stream": "daily",
+    "tags": [
+      "variant:4x4"
+    ]
+  },
+  "2026-11-15": {
     "status": "ERROR",
     "errors": [
       "Not Found"
     ],
     "results": []
   },
-  "2026-11-15": {
+  "2026-11-16": {
     "status": "ERROR",
     "errors": [
       "Not Found"
