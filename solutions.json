@@ -114808,7 +114808,7 @@
         "title": "JEANS DESCRIPTORS",
         "cards": [
           {
-            "content": "BOOT-CUT",
+            "content": "BOOTCUT",
             "position": 3
           },
           {
@@ -114901,27 +114901,6 @@
         ]
       },
       {
-        "title": "OLD-TIMEY OCCUPATIONS",
-        "cards": [
-          {
-            "content": "APOTHECARY",
-            "position": 2
-          },
-          {
-            "content": "HABERDASHER",
-            "position": 7
-          },
-          {
-            "content": "SCRIVENER",
-            "position": 9
-          },
-          {
-            "content": "WAINWRIGHT",
-            "position": 12
-          }
-        ]
-      },
-      {
         "title": "LITERARY DEVICES",
         "cards": [
           {
@@ -114943,7 +114922,28 @@
         ]
       },
       {
-        "title": "WORDS WITH THE SAME 5 VOWELS AS ONLY VOWELS",
+        "title": "OLD-TIMEY OCCUPATIONS",
+        "cards": [
+          {
+            "content": "APOTHECARY",
+            "position": 2
+          },
+          {
+            "content": "HABERDASHER",
+            "position": 7
+          },
+          {
+            "content": "SCRIVENER",
+            "position": 9
+          },
+          {
+            "content": "WAINWRIGHT",
+            "position": 12
+          }
+        ]
+      },
+      {
+        "title": "WORDS WITH FIVE OF ONE VOWEL",
         "cards": [
           {
             "content": "ABRACADABRA",
@@ -115477,7 +115477,7 @@
         ]
       },
       {
-        "title": "SUMMER",
+        "title": "SUMMER ___",
         "cards": [
           {
             "content": "BLOCKBUSTER",
@@ -115594,7 +115594,7 @@
         ]
       },
       {
-        "title": "MUSICAL FILMS WITH \"!\" IN THE TITLE",
+        "title": "FILMS WITH \"!\" IN THE TITLE",
         "cards": [
           {
             "content": "AIRPLANE",
@@ -115736,7 +115736,7 @@
             "position": 5
           },
           {
-            "content": "DIPTHONG",
+            "content": "DIPHTHONG",
             "position": 9
           },
           {
@@ -115794,6 +115794,13 @@
     "results": []
   },
   "2026-11-27": {
+    "status": "ERROR",
+    "errors": [
+      "Not Found"
+    ],
+    "results": []
+  },
+  "2026-11-28": {
     "status": "ERROR",
     "errors": [
       "Not Found"
