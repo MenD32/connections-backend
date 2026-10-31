@@ -115642,18 +115642,196 @@
     ]
   },
   "2026-11-18": {
-    "status": "ERROR",
-    "errors": [
-      "Not Found"
+    "status": "OK",
+    "id": 1375,
+    "print_date": "2026-11-18",
+    "editor": "Wyna Liu",
+    "categories": [
+      {
+        "title": "DESCRIPTORS FOR A LEMON",
+        "cards": [
+          {
+            "content": "JUICY",
+            "position": 5
+          },
+          {
+            "content": "OVOID",
+            "position": 14
+          },
+          {
+            "content": "SOUR",
+            "position": 12
+          },
+          {
+            "content": "YELLOW",
+            "position": 3
+          }
+        ]
+      },
+      {
+        "title": "THINGS BEES PRODUCE",
+        "cards": [
+          {
+            "content": "BUZZ",
+            "position": 10
+          },
+          {
+            "content": "COMB",
+            "position": 7
+          },
+          {
+            "content": "HONEY",
+            "position": 1
+          },
+          {
+            "content": "VENOM",
+            "position": 13
+          }
+        ]
+      },
+      {
+        "title": "CITIES IN FRANCE",
+        "cards": [
+          {
+            "content": "CANNES",
+            "position": 15
+          },
+          {
+            "content": "DIJON",
+            "position": 6
+          },
+          {
+            "content": "NICE",
+            "position": 0
+          },
+          {
+            "content": "TOURS",
+            "position": 9
+          }
+        ]
+      },
+      {
+        "title": "___ FRY",
+        "cards": [
+          {
+            "content": "DEEP",
+            "position": 2
+          },
+          {
+            "content": "FRENCH",
+            "position": 8
+          },
+          {
+            "content": "SMALL",
+            "position": 4
+          },
+          {
+            "content": "VOCAL",
+            "position": 11
+          }
+        ]
+      }
     ],
-    "results": []
+    "stream": "daily",
+    "tags": [
+      "variant:4x4"
+    ]
   },
   "2026-11-19": {
-    "status": "ERROR",
-    "errors": [
-      "Not Found"
+    "status": "OK",
+    "id": 1373,
+    "print_date": "2026-11-19",
+    "editor": "Wyna Liu",
+    "categories": [
+      {
+        "title": "MAKE A HOLE IN THE GROUND",
+        "cards": [
+          {
+            "content": "BORE",
+            "position": 7
+          },
+          {
+            "content": "BURROW",
+            "position": 15
+          },
+          {
+            "content": "DIG",
+            "position": 12
+          },
+          {
+            "content": "TUNNEL",
+            "position": 1
+          }
+        ]
+      },
+      {
+        "title": "TREE PRODUCTS",
+        "cards": [
+          {
+            "content": "CORK",
+            "position": 3
+          },
+          {
+            "content": "LATEX",
+            "position": 14
+          },
+          {
+            "content": "LUMBER",
+            "position": 10
+          },
+          {
+            "content": "SAP",
+            "position": 8
+          }
+        ]
+      },
+      {
+        "title": "PARTS OF AN ELECTRICAL APPLIANCE",
+        "cards": [
+          {
+            "content": "CORD",
+            "position": 2
+          },
+          {
+            "content": "HOUSING",
+            "position": 11
+          },
+          {
+            "content": "PLUG",
+            "position": 9
+          },
+          {
+            "content": "SWITCH",
+            "position": 4
+          }
+        ]
+      },
+      {
+        "title": "START AND END WITH THE SAME THREE LETTERS",
+        "cards": [
+          {
+            "content": "EINSTEIN",
+            "position": 5
+          },
+          {
+            "content": "GALANGAL",
+            "position": 13
+          },
+          {
+            "content": "HOTSHOT",
+            "position": 6
+          },
+          {
+            "content": "UNDERGROUND",
+            "position": 0
+          }
+        ]
+      }
     ],
-    "results": []
+    "stream": "daily",
+    "tags": [
+      "variant:4x4"
+    ]
   },
   "2026-11-20": {
     "status": "OK",
@@ -115752,39 +115930,484 @@
     ]
   },
   "2026-11-21": {
-    "status": "ERROR",
-    "errors": [
-      "Not Found"
+    "status": "OK",
+    "id": 1371,
+    "print_date": "2026-11-21",
+    "editor": "Wyna Liu",
+    "categories": [
+      {
+        "title": "KINDS OF COOKIES",
+        "cards": [
+          {
+            "content": "BLACK AND WHITE",
+            "position": 13
+          },
+          {
+            "content": "BUTTER",
+            "position": 1
+          },
+          {
+            "content": "GIRL SCOUT",
+            "position": 15
+          },
+          {
+            "content": "SUGAR",
+            "position": 8
+          }
+        ]
+      },
+      {
+        "title": "THINGS RATED IN A CUSTOMER SURVEY",
+        "cards": [
+          {
+            "content": "COURTESY",
+            "position": 4
+          },
+          {
+            "content": "HELPFULNESS",
+            "position": 12
+          },
+          {
+            "content": "SATISFACTION",
+            "position": 3
+          },
+          {
+            "content": "WAIT TIME",
+            "position": 11
+          }
+        ]
+      },
+      {
+        "title": "TAROT CARDS, WITH \"THE\"",
+        "cards": [
+          {
+            "content": "DEVIL",
+            "position": 7
+          },
+          {
+            "content": "EMPRESS",
+            "position": 10
+          },
+          {
+            "content": "FOOL",
+            "position": 2
+          },
+          {
+            "content": "HIEROPHANT",
+            "position": 14
+          }
+        ]
+      },
+      {
+        "title": "HOLD YOUR ___",
+        "cards": [
+          {
+            "content": "BREATH",
+            "position": 0
+          },
+          {
+            "content": "HORSES",
+            "position": 5
+          },
+          {
+            "content": "OWN",
+            "position": 6
+          },
+          {
+            "content": "TONGUE",
+            "position": 9
+          }
+        ]
+      }
     ],
-    "results": []
+    "stream": "daily",
+    "tags": [
+      "variant:4x4"
+    ]
   },
   "2026-11-22": {
-    "status": "ERROR",
-    "errors": [
-      "Not Found"
+    "status": "OK",
+    "id": 1370,
+    "print_date": "2026-11-22",
+    "editor": "Wyna Liu",
+    "categories": [
+      {
+        "title": "MULTITUDE",
+        "cards": [
+          {
+            "content": "HOST",
+            "position": 13
+          },
+          {
+            "content": "MASS",
+            "position": 15
+          },
+          {
+            "content": "SEA",
+            "position": 5
+          },
+          {
+            "content": "SLEW",
+            "position": 9
+          }
+        ]
+      },
+      {
+        "title": "INTERJECTIONS BEFORE A REACTION",
+        "cards": [
+          {
+            "content": "GEE",
+            "position": 4
+          },
+          {
+            "content": "SAY",
+            "position": 6
+          },
+          {
+            "content": "WELL",
+            "position": 10
+          },
+          {
+            "content": "WHY",
+            "position": 1
+          }
+        ]
+      },
+      {
+        "title": "BUBBLE ___",
+        "cards": [
+          {
+            "content": "BATH",
+            "position": 12
+          },
+          {
+            "content": "GUM",
+            "position": 11
+          },
+          {
+            "content": "TEA",
+            "position": 2
+          },
+          {
+            "content": "WRAP",
+            "position": 14
+          }
+        ]
+      },
+      {
+        "title": "HOMOPHONES OF PRONOUNS",
+        "cards": [
+          {
+            "content": "EWE",
+            "position": 8
+          },
+          {
+            "content": "EYE",
+            "position": 0
+          },
+          {
+            "content": "HEE",
+            "position": 3
+          },
+          {
+            "content": "WEE",
+            "position": 7
+          }
+        ]
+      }
     ],
-    "results": []
+    "stream": "daily",
+    "tags": [
+      "variant:4x4"
+    ]
   },
   "2026-11-23": {
-    "status": "ERROR",
-    "errors": [
-      "Not Found"
+    "status": "OK",
+    "id": 1376,
+    "print_date": "2026-11-23",
+    "editor": "Wyna Liu",
+    "categories": [
+      {
+        "title": "TINY AMOUNT",
+        "cards": [
+          {
+            "content": "IOTA",
+            "position": 4
+          },
+          {
+            "content": "MODICUM",
+            "position": 15
+          },
+          {
+            "content": "PARTICLE",
+            "position": 12
+          },
+          {
+            "content": "SHRED",
+            "position": 9
+          }
+        ]
+      },
+      {
+        "title": "INFO ON A NAVIGATION APP",
+        "cards": [
+          {
+            "content": "DISTANCE",
+            "position": 1
+          },
+          {
+            "content": "ETA",
+            "position": 7
+          },
+          {
+            "content": "ROUTE",
+            "position": 14
+          },
+          {
+            "content": "TRAFFIC",
+            "position": 11
+          }
+        ]
+      },
+      {
+        "title": "METAL SUBGENRES",
+        "cards": [
+          {
+            "content": "BLACK",
+            "position": 6
+          },
+          {
+            "content": "DOOM",
+            "position": 3
+          },
+          {
+            "content": "NU",
+            "position": 8
+          },
+          {
+            "content": "THRASH",
+            "position": 10
+          }
+        ]
+      },
+      {
+        "title": "STARTING WITH BABY ANIMALS",
+        "cards": [
+          {
+            "content": "CHICKPEA",
+            "position": 0
+          },
+          {
+            "content": "CUBISM",
+            "position": 13
+          },
+          {
+            "content": "LAMBDA",
+            "position": 2
+          },
+          {
+            "content": "PUPIL",
+            "position": 5
+          }
+        ]
+      }
     ],
-    "results": []
+    "stream": "daily",
+    "tags": [
+      "variant:4x4"
+    ]
   },
   "2026-11-24": {
-    "status": "ERROR",
-    "errors": [
-      "Not Found"
+    "status": "OK",
+    "id": 1374,
+    "print_date": "2026-11-24",
+    "editor": "Wyna Liu",
+    "categories": [
+      {
+        "title": "DROP DRAMATICALLY",
+        "cards": [
+          {
+            "content": "BOTTOM OUT",
+            "position": 15
+          },
+          {
+            "content": "CRATER",
+            "position": 3
+          },
+          {
+            "content": "NOSEDIVE",
+            "position": 13
+          },
+          {
+            "content": "TANK",
+            "position": 8
+          }
+        ]
+      },
+      {
+        "title": "THINGS WITH PLEATED FOLDS",
+        "cards": [
+          {
+            "content": "ACCORDION",
+            "position": 4
+          },
+          {
+            "content": "CUPCAKE LINER",
+            "position": 9
+          },
+          {
+            "content": "FIREPLACE BELLOWS",
+            "position": 12
+          },
+          {
+            "content": "PAPER FAN",
+            "position": 1
+          }
+        ]
+      },
+      {
+        "title": "THINGS WITH SLIDES",
+        "cards": [
+          {
+            "content": "MICROSCOPE",
+            "position": 11
+          },
+          {
+            "content": "PLAYGROUND",
+            "position": 0
+          },
+          {
+            "content": "POWERPOINT DECK",
+            "position": 14
+          },
+          {
+            "content": "TROMBONE",
+            "position": 6
+          }
+        ]
+      },
+      {
+        "title": "THINGS THAT FORM CHAINS",
+        "cards": [
+          {
+            "content": "AMINO ACID",
+            "position": 10
+          },
+          {
+            "content": "BIG BOX STORE",
+            "position": 2
+          },
+          {
+            "content": "LINK",
+            "position": 7
+          },
+          {
+            "content": "MOUNTAIN",
+            "position": 5
+          }
+        ]
+      }
     ],
-    "results": []
+    "stream": "daily",
+    "tags": [
+      "variant:4x4"
+    ]
   },
   "2026-11-25": {
-    "status": "ERROR",
-    "errors": [
-      "Not Found"
+    "status": "OK",
+    "id": 1372,
+    "print_date": "2026-11-25",
+    "editor": "Wyna Liu",
+    "categories": [
+      {
+        "title": "PARTS OF A FREEWAY",
+        "cards": [
+          {
+            "content": "LANE",
+            "position": 14
+          },
+          {
+            "content": "MEDIAN",
+            "position": 11
+          },
+          {
+            "content": "RAMP",
+            "position": 8
+          },
+          {
+            "content": "SHOULDER",
+            "position": 5
+          }
+        ]
+      },
+      {
+        "title": "U-SHAPED THINGS",
+        "cards": [
+          {
+            "content": "HALF-PIPE",
+            "position": 2
+          },
+          {
+            "content": "HORSESHOE",
+            "position": 12
+          },
+          {
+            "content": "NECK PILLOW",
+            "position": 7
+          },
+          {
+            "content": "PARABOLA",
+            "position": 9
+          }
+        ]
+      },
+      {
+        "title": "RUG SPECIFICATIONS",
+        "cards": [
+          {
+            "content": "DIMENSIONS",
+            "position": 3
+          },
+          {
+            "content": "MATERIAL",
+            "position": 13
+          },
+          {
+            "content": "PILE",
+            "position": 1
+          },
+          {
+            "content": "WEAVE",
+            "position": 6
+          }
+        ]
+      },
+      {
+        "title": "DOGS MINUS FIRST LETTER",
+        "cards": [
+          {
+            "content": "EAGLE",
+            "position": 0
+          },
+          {
+            "content": "OBERMAN",
+            "position": 15
+          },
+          {
+            "content": "OLLIE",
+            "position": 4
+          },
+          {
+            "content": "OODLE",
+            "position": 10
+          }
+        ]
+      }
     ],
-    "results": []
+    "stream": "daily",
+    "tags": [
+      "variant:4x4"
+    ]
   },
   "2026-11-26": {
     "status": "ERROR",
@@ -115808,6 +116431,13 @@
     "results": []
   },
   "2026-11-29": {
+    "status": "ERROR",
+    "errors": [
+      "Not Found"
+    ],
+    "results": []
+  },
+  "2026-11-30": {
     "status": "ERROR",
     "errors": [
       "Not Found"
