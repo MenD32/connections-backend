@@ -115765,23 +115765,23 @@
         ]
       },
       {
-        "title": "TREE PRODUCTS",
+        "title": "MATERIALS OBTAINED FROM TREES",
         "cards": [
           {
             "content": "CORK",
             "position": 3
           },
           {
-            "content": "LATEX",
+            "content": "RESIN",
             "position": 14
-          },
-          {
-            "content": "LUMBER",
-            "position": 10
           },
           {
             "content": "SAP",
             "position": 8
+          },
+          {
+            "content": "WOOD",
+            "position": 10
           }
         ]
       },
@@ -116383,7 +116383,7 @@
         ]
       },
       {
-        "title": "DOGS MINUS FIRST LETTER",
+        "title": "DOGS BREEDS MINUS FIRST LETTER",
         "cards": [
           {
             "content": "EAGLE",
@@ -116466,6 +116466,13 @@
     "results": []
   },
   "2026-12-04": {
+    "status": "ERROR",
+    "errors": [
+      "Not Found"
+    ],
+    "results": []
+  },
+  "2026-12-05": {
     "status": "ERROR",
     "errors": [
       "Not Found"
