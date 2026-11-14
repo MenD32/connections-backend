@@ -115456,27 +115456,6 @@
     "editor": "Wyna Liu",
     "categories": [
       {
-        "title": "SPRING ___",
-        "cards": [
-          {
-            "content": "CHICKEN",
-            "position": 11
-          },
-          {
-            "content": "CLEANING",
-            "position": 12
-          },
-          {
-            "content": "ONION",
-            "position": 4
-          },
-          {
-            "content": "WATER",
-            "position": 2
-          }
-        ]
-      },
-      {
         "title": "SUMMER ___",
         "cards": [
           {
@@ -115498,23 +115477,23 @@
         ]
       },
       {
-        "title": "FALL ___",
+        "title": "SPRING ___",
         "cards": [
           {
-            "content": "ASLEEP",
-            "position": 10
+            "content": "CHICKEN",
+            "position": 11
           },
           {
-            "content": "FOLIAGE",
-            "position": 7
+            "content": "CLEANING",
+            "position": 12
           },
           {
-            "content": "GUY",
-            "position": 14
+            "content": "ONION",
+            "position": 4
           },
           {
-            "content": "IN LOVE",
-            "position": 0
+            "content": "WATER",
+            "position": 2
           }
         ]
       },
@@ -115536,6 +115515,27 @@
           {
             "content": "WONDERLAND",
             "position": 1
+          }
+        ]
+      },
+      {
+        "title": "FALL ___",
+        "cards": [
+          {
+            "content": "ASLEEP",
+            "position": 10
+          },
+          {
+            "content": "FOLIAGE",
+            "position": 7
+          },
+          {
+            "content": "GUY",
+            "position": 14
+          },
+          {
+            "content": "IN LOVE",
+            "position": 0
           }
         ]
       }
@@ -117152,6 +117152,13 @@
     "results": []
   },
   "2026-12-13": {
+    "status": "ERROR",
+    "errors": [
+      "Not Found"
+    ],
+    "results": []
+  },
+  "2026-12-14": {
     "status": "ERROR",
     "errors": [
       "Not Found"
