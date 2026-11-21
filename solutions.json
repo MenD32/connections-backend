@@ -117658,25 +117658,292 @@
     ]
   },
   "2026-12-09": {
-    "status": "ERROR",
-    "errors": [
-      "Not Found"
+    "status": "OK",
+    "id": 1399,
+    "print_date": "2026-12-09",
+    "editor": "Wyna Liu",
+    "categories": [
+      {
+        "title": "GLIMPSE",
+        "cards": [
+          {
+            "content": "GANDER",
+            "position": 0
+          },
+          {
+            "content": "GLANCE",
+            "position": 15
+          },
+          {
+            "content": "LOOK",
+            "position": 10
+          },
+          {
+            "content": "PEEP",
+            "position": 12
+          }
+        ]
+      },
+      {
+        "title": "SCUBA GEAR",
+        "cards": [
+          {
+            "content": "FINS",
+            "position": 3
+          },
+          {
+            "content": "MASK",
+            "position": 6
+          },
+          {
+            "content": "REGULATOR",
+            "position": 14
+          },
+          {
+            "content": "TANK",
+            "position": 9
+          }
+        ]
+      },
+      {
+        "title": "ZODIAC SYMBOLS",
+        "cards": [
+          {
+            "content": "BULL",
+            "position": 4
+          },
+          {
+            "content": "LION",
+            "position": 13
+          },
+          {
+            "content": "RAM",
+            "position": 8
+          },
+          {
+            "content": "SCALES",
+            "position": 2
+          }
+        ]
+      },
+      {
+        "title": "SILLY ___",
+        "cards": [
+          {
+            "content": "BILLY",
+            "position": 7
+          },
+          {
+            "content": "GOOSE",
+            "position": 5
+          },
+          {
+            "content": "PUTTY",
+            "position": 11
+          },
+          {
+            "content": "STRING",
+            "position": 1
+          }
+        ]
+      }
     ],
-    "results": []
+    "stream": "daily",
+    "tags": [
+      "variant:4x4"
+    ]
   },
   "2026-12-10": {
-    "status": "ERROR",
-    "errors": [
-      "Not Found"
+    "status": "OK",
+    "id": 1403,
+    "print_date": "2026-12-10",
+    "editor": "Wyna Liu",
+    "categories": [
+      {
+        "title": "EXPRESSIONS OF AGREEMENT",
+        "cards": [
+          {
+            "content": "INDEED",
+            "position": 15
+          },
+          {
+            "content": "NO DOUBT",
+            "position": 1
+          },
+          {
+            "content": "SURE",
+            "position": 12
+          },
+          {
+            "content": "TOTALLY",
+            "position": 6
+          }
+        ]
+      },
+      {
+        "title": "RECTANGULAR BLOCKS",
+        "cards": [
+          {
+            "content": "BRICK",
+            "position": 4
+          },
+          {
+            "content": "MEATLOAF",
+            "position": 10
+          },
+          {
+            "content": "SHOEBOX",
+            "position": 0
+          },
+          {
+            "content": "TOASTER",
+            "position": 9
+          }
+        ]
+      },
+      {
+        "title": "BANDS WITH UNHEALTHY-SOUNDING NAMES",
+        "cards": [
+          {
+            "content": "GARBAGE",
+            "position": 8
+          },
+          {
+            "content": "GERMS",
+            "position": 11
+          },
+          {
+            "content": "POISON",
+            "position": 14
+          },
+          {
+            "content": "RANCID",
+            "position": 5
+          }
+        ]
+      },
+      {
+        "title": "ENDING IN FRUITS",
+        "cards": [
+          {
+            "content": "DISAPPEAR",
+            "position": 7
+          },
+          {
+            "content": "MINIFIG",
+            "position": 2
+          },
+          {
+            "content": "PEPLUM",
+            "position": 13
+          },
+          {
+            "content": "SUBLIME",
+            "position": 3
+          }
+        ]
+      }
     ],
-    "results": []
+    "stream": "daily",
+    "tags": [
+      "variant:4x4"
+    ]
   },
   "2026-12-11": {
-    "status": "ERROR",
-    "errors": [
-      "Not Found"
+    "status": "OK",
+    "id": 1402,
+    "print_date": "2026-12-11",
+    "editor": "Wyna Liu",
+    "categories": [
+      {
+        "title": "NOBLE TITLES",
+        "cards": [
+          {
+            "content": "COUNT",
+            "position": 3
+          },
+          {
+            "content": "DUKE",
+            "position": 13
+          },
+          {
+            "content": "EARL",
+            "position": 15
+          },
+          {
+            "content": "LORD",
+            "position": 8
+          }
+        ]
+      },
+      {
+        "title": "WORDS USED TO DESCRIBE MUSICAL NOTE LENGTHS",
+        "cards": [
+          {
+            "content": "DOTTED",
+            "position": 1
+          },
+          {
+            "content": "EIGHTH",
+            "position": 12
+          },
+          {
+            "content": "HALF",
+            "position": 11
+          },
+          {
+            "content": "WHOLE",
+            "position": 7
+          }
+        ]
+      },
+      {
+        "title": "CONSPICUOUS",
+        "cards": [
+          {
+            "content": "GROSS",
+            "position": 4
+          },
+          {
+            "content": "MARKED",
+            "position": 9
+          },
+          {
+            "content": "OBVIOUS",
+            "position": 14
+          },
+          {
+            "content": "PATENT",
+            "position": 6
+          }
+        ]
+      },
+      {
+        "title": "SYNONYMS FOR \"CAREFULLY,\" MINUS \"LY\"",
+        "cards": [
+          {
+            "content": "CAUTIOUS",
+            "position": 10
+          },
+          {
+            "content": "DELICATE",
+            "position": 0
+          },
+          {
+            "content": "GENT",
+            "position": 5
+          },
+          {
+            "content": "GINGER",
+            "position": 2
+          }
+        ]
+      }
     ],
-    "results": []
+    "stream": "daily",
+    "tags": [
+      "variant:4x4"
+    ]
   },
   "2026-12-12": {
     "status": "OK",
@@ -117775,25 +118042,292 @@
     ]
   },
   "2026-12-13": {
-    "status": "ERROR",
-    "errors": [
-      "Not Found"
+    "status": "OK",
+    "id": 1397,
+    "print_date": "2026-12-13",
+    "editor": "Wyna Liu",
+    "categories": [
+      {
+        "title": "\"BYE!\"",
+        "cards": [
+          {
+            "content": "CHEERIO",
+            "position": 2
+          },
+          {
+            "content": "LATER",
+            "position": 9
+          },
+          {
+            "content": "PEACE",
+            "position": 5
+          },
+          {
+            "content": "TOODLES",
+            "position": 15
+          }
+        ]
+      },
+      {
+        "title": "FACADE",
+        "cards": [
+          {
+            "content": "COVER",
+            "position": 8
+          },
+          {
+            "content": "DISGUISE",
+            "position": 12
+          },
+          {
+            "content": "FRONT",
+            "position": 14
+          },
+          {
+            "content": "SCREEN",
+            "position": 1
+          }
+        ]
+      },
+      {
+        "title": "THINGS WITH FOAMY TOPS",
+        "cards": [
+          {
+            "content": "BEER",
+            "position": 3
+          },
+          {
+            "content": "BUBBLE BATH",
+            "position": 4
+          },
+          {
+            "content": "CAPPUCCINO",
+            "position": 11
+          },
+          {
+            "content": "WHITECAP",
+            "position": 7
+          }
+        ]
+      },
+      {
+        "title": "KINDS OF GOGGLES",
+        "cards": [
+          {
+            "content": "NIGHT VISION",
+            "position": 13
+          },
+          {
+            "content": "SAFETY",
+            "position": 0
+          },
+          {
+            "content": "SKI",
+            "position": 10
+          },
+          {
+            "content": "SWIMMING",
+            "position": 6
+          }
+        ]
+      }
     ],
-    "results": []
+    "stream": "daily",
+    "tags": [
+      "variant:4x4"
+    ]
   },
   "2026-12-14": {
-    "status": "ERROR",
-    "errors": [
-      "Not Found"
+    "status": "OK",
+    "id": 1398,
+    "print_date": "2026-12-14",
+    "editor": "Wyna Liu",
+    "categories": [
+      {
+        "title": "KITCHEN GADGETS",
+        "cards": [
+          {
+            "content": "MANDOLINE",
+            "position": 14
+          },
+          {
+            "content": "PARER",
+            "position": 2
+          },
+          {
+            "content": "PESTLE",
+            "position": 7
+          },
+          {
+            "content": "SIEVE",
+            "position": 9
+          }
+        ]
+      },
+      {
+        "title": "THINGS BURNED FOR SCENT",
+        "cards": [
+          {
+            "content": "MYRRH",
+            "position": 5
+          },
+          {
+            "content": "PALO SANTO",
+            "position": 11
+          },
+          {
+            "content": "SAGE",
+            "position": 8
+          },
+          {
+            "content": "SANDALWOOD",
+            "position": 13
+          }
+        ]
+      },
+      {
+        "title": "OLD-TIMEY EXPRESSIONS OF DISMISSAL",
+        "cards": [
+          {
+            "content": "BAH",
+            "position": 15
+          },
+          {
+            "content": "HARRUMPH",
+            "position": 10
+          },
+          {
+            "content": "POOH",
+            "position": 3
+          },
+          {
+            "content": "PSHAW",
+            "position": 0
+          }
+        ]
+      },
+      {
+        "title": "STARTING WITH SYNONYMS FOR FORTHRIGHT",
+        "cards": [
+          {
+            "content": "CANDIDE",
+            "position": 12
+          },
+          {
+            "content": "DIRECTORY",
+            "position": 4
+          },
+          {
+            "content": "FRANKINCENSE",
+            "position": 6
+          },
+          {
+            "content": "PLAINTIFF",
+            "position": 1
+          }
+        ]
+      }
     ],
-    "results": []
+    "stream": "daily",
+    "tags": [
+      "variant:4x4"
+    ]
   },
   "2026-12-15": {
-    "status": "ERROR",
-    "errors": [
-      "Not Found"
+    "status": "OK",
+    "id": 1401,
+    "print_date": "2026-12-15",
+    "editor": "Wyna Liu",
+    "categories": [
+      {
+        "title": "ASPECTS OF MUSICAL TIMING",
+        "cards": [
+          {
+            "content": "BEAT",
+            "position": 4
+          },
+          {
+            "content": "METER",
+            "position": 9
+          },
+          {
+            "content": "RHYTHM",
+            "position": 12
+          },
+          {
+            "content": "TEMPO",
+            "position": 15
+          }
+        ]
+      },
+      {
+        "title": "THINGS MADE WITH WIRE",
+        "cards": [
+          {
+            "content": "BIRDCAGE",
+            "position": 7
+          },
+          {
+            "content": "BRACES",
+            "position": 13
+          },
+          {
+            "content": "SLINKY",
+            "position": 8
+          },
+          {
+            "content": "WHISK",
+            "position": 0
+          }
+        ]
+      },
+      {
+        "title": "SLANG FOR CAR",
+        "cards": [
+          {
+            "content": "AUTO",
+            "position": 11
+          },
+          {
+            "content": "RIDE",
+            "position": 6
+          },
+          {
+            "content": "WHEELS",
+            "position": 14
+          },
+          {
+            "content": "WHIP",
+            "position": 2
+          }
+        ]
+      },
+      {
+        "title": "HEAVY ___",
+        "cards": [
+          {
+            "content": "CREAM",
+            "position": 3
+          },
+          {
+            "content": "HITTER",
+            "position": 10
+          },
+          {
+            "content": "METAL",
+            "position": 5
+          },
+          {
+            "content": "WATER",
+            "position": 1
+          }
+        ]
+      }
     ],
-    "results": []
+    "stream": "daily",
+    "tags": [
+      "variant:4x4"
+    ]
   },
   "2026-12-16": {
     "status": "ERROR",
@@ -117803,11 +118337,100 @@
     "results": []
   },
   "2026-12-17": {
-    "status": "ERROR",
-    "errors": [
-      "Not Found"
+    "status": "OK",
+    "id": 1400,
+    "print_date": "2026-12-17",
+    "editor": "Wyna Liu",
+    "categories": [
+      {
+        "title": "FAIL TO INCLUDE",
+        "cards": [
+          {
+            "content": "MISS",
+            "position": 5
+          },
+          {
+            "content": "OMIT",
+            "position": 15
+          },
+          {
+            "content": "OVERLOOK",
+            "position": 0
+          },
+          {
+            "content": "SKIP",
+            "position": 10
+          }
+        ]
+      },
+      {
+        "title": "THINGS THAT MAKE A CLACKING SOUND",
+        "cards": [
+          {
+            "content": "KNITTING NEEDLES",
+            "position": 2
+          },
+          {
+            "content": "MAHJONG TILES",
+            "position": 8
+          },
+          {
+            "content": "TAP SHOES",
+            "position": 14
+          },
+          {
+            "content": "TYPEWRITER",
+            "position": 6
+          }
+        ]
+      },
+      {
+        "title": "THINGS YOU SAY WHEN YOU DO THE SAME THING AS SOMEONE ELSE",
+        "cards": [
+          {
+            "content": "GREAT MINDS",
+            "position": 9
+          },
+          {
+            "content": "JINX",
+            "position": 4
+          },
+          {
+            "content": "SAME",
+            "position": 12
+          },
+          {
+            "content": "TWINS",
+            "position": 7
+          }
+        ]
+      },
+      {
+        "title": "ENDING IN LIQUORS",
+        "cards": [
+          {
+            "content": "FRYE",
+            "position": 13
+          },
+          {
+            "content": "HOPSCOTCH",
+            "position": 1
+          },
+          {
+            "content": "REDRUM",
+            "position": 3
+          },
+          {
+            "content": "VIRGIN",
+            "position": 11
+          }
+        ]
+      }
     ],
-    "results": []
+    "stream": "daily",
+    "tags": [
+      "variant:4x4"
+    ]
   },
   "2026-12-18": {
     "status": "ERROR",
@@ -117824,6 +118447,13 @@
     "results": []
   },
   "2026-12-20": {
+    "status": "ERROR",
+    "errors": [
+      "Not Found"
+    ],
+    "results": []
+  },
+  "2026-12-21": {
     "status": "ERROR",
     "errors": [
       "Not Found"
