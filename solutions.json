@@ -118480,5 +118480,101 @@
       "Not Found"
     ],
     "results": []
+  },
+  "2026-12-25": {
+    "status": "OK",
+    "id": 1404,
+    "print_date": "2026-12-25",
+    "editor": "Wyna Liu",
+    "categories": [
+      {
+        "title": "FAMOUSLY UNIQUE THINGS",
+        "cards": [
+          {
+            "content": "DNA",
+            "position": 15
+          },
+          {
+            "content": "FINGERPRINT",
+            "position": 10
+          },
+          {
+            "content": "ZEBRA STRIPES",
+            "position": 12
+          },
+          {
+            "content": "❄️",
+            "position": 3
+          }
+        ]
+      },
+      {
+        "title": "FEEL A STRONG DESIRE (FOR)",
+        "cards": [
+          {
+            "content": "ACHE",
+            "position": 14
+          },
+          {
+            "content": "LONG",
+            "position": 5
+          },
+          {
+            "content": "YEARN",
+            "position": 11
+          },
+          {
+            "content": "🌲",
+            "position": 1
+          }
+        ]
+      },
+      {
+        "title": "WORDS IN VERB TENSE NAMES",
+        "cards": [
+          {
+            "content": "FUTURE",
+            "position": 8
+          },
+          {
+            "content": "PAST",
+            "position": 13
+          },
+          {
+            "content": "PERFECT",
+            "position": 6
+          },
+          {
+            "content": "🎁",
+            "position": 2
+          }
+        ]
+      },
+      {
+        "title": "FIRST WORDS IN U.S. STATE CAPITAL NAMES",
+        "cards": [
+          {
+            "content": "BATON",
+            "position": 9
+          },
+          {
+            "content": "LITTLE",
+            "position": 4
+          },
+          {
+            "content": "SAINT",
+            "position": 7
+          },
+          {
+            "content": "🎅🏻",
+            "position": 0
+          }
+        ]
+      }
+    ],
+    "stream": "daily",
+    "tags": [
+      "variant:4x4"
+    ]
   }
 }
