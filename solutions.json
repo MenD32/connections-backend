@@ -118165,27 +118165,6 @@
         ]
       },
       {
-        "title": "THINGS BURNED FOR SCENT",
-        "cards": [
-          {
-            "content": "MYRRH",
-            "position": 5
-          },
-          {
-            "content": "PALO SANTO",
-            "position": 11
-          },
-          {
-            "content": "SAGE",
-            "position": 8
-          },
-          {
-            "content": "SANDALWOOD",
-            "position": 13
-          }
-        ]
-      },
-      {
         "title": "OLD-TIMEY EXPRESSIONS OF DISMISSAL",
         "cards": [
           {
@@ -118203,6 +118182,27 @@
           {
             "content": "PSHAW",
             "position": 0
+          }
+        ]
+      },
+      {
+        "title": "THINGS BURNED FOR SCENT",
+        "cards": [
+          {
+            "content": "MYRRH",
+            "position": 5
+          },
+          {
+            "content": "PALO SANTO",
+            "position": 11
+          },
+          {
+            "content": "SAGE",
+            "position": 8
+          },
+          {
+            "content": "SANDALWOOD",
+            "position": 13
           }
         ]
       },
@@ -118330,11 +118330,100 @@
     ]
   },
   "2026-12-16": {
-    "status": "ERROR",
-    "errors": [
-      "Not Found"
+    "status": "OK",
+    "id": 1409,
+    "print_date": "2026-12-16",
+    "editor": "Wyna Liu",
+    "categories": [
+      {
+        "title": "GROUP",
+        "cards": [
+          {
+            "content": "BAND",
+            "position": 6
+          },
+          {
+            "content": "PARTY",
+            "position": 2
+          },
+          {
+            "content": "SQUAD",
+            "position": 13
+          },
+          {
+            "content": "TEAM",
+            "position": 11
+          }
+        ]
+      },
+      {
+        "title": "MAGAZINES",
+        "cards": [
+          {
+            "content": "ESQUIRE",
+            "position": 14
+          },
+          {
+            "content": "TIME",
+            "position": 3
+          },
+          {
+            "content": "VARIETY",
+            "position": 5
+          },
+          {
+            "content": "WIRED",
+            "position": 8
+          }
+        ]
+      },
+      {
+        "title": "SUPER MARIO ___ GAMES",
+        "cards": [
+          {
+            "content": "BROS.",
+            "position": 15
+          },
+          {
+            "content": "GALAXY",
+            "position": 4
+          },
+          {
+            "content": "KART",
+            "position": 9
+          },
+          {
+            "content": "WORLD",
+            "position": 1
+          }
+        ]
+      },
+      {
+        "title": "HOMOPHONES OF WORDS MEANING \"DIMINISHES\"",
+        "cards": [
+          {
+            "content": "LESSONS",
+            "position": 7
+          },
+          {
+            "content": "RESEEDS",
+            "position": 12
+          },
+          {
+            "content": "TAPIRS",
+            "position": 10
+          },
+          {
+            "content": "WAYNE'S",
+            "position": 0
+          }
+        ]
+      }
     ],
-    "results": []
+    "stream": "daily",
+    "tags": [
+      "variant:4x4"
+    ]
   },
   "2026-12-17": {
     "status": "OK",
@@ -118433,25 +118522,292 @@
     ]
   },
   "2026-12-18": {
-    "status": "ERROR",
-    "errors": [
-      "Not Found"
+    "status": "OK",
+    "id": 1411,
+    "print_date": "2026-12-18",
+    "editor": "Wyna Liu",
+    "categories": [
+      {
+        "title": "RELATING TO SOUND",
+        "cards": [
+          {
+            "content": "ACOUSTIC",
+            "position": 12
+          },
+          {
+            "content": "AUDIO",
+            "position": 8
+          },
+          {
+            "content": "PHONIC",
+            "position": 15
+          },
+          {
+            "content": "SONIC",
+            "position": 0
+          }
+        ]
+      },
+      {
+        "title": "GYMNASTICS APPARATUS",
+        "cards": [
+          {
+            "content": "BARS",
+            "position": 4
+          },
+          {
+            "content": "BEAM",
+            "position": 13
+          },
+          {
+            "content": "HORSE",
+            "position": 3
+          },
+          {
+            "content": "RINGS",
+            "position": 10
+          }
+        ]
+      },
+      {
+        "title": "PARTS OF A TAILCOAT",
+        "cards": [
+          {
+            "content": "COLLAR",
+            "position": 11
+          },
+          {
+            "content": "CUFFS",
+            "position": 9
+          },
+          {
+            "content": "LAPELS",
+            "position": 14
+          },
+          {
+            "content": "TAILS",
+            "position": 5
+          }
+        ]
+      },
+      {
+        "title": "BRASS ___",
+        "cards": [
+          {
+            "content": "BAND",
+            "position": 1
+          },
+          {
+            "content": "KNUCKLES",
+            "position": 7
+          },
+          {
+            "content": "MONKEY",
+            "position": 2
+          },
+          {
+            "content": "TACKS",
+            "position": 6
+          }
+        ]
+      }
     ],
-    "results": []
+    "stream": "daily",
+    "tags": [
+      "variant:4x4"
+    ]
   },
   "2026-12-19": {
-    "status": "ERROR",
-    "errors": [
-      "Not Found"
+    "status": "OK",
+    "id": 1408,
+    "print_date": "2026-12-19",
+    "editor": "Wyna Liu",
+    "categories": [
+      {
+        "title": "OPEN PUBLIC SPACES",
+        "cards": [
+          {
+            "content": "COMMON",
+            "position": 2
+          },
+          {
+            "content": "GREEN",
+            "position": 0
+          },
+          {
+            "content": "QUAD",
+            "position": 6
+          },
+          {
+            "content": "SQUARE",
+            "position": 13
+          }
+        ]
+      },
+      {
+        "title": "SOCIAL MEDIA PIC ADD-ONS",
+        "cards": [
+          {
+            "content": "CAPTION",
+            "position": 15
+          },
+          {
+            "content": "FILTER",
+            "position": 5
+          },
+          {
+            "content": "STICKER",
+            "position": 12
+          },
+          {
+            "content": "TAG",
+            "position": 9
+          }
+        ]
+      },
+      {
+        "title": "RUMMAGE (AROUND)",
+        "cards": [
+          {
+            "content": "FERRET",
+            "position": 8
+          },
+          {
+            "content": "FISH",
+            "position": 1
+          },
+          {
+            "content": "FUMBLE",
+            "position": 11
+          },
+          {
+            "content": "ROOT",
+            "position": 14
+          }
+        ]
+      },
+      {
+        "title": "ZODIAC SIGNS WITH LAST LETTER CHANGED",
+        "cards": [
+          {
+            "content": "AQUARIUM",
+            "position": 3
+          },
+          {
+            "content": "ARIEL",
+            "position": 4
+          },
+          {
+            "content": "CANCEL",
+            "position": 10
+          },
+          {
+            "content": "LEG",
+            "position": 7
+          }
+        ]
+      }
     ],
-    "results": []
+    "stream": "daily",
+    "tags": [
+      "variant:4x4"
+    ]
   },
   "2026-12-20": {
-    "status": "ERROR",
-    "errors": [
-      "Not Found"
+    "status": "OK",
+    "id": 1407,
+    "print_date": "2026-12-20",
+    "editor": "Wyna Liu",
+    "categories": [
+      {
+        "title": "BALLPARK AREAS",
+        "cards": [
+          {
+            "content": "BLEACHERS",
+            "position": 15
+          },
+          {
+            "content": "BULLPEN",
+            "position": 13
+          },
+          {
+            "content": "DUGOUT",
+            "position": 7
+          },
+          {
+            "content": "MOUND",
+            "position": 9
+          }
+        ]
+      },
+      {
+        "title": "LIP MAKEUP FORMATS",
+        "cards": [
+          {
+            "content": "CRAYON",
+            "position": 2
+          },
+          {
+            "content": "GLOSS",
+            "position": 14
+          },
+          {
+            "content": "LINER",
+            "position": 4
+          },
+          {
+            "content": "STAIN",
+            "position": 10
+          }
+        ]
+      },
+      {
+        "title": "MEMBER OF A LOS ANGELES PRO SPORTS TEAM",
+        "cards": [
+          {
+            "content": "ANGEL",
+            "position": 6
+          },
+          {
+            "content": "CLIPPER",
+            "position": 8
+          },
+          {
+            "content": "KING",
+            "position": 0
+          },
+          {
+            "content": "RAM",
+            "position": 11
+          }
+        ]
+      },
+      {
+        "title": "STARTING WITH MINOR IMPERFECTIONS",
+        "cards": [
+          {
+            "content": "CHIPMUNK",
+            "position": 1
+          },
+          {
+            "content": "DENTIST",
+            "position": 5
+          },
+          {
+            "content": "DINGHY",
+            "position": 3
+          },
+          {
+            "content": "NICKEL",
+            "position": 12
+          }
+        ]
+      }
     ],
-    "results": []
+    "stream": "daily",
+    "tags": [
+      "variant:4x4"
+    ]
   },
   "2026-12-21": {
     "status": "ERROR",
@@ -118585,6 +118941,13 @@
     "results": []
   },
   "2026-12-27": {
+    "status": "ERROR",
+    "errors": [
+      "Not Found"
+    ],
+    "results": []
+  },
+  "2026-12-28": {
     "status": "ERROR",
     "errors": [
       "Not Found"
